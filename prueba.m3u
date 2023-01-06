@@ -1,0 +1,303 @@
+#EXTM3U
+#EXTINF:-1 group-title="prueba" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" tvg-id="La1.TV" tvg-name="La 1" ,La 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" tvg-id="La2.TV" tvg-name="La 2" ,La 2
+https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" tvg-id="24Horas.TV" tvg-name="24h" ,24h
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" tvg-name="Euronews" ,Euronews
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" tvg-id="TDP.TV" tvg-name="Teledeporte" ,Teledeporte GEO
+https://ztnr.rtve.es/ztnr/1712295.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200" tvg-id="E3.TV" tvg-name="Esport 3" ,Esport 3 GEO
+https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200" tvg-id="RMTV.TV" tvg-name="RealMadrid TV" ,RealMadrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" tvg-id="Clan.TV" tvg-name="Clan" ,Clan GEO
+https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_dvr.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/revistahola/picture?width=200&height=200" tvg-name="¡HOLA! Play" ,¡HOLA! Play
+https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" tvg-name="Radio Nacional" ,Radio Nacional
+https://ztnr.rtve.es/ztnr/1938076.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/radio3/picture?width=200&height=200" tvg-name="Radio 3" ,Radio 3
+https://ztnr.rtve.es/ztnr/2795617.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" tvg-name="Onda Cero" ,Onda Cero
+https://live-estudio.ondacero.es/estudio_oc-pull/video/master.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" tvg-id="CanalSurA.TV" tvg-name="Canal Sur Andalucía" ,Canal Sur Andalucía
+https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/AragonTV/picture?width=200&height=200" tvg-id="AragonTV.TV" tvg-name="Aragón TV" ,Aragón TV
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" tvg-name="24h Canarias" ,24h Canarias
+https://ztnr.rtve.es/ztnr/5473142.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/CMMediaes/picture?width=200&height=200" tvg-id="CMM.TV" tvg-name="Castilla-La Mancha Media" ,Castilla-La Mancha Media
+http://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/format/applehttp/.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/tvhellin/picture?width=200&height=200" tvg-name="TV Hellín" ,TV Hellín
+https://hellin-hls-live.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/canal4villarrobledo/picture?width=200&height=200" tvg-name="Canal 4 Mancha Centro" ,Canal 4 Mancha Centro
+https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" tvg-id="Telemadrid.TV" tvg-name="Telemadrid" ,Telemadrid
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://pbs.twimg.com/profile_images/1279727978268839938/jSZUiboT_200x200.jpg" tvg-id="LaOtra.TV" tvg-name="LaOtra" ,LaOtra
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/ondamadridradio/picture?width=200&height=200" tvg-id="OndaMadrid.TV" tvg-name="Webcam OndaMadrid" ,Webcam OndaMadrid
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/ondamadrid_1/index.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/iberoamericatv/picture?width=200&height=200" tvg-name="IBEROAMERICA TV" ,IBEROAMERICA TV
+https://limited39.todostreaming.es/live/salome-livestream.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://pbs.twimg.com/profile_images/991792042094354432/DG1Ruupb_200x200.jpg" tvg-id="Bloom.TV" tvg-name="Bloomberg Europe" ,Bloomberg Europe EN
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/tv5mondeofficiel/picture?width=200&height=200" tvg-name="TV5Monde Francia" ,TV5Monde Francia FR
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/rainews.it/picture?width=200&height=200" tvg-id="RaiN.TV" tvg-name="Rai News 24 Italia" ,Rai News 24 Italia IT
+https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" tvg-id="DW.TV" tvg-name="DW Alemania" ,DW Alemania
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/DasErste/picture?width=200&height=200" tvg-name="Das Erste Alemania" ,Das Erste Alemania DE
+https://mcdn.daserste.de/daserste/int/master.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/WDR/picture?width=200&height=200" tvg-name="WDR Alemania" ,WDR Alemania DE
+https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/ndrniedersachsen/picture?width=200&height=200" tvg-name="NDR Niedersachsen Alemania" ,NDR Niedersachsen Alemania DE
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/master.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/skynews/picture?width=200&height=200" tvg-id="SkyN.TV" tvg-name="Sky News UK" ,Sky News UK EN
+https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/GBNewsOnline/picture?width=200&height=200" tvg-name="GB News UK" ,GB News UK EN
+https://live-gbnews-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/gbnews-live/live.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/rtp/picture?width=200&height=200" tvg-id="RTP3.TV" tvg-name="RTP 3 Portugal" ,RTP 3 Portugal
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/LN24LesNews24/picture?width=200&height=200" tvg-name="LN24 Bélgica" ,LN24 Bélgica FR
+https://live.digiteka.com/1/bEg0RmFLb1JMYXRI/dGhqbmIw/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/trthaber/picture?width=200&height=200" tvg-name="TRT Haber Turquía" ,TRT Haber Turquía EN
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/RUVohf/picture?width=200&height=200" tvg-name="RÚV Islandia" ,RÚV Islandia
+https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/www.ukraine24.ua/picture?width=200&height=200" tvg-name="Ukraine 24 Ucrania" ,Ukraine 24 Ucrania
+http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/livenowfox/picture?width=200&height=200" tvg-name="FOX Live Now USA" ,FOX Live Now USA EN
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/ABCNews/picture?width=200&height=200" tvg-name="ABC News USA" ,ABC News USA EN
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/CBSNews/picture?width=200&height=200" tvg-name="CBS News USA" ,CBS News USA EN
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://pbs.twimg.com/profile_images/991792042094354432/DG1Ruupb_200x200.jpg" tvg-name="Bloomberg USA" ,Bloomberg USA EN
+https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/NASA/picture?width=200&height=200" tvg-name="NASA TV Public" ,NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/NASA/picture?width=200&height=200" tvg-name="NASA TV Media" ,NASA TV Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/americateve/picture?width=200&height=200" tvg-name="America TeVe USA" ,America TeVe USA
+https://uni01rtmp.tulix.tv/americateve1/americateve1/master.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200" tvg-name="Canal 6 Multimedios Mexico" ,Canal 6 Multimedios Mexico
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/ADN40mx/picture?width=200&height=200" tvg-id="ADN40.TV" tvg-name="ADN40 Mexico" ,ADN40 Mexico
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200" tvg-name="Canal Once Mexico" ,Canal Once Mexico
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/turistikmedia/picture?width=200&height=200" tvg-name="Turistik TV Mexico" ,Turistik TV Mexico
+https://5fa5de1a545ae.streamlock.net/8030/8030/playlist.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/NoticiasCaracol/picture?width=200&height=200" tvg-name="Noticias Caracol Colombia" ,Noticias Caracol Colombia
+https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/CanalCapitalOficial/picture?width=200&height=200" tvg-name="Canal Capital Colombia" ,Canal Capital Colombia
+https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/CanalTeleantioquia/picture?width=200&height=200" tvg-name="Teleantioquia Colombia" ,Teleantioquia Colombia
+https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist_DVR.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/senalcolombiapaginaoficial/picture?width=200&height=200" tvg-name="Señal Colombia" ,Señal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/TelepacificoTV/picture?width=200&height=200" tvg-name="Telepacifico Colombia" ,Telepacifico Colombia
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/teleSUR/picture?width=200&height=200" tvg-id="TeleSUR.TV" tvg-name="TeleSUR Venezuela" ,TeleSUR Venezuela
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 group-title="prueba" tvg-name="Bolivia 7.2 TV" ,Bolivia 7.2 TV
+https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/WtvNuevaGuinea/picture?width=200&height=200" tvg-name="WTV Nicaragua" ,WTV Nicaragua
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/aljazeera/picture?width=200&height=200" tvg-id="AlJQ.TV" tvg-name="Al Jazeera Qatar" ,Al Jazeera Qatar AR
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/miamitv/picture?width=200&height=200" tvg-name="Miami TV" ,Miami TV
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/miamitv/picture?width=200&height=200" tvg-name="Miami TV" ,Miami TV
+https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/miamitv/picture?width=200&height=200" tvg-name="Miami TV" ,Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/watchstadium/picture?width=200&height=200" tvg-name="Stadium USA" ,Stadium USA EN
+https://bcovlive-a.akamaihd.net/79ebca453e6340dcb32b09707ce3fb82/us-east-1/5994000126001/8036529875f74c81b5f50851bffbc421/playlist_ssaiM.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/RedBull/picture?width=200&height=200" tvg-name="Redbull TV" ,Redbull TV EN
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/activafm.radiomusical/picture?width=200&height=200" tvg-name="Activa TV España" ,Activa TV España
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200" tvg-name="Cadena Elite España" ,Cadena Elite España
+https://cloudvideo.servers10.com:8081/8004/index.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/molahitstv/picture?width=200&height=200" tvg-name="Molahits TV España" ,Molahits TV España
+http://ventdelnord.tv:8080/mola/directe.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/fmurban/picture?width=200&height=200" tvg-name="La Urban TV España" ,La Urban TV España
+https://urbanrevolution.es:8443/live/TV/master.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/eurolatinatelevisioneuropa/picture?width=200&height=200" tvg-name="EuroLatina TV España" ,EuroLatina TV España
+https://media2.streambrothers.com:1936/8150/8150/playlist.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/SpektraTelevision/picture?width=200&height=200" tvg-name="Spektra TV España" ,Spektra TV España
+https://cloudvideo.servers10.com:8081/8136/index.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/StzGrupo/picture?width=200&height=200" tvg-name="STZ Telebista España" ,STZ Telebista España
+https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8|referrer=https://stztelebista.com
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/ProduccionesAudiovisuales.CV/picture?width=200&height=200" tvg-name="VIVA RTV España" ,VIVA RTV España
+https://app.viloud.tv/hls/channel/c0d91440f0b445407e7b7a4e414f64ca.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/RTL102.5/picture?width=200&height=200" tvg-name="RTL 102.5 Italia" ,RTL 102.5 Italia IT
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" tvg-id="CadenaS.Radio" tvg-name="Cadena SER" ,Cadena SER
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" tvg-id="OC.Radio" tvg-name="Onda Cero" ,Onda Cero
+https://livefastly-webs.ondacero.es/ondacero/audio/master.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/esradio/picture?width=200&height=200" tvg-id="esRadio.Radio" tvg-name="esRadio" ,esRadio
+https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-med.aac
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/RadioMARCA/picture?width=200&height=200" tvg-id="Marca.Radio" tvg-name="Radio Marca" ,Radio Marca
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONAL.mp3
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/rac1oficial/picture?width=200&height=200" tvg-id="RAC1.Radio" tvg-name="RAC1" ,RAC1
+https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/catradio/picture?width=200&height=200" tvg-id="CATRadio.Radio" tvg-name="Catalunya Ràdio" ,Catalunya Ràdio
+https://directes-radio-int.ccma.cat/live-content/catalunya-radio-hls/master.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/CanalSurRadioAndalucia/picture?width=200&height=200" tvg-id="CanalSur.Radio" tvg-name="Canal Sur Radio" ,Canal Sur Radio
+https://cdnlive.shooowit.net/rtvalive/smil:channel9.smil/master.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/Euskadi.Irratia/picture?width=200&height=200" tvg-name="Euskadi Irratia" ,Euskadi Irratia
+https://multimedia.eitb.eus/live-content/euskadirratia-hls/master.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/los40/picture?width=200&height=200" tvg-id="los40.Radio" tvg-name="LOS40" ,LOS40
+https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/cadenadial/picture?width=200&height=200" tvg-id="CadenaDial.Radio" tvg-name="Cadena Dial" ,Cadena Dial
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/CADENA100/picture?width=200&height=200" tvg-id="Cadena100.Radio" tvg-name="Cadena 100" ,Cadena 100
+https://cadena100-cope.flumotion.com/chunks.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/tueuropafm/picture?width=200&height=200" tvg-id="EuropaFM.Radio" tvg-name="Europa FM" ,Europa FM
+https://livefastly-webs.europafm.com/europafm/audio/master.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/RockFM/picture?width=200&height=200" tvg-id="RockFM.Radio" tvg-name="Rock FM" ,Rock FM
+https://rockfm-cope.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://pbs.twimg.com/profile_images/1051761197127745541/whMnn4_K_200x200.jpg" tvg-name="Flaix FM" ,Flaix FM
+https://flaixfm.streaming-pro.com:8001/flaixfm.mp3
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/Los40Classic.Oficial/picture?width=200&height=200" tvg-id="los40classic.Radio" tvg-name="LOS40 Classic" ,LOS40 Classic
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/kissfm.es/picture?width=200&height=200" tvg-id="KissFm.Radio" tvg-name="Kiss FM" ,Kiss FM
+https://kissfm.kissfmradio.cires21.com/kissfm.mp3
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/radiole/picture?width=200&height=200" tvg-id="Radiole.Radio" tvg-name="Radiolé" ,Radiolé
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE.mp3
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/canallfiesta/picture?width=200&height=200" tvg-id="CanalFiesta.Radio" tvg-name="Canal Fiesta Radio" ,Canal Fiesta Radio
+https://cdnlive.shooowit.net/rtvalive/smil:channel5.smil/master.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/radioteletaxi/picture?width=200&height=200" tvg-id="Teletaxi.Radio" tvg-name="Ràdio Tele-Taxi" ,Ràdio Tele-Taxi
+https://radiott-web.streaming-pro.com:6103/radiott.mp3
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/hitfm.es/picture?width=200&height=200" tvg-id="HitFM.Radio" tvg-name="Hit FM" ,Hit FM
+https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/MegaStarFM/picture?width=200&height=200" tvg-id="MegaStar.Radio" tvg-name="MegaStar FM" ,MegaStar FM
+https://megastar-cope.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/tumelodiafm/picture?width=200&height=200" tvg-name="Melodía FM" ,Melodía FM
+https://livefastly-webs.melodia-fm.com/melodiafm/audio/master.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-id="LocaFM.Radio" tvg-name="Loca FM" ,Loca FM
+http://s3.we4stream.com:8045/live
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/RadioMariaSpa/picture?width=200&height=200" tvg-id="RadioMaria.Radio" tvg-name="Radio María" ,Radio María
+http://dreamsiteradiocp.com:8060/;stream.mp3
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/los40dance/picture?width=200&height=200" tvg-id="los40dance.Radio" tvg-name="LOS40 Dance" ,LOS40 Dance
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE.mp3
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/los40urban/picture?width=200&height=200" tvg-id="los40urban.Radio" tvg-name="LOS40 Urban" ,LOS40 Urban
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3
+#EXTINF:-1 group-title="prueba" tvg-logo="https://recursosweb.prisaradio.com/fotos/dest/010002743853.jpg" tvg-name="Dial Baladas" ,Dial Baladas
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_03.mp3
+#EXTINF:-1 group-title="prueba" tvg-logo="https://recursosweb.prisaradio.com/fotos/dest/010002743852.jpg" tvg-name="Dial Esencial" ,Dial Esencial
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_01.mp3
+#EXTINF:-1 group-title="prueba" tvg-logo="https://recursosweb.prisaradio.com/fotos/dest/010002743851.jpg" tvg-name="Dial Latino" ,Dial Latino
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_02AAC_SC
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Dance" ,Loca FM Dance
+http://s02.fjperezdj.com:8025/live
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Remember" ,Loca FM Remember
+http://s02.fjperezdj.com:8035/live
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM House" ,Loca FM House
+http://s02.fjperezdj.com:8026/live
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Chill out" ,Loca FM Chill out
+http://s02.fjperezdj.com:8006/live
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Tech House" ,Loca FM Tech House
+http://s02.fjperezdj.com:8046/live
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Trance" ,Loca FM Trance
+http://s02.fjperezdj.com:8055/live
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Techno" ,Loca FM Techno
+http://s02.fjperezdj.com:8050/live
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Big Room" ,Loca FM Big Room
+http://s02.fjperezdj.com:8005/live
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Dub Techno" ,Loca FM Dub Techno
+http://s02.fjperezdj.com:8066/live
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Hard" ,Loca FM Hard
+http://s02.fjperezdj.com:8016/live
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Sessions" ,Loca FM Sessions
+http://s02.fjperezdj.com:8095/live
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Ambient" ,Loca FM Ambient
+http://s02.fjperezdj.com:8036/live
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Loca 80's" ,Loca FM Loca 80's
+http://s02.fjperezdj.com:8075/live
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Loca 90's" ,Loca FM Loca 90's
+http://s02.fjperezdj.com:8000/live
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Melodic Techno" ,Loca FM Melodic Techno
+http://s02.fjperezdj.com:8056/live
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Trap" ,Loca FM Trap
+http://s02.fjperezdj.com:8060/live
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Loca Pride" ,Loca FM Loca Pride
+http://s02.fjperezdj.com:8070/live
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Industrial" ,Loca FM Industrial
+http://s02.fjperezdj.com:8076/live
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Drum&Bass" ,Loca FM Drum&Bass
+http://s02.fjperezdj.com:8065/live
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Urban" ,Loca FM Urban
+http://locafm02.we4stream.com:8015/live
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/clasicafmradio/picture?width=200&height=200" tvg-name="Clásica FM Radio" ,Clásica FM Radio
+https://edge.mixlr.com/channel/asnfw
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/digitalhits/picture?width=200&height=200" tvg-name="digitalHits FM" ,digitalHits FM
+http://digitalhits.frilab.com:8000/digitalhits;
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/fmurban/picture?width=200&height=200" tvg-name="La Urban Radio" ,La Urban Radio
+https://st1.urbanrevolution.es:8443/laurbanfm.mp3
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/Babyradio/picture?width=200&height=200" tvg-name="Babyradio" ,Babyradio
+https://sd396babyradio1.dns-lcinternet.com/8002/stream
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/Babyradio/picture?width=200&height=200" tvg-name="Babyradio LatinoAmérica" ,Babyradio LatinoAmérica
+https://sd396babyradio1.dns-lcinternet.com/8004/stream
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/Babyradio/picture?width=200&height=200" tvg-name="Babyradio - Nanas" ,Babyradio - Nanas
+https://sd396babyradio1.dns-lcinternet.com/8010/stream
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/Babyradio/picture?width=200&height=200" tvg-name="Babyradio - Cuentos infantiles" ,Babyradio - Cuentos infantiles
+https://sd396babyradio1.dns-lcinternet.com/8006/stream
+#EXTINF:-1 group-title="prueba" tvg-logo="https://www.cadenadial.com/wp-content/uploads/2020/08/Dial-mini.jpeg" tvg-name="Dial Mini" ,Dial Mini
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_04.mp3
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/ValenciaCF/picture?width=200&height=200" tvg-name="Valencia CF Radio" ,Valencia CF Radio
+https://radio-valencia-direct.flumotion.com/rvfc/shoutcast.mp3
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/sevillafc/picture?width=200&height=200" tvg-name="Sevilla FC Radio" ,Sevilla FC Radio
+https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/realbetisbalompie/picture?width=200&height=200" tvg-name="Real Betis Radio" ,Real Betis Radio
+https://wecast-b03-01.flumotion.com/betistv/radio1.mp3
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/udalmeriasad/picture?width=200&height=200" tvg-name="UD Almeria Radio" ,UD Almeria Radio
+http://sd395-a.lcinternet.com:9148/livelq
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/CanalSurRadioAndalucia/picture?width=200&height=200" tvg-name="Canal Sur Radio Andalucía" ,Canal Sur Radio Andalucía
+https://cdnlive.shooowit.net/rtvalive/smil:channel4.smil/master.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/FlamencoRadio/picture?width=200&height=200" tvg-name="Flamenco Radio" ,Flamenco Radio
+https://cdnlive.shooowit.net/rtvalive/smil:channel7.smil/master.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/RadioAndaluc%C3%ADaInformaci%C3%B3n.png/240px-RadioAndaluc%C3%ADaInformaci%C3%B3n.png" tvg-name="Radio Andalucía Información" ,Radio Andalucía Información
+https://cdnlive.shooowit.net/rtvalive/smil:channel6.smil/master.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://myradioonline.es/public/uploads/radio_img/canal-sur-radio-musica/play_250_250.jpg" tvg-name="Canal Sur Radio Musica" ,Canal Sur Radio Musica
+https://cdnlive.shooowit.net/rtvalive/smil:channel10.smil/playlist.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/canallfiesta/picture?width=200&height=200" tvg-id="CanalFiesta.Radio" tvg-name="Canal Fiesta Radio" ,Canal Fiesta Radio
+https://cdnlive.shooowit.net/rtvalive/smil:channel5.smil/master.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/canalsuralmeria/picture?width=200&height=200" tvg-name="Canal Sur Radio Almería" ,Canal Sur Radio Almería
+https://cdnlive.shooowit.net/rtvalive/smil:channel8.smil/playlist.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/canalsurcadiz/picture?width=200&height=200" tvg-name="Canal Sur Radio Cadiz" ,Canal Sur Radio Cadiz
+https://cdnlive.shooowit.net/rtvalive/smil:channel11.smil/playlist.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/canalsurcadiz/picture?width=200&height=200" tvg-name="Canal Sur Radio Campo de Gibraltar" ,Canal Sur Radio Campo de Gibraltar
+https://cdnlive.codev8.net/rtvalive/smil:channel15.smil/playlist.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/canalsurcordoba/picture?width=200&height=200" tvg-name="Canal Sur Radio Córdoba" ,Canal Sur Radio Córdoba
+https://cdnlive.codev8.net/rtvalive/smil:channel12.smil/playlist.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/canalsurgranada/picture?width=200&height=200" tvg-name="Canal Sur Radio Granada" ,Canal Sur Radio Granada
+https://cdnlive.shooowit.net/rtvalive/smil:channel13.smil/playlist.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/canalsurhuelva/picture?width=200&height=200" tvg-name="Canal Sur Radio Huelva" ,Canal Sur Radio Huelva
+https://cdnlive.shooowit.net/rtvalive/smil:channel14.smil/playlist.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/canalsurjaen/picture?width=200&height=200" tvg-name="Canal Sur Radio Jaén" ,Canal Sur Radio Jaén
+https://cdnlive.shooowit.net/rtvalive/smil:channel16.smil/playlist.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" tvg-name="Canal Sur Radio Jerez" ,Canal Sur Radio Jerez
+https://cdnlive.codev8.net/rtvalive/smil:channel18.smil/playlist.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/canalsurmalaga/picture?width=200&height=200" tvg-name="Canal Sur Radio Málaga" ,Canal Sur Radio Málaga
+https://cdnlive.shooowit.net/rtvalive/smil:channel17.smil/playlist.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/canalsursevilla/picture?width=200&height=200" tvg-name="Canal Sur Radio Sevilla" ,Canal Sur Radio Sevilla
+https://cdnlive.shooowit.net/rtvalive/smil:channel4.smil/playlist.m3u8
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/RadioMARCA/picture?width=200&height=200" tvg-name="Radio Marca Almería" ,Radio Marca Almería
+http://212.83.164.82:8012/rmarcaalm.mp3
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/RadioMARCA/picture?width=200&height=200" tvg-name="Radio Marca Málaga" ,Radio Marca Málaga
+https://malagafm.streaming-pro.com:8131/malagafmmobile
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/RadioMARCA/picture?width=200&height=200" tvg-name="Radio Marca Sevilla" ,Radio Marca Sevilla
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_SEVILLA.mp3
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/web.radiosevillanas/picture?width=200&height=200" tvg-name="Radio Sevillanas" ,Radio Sevillanas
+http://radio.wesped.com:8000/;stream.mp3
+#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" tvg-id="OC_AlcazardeSanJuan.Radio" tvg-name="Onda Cero Alcázar de San Juan" ,Onda Cero Alcázar de San Juan
+https://livefastly-webs.ondacero.es/alcazar-pull/audio/master.m3u8

@@ -1,303 +1,471 @@
 #EXTM3U
-#EXTINF:-1 group-title="prueba" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" tvg-id="La1.TV" tvg-name="La 1" ,La 1
-https://ztnr.rtve.es/ztnr/1688877.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" tvg-id="La2.TV" tvg-name="La 2" ,La 2
-https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" tvg-id="24Horas.TV" tvg-name="24h" ,24h
-https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" tvg-name="Euronews" ,Euronews
-https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" tvg-id="TDP.TV" tvg-name="Teledeporte" ,Teledeporte GEO
-https://ztnr.rtve.es/ztnr/1712295.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200" tvg-id="E3.TV" tvg-name="Esport 3" ,Esport 3 GEO
-https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200" tvg-id="RMTV.TV" tvg-name="RealMadrid TV" ,RealMadrid TV
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" tvg-id="Clan.TV" tvg-name="Clan" ,Clan GEO
-https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_dvr.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/revistahola/picture?width=200&height=200" tvg-name="¡HOLA! Play" ,¡HOLA! Play
-https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" tvg-name="Radio Nacional" ,Radio Nacional
-https://ztnr.rtve.es/ztnr/1938076.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/radio3/picture?width=200&height=200" tvg-name="Radio 3" ,Radio 3
-https://ztnr.rtve.es/ztnr/2795617.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" tvg-name="Onda Cero" ,Onda Cero
-https://live-estudio.ondacero.es/estudio_oc-pull/video/master.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" tvg-id="CanalSurA.TV" tvg-name="Canal Sur Andalucía" ,Canal Sur Andalucía
-https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/AragonTV/picture?width=200&height=200" tvg-id="AragonTV.TV" tvg-name="Aragón TV" ,Aragón TV
-https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" tvg-name="24h Canarias" ,24h Canarias
-https://ztnr.rtve.es/ztnr/5473142.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/CMMediaes/picture?width=200&height=200" tvg-id="CMM.TV" tvg-name="Castilla-La Mancha Media" ,Castilla-La Mancha Media
-http://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/format/applehttp/.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/tvhellin/picture?width=200&height=200" tvg-name="TV Hellín" ,TV Hellín
-https://hellin-hls-live.flumotion.com/playlist.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/canal4villarrobledo/picture?width=200&height=200" tvg-name="Canal 4 Mancha Centro" ,Canal 4 Mancha Centro
-https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" tvg-id="Telemadrid.TV" tvg-name="Telemadrid" ,Telemadrid
-https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://pbs.twimg.com/profile_images/1279727978268839938/jSZUiboT_200x200.jpg" tvg-id="LaOtra.TV" tvg-name="LaOtra" ,LaOtra
-https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/ondamadridradio/picture?width=200&height=200" tvg-id="OndaMadrid.TV" tvg-name="Webcam OndaMadrid" ,Webcam OndaMadrid
-https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/ondamadrid_1/index.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/iberoamericatv/picture?width=200&height=200" tvg-name="IBEROAMERICA TV" ,IBEROAMERICA TV
-https://limited39.todostreaming.es/live/salome-livestream.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://pbs.twimg.com/profile_images/991792042094354432/DG1Ruupb_200x200.jpg" tvg-id="Bloom.TV" tvg-name="Bloomberg Europe" ,Bloomberg Europe EN
-https://www.bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/tv5mondeofficiel/picture?width=200&height=200" tvg-name="TV5Monde Francia" ,TV5Monde Francia FR
-https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/rainews.it/picture?width=200&height=200" tvg-id="RaiN.TV" tvg-name="Rai News 24 Italia" ,Rai News 24 Italia IT
-https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" tvg-id="DW.TV" tvg-name="DW Alemania" ,DW Alemania
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/DasErste/picture?width=200&height=200" tvg-name="Das Erste Alemania" ,Das Erste Alemania DE
-https://mcdn.daserste.de/daserste/int/master.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/WDR/picture?width=200&height=200" tvg-name="WDR Alemania" ,WDR Alemania DE
-https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/ndrniedersachsen/picture?width=200&height=200" tvg-name="NDR Niedersachsen Alemania" ,NDR Niedersachsen Alemania DE
-https://ndrint.akamaized.net/hls/live/2020766/ndr_int/master.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/skynews/picture?width=200&height=200" tvg-id="SkyN.TV" tvg-name="Sky News UK" ,Sky News UK EN
-https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/GBNewsOnline/picture?width=200&height=200" tvg-name="GB News UK" ,GB News UK EN
-https://live-gbnews-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/gbnews-live/live.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/rtp/picture?width=200&height=200" tvg-id="RTP3.TV" tvg-name="RTP 3 Portugal" ,RTP 3 Portugal
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/LN24LesNews24/picture?width=200&height=200" tvg-name="LN24 Bélgica" ,LN24 Bélgica FR
-https://live.digiteka.com/1/bEg0RmFLb1JMYXRI/dGhqbmIw/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/trthaber/picture?width=200&height=200" tvg-name="TRT Haber Turquía" ,TRT Haber Turquía EN
-https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/RUVohf/picture?width=200&height=200" tvg-name="RÚV Islandia" ,RÚV Islandia
-https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/www.ukraine24.ua/picture?width=200&height=200" tvg-name="Ukraine 24 Ucrania" ,Ukraine 24 Ucrania
-http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/livenowfox/picture?width=200&height=200" tvg-name="FOX Live Now USA" ,FOX Live Now USA EN
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/ABCNews/picture?width=200&height=200" tvg-name="ABC News USA" ,ABC News USA EN
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/CBSNews/picture?width=200&height=200" tvg-name="CBS News USA" ,CBS News USA EN
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://pbs.twimg.com/profile_images/991792042094354432/DG1Ruupb_200x200.jpg" tvg-name="Bloomberg USA" ,Bloomberg USA EN
-https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/NASA/picture?width=200&height=200" tvg-name="NASA TV Public" ,NASA TV Public
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/NASA/picture?width=200&height=200" tvg-name="NASA TV Media" ,NASA TV Media
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/americateve/picture?width=200&height=200" tvg-name="America TeVe USA" ,America TeVe USA
-https://uni01rtmp.tulix.tv/americateve1/americateve1/master.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200" tvg-name="Canal 6 Multimedios Mexico" ,Canal 6 Multimedios Mexico
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/ADN40mx/picture?width=200&height=200" tvg-id="ADN40.TV" tvg-name="ADN40 Mexico" ,ADN40 Mexico
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200" tvg-name="Canal Once Mexico" ,Canal Once Mexico
-https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/turistikmedia/picture?width=200&height=200" tvg-name="Turistik TV Mexico" ,Turistik TV Mexico
-https://5fa5de1a545ae.streamlock.net/8030/8030/playlist.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/NoticiasCaracol/picture?width=200&height=200" tvg-name="Noticias Caracol Colombia" ,Noticias Caracol Colombia
-https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/CanalCapitalOficial/picture?width=200&height=200" tvg-name="Canal Capital Colombia" ,Canal Capital Colombia
-https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/CanalTeleantioquia/picture?width=200&height=200" tvg-name="Teleantioquia Colombia" ,Teleantioquia Colombia
-https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist_DVR.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/senalcolombiapaginaoficial/picture?width=200&height=200" tvg-name="Señal Colombia" ,Señal Colombia
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/TelepacificoTV/picture?width=200&height=200" tvg-name="Telepacifico Colombia" ,Telepacifico Colombia
-https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/teleSUR/picture?width=200&height=200" tvg-id="TeleSUR.TV" tvg-name="TeleSUR Venezuela" ,TeleSUR Venezuela
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 group-title="prueba" tvg-name="Bolivia 7.2 TV" ,Bolivia 7.2 TV
-https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/WtvNuevaGuinea/picture?width=200&height=200" tvg-name="WTV Nicaragua" ,WTV Nicaragua
-https://cloudvideo.servers10.com:8081/8130/index.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/aljazeera/picture?width=200&height=200" tvg-id="AlJQ.TV" tvg-name="Al Jazeera Qatar" ,Al Jazeera Qatar AR
-https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/miamitv/picture?width=200&height=200" tvg-name="Miami TV" ,Miami TV
-https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/miamitv/picture?width=200&height=200" tvg-name="Miami TV" ,Miami TV
-https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/miamitv/picture?width=200&height=200" tvg-name="Miami TV" ,Miami TV
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/watchstadium/picture?width=200&height=200" tvg-name="Stadium USA" ,Stadium USA EN
-https://bcovlive-a.akamaihd.net/79ebca453e6340dcb32b09707ce3fb82/us-east-1/5994000126001/8036529875f74c81b5f50851bffbc421/playlist_ssaiM.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/RedBull/picture?width=200&height=200" tvg-name="Redbull TV" ,Redbull TV EN
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/activafm.radiomusical/picture?width=200&height=200" tvg-name="Activa TV España" ,Activa TV España
-https://streamtv.mediasector.es/hls/activatv/index.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200" tvg-name="Cadena Elite España" ,Cadena Elite España
-https://cloudvideo.servers10.com:8081/8004/index.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/molahitstv/picture?width=200&height=200" tvg-name="Molahits TV España" ,Molahits TV España
-http://ventdelnord.tv:8080/mola/directe.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/fmurban/picture?width=200&height=200" tvg-name="La Urban TV España" ,La Urban TV España
-https://urbanrevolution.es:8443/live/TV/master.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/eurolatinatelevisioneuropa/picture?width=200&height=200" tvg-name="EuroLatina TV España" ,EuroLatina TV España
-https://media2.streambrothers.com:1936/8150/8150/playlist.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/SpektraTelevision/picture?width=200&height=200" tvg-name="Spektra TV España" ,Spektra TV España
-https://cloudvideo.servers10.com:8081/8136/index.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/StzGrupo/picture?width=200&height=200" tvg-name="STZ Telebista España" ,STZ Telebista España
-https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8|referrer=https://stztelebista.com
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/ProduccionesAudiovisuales.CV/picture?width=200&height=200" tvg-name="VIVA RTV España" ,VIVA RTV España
-https://app.viloud.tv/hls/channel/c0d91440f0b445407e7b7a4e414f64ca.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/RTL102.5/picture?width=200&height=200" tvg-name="RTL 102.5 Italia" ,RTL 102.5 Italia IT
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" tvg-id="CadenaS.Radio" tvg-name="Cadena SER" ,Cadena SER
-https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" tvg-id="OC.Radio" tvg-name="Onda Cero" ,Onda Cero
-https://livefastly-webs.ondacero.es/ondacero/audio/master.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/esradio/picture?width=200&height=200" tvg-id="esRadio.Radio" tvg-name="esRadio" ,esRadio
-https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-med.aac
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/RadioMARCA/picture?width=200&height=200" tvg-id="Marca.Radio" tvg-name="Radio Marca" ,Radio Marca
-https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONAL.mp3
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/rac1oficial/picture?width=200&height=200" tvg-id="RAC1.Radio" tvg-name="RAC1" ,RAC1
-https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/catradio/picture?width=200&height=200" tvg-id="CATRadio.Radio" tvg-name="Catalunya Ràdio" ,Catalunya Ràdio
-https://directes-radio-int.ccma.cat/live-content/catalunya-radio-hls/master.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/CanalSurRadioAndalucia/picture?width=200&height=200" tvg-id="CanalSur.Radio" tvg-name="Canal Sur Radio" ,Canal Sur Radio
-https://cdnlive.shooowit.net/rtvalive/smil:channel9.smil/master.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/Euskadi.Irratia/picture?width=200&height=200" tvg-name="Euskadi Irratia" ,Euskadi Irratia
-https://multimedia.eitb.eus/live-content/euskadirratia-hls/master.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/los40/picture?width=200&height=200" tvg-id="los40.Radio" tvg-name="LOS40" ,LOS40
-https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/cadenadial/picture?width=200&height=200" tvg-id="CadenaDial.Radio" tvg-name="Cadena Dial" ,Cadena Dial
-https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/CADENA100/picture?width=200&height=200" tvg-id="Cadena100.Radio" tvg-name="Cadena 100" ,Cadena 100
-https://cadena100-cope.flumotion.com/chunks.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/tueuropafm/picture?width=200&height=200" tvg-id="EuropaFM.Radio" tvg-name="Europa FM" ,Europa FM
-https://livefastly-webs.europafm.com/europafm/audio/master.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/RockFM/picture?width=200&height=200" tvg-id="RockFM.Radio" tvg-name="Rock FM" ,Rock FM
-https://rockfm-cope.flumotion.com/playlist.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://pbs.twimg.com/profile_images/1051761197127745541/whMnn4_K_200x200.jpg" tvg-name="Flaix FM" ,Flaix FM
-https://flaixfm.streaming-pro.com:8001/flaixfm.mp3
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/Los40Classic.Oficial/picture?width=200&height=200" tvg-id="los40classic.Radio" tvg-name="LOS40 Classic" ,LOS40 Classic
-https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/kissfm.es/picture?width=200&height=200" tvg-id="KissFm.Radio" tvg-name="Kiss FM" ,Kiss FM
-https://kissfm.kissfmradio.cires21.com/kissfm.mp3
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/radiole/picture?width=200&height=200" tvg-id="Radiole.Radio" tvg-name="Radiolé" ,Radiolé
-https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE.mp3
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/canallfiesta/picture?width=200&height=200" tvg-id="CanalFiesta.Radio" tvg-name="Canal Fiesta Radio" ,Canal Fiesta Radio
-https://cdnlive.shooowit.net/rtvalive/smil:channel5.smil/master.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/radioteletaxi/picture?width=200&height=200" tvg-id="Teletaxi.Radio" tvg-name="Ràdio Tele-Taxi" ,Ràdio Tele-Taxi
-https://radiott-web.streaming-pro.com:6103/radiott.mp3
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/hitfm.es/picture?width=200&height=200" tvg-id="HitFM.Radio" tvg-name="Hit FM" ,Hit FM
-https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/MegaStarFM/picture?width=200&height=200" tvg-id="MegaStar.Radio" tvg-name="MegaStar FM" ,MegaStar FM
-https://megastar-cope.flumotion.com/playlist.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/tumelodiafm/picture?width=200&height=200" tvg-name="Melodía FM" ,Melodía FM
-https://livefastly-webs.melodia-fm.com/melodiafm/audio/master.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-id="LocaFM.Radio" tvg-name="Loca FM" ,Loca FM
-http://s3.we4stream.com:8045/live
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/RadioMariaSpa/picture?width=200&height=200" tvg-id="RadioMaria.Radio" tvg-name="Radio María" ,Radio María
-http://dreamsiteradiocp.com:8060/;stream.mp3
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/los40dance/picture?width=200&height=200" tvg-id="los40dance.Radio" tvg-name="LOS40 Dance" ,LOS40 Dance
-https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE.mp3
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/los40urban/picture?width=200&height=200" tvg-id="los40urban.Radio" tvg-name="LOS40 Urban" ,LOS40 Urban
-https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3
-#EXTINF:-1 group-title="prueba" tvg-logo="https://recursosweb.prisaradio.com/fotos/dest/010002743853.jpg" tvg-name="Dial Baladas" ,Dial Baladas
-https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_03.mp3
-#EXTINF:-1 group-title="prueba" tvg-logo="https://recursosweb.prisaradio.com/fotos/dest/010002743852.jpg" tvg-name="Dial Esencial" ,Dial Esencial
-https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_01.mp3
-#EXTINF:-1 group-title="prueba" tvg-logo="https://recursosweb.prisaradio.com/fotos/dest/010002743851.jpg" tvg-name="Dial Latino" ,Dial Latino
-https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_02AAC_SC
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Dance" ,Loca FM Dance
-http://s02.fjperezdj.com:8025/live
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Remember" ,Loca FM Remember
-http://s02.fjperezdj.com:8035/live
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM House" ,Loca FM House
-http://s02.fjperezdj.com:8026/live
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Chill out" ,Loca FM Chill out
-http://s02.fjperezdj.com:8006/live
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Tech House" ,Loca FM Tech House
-http://s02.fjperezdj.com:8046/live
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Trance" ,Loca FM Trance
-http://s02.fjperezdj.com:8055/live
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Techno" ,Loca FM Techno
-http://s02.fjperezdj.com:8050/live
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Big Room" ,Loca FM Big Room
-http://s02.fjperezdj.com:8005/live
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Dub Techno" ,Loca FM Dub Techno
-http://s02.fjperezdj.com:8066/live
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Hard" ,Loca FM Hard
-http://s02.fjperezdj.com:8016/live
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Sessions" ,Loca FM Sessions
-http://s02.fjperezdj.com:8095/live
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Ambient" ,Loca FM Ambient
-http://s02.fjperezdj.com:8036/live
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Loca 80's" ,Loca FM Loca 80's
-http://s02.fjperezdj.com:8075/live
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Loca 90's" ,Loca FM Loca 90's
-http://s02.fjperezdj.com:8000/live
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Melodic Techno" ,Loca FM Melodic Techno
-http://s02.fjperezdj.com:8056/live
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Trap" ,Loca FM Trap
-http://s02.fjperezdj.com:8060/live
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Loca Pride" ,Loca FM Loca Pride
-http://s02.fjperezdj.com:8070/live
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Industrial" ,Loca FM Industrial
-http://s02.fjperezdj.com:8076/live
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Drum&Bass" ,Loca FM Drum&Bass
-http://s02.fjperezdj.com:8065/live
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Urban" ,Loca FM Urban
-http://locafm02.we4stream.com:8015/live
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/clasicafmradio/picture?width=200&height=200" tvg-name="Clásica FM Radio" ,Clásica FM Radio
-https://edge.mixlr.com/channel/asnfw
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/digitalhits/picture?width=200&height=200" tvg-name="digitalHits FM" ,digitalHits FM
-http://digitalhits.frilab.com:8000/digitalhits;
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/fmurban/picture?width=200&height=200" tvg-name="La Urban Radio" ,La Urban Radio
-https://st1.urbanrevolution.es:8443/laurbanfm.mp3
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/Babyradio/picture?width=200&height=200" tvg-name="Babyradio" ,Babyradio
-https://sd396babyradio1.dns-lcinternet.com/8002/stream
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/Babyradio/picture?width=200&height=200" tvg-name="Babyradio LatinoAmérica" ,Babyradio LatinoAmérica
-https://sd396babyradio1.dns-lcinternet.com/8004/stream
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/Babyradio/picture?width=200&height=200" tvg-name="Babyradio - Nanas" ,Babyradio - Nanas
-https://sd396babyradio1.dns-lcinternet.com/8010/stream
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/Babyradio/picture?width=200&height=200" tvg-name="Babyradio - Cuentos infantiles" ,Babyradio - Cuentos infantiles
-https://sd396babyradio1.dns-lcinternet.com/8006/stream
-#EXTINF:-1 group-title="prueba" tvg-logo="https://www.cadenadial.com/wp-content/uploads/2020/08/Dial-mini.jpeg" tvg-name="Dial Mini" ,Dial Mini
-https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_04.mp3
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/ValenciaCF/picture?width=200&height=200" tvg-name="Valencia CF Radio" ,Valencia CF Radio
-https://radio-valencia-direct.flumotion.com/rvfc/shoutcast.mp3
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/sevillafc/picture?width=200&height=200" tvg-name="Sevilla FC Radio" ,Sevilla FC Radio
-https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/realbetisbalompie/picture?width=200&height=200" tvg-name="Real Betis Radio" ,Real Betis Radio
-https://wecast-b03-01.flumotion.com/betistv/radio1.mp3
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/udalmeriasad/picture?width=200&height=200" tvg-name="UD Almeria Radio" ,UD Almeria Radio
-http://sd395-a.lcinternet.com:9148/livelq
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/CanalSurRadioAndalucia/picture?width=200&height=200" tvg-name="Canal Sur Radio Andalucía" ,Canal Sur Radio Andalucía
-https://cdnlive.shooowit.net/rtvalive/smil:channel4.smil/master.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/FlamencoRadio/picture?width=200&height=200" tvg-name="Flamenco Radio" ,Flamenco Radio
-https://cdnlive.shooowit.net/rtvalive/smil:channel7.smil/master.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/RadioAndaluc%C3%ADaInformaci%C3%B3n.png/240px-RadioAndaluc%C3%ADaInformaci%C3%B3n.png" tvg-name="Radio Andalucía Información" ,Radio Andalucía Información
-https://cdnlive.shooowit.net/rtvalive/smil:channel6.smil/master.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://myradioonline.es/public/uploads/radio_img/canal-sur-radio-musica/play_250_250.jpg" tvg-name="Canal Sur Radio Musica" ,Canal Sur Radio Musica
-https://cdnlive.shooowit.net/rtvalive/smil:channel10.smil/playlist.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/canallfiesta/picture?width=200&height=200" tvg-id="CanalFiesta.Radio" tvg-name="Canal Fiesta Radio" ,Canal Fiesta Radio
-https://cdnlive.shooowit.net/rtvalive/smil:channel5.smil/master.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/canalsuralmeria/picture?width=200&height=200" tvg-name="Canal Sur Radio Almería" ,Canal Sur Radio Almería
-https://cdnlive.shooowit.net/rtvalive/smil:channel8.smil/playlist.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/canalsurcadiz/picture?width=200&height=200" tvg-name="Canal Sur Radio Cadiz" ,Canal Sur Radio Cadiz
-https://cdnlive.shooowit.net/rtvalive/smil:channel11.smil/playlist.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/canalsurcadiz/picture?width=200&height=200" tvg-name="Canal Sur Radio Campo de Gibraltar" ,Canal Sur Radio Campo de Gibraltar
-https://cdnlive.codev8.net/rtvalive/smil:channel15.smil/playlist.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/canalsurcordoba/picture?width=200&height=200" tvg-name="Canal Sur Radio Córdoba" ,Canal Sur Radio Córdoba
-https://cdnlive.codev8.net/rtvalive/smil:channel12.smil/playlist.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/canalsurgranada/picture?width=200&height=200" tvg-name="Canal Sur Radio Granada" ,Canal Sur Radio Granada
-https://cdnlive.shooowit.net/rtvalive/smil:channel13.smil/playlist.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/canalsurhuelva/picture?width=200&height=200" tvg-name="Canal Sur Radio Huelva" ,Canal Sur Radio Huelva
-https://cdnlive.shooowit.net/rtvalive/smil:channel14.smil/playlist.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/canalsurjaen/picture?width=200&height=200" tvg-name="Canal Sur Radio Jaén" ,Canal Sur Radio Jaén
-https://cdnlive.shooowit.net/rtvalive/smil:channel16.smil/playlist.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" tvg-name="Canal Sur Radio Jerez" ,Canal Sur Radio Jerez
-https://cdnlive.codev8.net/rtvalive/smil:channel18.smil/playlist.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/canalsurmalaga/picture?width=200&height=200" tvg-name="Canal Sur Radio Málaga" ,Canal Sur Radio Málaga
-https://cdnlive.shooowit.net/rtvalive/smil:channel17.smil/playlist.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/canalsursevilla/picture?width=200&height=200" tvg-name="Canal Sur Radio Sevilla" ,Canal Sur Radio Sevilla
-https://cdnlive.shooowit.net/rtvalive/smil:channel4.smil/playlist.m3u8
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/RadioMARCA/picture?width=200&height=200" tvg-name="Radio Marca Almería" ,Radio Marca Almería
-http://212.83.164.82:8012/rmarcaalm.mp3
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/RadioMARCA/picture?width=200&height=200" tvg-name="Radio Marca Málaga" ,Radio Marca Málaga
-https://malagafm.streaming-pro.com:8131/malagafmmobile
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/RadioMARCA/picture?width=200&height=200" tvg-name="Radio Marca Sevilla" ,Radio Marca Sevilla
-https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_SEVILLA.mp3
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/web.radiosevillanas/picture?width=200&height=200" tvg-name="Radio Sevillanas" ,Radio Sevillanas
-http://radio.wesped.com:8000/;stream.mp3
-#EXTINF:-1 group-title="prueba" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" tvg-id="OC_AlcazardeSanJuan.Radio" tvg-name="Onda Cero Alcázar de San Juan" ,Onda Cero Alcázar de San Juan
-https://livefastly-webs.ondacero.es/alcazar-pull/audio/master.m3u8
+#EXTINF:-1 group-title="Spain ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6e80d3d1f2b8abb84a77de8c5d2c9f54.png" tvg-id="babytv.es" ,Baby TV
+http://kuchini.site:8080/b12515fa/f176763b4e/5302
+#EXTINF:-1 group-title="Spain ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/dbc7afa6c6ed3ee73fbb53c33d5d42ca.jpg" tvg-id="boing.es" ,Boing
+http://kuchini.site:8080/b12515fa/f176763b4e/1169
+#EXTINF:-1 group-title="Spain ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/46c09c894cf171f499567bdababac057.png" tvg-id="canalpanda.es" ,Canal Panda
+http://kuchini.site:8080/b12515fa/f176763b4e/1166
+#EXTINF:-1 group-title="Spain ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1f30472c5af04230e55b054e8bfe234d.png" tvg-id="clantve.es" ,Clan TVE
+http://kuchini.site:8080/b12515fa/f176763b4e/2214
+#EXTINF:-1 group-title="Spain ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1e2090e42349272d08620af54d65981a.png" ,Disney Channel
+http://kuchini.site:8080/b12515fa/f176763b4e/1145
+#EXTINF:-1 group-title="Spain ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cda21230d303c9e299518f56cddf9b76.png" tvg-id="disneyjunior.es" ,Disney Junior
+http://kuchini.site:8080/b12515fa/f176763b4e/5299
+#EXTINF:-1 group-title="Spain ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/2c237ade1f69da7e43ad9ac3915f04e0.png" ,Disney XD
+http://kuchini.site:8080/b12515fa/f176763b4e/5298
+#EXTINF:-1 group-title="Spain ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/d564b8954fcbbaf57132329cde5e2222.png" ,DreamWorks TV
+http://kuchini.site:8080/b12515fa/f176763b4e/281787
+#EXTINF:-1 group-title="Spain ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/622f473506c6e3ea09edd4d0d0d3e7ef.png" tvg-id="nickjr.es" ,Nick Junior
+http://kuchini.site:8080/b12515fa/f176763b4e/5296
+#EXTINF:-1 group-title="Spain ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5c0d67120f875960ab87b5db7e8969a2.png" tvg-id="nickelodeon.es" ,nickelodeon
+http://kuchini.site:8080/b12515fa/f176763b4e/2218
+#EXTINF:-1 group-title="Spain ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/c59836ddaf81485515e06c1161cacdef.png" ,Pequeradio
+http://kuchini.site:8080/b12515fa/f176763b4e/285793
+#EXTINF:-1 group-title="Spain ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/19fa9d93e325e52d950b696a7b05b314.png" ,RTV Vida
+http://kuchini.site:8080/b12515fa/f176763b4e/285797
+#EXTINF:-1 group-title="Spain ➾ Football" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/04835cfc0f331cb7e0aa7154b988d08f.png" tvg-id="barcatv.es" ,Barca TV
+http://kuchini.site:8080/b12515fa/f176763b4e/1170
+#EXTINF:-1 group-title="Spain ➾ Football" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/707da2cc95064a5008bf9d851f46ef9d.png" ,beIN Sports Xtra en Espanol
+http://kuchini.site:8080/b12515fa/f176763b4e/281493
+#EXTINF:-1 group-title="Spain ➾ Football" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/484784419a9faf9cbeac602c51174f16.png" ,DAZN 1
+http://kuchini.site:8080/b12515fa/f176763b4e/64711
+#EXTINF:-1 group-title="Spain ➾ Football" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7b025261b7fc8b187dddf757424b01db.png" ,DAZN 2
+http://kuchini.site:8080/b12515fa/f176763b4e/64712
+#EXTINF:-1 group-title="Spain ➾ Football" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1d36d4196d1e853c52f5a606b640d9b1.png" ,DAZN 3
+http://kuchini.site:8080/b12515fa/f176763b4e/269912
+#EXTINF:-1 group-title="Spain ➾ Football" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7b834941508cb1ab7d5787042c10bc7b.png" ,DAZN 4
+http://kuchini.site:8080/b12515fa/f176763b4e/269911
+#EXTINF:-1 group-title="Spain ➾ Football" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/faa723dac3eece2c865473edd83d65c9.png" ,LaLiga TV Bar
+http://kuchini.site:8080/b12515fa/f176763b4e/197711
+#EXTINF:-1 group-title="Spain ➾ Football" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/83c20e93f805d1c0de43abcaf10f42de.png" tvg-id="la1.es" ,MOVISTAR LaLiga
+http://kuchini.site:8080/b12515fa/f176763b4e/1141
+#EXTINF:-1 group-title="Spain ➾ Football" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/2f992ea3f06a9d0385df6e3e39e2c00b.png" ,MOVISTAR LaLiga 2
+http://kuchini.site:8080/b12515fa/f176763b4e/5311
+#EXTINF:-1 group-title="Spain ➾ Football" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/22ba20bcd4a9505d1ad7435f1dceaa93.png" ,MOVISTAR LaLiga 3
+http://kuchini.site:8080/b12515fa/f176763b4e/281772
+#EXTINF:-1 group-title="Spain ➾ Football" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/158d3d24cbf3ba9dc16e939750ab0ad9.png" ,MOVISTAR LaLiga 4
+http://kuchini.site:8080/b12515fa/f176763b4e/269466
+#EXTINF:-1 group-title="Spain ➾ Football" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/8547f7041c05f04ce7aad56c67b64481.png" ,MOVISTAR LaLiga 5
+http://kuchini.site:8080/b12515fa/f176763b4e/281792
+#EXTINF:-1 group-title="Spain ➾ Football" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/98c3b45e9801cd9fe5e72bc8d42b859d.png" ,MOVISTAR LIGA DE CAMPEONES
+http://kuchini.site:8080/b12515fa/f176763b4e/2800
+#EXTINF:-1 group-title="Spain ➾ Football" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/8d75f42f9380554385d706be8d276912.png" ,MOVISTAR LIGA DE CAMPEONES 2
+http://kuchini.site:8080/b12515fa/f176763b4e/81096
+#EXTINF:-1 group-title="Spain ➾ Football" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/308b6b52210eb1295948261672554da2.png" ,Multideporte
+http://kuchini.site:8080/b12515fa/f176763b4e/8110
+#EXTINF:-1 group-title="Spain ➾ Football" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/854d5bca5c7796bd6f64a874a5d3ae17.png" tvg-id="realmadridtv.es" ,Real Madrid TV
+http://kuchini.site:8080/b12515fa/f176763b4e/1136
+#EXTINF:-1 group-title="Spain ➾ Football" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/689064c08b917d7d1b5354c32a16f80f.png" ,Sevilla FC TV
+http://kuchini.site:8080/b12515fa/f176763b4e/169002
+#EXTINF:-1 group-title="Spain ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/2a14111c81a43932b7fe7395d9ab7f0c.png" ,Bon Dia TV
+http://kuchini.site:8080/b12515fa/f176763b4e/165148
+#EXTINF:-1 group-title="Spain ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5fe5bee1e29982d08b1a30f9f35938bb.png" ,Canal Sur Andalucia
+http://kuchini.site:8080/b12515fa/f176763b4e/2191
+#EXTINF:-1 group-title="Spain ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/38f1f41731d2311fa61c09c5bc0f4f7d.png" tvg-id="dkiss.es" ,D Kiss
+http://kuchini.site:8080/b12515fa/f176763b4e/9356
+#EXTINF:-1 group-title="Spain ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fdf414dd4d51defa5e59c52c95abb2c5.png" tvg-id="movistarformula1.es" ,DAZN F1
+http://kuchini.site:8080/b12515fa/f176763b4e/1672
+#EXTINF:-1 group-title="Spain ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9e115dbf65e6d57e284718788f7f6338.png" ,ESPN
+http://kuchini.site:8080/b12515fa/f176763b4e/90708
+#EXTINF:-1 group-title="Spain ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/ec52431ae56bf89fe9aec30084bd613f.png" ,ESPN 2
+http://kuchini.site:8080/b12515fa/f176763b4e/281480
+#EXTINF:-1 group-title="Spain ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/5c432b98e228de745d3de84f5526e459.png" ,ESPN 3
+http://kuchini.site:8080/b12515fa/f176763b4e/281403
+#EXTINF:-1 group-title="Spain ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/e79116fd84fbb5bb76c050ae09684729.png" ,ESPN Deportes
+http://kuchini.site:8080/b12515fa/f176763b4e/281417
+#EXTINF:-1 group-title="Spain ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f776a81abf0db9643bdbc1d785285578.jpg" ,Esport 3
+http://kuchini.site:8080/b12515fa/f176763b4e/7445
+#EXTINF:-1 group-title="Spain ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/09521cc6c09dbd9d7613d5490d43b164.png" ,ETB 1
+http://kuchini.site:8080/b12515fa/f176763b4e/165969
+#EXTINF:-1 group-title="Spain ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0c148cdb4e0470d55c8ed9a162e21fd4.png" ,ETB 2
+http://kuchini.site:8080/b12515fa/f176763b4e/165970
+#EXTINF:-1 group-title="Spain ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/337f7770f311ce8c193f77c2dfe0b91e.png" tvg-id="eurosport1.es" ,EUROSPORT 1
+http://kuchini.site:8080/b12515fa/f176763b4e/1160
+#EXTINF:-1 group-title="Spain ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b27f3e7b8c3029acde8ce80899fef30f.png" tvg-id="eurosport2.es" ,EUROSPORT 2
+http://kuchini.site:8080/b12515fa/f176763b4e/1159
+#EXTINF:-1 group-title="Spain ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/99879c9e81db62ac9c15709cb2ce0bd4.png" ,FOX SPORTS 2
+http://kuchini.site:8080/b12515fa/f176763b4e/89723
+#EXTINF:-1 group-title="Spain ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a91f57154339bcdd6ae38a27f1e20a48.png" ,FOX SPORTS 3
+http://kuchini.site:8080/b12515fa/f176763b4e/89722
+#EXTINF:-1 group-title="Spain ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/bce4e1371881d88c660da7804e154dd6.png" tvg-id="movistargolf.es" ,MOVISTAR Golf
+http://kuchini.site:8080/b12515fa/f176763b4e/1142
+#EXTINF:-1 group-title="Spain ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5ae6212575293e1f29b9c5301bb6204c.png" ,Olympic Channel
+http://kuchini.site:8080/b12515fa/f176763b4e/11138
+#EXTINF:-1 group-title="Spain ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/32f6b5b9e837262b56032e595e436877.png" ,Popular TV Cantabria
+http://kuchini.site:8080/b12515fa/f176763b4e/285794
+#EXTINF:-1 group-title="Spain ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/94b7e83c4dc91bf9e2b9d51df6254ede.jpg" ,4 TV Vall Uxa
+http://kuchini.site:8080/b12515fa/f176763b4e/285753
+#EXTINF:-1 group-title="Spain ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/e5d2c412b61b8b5ad65ff3770985a281.png" ,Activa TV
+http://kuchini.site:8080/b12515fa/f176763b4e/285727
+#EXTINF:-1 group-title="Spain ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/2c08bfbc671ffc3adbe34a7922603d85.png" ,Cadena Elite
+http://kuchini.site:8080/b12515fa/f176763b4e/200665
+#EXTINF:-1 group-title="Spain ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fef7d4546ba6c4297e3d7fb5a7280eda.jpg" ,Canal 33
+http://kuchini.site:8080/b12515fa/f176763b4e/64938
+#EXTINF:-1 group-title="Spain ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/d9941a792471551bb067dcce396ee518.png" ,Costa Noroeste TV
+http://kuchini.site:8080/b12515fa/f176763b4e/285752
+#EXTINF:-1 group-title="Spain ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/c6ed0ace9a6ce00317bd0cbc30f76cc7.png" ,CostadelSol TV
+http://kuchini.site:8080/b12515fa/f176763b4e/295246
+#EXTINF:-1 group-title="Spain ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/7cc1f903dc011edc61c9790330d4b039.jpg" ,Enlace TV
+http://kuchini.site:8080/b12515fa/f176763b4e/285914
+#EXTINF:-1 group-title="Spain ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/b0e4445ee0db0e29c515cebb44e0f738.png" ,Hit TV
+http://kuchini.site:8080/b12515fa/f176763b4e/281789
+#EXTINF:-1 group-title="Spain ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/eb2c075b206e452cd2726da805356cf5.png" ,Ibiza Global TV
+http://kuchini.site:8080/b12515fa/f176763b4e/285763
+#EXTINF:-1 group-title="Spain ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/ab5da439d14bf891a27395f4592a1da5.png" ,MTV
+http://kuchini.site:8080/b12515fa/f176763b4e/29307
+#EXTINF:-1 group-title="Spain ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/29c1e128ba3a6e05e3fd3e529e63f435.png" ,MTV Espana
+http://kuchini.site:8080/b12515fa/f176763b4e/5308
+#EXTINF:-1 group-title="Spain ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/51acf582039c8597fe72c5906943a67e.png" ,Sol Musica
+http://kuchini.site:8080/b12515fa/f176763b4e/168991
+#EXTINF:-1 group-title="Spain ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/293a7828fa91ed640a81433b830312b7.png" ,324 Cat
+http://kuchini.site:8080/b12515fa/f176763b4e/165149
+#EXTINF:-1 group-title="Spain ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/e3d87f3f90695dac322b55c9ad941e79.png" ,Bailen TV
+http://kuchini.site:8080/b12515fa/f176763b4e/285732
+#EXTINF:-1 group-title="Spain ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/376757098c4f911e9242316d025d3756.png" ,Bloomberg TV EMEA Live Event
+http://kuchini.site:8080/b12515fa/f176763b4e/285720
+#EXTINF:-1 group-title="Spain ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/f1b59bb4c905f7d7a6ac45525311004f.png" ,Bloomberg TV Europe
+http://kuchini.site:8080/b12515fa/f176763b4e/285843
+#EXTINF:-1 group-title="Spain ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ed51eda47ce082e6ab48b65848b7bc2c.png" ,CNN en Espanol
+http://kuchini.site:8080/b12515fa/f176763b4e/31762
+#EXTINF:-1 group-title="Spain ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/384bdebd39d8bebceda16e1240cca388.png" ,Congreso de los Diputados 1
+http://kuchini.site:8080/b12515fa/f176763b4e/285747
+#EXTINF:-1 group-title="Spain ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/4ec65080bfcfc20b83ac8cb2e2fbd4be.png" ,Congreso de los Diputados 2
+http://kuchini.site:8080/b12515fa/f176763b4e/285748
+#EXTINF:-1 group-title="Spain ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/76103308b1688306b644271e94355dfd.png" ,Congreso de los Diputados 3
+http://kuchini.site:8080/b12515fa/f176763b4e/285749
+#EXTINF:-1 group-title="Spain ➾ News" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,Congreso de los Diputados 4
+http://kuchini.site:8080/b12515fa/f176763b4e/285750
+#EXTINF:-1 group-title="Spain ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/956eb27b1eb1bde607c78f9ae6cd8a02.png" ,Congreso de los Diputados 5
+http://kuchini.site:8080/b12515fa/f176763b4e/285751
+#EXTINF:-1 group-title="Spain ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/822ce6f0945493fe8c121d8e98e31a7a.png" ,euronews en Espanol
+http://kuchini.site:8080/b12515fa/f176763b4e/282292
+#EXTINF:-1 group-title="Spain ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7ea130cc3a9970f58dc065142be9ff96.png" ,France 24
+http://kuchini.site:8080/b12515fa/f176763b4e/9148
+#EXTINF:-1 group-title="Spain ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ddccaaa4a4361f253c7c1ec57d8af52.png" ,Hola TV
+http://kuchini.site:8080/b12515fa/f176763b4e/3061
+#EXTINF:-1 group-title="Spain ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/cfe496ec070f6d3a3c320e1d2c1fd787.png" ,NTV Europe
+http://kuchini.site:8080/b12515fa/f176763b4e/285846
+#EXTINF:-1 group-title="Spain ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/088d8ae78f9ade209be278d3e978c7dc.png" ,Ready TV
+http://kuchini.site:8080/b12515fa/f176763b4e/281799
+#EXTINF:-1 group-title="Spain ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/d0e480ee3a1003ca35a0b12936c604c8.png" ,RT Español
+http://kuchini.site:8080/b12515fa/f176763b4e/166663
+#EXTINF:-1 group-title="Spain ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/e48ba1b3e3be5c4adeaeca5feebedee6.jpeg" ,RTVE Noticias
+http://kuchini.site:8080/b12515fa/f176763b4e/296504
+#EXTINF:-1 group-title="Spain ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4d2a8759886f8d86a7658da37f9926af.png" ,TV3 Catalunya
+http://kuchini.site:8080/b12515fa/f176763b4e/9367
+#EXTINF:-1 group-title="Spain ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/bb5c0f3cbd298ff324d35af408d0128c.jpg" ,TVE Internacional América 1
+http://kuchini.site:8080/b12515fa/f176763b4e/49480
+#EXTINF:-1 group-title="Spain ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/f1ae50725dffdd143c3a3100e34399ba.png" ,TVE Internacional Europa
+http://kuchini.site:8080/b12515fa/f176763b4e/5943
+#EXTINF:-1 group-title="Spain ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e5906bbed37a53f28eee2ecf0a04a7d3.png" tvg-id="la1.es" ,TVE La 1 Madrid
+http://kuchini.site:8080/b12515fa/f176763b4e/1151
+#EXTINF:-1 group-title="Spain ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/252d3299b957541290975cddc50f595e.jpg" ,TVG 2
+http://kuchini.site:8080/b12515fa/f176763b4e/281802
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/df7cee210286e5178a276bf27eb31b05.png" ,8TV Madrid
+http://kuchini.site:8080/b12515fa/f176763b4e/75902
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2ee103ec1d0a814e0e0b31cd2b03b35d.png" tvg-id="aande.es" ,A&E
+http://kuchini.site:8080/b12515fa/f176763b4e/7731
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/b2b830d75a0869caf54c795029de436f.png" ,A3 Cine
+http://kuchini.site:8080/b12515fa/f176763b4e/283299
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3e8da71a24605361a34cc39144648101.png" tvg-id="amc.es" ,AMC
+http://kuchini.site:8080/b12515fa/f176763b4e/1174
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e3240330cb88d6a9880ac11d9d09ec8c.png" ,Atreseries
+http://kuchini.site:8080/b12515fa/f176763b4e/9102
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4b866d9fef524fa206acd7951f852b25.png" tvg-id="axn.es" ,AXN
+http://kuchini.site:8080/b12515fa/f176763b4e/1172
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/00b652e792492b5283d751cd0f17d618.png" tvg-id="axnwhite.es" ,AXN White
+http://kuchini.site:8080/b12515fa/f176763b4e/1171
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4d62b5fba837f0f26a56cf9bf7eaeaf4.png" tvg-id="bemad.es" ,Be Mad
+http://kuchini.site:8080/b12515fa/f176763b4e/2213
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/6a0a43d563ee54936c256ed5a6fa3c09.png" ,Bom Cine
+http://kuchini.site:8080/b12515fa/f176763b4e/75926
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/eb37e4ab523860367af90cc91ccd0cc3.png" tvg-id="calle13.es" ,Calle 13
+http://kuchini.site:8080/b12515fa/f176763b4e/1168
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c73c2ebbf54973444442514e503aee41.png" tvg-id="hollywood.es" ,Canal Hollywood
+http://kuchini.site:8080/b12515fa/f176763b4e/1154
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/eb9568c0b214316b5cdac6d8014b725c.png" ,Canal Sierra de Cadiz
+http://kuchini.site:8080/b12515fa/f176763b4e/285744
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/db6dade6b271dd39ebb5e9fedc50c9a6.png" tvg-id="comedycentral.es" ,Comedy Central
+http://kuchini.site:8080/b12515fa/f176763b4e/1164
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/54105373185aef75593582f1f169e83a.png" tvg-id="cosmo.es" ,Cosmopolitan TV
+http://kuchini.site:8080/b12515fa/f176763b4e/2215
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9716e02c572ed87f290c388a94ee05d6.png" tvg-id="crimeinvestigation.es" ,Crime+ Investigation
+http://kuchini.site:8080/b12515fa/f176763b4e/5292
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5f60257e029877f2a28a803b818e3787.png" ,Dark
+http://kuchini.site:8080/b12515fa/f176763b4e/121514
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3fc73f3c664e7a9f6d4cb5e55d8b1478.png" ,DMAX
+http://kuchini.site:8080/b12515fa/f176763b4e/2762
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9eec48e53d9b3298e44a9219d4f9b4b2.png" tvg-id="energy.es" ,Energy
+http://kuchini.site:8080/b12515fa/f176763b4e/2217
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5b41469eee212c964b5360414d4c2dbf.png" ,Factoria de Ficcion
+http://kuchini.site:8080/b12515fa/f176763b4e/2207
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e327489a02855d7d55521d92c8874877.png" tvg-id="fox.es" ,FOX
+http://kuchini.site:8080/b12515fa/f176763b4e/1158
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/cfccdca6f2eced38d196f713dccf7f2d.png" ,Fox Life
+http://kuchini.site:8080/b12515fa/f176763b4e/295164
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/976acf130ccf46f13c6e2ccce64d3a75.png" ,HBO
+http://kuchini.site:8080/b12515fa/f176763b4e/285191
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/85e0cf48a4bbd14f52259279b78d8eb3.jpg" ,HBO Signature
+http://kuchini.site:8080/b12515fa/f176763b4e/91989
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/b889a82dd64a92a000158b5cb3e60ba3.png" ,HBO Xtreme
+http://kuchini.site:8080/b12515fa/f176763b4e/285192
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a3f49074be2fa2a463d5ee69a1bd9407.png" tvg-id="movistaraccion.es" ,MOVISTAR Accion
+http://kuchini.site:8080/b12515fa/f176763b4e/1148
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/af80011ddf4907c81029f3e2763899e4.png" ,MOVISTAR Cine Espanol
+http://kuchini.site:8080/b12515fa/f176763b4e/64788
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/6706f3336be6e8d27241cade06bedf5b.png" ,MOVISTAR Clasicos
+http://kuchini.site:8080/b12515fa/f176763b4e/281773
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d016c40c3fd7ebe0a22e96e1a9fb3825.png" tvg-id="movistarcomedia.es" ,MOVISTAR Comedia
+http://kuchini.site:8080/b12515fa/f176763b4e/1146
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cf0b506006f12487ce7053315e6ea049.png" tvg-id="moviestardrama.es" ,MOVISTAR Drama
+http://kuchini.site:8080/b12515fa/f176763b4e/1144
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/50a1f5aeede4140f8b19d307c64024af.png" tvg-id="movistarestrenos.es" ,MOVISTAR Estrenos
+http://kuchini.site:8080/b12515fa/f176763b4e/1143
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/edea034a4bb268a8f68c40f9584371ac.png" ,MOVISTAR Estrenos 2
+http://kuchini.site:8080/b12515fa/f176763b4e/295135
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/f782b985534dade52b7ed5e6e0e158d6.jpg" ,MOVISTAR Fest
+http://kuchini.site:8080/b12515fa/f176763b4e/168992
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e18469bf107fe1dec514244c50b2c2ed.png" tvg-id="movistarseries.es" ,MOVISTAR Series
+http://kuchini.site:8080/b12515fa/f176763b4e/1140
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/232233041bb3162468c17ee19edd0ecc.png" tvg-id="movistarseriesmania.es" ,MOVISTAR Series 2
+http://kuchini.site:8080/b12515fa/f176763b4e/1139
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5b3a6fb4467acc43181b4e9edaa4c577.png" tvg-id="nova.es" ,Nova
+http://kuchini.site:8080/b12515fa/f176763b4e/2189
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/fa6f5888174acc1383fe43a75aafc633.png" ,Popular TV Melilla
+http://kuchini.site:8080/b12515fa/f176763b4e/270090
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8c9b6e1822e83358ef5b941833b1eb62.png" ,Somos
+http://kuchini.site:8080/b12515fa/f176763b4e/16274
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/fdf9f8fe0f636fa1b68de3ed7471b5bf.png" ,Star TVE
+http://kuchini.site:8080/b12515fa/f176763b4e/285188
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/9f0db7298ca7f2ea0900ffe65daadb68.png" ,XTRM
+http://kuchini.site:8080/b12515fa/f176763b4e/11148
+#EXTINF:-1 group-title="Spain ➾ Food" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce9f53f9a703bfe101d2d59bddce21c0.png" tvg-id="canalcocina.es" ,Canal Cocina
+http://kuchini.site:8080/b12515fa/f176763b4e/1167
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b76d5fd8eaf1f160ecb6f306351c0bbd.png" tvg-id="#0.es" ,#0
+http://kuchini.site:8080/b12515fa/f176763b4e/2146
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/698e77022b116a10ba33505e5457fd61.png" ,7 La Rioja
+http://kuchini.site:8080/b12515fa/f176763b4e/285723
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,7 Noticias
+http://kuchini.site:8080/b12515fa/f176763b4e/283875
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/7969388d83444a90a60f6d58f6d755c6.png" ,101 Tele Antequera
+http://kuchini.site:8080/b12515fa/f176763b4e/285722
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/2b3115ee43bbcc5f8c3d6e47e079276b.png" ,101 TV Malaga
+http://kuchini.site:8080/b12515fa/f176763b4e/146345
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/f526ee7db78709e46cd232307cdc90de.png" ,A Punt
+http://kuchini.site:8080/b12515fa/f176763b4e/146343
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/20fbd698ba0f4ac0fd5027ae3730b26f.png" ,AFV Espanol
+http://kuchini.site:8080/b12515fa/f176763b4e/284259
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/f6f125f7a752024acd8e847200d75cb8.png" ,Alacanti TV
+http://kuchini.site:8080/b12515fa/f176763b4e/66947
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8e5ebe505b03299cad62b100c5534114.png" ,Alcarria TV
+http://kuchini.site:8080/b12515fa/f176763b4e/12153
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7d6d9bf832a0b925f5ec4de7d91dcd96.png" ,Antena 3
+http://kuchini.site:8080/b12515fa/f176763b4e/1173
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/abededaf4cd8c48665cfa1d7c7caee96.png" ,Aragon TV Internacional
+http://kuchini.site:8080/b12515fa/f176763b4e/2758
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/d128dd4114a7cd1fa14197724b943e58.png" ,beteve
+http://kuchini.site:8080/b12515fa/f176763b4e/285834
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/59e6d62163d4e8a9a21e6f3cf1152a30.png" tvg-id="blaze.es" ,Blaze
+http://kuchini.site:8080/b12515fa/f176763b4e/5303
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/2043470c5328db4173f7ddf99aedb777.png" ,Canal 25 Barbastro
+http://kuchini.site:8080/b12515fa/f176763b4e/146340
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cceafe973ecd05991d6110b172af7a23.jpg" ,Canal 56
+http://kuchini.site:8080/b12515fa/f176763b4e/270088
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/21428e4af9751561b721aace0a5bfed6.png" ,Canal Diocesano
+http://kuchini.site:8080/b12515fa/f176763b4e/285741
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/47589187e982b5e3975a59f045cc8c63.png" ,Canal Extremadura
+http://kuchini.site:8080/b12515fa/f176763b4e/11776
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ee0005b7bb187dca55aa851e740cf8cd.jpg" ,Canal Malaga
+http://kuchini.site:8080/b12515fa/f176763b4e/12139
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/dd7a7835c9d49c8e8e343fb0fc0c94ed.png" ,Canal San Roque
+http://kuchini.site:8080/b12515fa/f176763b4e/64943
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/f758c4a1b19248e403991d20eecffd7f.png" ,Canal Super 3
+http://kuchini.site:8080/b12515fa/f176763b4e/285745
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f6f8c4144320c781876e84ec0a4e4c1e.png" ,Caza y Pesca
+http://kuchini.site:8080/b12515fa/f176763b4e/1165
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/acd07ea43d2313a1f42e16375f7a794b.png" tvg-id="cuatro.es" ,Cuatro
+http://kuchini.site:8080/b12515fa/f176763b4e/1163
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3ef6cee1d32af51c61e1f1e60acd6f42.png" ,Decasa
+http://kuchini.site:8080/b12515fa/f176763b4e/2771
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/71106794d78a85cfb4701890feac9baf.png" ,Diez TV
+http://kuchini.site:8080/b12515fa/f176763b4e/269929
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5f5ece61f319b103a0247b8c3ae55313.png" tvg-id="divinity.es" ,Divinity
+http://kuchini.site:8080/b12515fa/f176763b4e/2795
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/1929c2172bf7dc3ee064eab8a7f74331.png" ,El Toro TV
+http://kuchini.site:8080/b12515fa/f176763b4e/201928
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/93c1b6e28b9f3964cb15a2779ba982c6.png" ,Esperanza TV
+http://kuchini.site:8080/b12515fa/f176763b4e/11119
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/9e0b8b297c29e30924d1047ec218633f.png" ,ETB Basque
+http://kuchini.site:8080/b12515fa/f176763b4e/50135
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/90ffb09d67a4fa6cfa62afb70e75e3b6.jpg" ,Girona TV
+http://kuchini.site:8080/b12515fa/f176763b4e/174484
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/276d176a621d55fceda69853afb3a9dc.png" ,Hiperconectados TV
+http://kuchini.site:8080/b12515fa/f176763b4e/285916
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/f8f2d34eb5319be7cc848a79eb844989.png" ,Imas TV
+http://kuchini.site:8080/b12515fa/f176763b4e/269931
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/cdac828371f1bc05e69da9d1688cf1b3.png" ,Inter Almeria
+http://kuchini.site:8080/b12515fa/f176763b4e/81640
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,LA 7
+http://kuchini.site:8080/b12515fa/f176763b4e/285768
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,La 8
+http://kuchini.site:8080/b12515fa/f176763b4e/285770
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/13119c5cb29cb9d2a26d49f33c387374.png" ,La Otra
+http://kuchini.site:8080/b12515fa/f176763b4e/145616
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ac2bcfa19f6d1e4930d52d1000a32405.png" tvg-id="lasexta.es" ,La Sexta
+http://kuchini.site:8080/b12515fa/f176763b4e/1152
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/1f66bc0966a9eaa347ad77dbec125d56.png" ,Lancelot TV
+http://kuchini.site:8080/b12515fa/f176763b4e/12159
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4df3dbcc107c1b6aaa4ad31d4e935bbe.png" ,Levante TV
+http://kuchini.site:8080/b12515fa/f176763b4e/146658
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/4c3b1d763d904aa50431a94771210f24.png" ,Logos TV
+http://kuchini.site:8080/b12515fa/f176763b4e/281790
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/8d55cd1b13f1a4959108bfbe46499ca8.png" ,Maestrat TV
+http://kuchini.site:8080/b12515fa/f176763b4e/285784
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/a593ab94031afc33dd7e904d794c9b08.png" ,Mar TV
+http://kuchini.site:8080/b12515fa/f176763b4e/166347
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/59d8ed19127c01bddc81c93d827536dd.jpg" ,Marbella TV
+http://kuchini.site:8080/b12515fa/f176763b4e/174751
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/2b2dc1c8e5e956b64dfd6f8cc09b7cbf.png" ,Mirame TV
+http://kuchini.site:8080/b12515fa/f176763b4e/285786
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/9469cfef933b9572c60924f446ae6104.png" ,Molahits TV
+http://kuchini.site:8080/b12515fa/f176763b4e/281793
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-11/0f3011bf3bef15d3ab6682250a2ec21f.png" ,MOVISTAR La Resistencia
+http://kuchini.site:8080/b12515fa/f176763b4e/286800
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/4db037f1b4667ae311f6736f4294448e.png" ,Navarra TV
+http://kuchini.site:8080/b12515fa/f176763b4e/146410
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5e420b08a7eaf0983e26f2e5d9f51764.png" tvg-id="neox.es" ,NEOX
+http://kuchini.site:8080/b12515fa/f176763b4e/2208
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/72015cfe7eec392a0e138ead0f0947d0.png" ,Oizmendi Telebista
+http://kuchini.site:8080/b12515fa/f176763b4e/285790
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/8e8fba4aa19446fb14243852a6fd1790.png" ,Onda Algeciras TV
+http://kuchini.site:8080/b12515fa/f176763b4e/269932
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/af2a2ce6ea374131378fdbe2386d0910.png" ,Onda Cadiz
+http://kuchini.site:8080/b12515fa/f176763b4e/66953
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/7722046ea70b0b4b8c4fdefd5bfba703.png" ,Portal Foxmix
+http://kuchini.site:8080/b12515fa/f176763b4e/295008
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/8b5f2898f61c18a40b8e00c9001b07ac.png" ,Sofy TV
+http://kuchini.site:8080/b12515fa/f176763b4e/285809
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/747286dfc3b254abd7fbaa3853ebc797.png" ,Solidaria TV
+http://kuchini.site:8080/b12515fa/f176763b4e/285810
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/5a8a2ac41be28c7f92a6201e1bd791a7.png" ,Sophia TV
+http://kuchini.site:8080/b12515fa/f176763b4e/285811
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/388566485ec32c94f7d47987ebbdf1cb.png" ,TV Castilla La Mancha
+http://kuchini.site:8080/b12515fa/f176763b4e/169000
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/705734e67f8071b8e7797cd1445e0614.png" ,TV Vega Baja
+http://kuchini.site:8080/b12515fa/f176763b4e/269915
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/5d184eef8f8fe9a178208108e654598b.png" ,TV5 Limares
+http://kuchini.site:8080/b12515fa/f176763b4e/285819
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/fac857ee67577b99096ee8c1af586b37.png" ,TVG Cultural
+http://kuchini.site:8080/b12515fa/f176763b4e/71536
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/2f0e34d017a0ebf4572ebbabaa40fbda.png" ,TVG Infantil
+http://kuchini.site:8080/b12515fa/f176763b4e/281806
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/3a84632c5d121bea740a5fdc2678edd0.png" ,TVG Musigal
+http://kuchini.site:8080/b12515fa/f176763b4e/281808
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/81d15e5ac2ba45feeedb488788d8dc7c.svg" ,Ubeat
+http://kuchini.site:8080/b12515fa/f176763b4e/147368
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7e7ac7b84d7fd98286f5afbba86010cf.png" tvg-id="viajar.es" ,Viajar
+http://kuchini.site:8080/b12515fa/f176763b4e/2776
+#EXTINF:-1 group-title="Spain ➾ Nature" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/0cd58568602064743ff6004964aaece8.png" ,Canal Odisea
+http://kuchini.site:8080/b12515fa/f176763b4e/2194
+#EXTINF:-1 group-title="Spain ➾ Nature" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2581392edd071e491dd76535b6c588d4.png" tvg-id="iberaliatv.es" ,Iberalia TV
+http://kuchini.site:8080/b12515fa/f176763b4e/2793
+#EXTINF:-1 group-title="Spain ➾ Nature" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e3b9d45a12bb5904d2de532e80d45214.png" tvg-id="natgeowild.es" ,NAT GEO Wild
+http://kuchini.site:8080/b12515fa/f176763b4e/1137
+#EXTINF:-1 group-title="Spain ➾ Documentary" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a5b8aa33e79a329ab8f7b4c6a6f299cc.png" tvg-id="discoverychannel.es" ,Discovery World
+http://kuchini.site:8080/b12515fa/f176763b4e/1162
+#EXTINF:-1 group-title="Spain ➾ Documentary" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/672158c1d2769e8fd607c8d7faeff387.png" ,Distrito TV
+http://kuchini.site:8080/b12515fa/f176763b4e/201938
+#EXTINF:-1 group-title="Spain ➾ Documentary" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/342b26427208b2b782a0855d4570fe03.png" tvg-id="historia.es" ,History
+http://kuchini.site:8080/b12515fa/f176763b4e/1155
+#EXTINF:-1 group-title="Spain ➾ Documentary" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a803d238410485830062214859e54978.png" ,Investigation Discovery
+http://kuchini.site:8080/b12515fa/f176763b4e/27790
+#EXTINF:-1 group-title="Spain ➾ Documentary" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c9bd97d34c99d34b65b51948c6780f3b.png" tvg-id="natgeo.es" ,NAT GEO
+http://kuchini.site:8080/b12515fa/f176763b4e/1138
+#EXTINF:-1 group-title="Spain ➾ Documentary" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/f8c4059f43a5edc2586ffa36bd305d28.png" ,RTVC
+http://kuchini.site:8080/b12515fa/f176763b4e/11809
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/aab581550279e56c78f6907c2c41197f.png" tvg-id="vamos.es" ,#VAMOS
+http://kuchini.site:8080/b12515fa/f176763b4e/2148
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id="24horas.es" ,+24
+http://kuchini.site:8080/b12515fa/f176763b4e/285721
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/589c767403128ebc3f839aecacb52e70.png" ,Canal 10 Emporda
+http://kuchini.site:8080/b12515fa/f176763b4e/285737
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8e1f33920e5a5e1832ddd8fb7e69ee3a.png" tvg-id="24horas.es" ,Canal 24 Horas
+http://kuchini.site:8080/b12515fa/f176763b4e/2216
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/91fa434b56816b425920b27c94d78d93.png" ,Cultura 24 TV
+http://kuchini.site:8080/b12515fa/f176763b4e/197864
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/0b1cecd26db2672961160340951caf89.png" ,El 33
+http://kuchini.site:8080/b12515fa/f176763b4e/294892
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/8001eedd35de43149a920591e6cb2080.png" ,EL Pinguino TV
+http://kuchini.site:8080/b12515fa/f176763b4e/53887
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/d2530efad7ccb2c3437f98504bf280d7.jpg" ,Fibwi TV
+http://kuchini.site:8080/b12515fa/f176763b4e/296941
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1dc5d2437598b17f99bbbdbe8e309037.png" ,Galicia TV
+http://kuchini.site:8080/b12515fa/f176763b4e/2192
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/a7c14fd2505d67d23a3b7d31d63326da.png" ,GCM TV
+http://kuchini.site:8080/b12515fa/f176763b4e/285760
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/2f13b8988146a2ab11c3b5bb49f267ef.png" ,Goiena Eus
+http://kuchini.site:8080/b12515fa/f176763b4e/285761
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/7ae2b23972da8518c6ac18a192581947.png" tvg-id="gol.es" ,Gol
+http://kuchini.site:8080/b12515fa/f176763b4e/1156
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/df6495ddbc6ae04e870112469438bda7.png" ,La URBAN TV
+http://kuchini.site:8080/b12515fa/f176763b4e/285780
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/057b4e7cbec3812a2dfeaa2dcacd5366.png" ,MavTV Europe
+http://kuchini.site:8080/b12515fa/f176763b4e/285845
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e27155f9dc6758a2bc2fb2b510b5006a.png" tvg-id="mega.es" ,Mega
+http://kuchini.site:8080/b12515fa/f176763b4e/2190
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/8f8a161557c55e7bc8f2672ed1a19ce2.png" ,Melilla TV
+http://kuchini.site:8080/b12515fa/f176763b4e/270089
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/3b297e721d9d7f35d0faa1b1d7a4a684.jpg" ,Microvision 10
+http://kuchini.site:8080/b12515fa/f176763b4e/148715
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/cfb9e3a05ca4b0452cbcd5bece3485f0.png" ,MOVISTAR Deportes
+http://kuchini.site:8080/b12515fa/f176763b4e/227121
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/94066c6ba9258ffcca2b523d4bb15503.png" ,MOVISTAR Deportes 5
+http://kuchini.site:8080/b12515fa/f176763b4e/285690
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/e75a0e864a8daae27d3c86a3af556102.png" ,MOVISTAR Deportes 6
+http://kuchini.site:8080/b12515fa/f176763b4e/198066
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/e9b28907a1672b90b8f4262f200c7197.png" ,Punt 3 Vall Uixo
+http://kuchini.site:8080/b12515fa/f176763b4e/269913
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/54a11d651a6e9a0e3f235874f7e09626.png" ,Rakuten 1
+http://kuchini.site:8080/b12515fa/f176763b4e/285802
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,Rakuten 2
+http://kuchini.site:8080/b12515fa/f176763b4e/285803
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/f5cebb68654337bd446888464af3ed5b.jpg" ,Rakuten 3
+http://kuchini.site:8080/b12515fa/f176763b4e/285804
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,Rakuten 6
+http://kuchini.site:8080/b12515fa/f176763b4e/285805
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,Rakuten 7
+http://kuchini.site:8080/b12515fa/f176763b4e/285806
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,Rakuten Family
+http://kuchini.site:8080/b12515fa/f176763b4e/285801
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/97622498c703a53c3a8fb1e01a65a46e.png" ,Sundance TV
+http://kuchini.site:8080/b12515fa/f176763b4e/2757
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0d9c92679582d6c231ae5682d674104f.png" tvg-id="syfy.es" ,SYFY
+http://kuchini.site:8080/b12515fa/f176763b4e/1135
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/422a7522a6687373048ce8c0f84615bf.png" tvg-id="tcm.es" ,TCM
+http://kuchini.site:8080/b12515fa/f176763b4e/1134
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/bfe3d46733ef85810b82933f1f0d43d9.png" ,Tele Safor
+http://kuchini.site:8080/b12515fa/f176763b4e/50133
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e30d6e2da13306ab5d858ec08ced2d6f.png" tvg-id="telecinco.es" ,Telecinco
+http://kuchini.site:8080/b12515fa/f176763b4e/1133
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/67b4e401c171416a673fb3c72d074701.png" tvg-id="teledeporte.es" ,Teledeporte
+http://kuchini.site:8080/b12515fa/f176763b4e/2774
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/8cd8221c0efe5eac3f166bf75ac70dfb.png" ,Teleonuba
+http://kuchini.site:8080/b12515fa/f176763b4e/145619
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/de6b41bcec3ed5c0fd8a761bb90f6d20.png" ,TeleRibera
+http://kuchini.site:8080/b12515fa/f176763b4e/285823
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/3aef8e4dccfba0a77bd93a64bb82fd11.png" ,TeleVigo
+http://kuchini.site:8080/b12515fa/f176763b4e/285825
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2dbbe518daac468a3c136de76bd93820.jpg" ,Ten
+http://kuchini.site:8080/b12515fa/f176763b4e/5306
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/54b8cd0d357dd03494cd92c84ae6c9d1.png" ,Teve Cat
+http://kuchini.site:8080/b12515fa/f176763b4e/285835
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c64a02fc01a7b20056e5829979cf5503.png" tvg-id="tnt.es" ,TNT
+http://kuchini.site:8080/b12515fa/f176763b4e/2187
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/770c6e3c788d7955345deea0ce712e55.png" tvg-id="toros.es" ,Toros TV
+http://kuchini.site:8080/b12515fa/f176763b4e/1132
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/6f97771e1e10808e00438fff87521ee3.png" ,Trece TV
+http://kuchini.site:8080/b12515fa/f176763b4e/60943
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ec48701d1306463c043b2e6c0cd9be25.png" ,TV 4 La Vall
+http://kuchini.site:8080/b12515fa/f176763b4e/270092
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c9d91abdf7030eabf63c8781012882b9.png" tvg-id="la2.es" ,TVE La 2
+http://kuchini.site:8080/b12515fa/f176763b4e/1150

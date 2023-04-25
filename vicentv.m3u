@@ -1,29 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="EVENTOS" ,MUNDOTORO HD
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117206
-EXTINF:-1 group-title="EVENTOS" ,MUNDOTORO HD
-http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/96430
-EXTINF:-1 group-title="EVENTOS" ,MUNDOTORO HD
-http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/96431
 
-
-EXTINF:-1 group-title="EVENTOS" tvg-id="Toros,Toros"
+#EXTINF:-1 group-title="EVENTOS" tvg-id="Toros,Toros"
 acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
 
-EXTINF:-1 group-title="EVENTOS" tvg-id="Toros,Toros
+#EXTINF:-1 group-title="EVENTOS" tvg-id="Toros,Toros
 acestream://b4309e419a75cd25c32ab0d8d6e8095d85274eb8
 
-EXTINF:-1 group-title="EVENTOS" tvg-id="Toros,Toros
+#EXTINF:-1 group-title="EVENTOS" tvg-id="Toros,Toros
 acestream://94e1defacf6eb242dd7bf441138c16a8e835c84d
 
-EXTINF:-1 group-title="EVENTOS" tvg-id="Toros,Toros
+#EXTINF:-1 group-title="EVENTOS" tvg-id="Toros,Toros
 acestream://998732c1fbbae8be05fd2306e6265c3af4d3dd6b
 
-EXTINF:-1 group-title="EVENTOS" tvg-id="Toros,Toros
+#EXTINF:-1 group-title="EVENTOS" tvg-id="Toros,Toros
 acestream://fb4b9de0f936142927573c60f19d4a08c4ecae5a
 
-EXTINF:-1 group-title="EVENTOS" tvg-id="Toros,Toros
+#EXTINF:-1 group-title="EVENTOS" tvg-id="Toros,Toros
 acestream://8c6a3a49e43b6d05ac93b83fe4a41660caffae01
 
 
@@ -457,15 +450,17 @@ http://iptv2020.ddns.net:25461/Jovi/cKJgq34UO8/210619
 
 #EXTINF:-1 group-title="LISTA TDT" ,MUNDOTORO HD
 http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117206
-EXTINF:-1 group-title="LISTA TDT" ,MUNDOTORO HD
+#EXTINF:-1 group-title="LISTA TDT" ,MUNDOTORO HD
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/96430
+#EXTINF:-1 group-title="LISTA TDT" ,MUNDOTORO HD
 http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/96431
-EXTINF:-1 group-title="LISTA TDT" , MUNDOTORO HD TOROS TV
-http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146931
-EXTINF:-1 group-title="LISTA TDT" ,MUNDOTORO HD
+#EXTINF:-1 group-title="LISTA TDT" ,MUNDOTORO HD
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117206
+#EXTINF:-1 group-title="LISTA TDT" ,MUNDOTORO HD
 http://iptv2020.ddns.net:25461/Jovi/cKJgq34UO8/142425
-EXTINF:-1 group-title="LISTA TDT" ,MUNDOTORO HD
+#EXTINF:-1 group-title="LISTA TDT" ,MUNDOTORO HD
 http://127.0.0.1:6878/ace/m/ec22a984273ce5cae787728e2eff3ce68c0d3bf6/baf6cc1d2b91c2ab3f1cac3cb6fe654a.m3u8
-EXTINF:-1 group-title="LISTA TDT" tvg-logo="https://docdog.top/Logotv/countries/spain/toros-es.png" ,EL TORO
+#EXTINF:-1 group-title="LISTA TDT" tvg-logo="https://docdog.top/Logotv/countries/spain/toros-es.png" ,EL TORO
 F89.0.4389.72%20Safari%2F537.36&ads.app_bundle=com.plexapp.desktop&ads.app_store_url=https%3A%2F%2Fapp.plex.tv&ads.gdpr=0&ads.consent=0&ads.device_type=desktop
 
 #EXTINF:-1 group-title="LISTA TDT" tvg-logo="https://docdog.top/Logotv/countries/spain/comedy-central-es.png" ,ES: COMEDY CENTRAL

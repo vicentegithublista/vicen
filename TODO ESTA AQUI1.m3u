@@ -1,0 +1,392 @@
+#EXTM3
+
+#EXTINF:-1 group-title="TODO ESTA AQUI" ,La1
+https://Richi@rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://raw.githubusercontent.com/vicentegithublista/vicen/main/IMG_20230505_125507_351.jpg" ,Mundotoro
+http://lamejor.selfip.org:8000/TV0030/1485/1052?&UserAgenttoken1TxdQUxcJEVhEAAEGBg4BUVJSUAVXUgoBDFYBBgcDXQsFDAEHVlUCVFESHxRATEtSAg5uXVITAgcHBQoGGhAQQVFHZ1sAQwlAVQQKBgAaFRUXClxRFAsJAwMGCAUGBlUFGBdIWwBDCUBUBQIFERQbUhsXVEZYUFRpUFVPW1VXRwhaQFReSENcDDlUVltSVl0VWUEAFhoTUUVEEgNcQ14JHhZXUUYWAEcHRAoRDgYOCRVPQVJbQ19MRE0SAxBzYUceFlBARgEPQAsJXhEMEUxKFU9BWEdpQ11FQEJcU1tXFxAOFwgQSENeAx5vUFldVlxUFwpeWkUTAhQFEhUQW10LW0BaSm0UCFdAXBIBAgQAG0o&UserAgenttoken2eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIxMDk3NDAiLCJzdHJlYW1fc291cmNlIjpudWxsLCJ0YXJnZXRfY29udGFpbmVyIjoiW1wibWt2XCJdIn0
+#EXTINF:-1 group-title="TODO ESTA AQUI" ,Telemadrid
+https://Mmt@telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8
+EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" tvg-id="Telemadrid.TV" tvg-name="Telemadrid" ,Telemadrid
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
+#EXTINF:-1 group-title="TODO ESTA AQUI" ,Andalucia
+https://Richi@cdnlive.codev8.net/rtvalive/smil:channel1.smil/chunklist_b800000.m3u8
+#EXTINF:-1 group-title="TODO ESTA AQUI" ,CMM
+https://Mmt@cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/protocol/https/format/applehttp/flavorIds/1_d2eonh9z,1_s6952vtf,1_fbkg5j4n/a.m3u8
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://pbs.twimg.com/profile_images/1279727978268839938/jSZUiboT_200x200.jpg" tvg-id="LaOtra.TV" tvg-name="LaOtra" ,LaOtra
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Caza-pesca_m%2B.png" tvg-id="Caza y Pesca" , Caza y Pesca
+http://goodtv.nicevcd.xyz:80/live/L07143/3697654/321168.ts
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Caza-pesca_m%2B.png" tvg-id="Cazavision" , Cazavision
+http://goodtv.nicevcd.xyz:80/live/4455/4455/321172.ts
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://www.iberaliago.com/static/images/logo/logo-vertical.png" tvg-id="Iberalia TV" , Iberalia TV caza
+http://goodtv.nicevcd.xyz:80/live/4455/4455/336327.ts
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://www.iberaliago.com/static/images/logo/logo-vertical.png" tvg-id="Iberalia TV" , Iberalia TV pesca
+http://goodtv.nicevcd.xyz:80/live/4455/4455/336330.ts
+#EXTINF:-1 group-title="TODO ESTA AQUI" ,Teledeporte
+https://Richi@ztnr.rtve.es/ztnr/1712295.m3u8
+#EXTINF:-1 group-title="TODO ESTA AQUI" ,Esport3
+https://Richi@directes-tv-es.ccma.cat:443/live-origin/esport3-hls/master.m3u8
+#EXTINF:-1 group-title="TODO ESTA AQUI" ,RealMadrid
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?Mmt
+#EXTINF:-1 group-title="TODO ESTA AQUI" ,WPT
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadeltv-samsungspain/playlist.m3u8
+#EXTINF:-1, Movistar Accion
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4441
+#EXTINF:-1, Movistar Cine Español FHD
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4445
+#EXTINF:-1, Movistar Comedia
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4449
+#EXTINF:-1, Movistar Drama FHD
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4454
+#EXTINF:-1, Movistar Estrenos
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4455
+#EXTINF:-1, Movistar Series
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4458
+#EXTINF:-1, Movistar Seriesmania
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4461
+#EXTINF:-1, Movistar Disney+
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4464
+#EXTINF:-1, MOVISTAR LaLiga 1 FHD
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/15256
+#EXTINF:-1, Movistar Golf
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4466
+#EXTINF:-1, MOVISTAR Vamos HD
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/15222
+#EXTINF:-1, La Liga BAR
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/15220
+#EXTINF:-1, REAL MADRID TV HD
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/15226
+#EXTINF:-1, DAZN 1 FHD
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4479
+#EXTINF:-1, DAZN 2 FHD
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4500
+#EXTINF:-1, DAZN 3 FHD
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4503
+#EXTINF:-1, Eurosport 1
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4467
+#EXTINF:-1, Eurosport 2
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4469
+#EXTINF:-1, Sky Sports Liga Española HD
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4507
+#EXTINF:-1, 24 Horas HD
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4409
+#EXTINF:-1, Clan TV HD
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4410
+#EXTINF:-1, AMC HD
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4415
+#EXTINF:-1, Boing HD
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4416
+#EXTINF:-1, Calle 13 HD
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4417
+#EXTINF:-1, Canal Extremadura TV
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4418
+#EXTINF:-1, Hollywood
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4419
+#EXTINF:-1, Canal Panda
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4420
+#EXTINF:-1, Clan TVE
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4421
+#EXTINF:-1, Comedy Central HD
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4422
+#EXTINF:-1, Crimen Investigacion
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4423
+#EXTINF:-1, Castilla-La Mancha Media
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4424
+#EXTINF:-1, Disney Channel HD
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4425
+#EXTINF:-1, Divinity
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4426
+#EXTINF:-1, DMAX
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4427
+#EXTINF:-1, Energy
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4428
+#EXTINF:-1, ETB 1 HD
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4429
+#EXTINF:-1, ETB 2 HD
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4430
+#EXTINF:-1, FOX
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4431
+#EXTINF:-1, FOX Life
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4434
+#EXTINF:-1, ETB SAT
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4437
+#EXTINF:-1, ETB 2 HD
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4439
+#EXTINF:-1, MEGA HD
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4440
+#EXTINF:-1, MTV España
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4470
+#EXTINF:-1, Neox HD
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4471
+#EXTINF:-1, Nickelodeon HD
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4472
+#EXTINF:-1, Nova
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4473
+#EXTINF:-1, Odisea HD
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4474
+#EXTINF:-1, SyFy HD
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4475
+#EXTINF:-1, Teledeporte FHD
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4477
+#EXTINF:-1, Telemadrid HD
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4478
+#EXTINF:-1, Ten
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4480
+#EXTINF:-1, TVE
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4481
+#EXTINF:-1, Viajar HD
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4482
+#EXTINF:-1, Blaze
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4483
+#EXTINF:-1, Discovery Channel
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4484
+#EXTINF:-1, Historia HD
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4486
+#EXTINF:-1, Nat Geo Wild
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4487
+#EXTINF:-1, National Geographic
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4489
+#EXTINF:-1, SyFy HD
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4491
+#EXTINF:-1, TNT HD
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4492
+#EXTINF:-1, Disney Junior
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4493
+#EXTINF:-1, Nick Jr
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4494
+#EXTINF:-1, Nickelodeon
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4495
+#EXTINF:-1, Canal Panda
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4496
+#EXTINF:-1, Baby TV
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4497
+#EXTINF:-1, Interalmeria FHD
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4498
+#EXTINF:-1, PTV Cordoba HD
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4499
+#EXTINF:-1, Canal Malaga
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4501
+#EXTINF:-1, Aragon TV
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4502
+#EXTINF:-1, Canal 25 Barbastro TV
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4504
+#EXTINF:-1, EL Pinguino TV HD
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4505
+#EXTINF:-1, Popular TV
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4506
+#EXTINF:-1, TV5 Limares 
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/4517
+#EXTINF:-1, CANAL SUR 1 HD
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/15204
+#EXTINF:-1, La Urban TV
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/15208
+#EXTINF:-1, Navarra TV
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/15209
+#EXTINF:-1, Super Radyo DZBB
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/15211
+#EXTINF:-1, A&E
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/15212
+#EXTINF:-1, ANTENA 3 Series FHD
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/15213
+#EXTINF:-1, AXN
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/15214
+#EXTINF:-1, AXN White
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/15215
+#EXTINF:-1, BARCA TV
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/15216
+#EXTINF:-1, COSMO
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/15217
+#EXTINF:-1, Sundance
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/15227
+#EXTINF:-1, TCM
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/15228
+#EXTINF:-1, TV3 FHD
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/15229
+#EXTINF:-1, TVE INTERNACIONAL
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/15230
+#EXTINF:-1, MEZZO LIVE FHD
+http://arisiktv.xyz:8080/Bionic2/mmguG8AMcDqs/15255
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300028OE_20220914T041141SQUARE.png_20220914041142.png" tvg-id="ESBA3300028OE" , iCarly
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/6271503d13aef10007cf15e8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000233H_20220824T005421SQUARE.png_20220824005421.png" tvg-id="ESBA33000233H" , SuperToons TV
+https://83bff381bbfb42e6b3f6c02b68e1170f.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_SuperToonsTV/playlist.m3u8?ads.wurl_channel=639&ads.wurl_name=SuperToonsTV&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300020W5_20220914T041117SQUARE.png_20220914041117.png" tvg-id="ESBA3300020W5" , Caillou
+https://458bf21c34f346cb9d9d22095ddc058f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_WildBrainPresentsCaillou/playlist.m3u8?ads.wurl_channel=665&ads.wurl_name=WildBrainPresentsCaillou&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000262Z_20221026T004517SQUARE.png_20221026004518.png" tvg-id="ESBA33000262Z" , Bob Esponja
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd87d882574170007fac022/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ38000046O_20221026T004503SQUARE.png_20221026004503.png" tvg-id="ESAJ38000046O" , Pluto TV Kids
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a09b16cd4ab0007d24fb8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&ads.coppa=1&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000324U_20230308T021505SQUARE.png_20230308021505.png" tvg-id="ESBA33000324U" , Rugrats
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/633da78e9213e30008004743/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900004ED_20230111T032708SQUARE.png_20230111032709.png" tvg-id="ESBC3900004ED" , Pocoyó
+https://d2ljog9n0w576q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qca6wh0s76e45-ssai-prd/fast-channel-pocoyo.m3u8?stoken=samsung.RmAJK04sh1&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" tvg-id="CadenaS.Radio" tvg-name="Cadena SER" ,Cadena SER
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" tvg-id="OC.Radio" tvg-name="Onda Cero" ,Onda Cero
+https://livefastly-webs.ondacero.es/ondacero/audio/master.m3u8
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://graph.facebook.com/esradio/picture?width=200&height=200" tvg-id="esRadio.Radio" tvg-name="esRadio" ,esRadio
+https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-med.aac
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://graph.facebook.com/RadioMARCA/picture?width=200&height=200" tvg-id="Marca.Radio" tvg-name="Radio Marca" ,Radio Marca
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONAL.mp3
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://graph.facebook.com/los40/picture?width=200&height=200" tvg-id="los40.Radio" tvg-name="LOS40" ,LOS40
+https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://graph.facebook.com/cadenadial/picture?width=200&height=200" tvg-id="CadenaDial.Radio" tvg-name="Cadena Dial" ,Cadena Dial
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://graph.facebook.com/CADENA100/picture?width=200&height=200" tvg-id="Cadena100.Radio" tvg-name="Cadena 100" ,Cadena 100
+https://cadena100-cope.flumotion.com/chunks.m3u8
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://graph.facebook.com/tueuropafm/picture?width=200&height=200" tvg-id="EuropaFM.Radio" tvg-name="Europa FM" ,Europa FM
+https://livefastly-webs.europafm.com/europafm/audio/master.m3u8
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://graph.facebook.com/RockFM/picture?width=200&height=200" tvg-id="RockFM.Radio" tvg-name="Rock FM" ,Rock FM
+https://rockfm-cope.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://graph.facebook.com/Los40Classic.Oficial/picture?width=200&height=200" tvg-id="los40classic.Radio" tvg-name="LOS40 Classic" ,LOS40 Classic
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://graph.facebook.com/kissfm.es/picture?width=200&height=200" tvg-id="KissFm.Radio" tvg-name="Kiss FM" ,Kiss FM
+https://kissfm.kissfmradio.cires21.com/kissfm.mp3
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://graph.facebook.com/radiole/picture?width=200&height=200" tvg-id="Radiole.Radio" tvg-name="Radiolé" ,Radiolé
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE.mp3
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://graph.facebook.com/canallfiesta/picture?width=200&height=200" tvg-id="CanalFiesta.Radio" tvg-name="Canal Fiesta Radio" ,Canal Fiesta Radio
+https://cdnlive.shooowit.net/rtvalive/smil:channel5.smil/master.m3u8
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://graph.facebook.com/hitfm.es/picture?width=200&height=200" tvg-id="HitFM.Radio" tvg-name="Hit FM" ,Hit FM
+https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://graph.facebook.com/MegaStarFM/picture?width=200&height=200" tvg-id="MegaStar.Radio" tvg-name="MegaStar FM" ,MegaStar FM
+https://megastar-cope.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://graph.facebook.com/tumelodiafm/picture?width=200&height=200" tvg-name="Melodía FM" ,Melodía FM
+https://livefastly-webs.melodia-fm.com/melodiafm/audio/master.m3u8
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-id="LocaFM.Radio" tvg-name="Loca FM" ,Loca FM
+http://s3.we4stream.com:8045/live
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://graph.facebook.com/RadioMariaSpa/picture?width=200&height=200" tvg-id="RadioMaria.Radio" tvg-name="Radio María" ,Radio María
+http://dreamsiteradiocp.com:8060/;stream.mp3
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://graph.facebook.com/los40dance/picture?width=200&height=200" tvg-id="los40dance.Radio" tvg-name="LOS40 Dance" ,LOS40 Dance
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE.mp3
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://graph.facebook.com/los40urban/picture?width=200&height=200" tvg-id="los40urban.Radio" tvg-name="LOS40 Urban" ,LOS40 Urban
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://recursosweb.prisaradio.com/fotos/dest/010002743853.jpg" tvg-name="Dial Baladas" ,Dial Baladas
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_03.mp3
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://recursosweb.prisaradio.com/fotos/dest/010002743852.jpg" tvg-name="Dial Esencial" ,Dial Esencial
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_01.mp3
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://recursosweb.prisaradio.com/fotos/dest/010002743851.jpg" tvg-name="Dial Latino" ,Dial Latino
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_02AAC_SC
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Dance" ,Loca FM Dance
+http://s02.fjperezdj.com:8025/live
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Remember" ,Loca FM Remember
+http://s02.fjperezdj.com:8035/live
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM House" ,Loca FM House
+http://s02.fjperezdj.com:8026/live
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Chill out" ,Loca FM Chill out
+http://s02.fjperezdj.com:8006/live
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Tech House" ,Loca FM Tech House
+http://s02.fjperezdj.com:8046/live
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Trance" ,Loca FM Trance
+http://s02.fjperezdj.com:8055/live
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Techno" ,Loca FM Techno
+http://s02.fjperezdj.com:8050/live
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Big Room" ,Loca FM Big Room
+http://s02.fjperezdj.com:8005/live
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Dub Techno" ,Loca FM Dub Techno
+http://s02.fjperezdj.com:8066/live
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Hard" ,Loca FM Hard
+http://s02.fjperezdj.com:8016/live
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Sessions" ,Loca FM Sessions
+http://s02.fjperezdj.com:8095/live
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Ambient" ,Loca FM Ambient
+http://s02.fjperezdj.com:8036/live
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Loca 80's" ,Loca FM Loca 80's
+http://s02.fjperezdj.com:8075/live
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Loca 90's" ,Loca FM Loca 90's
+http://s02.fjperezdj.com:8000/live
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Melodic Techno" ,Loca FM Melodic Techno
+http://s02.fjperezdj.com:8056/live
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Trap" ,Loca FM Trap
+http://s02.fjperezdj.com:8060/live
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Loca Pride" ,Loca FM Loca Pride
+http://s02.fjperezdj.com:8070/live
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Industrial" ,Loca FM Industrial
+http://s02.fjperezdj.com:8076/live
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Drum&Bass" ,Loca FM Drum&Bass
+http://s02.fjperezdj.com:8065/live
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Urban" ,Loca FM Urban
+http://locafm02.we4stream.com:8015/live
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://graph.facebook.com/clasicafmradio/picture?width=200&height=200" tvg-name="Clásica FM Radio" ,Clásica FM Radio
+https://edge.mixlr.com/channel/asnfw
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://graph.facebook.com/digitalhits/picture?width=200&height=200" tvg-name="digitalHits FM" ,digitalHits FM
+http://digitalhits.frilab.com:8000/digitalhits;
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://graph.facebook.com/fmurban/picture?width=200&height=200" tvg-name="La Urban Radio" ,La Urban Radio
+https://st1.urbanrevolution.es:8443/laurbanfm.mp3
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://graph.facebook.com/FlamencoRadio/picture?width=200&height=200" tvg-name="Flamenco Radio" ,Flamenco Radio
+https://cdnlive.shooowit.net/rtvalive/smil:channel7.smil/master.m3u8
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://graph.facebook.com/canallfiesta/picture?width=200&height=200" tvg-id="CanalFiesta.Radio" tvg-name="Canal Fiesta Radio" ,Canal Fiesta Radio
+https://cdnlive.shooowit.net/rtvalive/smil:channel5.smil/master.m3u8
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://graph.facebook.com/web.radiosevillanas/picture?width=200&height=200" tvg-name="Radio Sevillanas" ,Radio Sevillanas
+acestream://0550416ea6d64cf9669fced8ce9aea2713820f6e]
+
+#EXTINF:-1 group-title="TODO ESTA AQUI" ,ES|LA LIGA FHD
+https://s@ds1.sportea.online/stream/ch89/index.fmp4.m3u8
+
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500019AM_20221109T010644SQUARE.png_20221109010644.png" tvg-id="ESAJ4500019AM" , Comedias - Rakuten TV
+https://b1e945c80353459a8dca16651625ad2e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenComedyMovies/playlist.m3u8?ads.wurl_channel=428&ads.wurl_name=RakutenComedyMovies&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ45000181E_20220323T081350SQUARE.png_20220323081353.png" tvg-id="ESAJ45000181E" , Acción - Rakuten TV
+https://fa4510bdf89943b6b69ee3f6ce56da96.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenActionMovies/playlist.m3u8?ads.wurl_channel=427&ads.wurl_name=RakutenActionMovies&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500020V7_20220323T081528SQUARE.png_20220323081531.png" tvg-id="ESAJ4500020V7" , Dramas - Rakuten TV
+https://3de281cc31cf4835a3769dd13743f40c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenTVShows/playlist.m3u8?ads.wurl_channel=429&ads.wurl_name=RakutenTVShows&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700005EE_20221012T021024SQUARE.png_20221012021024.png" tvg-id="ESBC2700005EE" , Películas Top - Rakuten TV
+https://bb761d879d454687ae5b1e58d797cb1b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-es_TopFree/playlist.m3u8?ads.wurl_channel=840&ads.wurl_name=TopFree&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC27000079V_20221109T010947SQUARE.png_20221109010947.png" tvg-id="ESBC27000079V" , Películas Románticas - Rakuten TV
+https://809319b2b7064d85940128773157bd6f.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-es_RakutenRomance/playlist.m3u8?ads.wurl_channel=890&ads.wurl_name=RakutenRomance&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC27000062Q_20221109T010936SQUARE.png_20221109010937.png" tvg-id="ESBC27000062Q" , Cine Español - Rakuten TV
+https://1306133dcf0640fe9a264e1537bb9782.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-es_Local/playlist.m3u8?ads.wurl_channel=794&ads.wurl_name=Local&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500021HQ_20221214T044854SQUARE.png_20221214044855.png" tvg-id="ESAJ4500021HQ" , Documentales - Rakuten TV
+https://bbfb189d0b5442118b9541714950d36c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenSpotlight/playlist.m3u8?ads.wurl_channel=430&ads.wurl_name=RakutenSpotlight&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300017FA_20230208T013037SQUARE.png_20230208013037.png" tvg-id="ESBA3300017FA" , Familiares - Rakuten TV
+https://d8154a7f9a7c43318750859a24fcc504.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenFamily/playlist.m3u8?ads.wurl_channel=718&ads.wurl_name=RakutenFamily&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC400001QQ_20230308T021506SQUARE.png_20230308021507.png" tvg-id="ESBC400001QQ" , Runtime
+https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_es/rt_es.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800004KU_20230308T021514SQUARE.png_20230308021515.png" tvg-id="ESBD800004KU" , Runtime Romance
+https://d3c5d9v98rks92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c7xudvnfq7skl/rr_es.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD8000033W_20230308T021512SQUARE.png_20230308021513.png" tvg-id="ESBD8000033W" , Runtime Comedia
+https://d1w4lf3ohil0ad.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fgcph1khrr3ct/rc_es.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD80000288_20230308T021510SQUARE.png_20230308021511.png" tvg-id="ESBD80000288" , Runtime Acción
+https://d10po0m73eydog.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9veh3t1iih14b/ra_es.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800005C5_20221109T010642SQUARE.png_20221109010642.png" tvg-id="ESAJ3800005C5" , Comedia Made in Spain
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a0a0109d930000711e610/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700002LO_20221214T044911SQUARE.png_20221214044912.png" tvg-id="ESBC2700002LO" , Grjngo - Películas Del Oeste
+https://45e603c214f5438cae8872707b7fd678.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_GrjngoPeliculasDelOeste/playlist.m3u8?ads.wurl_channel=1239&ads.wurl_name=GrjngoPeliculasDelOeste&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700003T8_20220914T041131SQUARE.png_20220914041132.png" tvg-id="ESBC2700003T8" , Bjgtjme - Películas Gratis
+https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8?ads.wurl_channel=1251&ads.wurl_name=BjgtjmePeliculasGratis&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800001KT_20221026T004456SQUARE.png_20221026004457.png" tvg-id="ESAJ3800001KT" , Pluto TV Cine Estelar
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f59f50cc36a94000749fd3f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA2200004G5_20220323T081719SQUARE.png_20220323081722.png" tvg-id="ESBA2200004G5" , MyTime Movie Network
+https://samsunguk-appletree-mytimespain-samsung-es-i6dht.amagi.tv/playlist/samsunguk-appletree-mytimespain-samsung-es/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA2200008NQ_20220323T081455SQUARE.png_20220323081458.png" tvg-id="ESBA2200008NQ" , Cortos
+https://amg00784-shortsinternati-shortstv-fast-spain-samsungspain-osue5.amagi.tv/playlist/amg00784-shortsinternati-shortstv-fast-spain-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&tc_string=%7BTC_STRING%7D
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA2200005D6_20221109T010655SQUARE.png_20221109010655.png" tvg-id="ESBA2200005D6" , Todo Crimen
+https://uksono2-samsung-tsv2-hzn2u.amagi.tv/playlist/samsunguk-uksono-samsunges/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 group-title="TODO ESTA AQUI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA140000504_20220323T082105SQUARE.png_20220323082108.png" tvg-id="ESBA140000504" , Stormcast Novelas
+https://ac864287d62a45c9b168029d11a28e2a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_StormcastNovelas/playlist.m3u8?ads.wurl_channel=1057&ads.wurl_name=StormcastNovelas&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+
+
+
+
+#EXTINF:-1 group-title="4K" tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png" tvg-id="Eleven Sports 1 4K" , Eleven Sports 1 4K
+
+#EXTINF:-1 group-title="4K" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" , SKY F1 4K
+acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
+
+#EXTINF:-1 group-title="4K" tvg-logo="https://pbs.twimg.com/profile_images/1551576769735565312/p29DD_wc_400x400.jpg" tvg-id="NBA TV" , NBA TV 4K.
+acestream://e72d03fb9694164317260f684470be9ab781ed95
+
+#EXTINF:-1 group-title="4K" tvg-logo="https://raw.githubusercontent.com/vicentegithublista/vicen/main/IMG_20230505_125507_351.jpg" tvg-id=",DAZN(E) 4K" 
+acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
+
+#EXTINF:-1 group-title="4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Canal%2B_Sport_2_PL.png/400px-Canal%2B_Sport_2_PL.png" tvg-id="Canal+ 2" , Canal+ Sport 2 4K
+acestream://6390b1ab967a25777ea2dde1d41b7400cc0601d3
+#EXTINF:-1 group-title="4K" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/de/Canal%2B_Sport_3_%282019-.n.v.%29.png/revision/latest?cb=20201129201855" tvg-id="Canal+ 3" , Canal+ Sport 3 4K
+acestream://3e87464ed8c42ed14464461ea08860a3040a8944

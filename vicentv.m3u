@@ -1,11 +1,25 @@
 EXTM3U
 
-#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,M.Originales 1080
-http://757581837380321068.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321068.ts
-
-#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,M.Plus 1080
+#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,REAL MADRID VS ATLETICO MADRID
 acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
 
+#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,REAL MADRID VS ATLETICO MADRID
+acestream://36cad67fed5a739757a9db844a551aa845a8d51b
+
+#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,REAL MADRID VS ATLETICO MADRID
+acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04 
+
+#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,REAL MADRID VS ATLETICO MADRID
+acestream://664eb5fe460b96941aed633959a845b185cd8394
+
+#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,REAL MADRID VS ATLETICO MADRID
+acestream://5e94200ae8b1d95cb559fb150e5993d92e15d4e7
+
+
+
+
+#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,M.Originales 1080
+http://757581837380321068.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321068.ts
 
 
 #EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,Vamos 1080

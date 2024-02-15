@@ -5,16 +5,16 @@ EXTM3U
 
 
 
-#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,SUPERCOPA
+EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,SUPERCOPA
 acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281
 
-#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,SUPERCOPA
+EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,SUPERCOPA
 acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d
 
-#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,SUPERCOPA
+EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,SUPERCOPA
 acestream://7d70685696722c2b1b48a5ae1a7f92c445d9443d
 
-#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,SUPERCOPA
+EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,SUPERCOPA
 acestream://dab7cab5d6d177df36c3b333ca363c2266d91a03
 
 
@@ -180,6 +180,11 @@ acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
 
 #EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,M. Deportes6 OPC.2
 acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
+
+
+
+
+
 
 
 

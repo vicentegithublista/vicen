@@ -2,25 +2,8 @@ EXTM3U
 
 
 
-
-
-
-EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,SUPERCOPA
-acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281
-
-EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,SUPERCOPA
-acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d
-
-EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,SUPERCOPA
-acestream://7d70685696722c2b1b48a5ae1a7f92c445d9443d
-
-EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,SUPERCOPA
-acestream://dab7cab5d6d177df36c3b333ca363c2266d91a03
-
-
-
-
-
+#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,M.Plus 1080
+acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
 
 #EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,M.Originales 1080
 http://757581837380321068.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321068.ts
@@ -34,6 +17,7 @@ acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 
 #EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,Ellas 1080
 acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
+
 
 
 
@@ -53,6 +37,30 @@ acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 
 
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/512px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="M.Liga 1080 Multi" , M. LaLiga 4K OPC.6
+acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/512px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="M.Liga 1080 Multi" , M+ LaLiga2 OPC.1
 acestream://26029f72a4ca831d09deefe89534818db1d105bc
 
@@ -64,6 +72,10 @@ acestream://4c4844564313e39a888f593511f299f5ba3cf929
 
 #EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/512px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="M.Liga 1080 Multi" , M+ LaLiga4 OPC.1
 acestream://aa8f826da70e27a26b29c7b32402f17e8a67a8b0
+
+
+
+
 
 
 
@@ -242,6 +254,10 @@ acestream://c373da9e901d414b7384e671112e64d5a2310c29
 
 #EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,M. Golf 1080
 acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
+
+
+#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,M. Golf2 1080
+acestream://9a4f3ae6563668b7709dac509dedc709441b3fd9
 
 #EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://pbs.twimg.com/profile_images/1551576769735565312/p29DD_wc_400x400.jpg" tvg-id="NBA TV" , NBA TV
 acestream://e72d03fb9694164317260f684470be9ab781ed95
@@ -12261,3 +12277,15 @@ http://757581837380678051.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/678051.mk
 http://757581837380678052.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/678052.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El inmortal S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/NugIC3ZSm0xTS5qOIfk820QdF0.jpg" group-title=" SERIES",El inmortal S01 E08
 http://757581837380678053.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/678053.mkv
+
+EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,SUPERCOPA
+acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281
+
+EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,SUPERCOPA
+acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d
+
+EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,SUPERCOPA
+acestream://7d70685696722c2b1b48a5ae1a7f92c445d9443d
+
+EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,SUPERCOPA
+acestream://dab7cab5d6d177df36c3b333ca363c2266d91a03

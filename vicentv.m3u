@@ -194,6 +194,9 @@ acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
 #EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,EuroSport  1080
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 
+#EXTINF:-1 group-title="ACE_EVENTOS" TVg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" TVg-id="Eurosport 1 GER" ,Eurosport 1 GER
+acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766
+
 #EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,EuroSport 2 1080
 acestream://c373da9e901d414b7384e671112e64d5a2310c29
 
@@ -287,65 +290,31 @@ acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 
 
 
-#EXTINF:-1 group-title="ACE_DEPORTE" TVg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" TVg-id="Eurosport 1" ,Eurosport 1 0p1
-acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
-#EXTINF:-1 group-title="ACE_DEPORTE" TVg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" TVg-id="Eurosport 1 HD" ,Eurosport 1 0p2
-acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766
-
-#EXTINF:-1 group-title="ACE_DEPORTE" TVg-logo="https://i.imgur.com/hmjELEu.png" TVg-id="Eurosport 2 HD" ,Eurosport 2
-acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
 
 
-#EXTINF:-1 group-title="ACE_DEPORTE" TVg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD" TVg-id="M+ #VAMOSHD" TVg-name="VAMOS  FHD" ,#Vamos 0p1
-http://bokiraja.online:2082/movinew/uPEkpZfx4W3R/151639
 
-#EXTINF:-1 group-title="ACE_DEPORTE" TVg-logo="https://i.ibb.co/dgqH0nP/Vamos.jpg" TVg-id="#VAMOS" TVg-name="#Vamos 1080 op1." ,#Vamos 0p2
-acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 
-#EXTINF:-1 group-title="ACE_DEPORTE" TVg-logo="https://i.ibb.co/dgqH0nP/Vamos.jpg" TVg-id="#VAMOS" TVg-name="#Vamos 1080 op1." ,#Ellas
-acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
 
-#EXTINF:-1 group-title="ACE_DEPORTE" TVg-logo="https://www.mundoplus.TV/wiki/_media/logos/mdem1.png" TVg-id="M.DEPORTE 720" ,M.DEPORTE 0p1
-acestream://d00223931b1854163e24c5c22475015d7d45c112
 
-#EXTINF:-1 group-title="ACE_DEPORTE" TVg-logo="https://www.mundoplus.TV/wiki/_media/logos/mdem1.png" TVg-id="M.DEPORTE 720" ,M.DEPORTE 0p2
-acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa
 
-#EXTINF:-1 group-title="ACE_DEPORTE" TVg-logo="https://www.mundoplus.TV/wiki/_media/logos/mdem1.png" TVg-id="M.DEPORTE 1080" ,M.DEPORTE 0p3
-acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
 
-#EXTINF:-1 group-title="ACE_DEPORTE" TVg-logo="https://www.mundoplus.TV/wiki/_media/logos/mdem2.png" TVg-id="DEPORTE,M.DEPORTE2" 
-acestream://f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5
 
-#EXTINF:-1 group-title="ACE_DEPORTE" TVg-logo="https://www.mundoplus.TV/wiki/_media/logos/mdem3.png" TVg-id="M.DEPORTE 4 1080" ,M.DEPORTE3 0p1
-acestream://ecf2096f9f612a70638d644fb621472a3ddaeb20
-#EXTINF:-1 group-title="ACE_DEPORTE" TVg-logo="https://raw.githubusercontent.com/vicentegithublista/vicen/main/IMG_20230505_125507_351.jpg" TVg-id=",M.DEPORTE3 0p2"
-acestream://ecf2096f9f612a70638d644fb621472a3ddaeb20
 
-#EXTINF:-1 group-title="ACE_DEPORTE" TVg-logo="https://raw.githubusercontent.com/vicentegithublista/vicen/main/IMG_20230505_125507_351.jpg" TVg-id=",M.DEPORTE4 0p1"
-acestream://08db089084ddbaceba7c239817407bf99708b9ad
-#EXTINF:-1 group-title="ACE_DEPORTE" TVg-logo="https://www.mundoplus.TV/wiki/_media/logos/mdem4.png" TVg-id="M.DEPORTE 4 1080" ,M.DEPORTE4 0p2
-acestream://08db089084ddbaceba7c239817407bf99708b9ad
 
-#EXTINF:-1 group-title="ACE_DEPORTE" TVg-logo="https://www.mundoplus.TV/wiki/_media/logos/mdem5.png" TVg-id="M.DEPORTE 4 1080" ,M.DEPORTE5 0p1
-acestream://ada5b10ab38ea2ad9f4fc8ccacad89d70af48c3c
-#EXTINF:-1 group-title="ACE_DEPORTE" TVg-logo="https://raw.githubusercontent.com/vicentegithublista/vicen/main/IMG_20230505_125507_351.jpg" TVg-id=",M.DEPORTE5 0p2"
-acestream://ada5b10ab38ea2ad9f4fc8ccacad89d70af48c3c
 
-#EXTINF:-1 group-title="ACE_DEPORTE" TVg-logo="https://www.mundoplus.TV/wiki/_media/logos/mdem6.png" TVg-id="M.DEPORTE 4 1080" ,M.DEPORTE6 
-acestream://f41bd6f3eed3fa2f561e39a9865df8ab354bf486
 
-#EXTINF:-1 group-title="ACE_DEPORTE" TVg-id="M.Golf 1 1080" ,M.Golf 1 
-acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 
-#EXTINF:-1 group-title="ACE_DEPORTE" TVg-id="M.Golf 2 1080" ,M.Golf 2 
-acestream://e5dd056bbcbf637c7fa314288356a8024e426f18
 
-#EXTINF:-1 group-title="ACE_DEPORTE" ,TELEDEPORTE
-acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7
 
-#EXTINF:-1 group-title="ACE_DEPORTE" TVg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVzzdxS82seHmKTq2Uu8_h34bb5wHqae9KWoXo7HTTFoGvCnKV8Q&s" ,ES | La 1 RTVeplay
-https://www.rTVe.es/play/videos/directo/DEPORTE
+
+
+
+
+
+
+
+
+
 
 
 

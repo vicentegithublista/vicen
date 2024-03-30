@@ -1,9 +1,6 @@
 EXTM3U
 
 
-
-
-
 #EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,Vamos 1080
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 
@@ -15,7 +12,8 @@ acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 
 
 
-
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" tvg-id= ,M.Liga TV BAR
+acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 
 #EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/512px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="M.Liga 1080 Multi" , M+ LaLigaTV OPC.1
 acestream://1969c27658d4c8333ab2c0670802546121a774a5
@@ -201,20 +199,6 @@ acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 
 
 
-#EXTINF:-1 group-title="ACE_LIGA" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" tvg-id= ,DAZN LIGA FHD
-acestream://1960a9be8ae9e8c755330218eac4c5805466290a
-
-
-#EXTINF:-1 group-title="ACE_LIGA" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" tvg-id= ,DAZN LIGA FHD1
-acestream://75251ba975132ec9a202806ba5bf606e87280c96
-
-
-#EXTINF:-1 group-title="ACE_LIGA" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" tvg-id= ,DAZN LIGA op1
-acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
-
-
-#EXTINF:-1 group-title="ACE_LIGA" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" tvg-id= ,DAZN LIGA op2
-acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
 
 
 
@@ -226,56 +210,8 @@ acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
 
 
 
-#EXTINF:-1 group-title="ACE_LIGA" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" tvg-id= ,LALIGA TV op1
-acestream://1969c27658d4c8333ab2c0670802546121a774a5
-
-#EXTINF:-1 group-title="ACE_LIGA" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" tvg-id="ES: DAZN LALIGA HD" , M LALIGA TV op2 
-acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-
-#EXTINF:-1 group-title="ACE_LIGA" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" tvg-id="ES: DAZN LALIGA HD" , M LALIGA TV op3
-acestream://16acb1d7c7760a7929d79b99f804bdf7a5d7e26b
 
 
-#EXTINF:-1 group-title="ACE_LIGA" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" tvg-id="ES: DAZN LALIGA HD" , M LALIGA TV op4
-acestream://f031f5728b32f6089dda28edebe990cf198108d8
-
-
-#EXTINF:-1 group-title="ACE_LIGA" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" tvg-id= ,LALIGA TV op5
-acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-
-#EXTINF:-1 group-title="ACE_LIGA" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" tvg-id= ,LALIGA TV op6
-acestream://f031f5728b32f6089dda28edebe990cf198108d8
-
-
-#EXTINF:-1 group-title="ACE_LIGA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" tvg-id="LA 1 HD" , LALIGA TV op7
-http://110033416525165385.stonehuge.xyz:80/play/ja1126119/mBfQUafwhNn/165385.ts
-
-
-#EXTINF:-1 group-title="ACE_LIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" tvg-id="Bajo demanda" tvg-name="M+ LA LIGA FHD" ,LALIGA TV op8
-https://besttvpremium.site:2096/SLes5WFhy38G/WbcRzBwkxNbd/74192
-
-#EXTINF:-1 group-title="ACE_LIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" tvg-id="Bajo demanda" tvg-name="M+ LA LIGA HD EXTRA" ,LALIGA TV op9
-https://besttvpremium.site:2096/SLes5WFhy38G/WbcRzBwkxNbd/80988
-
-#EXTINF:-1 group-title="ACE_LIGA" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" tvg-id= ,LALIGA TV2 
-acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
-
-#EXTINF:-1 group-title="ACE_LIGA" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" tvg-id= ,LALIGA TV op1
-acestream://91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
-
-#EXTINF:-1 group-title="ACE_LIGA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-2-es.png" tvg-id="ES: M LALIGA MULTI 2 HD" , LALIGA TV2 op3
-http://110033416525165398.stonehuge.xyz:80/play/ja1126119/mBfQUafwhNn/165398.ts
-
-
-
-
-
-#EXTINF:-1 group-title="ACE_LIGA" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" tvg-id= ,LALIGA HIPERMOTIONV
-acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-
-
-#EXTINF:-1 group-title="ACE_LIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" tvg-id="Bajo demanda" tvg-name="LA LIGA HYPERMOTION TV FHD EXTRA"  ,LALIGA HIPERMOTIONV
-https://besttvpremium.site:2096/SLes5WFhy38G/WbcRzBwkxNbd/80953
 
 #EXTINF:-1 group-title="ACE_LIGA" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" tvg-id= ,LALIGA HIPERMOTIONV2
 acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087

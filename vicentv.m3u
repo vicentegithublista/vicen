@@ -1,5 +1,14 @@
 EXTM3U
 
+#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,MUNDOTORO OP.1
+acestream://409e1aa970423e895cc11fe692cce4c0b3cb6b6a
+
+
+#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,MUNDOTORO OP.2
+acestream://cc316a6404e211cbd2a77369561ea911e9032d9e
+
+
+
 
 #EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,Vamos 1080
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122

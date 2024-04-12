@@ -19,6 +19,11 @@ acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 
 
 
+#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,M+
+acestream://5a236fbbe6e5bbfec03db548c244a7c858d675
+
+
+
 
 
 #EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" tvg-id= ,M.Liga TV BAR
@@ -123,8 +128,15 @@ acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
 #EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,M. Deportes3 OPC.1
 acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
 
-#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,M. Deportes3 OPC.2
-acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+
+#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,M. Deportes4.OPC.1
+acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
+
+
+#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,M. Deportes5 OPC.1
+acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
+
+
 
 
 

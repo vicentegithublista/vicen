@@ -25,9 +25,6 @@ https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 
-#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,Real Madrid
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-
 #EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,Padel TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadeltv-samsungspain/playlist.m3u8
 
@@ -66,9 +63,7 @@ https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4yc
 #EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,Telemadrid
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
 
-#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,LaOtra
-https://laotra-1-23-secure2.akamaized.net/master.m3u8       
-    
+   
 
 #EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,Telemadrid Internacional
 https://new-international-23-secure2.akamaized.net/index.m3u8

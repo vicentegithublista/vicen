@@ -9,7 +9,8 @@ https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,LA 2
 https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
               
-
+#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,Antena 3
+https://www.atresplayer.com/directos/antena3.m3u8 
 
 #EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,24H
 https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8
@@ -39,8 +40,7 @@ https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e417
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="ACE_EVENTOS" tvg-name="Pequeradio TV",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/canalpakapaka/picture?width=200&height=200"  group-title="ACE_EVENTOS" tvg-name="Paka Paka",Paka Paka
-https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+
 
 
 
@@ -109,8 +109,7 @@ https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200"  group-title="ACE_EVENTOS" tvg-name="Real Madrid TV",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/udlaspalmasoficial/picture?width=200&height=200" group-title="ACE_EVENTOS" tvg-name="UD Las Palmas TV",UD Las Palmas TV
-https://cdn307.fractalmedia.es/live317/hls/cudtv/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/MundoNautica/picture?width=200&height=200"  group-title="ACE_EVENTOS" tvg-name="Mundo Nautica",Mundo Nautica
 #EXTVLCOPT:http-referrer=https://player.streamingconnect.com/

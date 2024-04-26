@@ -5,8 +5,7 @@ EXTM3U
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 
 
-#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,M+ 1080
-http://757581837380321344.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321344.ts
+
 
 
 
@@ -341,17 +340,17 @@ https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,LA 2
 https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
               
-#EXTINF:-1 tvg-id="Condavision.TV" tvg-name="ES: ANTENA 3 FHD" tvg-logo="https://miguia.tv/channels/big_10.png" group-title="ACE_EVENTOS",ES: ANTENA 3 FHD
+EXTINF:-1 tvg-id="Condavision.TV" tvg-name="ES: ANTENA 3 FHD" tvg-logo="https://miguia.tv/channels/big_10.png" group-title="ACE_EVENTOS",ES: ANTENA 3 FHD
 http://757581837380321105.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321105.ts
 
-#EXTINF:-1 tvg-id="Condavision.TV" tvg-name="ES: CUATRO FHD" tvg-logo="https://miguia.tv/channels/big_65.png" group-title="ACE_EVENTOS",ES: CUATRO FHD
+EXTINF:-1 tvg-id="Condavision.TV" tvg-name="ES: CUATRO FHD" tvg-logo="https://miguia.tv/channels/big_65.png" group-title="ACE_EVENTOS",ES: CUATRO FHD
 http://757581837380321196.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321196.ts
 
-#EXTINF:-1 tvg-id="TELECINCO FHD" tvg-name="ES: TELECINCO FHD" tvg-logo="https://miguia.tv/channels/big_161.png"  group-title="ACE_EVENTOS",ES: TELECINCO FHD
+EXTINF:-1 tvg-id="TELECINCO FHD" tvg-name="ES: TELECINCO FHD" tvg-logo="https://miguia.tv/channels/big_161.png"  group-title="ACE_EVENTOS",ES: TELECINCO FHD
 http://757581837380321429.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321429.ts
 
 
-#EXTINF:-1 tvg-id="lasxta.es" tvg-name="ES: LA SEXTA FHD" tvg-logo="https://miguia.tv/channels/big_100.png" group-title="ACE_EVENTOS",ES: LA SEXTA FHD
+EXTINF:-1 tvg-id="lasxta.es" tvg-name="ES: LA SEXTA FHD" tvg-logo="https://miguia.tv/channels/big_100.png" group-title="ACE_EVENTOS",ES: LA SEXTA FHD
 http://757581837380321288.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321288.ts
 
 #EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,24H
@@ -382,22 +381,22 @@ https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e417
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="ACE_EVENTOS" tvg-name="Pequeradio TV",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
-#EXTINF:-1 tvg-id="canalpanda.es" tvg-name="ES: CANAL PANDA SD" tvg-logo="http://fireott.quest:2052/images/209dba5b98500abb51bf28795e21e007.png" group-title="ACE_EVENTOS",ES: CANAL PANDA SD
+EXTINF:-1 tvg-id="canalpanda.es" tvg-name="ES: CANAL PANDA SD" tvg-logo="http://fireott.quest:2052/images/209dba5b98500abb51bf28795e21e007.png" group-title="ACE_EVENTOS",ES: CANAL PANDA SD
 http://757581837380321163.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321163.ts
 
-#EXTINF:-1 tvg-id="nickjr.es" tvg-name="ES: NICK JUNIOR HD" tvg-logo="https://miguia.tv/channels/big_120.png"  group-title="ACE_EVENTOS",ES: NICK JUNIOR HD
+EXTINF:-1 tvg-id="nickjr.es" tvg-name="ES: NICK JUNIOR HD" tvg-logo="https://miguia.tv/channels/big_120.png"  group-title="ACE_EVENTOS",ES: NICK JUNIOR HD
 http://757581837380321377.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321377.ts
 
-#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="ES: NICKELODEON HD" tvg-logo="https://miguia.tv/channels/big_126.png" group-title="ACE_EVENTOS",ES: NICKELODEON HD
+EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="ES: NICKELODEON HD" tvg-logo="https://miguia.tv/channels/big_126.png" group-title="ACE_EVENTOS",ES: NICKELODEON HD
 http://757581837380321381.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321381.ts
 
-#EXTINF:-1 tvg-id="DISNEY CH HD" tvg-name="ES: DISNEY CHANNEL FHD" tvg-logo="https://miguia.tv/channels/big_70.png" group-title="ACE_EVENTOS",ES: DISNEY CHANNEL FHD
+EXTINF:-1 tvg-id="DISNEY CH HD" tvg-name="ES: DISNEY CHANNEL FHD" tvg-logo="https://miguia.tv/channels/big_70.png" group-title="ACE_EVENTOS",ES: DISNEY CHANNEL FHD
 http://757581837380321214.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321214.ts
 
-#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="ES: DISNEY JUNIOR HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/PLAYDC" group-title="ACE_EVENTOS",ES: DISNEY JUNIOR HD
+EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="ES: DISNEY JUNIOR HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/PLAYDC" group-title="ACE_EVENTOS",ES: DISNEY JUNIOR HD
 http://757581837380321217.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321217.ts
 
-#EXTINF:-1 tvg-id="Boing.TV" tvg-name="ES: BOING SD" tvg-logo="https://miguia.tv/channels/big_17.png"  group-title="ACE_EVENTOS",ES: BOING SD
+EXTINF:-1 tvg-id="Boing.TV" tvg-name="ES: BOING SD" tvg-logo="https://miguia.tv/channels/big_17.png"  group-title="ACE_EVENTOS",ES: BOING SD
 http://757581837380321135.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321135.ts
 
 
@@ -526,166 +525,166 @@ https://ztnr.rtve.es/ztnr/6922467.m3u8
 
 
 
-#EXTINF:-1 tvg-id="atreseries.es" tvg-name="ES: A3 SERIES FHD" tvg-logo="http://vpsapache.hopto.org/images/a3s.png"  group-title="ACE_EVENTOS",ES: A3 SERIES FHD
+EXTINF:-1 tvg-id="atreseries.es" tvg-name="ES: A3 SERIES FHD" tvg-logo="http://vpsapache.hopto.org/images/a3s.png"  group-title="ACE_EVENTOS",ES: A3 SERIES FHD
 http://757581837380321086.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321086.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: AMC BREAK SD" tvg-logo="https://miguia.tv/channels/big_15.png"  group-title="ACE_EVENTOS",ES: AMC BREAK SD
+EXTINF:-1 tvg-id="" tvg-name="ES: AMC BREAK SD" tvg-logo="https://miguia.tv/channels/big_15.png"  group-title="ACE_EVENTOS",ES: AMC BREAK SD
 http://757581837380321100.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321100.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: AMC CRIME SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="ACE_EVENTOS",ES: AMC CRIME SD
+EXTINF:-1 tvg-id="" tvg-name="ES: AMC CRIME SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="ACE_EVENTOS",ES: AMC CRIME SD
 http://757581837380321101.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321101.ts
 
-#EXTINF:-1 tvg-id="AXN WHITE FHD" tvg-name="ES: AXN WHITE FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_78BE_3EC_1_C00000_0_0_0.png"  group-title="ACE_EVENTOS",ES: AXN WHITE FHD
+EXTINF:-1 tvg-id="AXN WHITE FHD" tvg-name="ES: AXN WHITE FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_78BE_3EC_1_C00000_0_0_0.png"  group-title="ACE_EVENTOS",ES: AXN WHITE FHD
 http://757581837380321115.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321115.ts
 
-#EXTINF:-1 tvg-id="AXN FHD" tvg-name="ES: AXN FHD" tvg-logo="https://miguia.tv/channels/big_5.png" group-title="ACE_EVENTOS",ES: AXN FHD
+EXTINF:-1 tvg-id="AXN FHD" tvg-name="ES: AXN FHD" tvg-logo="https://miguia.tv/channels/big_5.png" group-title="ACE_EVENTOS",ES: AXN FHD
 http://757581837380321118.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321118.ts
 
-#EXTINF:-1 tvg-id="BE MAD" tvg-name="ES: BE MAD HD" tvg-logo="https://miguia.tv/channels/big_277.png"  group-title="ACE_EVENTOS",ES: BE MAD HD
+EXTINF:-1 tvg-id="BE MAD" tvg-name="ES: BE MAD HD" tvg-logo="https://miguia.tv/channels/big_277.png"  group-title="ACE_EVENTOS",ES: BE MAD HD
 http://757581837380321126.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321126.ts
 
-#EXTINF:-1 tvg-id="blaze.es" tvg-name="ES: BLAZE HD" tvg-logo="http://vpsapache.hopto.org/images/1_0_1_772D_416_1_C00000_0_0_0.png" group-title="ACE_EVENTOS",ES: BLAZE HD
+EXTINF:-1 tvg-id="blaze.es" tvg-name="ES: BLAZE HD" tvg-logo="http://vpsapache.hopto.org/images/1_0_1_772D_416_1_C00000_0_0_0.png" group-title="ACE_EVENTOS",ES: BLAZE HD
 http://757581837380321130.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321130.ts
 
 
  
-#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: CANAL COCINA FHD" tvg-logo="https://miguia.tv/channels/big_43.png"  group-title="ACE_EVENTOS",ES: CANAL COCINA FHD
+EXTINF:-1 tvg-id="LA 1" tvg-name="ES: CANAL COCINA FHD" tvg-logo="https://miguia.tv/channels/big_43.png"  group-title="ACE_EVENTOS",ES: CANAL COCINA FHD
 http://757581837380321147.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321147.ts
 
 
-#EXTINF:-1 tvg-id="dark.es" tvg-name="ES: CANAL DARK SD" tvg-logo="https://fest.darktv.es/media/concursos/darkfest/img/darkfoot.png"  group-title="ACE_EVENTOS",ES: CANAL DARK SD
+EXTINF:-1 tvg-id="dark.es" tvg-name="ES: CANAL DARK SD" tvg-logo="https://fest.darktv.es/media/concursos/darkfest/img/darkfoot.png"  group-title="ACE_EVENTOS",ES: CANAL DARK SD
 http://757581837380321152.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321152.ts
 
-#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="ES: CANAL DECASA HD" tvg-logo="https://miguia.tv/channels/big_68.png"  group-title="ACE_EVENTOS",ES: CANAL DECASA HD
+EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="ES: CANAL DECASA HD" tvg-logo="https://miguia.tv/channels/big_68.png"  group-title="ACE_EVENTOS",ES: CANAL DECASA HD
 http://757581837380321153.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321153.ts
 
 
 
-#EXTINF:-1 tvg-id="HISTORIA" tvg-name="ES: CANAL HISTORIA SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST"  group-title="ACE_EVENTOS",ES: CANAL HISTORIA SD
+EXTINF:-1 tvg-id="HISTORIA" tvg-name="ES: CANAL HISTORIA SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST"  group-title="ACE_EVENTOS",ES: CANAL HISTORIA SD
 http://757581837380321158.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321158.ts
 
 
 
-#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="ES: CAZA Y PESCA FHD" tvg-logo="https://miguia.tv/channels/big_60.png" group-title="ACE_EVENTOS",ES: CAZA Y PESCA FHD
+EXTINF:-1 tvg-id="cazapesca.es" tvg-name="ES: CAZA Y PESCA FHD" tvg-logo="https://miguia.tv/channels/big_60.png" group-title="ACE_EVENTOS",ES: CAZA Y PESCA FHD
 http://757581837380321168.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321168.ts
 
-#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: CAZAVISION FHD" tvg-logo="https://lh3.googleusercontent.com/4T7UYZXO_gy_K5Xu9N86B4nmm0XDOO5hv51x9cmgvgXBul93Rgaj5Sl3FlJerF0E8LE" group-title="ACE_EVENTOS",ES: CAZAVISION FHD
+EXTINF:-1 tvg-id="LA 1" tvg-name="ES: CAZAVISION FHD" tvg-logo="https://lh3.googleusercontent.com/4T7UYZXO_gy_K5Xu9N86B4nmm0XDOO5hv51x9cmgvgXBul93Rgaj5Sl3FlJerF0E8LE" group-title="ACE_EVENTOS",ES: CAZAVISION FHD
 http://757581837380321172.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321172.ts
 
-#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: CLASSICA HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CLASSD" group-title="ACE_EVENTOS",ES: CLASSICA HD
+EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: CLASSICA HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CLASSD" group-title="ACE_EVENTOS",ES: CLASSICA HD
 http://757581837380321181.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321181.ts
 
-#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="ES: COMEDY CENTRAL FHD" tvg-logo="https://miguia.tv/channels/big_134.png" group-title="ACE_EVENTOS",ES: COMEDY CENTRAL FHD
+EXTINF:-1 tvg-id="comedycentral.es" tvg-name="ES: COMEDY CENTRAL FHD" tvg-logo="https://miguia.tv/channels/big_134.png" group-title="ACE_EVENTOS",ES: COMEDY CENTRAL FHD
 http://757581837380321183.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321183.ts
 
 
-#EXTINF:-1 tvg-id="COSMO FHD" tvg-name="ES: COSMO FHD" tvg-logo="https://miguia.tv/channels/big_62.png" group-title="ACE_EVENTOS",ES: COSMO FHD
+EXTINF:-1 tvg-id="COSMO FHD" tvg-name="ES: COSMO FHD" tvg-logo="https://miguia.tv/channels/big_62.png" group-title="ACE_EVENTOS",ES: COSMO FHD
 http://757581837380321187.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321187.ts
 
-#EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-name="ES: CRIMEN & INVESTIGACION SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CYM" group-title="ACE_EVENTOS",ES: CRIMEN & INVESTIGACION SD
+EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-name="ES: CRIMEN & INVESTIGACION SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CYM" group-title="ACE_EVENTOS",ES: CRIMEN & INVESTIGACION SD
 http://757581837380321194.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321194.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: DARK SD" tvg-logo="https://miguia.tv/channels/big_198.png" group-title="ACE_EVENTOS",ES: DARK SD
+EXTINF:-1 tvg-id="" tvg-name="ES: DARK SD" tvg-logo="https://miguia.tv/channels/big_198.png" group-title="ACE_EVENTOS",ES: DARK SD
 http://757581837380321203.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321203.ts
 
-#EXTINF:-1 tvg-id="CANAL DECASA" tvg-name="ES: DECASA TV SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DECASA" group-title="ACE_EVENTOS",ES: DECASA TV SD
+EXTINF:-1 tvg-id="CANAL DECASA" tvg-name="ES: DECASA TV SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DECASA" group-title="ACE_EVENTOS",ES: DECASA TV SD
 http://757581837380321206.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321206.ts
 
-#EXTINF:-1 tvg-id="disneychannel.es" tvg-name="ES: DISCOVERY CHANNEL SD" tvg-logo="http://vpsapache.hopto.org/images/1_0_1_772F_416_1_C00000_0_0_0.png"  group-title="ACE_EVENTOS",ES: DISCOVERY CHANNEL SD
+EXTINF:-1 tvg-id="disneychannel.es" tvg-name="ES: DISCOVERY CHANNEL SD" tvg-logo="http://vpsapache.hopto.org/images/1_0_1_772F_416_1_C00000_0_0_0.png"  group-title="ACE_EVENTOS",ES: DISCOVERY CHANNEL SD
 http://757581837380321209.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321209.ts
 
 
 
-#EXTINF:-1 tvg-id="DIVINITY" tvg-name="ES: DIVINITY SD" tvg-logo="https://miguia.tv/channels/big_76.png" group-title="ACE_EVENTOS",ES: DIVINITY SD
+EXTINF:-1 tvg-id="DIVINITY" tvg-name="ES: DIVINITY SD" tvg-logo="https://miguia.tv/channels/big_76.png" group-title="ACE_EVENTOS",ES: DIVINITY SD
 http://757581837380321223.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321223.ts
 
-#EXTINF:-1 tvg-id="DKISS" tvg-name="ES: DKISS SD" tvg-logo="https://miguia.tv/channels/big_279.png"  group-title="ACE_EVENTOS",ES: DKISS SD
+EXTINF:-1 tvg-id="DKISS" tvg-name="ES: DKISS SD" tvg-logo="https://miguia.tv/channels/big_279.png"  group-title="ACE_EVENTOS",ES: DKISS SD
 http://757581837380321224.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321224.ts
 
-#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: DMAX FHD" tvg-logo="https://miguia.tv/channels/big_184.png" group-title="ACE_EVENTOS",ES: DMAX FHD
+EXTINF:-1 tvg-id="LA 1" tvg-name="ES: DMAX FHD" tvg-logo="https://miguia.tv/channels/big_184.png" group-title="ACE_EVENTOS",ES: DMAX FHD
 http://757581837380321225.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321225.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: DREAMWORKS HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DWSP" group-title="ACE_EVENTOS",ES: DREAMWORKS HD
+EXTINF:-1 tvg-id="" tvg-name="ES: DREAMWORKS HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DWSP" group-title="ACE_EVENTOS",ES: DREAMWORKS HD
 http://757581837380321229.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321229.ts
 
 
-#EXTINF:-1 tvg-id="ENERGY" tvg-name="ES: ENERGY SD" tvg-logo="https://miguia.tv/channels/big_82.png" group-title="ACE_EVENTOS",ES: ENERGY SD
+EXTINF:-1 tvg-id="ENERGY" tvg-name="ES: ENERGY SD" tvg-logo="https://miguia.tv/channels/big_82.png" group-title="ACE_EVENTOS",ES: ENERGY SD
 http://757581837380321238.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321238.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: FACTORIA DE FICCION SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5b41469eee212c964b5360414d4c2dbf.png"  group-title="ACE_EVENTOS",ES: FACTORIA DE FICCION SD
+EXTINF:-1 tvg-id="" tvg-name="ES: FACTORIA DE FICCION SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5b41469eee212c964b5360414d4c2dbf.png"  group-title="ACE_EVENTOS",ES: FACTORIA DE FICCION SD
 http://757581837380321246.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321246.ts
 
-#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: FOX FHD" tvg-logo="https://miguia.tv/channels/big_45.png"  group-title="ACE_EVENTOS",ES: FOX FHD
+EXTINF:-1 tvg-id="LA 1" tvg-name="ES: FOX FHD" tvg-logo="https://miguia.tv/channels/big_45.png"  group-title="ACE_EVENTOS",ES: FOX FHD
 http://757581837380321251.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321251.ts
 
-#EXTINF:-1 tvg-id="gol.es" tvg-name="ES: GOL SD" tvg-logo="http://vpsapache.hopto.org/images/1_0_1_74A3_41C_1_C00000_0_0_0.png"  group-title="ACE_EVENTOS",ES: GOL SD
+EXTINF:-1 tvg-id="gol.es" tvg-name="ES: GOL SD" tvg-logo="http://vpsapache.hopto.org/images/1_0_1_74A3_41C_1_C00000_0_0_0.png"  group-title="ACE_EVENTOS",ES: GOL SD
 http://757581837380321261.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321261.ts
 
-#EXTINF:-1 tvg-id="historia.es" tvg-name="ES: HISTORIA SD" tvg-logo="https://miguia.tv/channels/big_92.png" group-title="ACE_EVENTOS",ES: HISTORIA SD
+EXTINF:-1 tvg-id="historia.es" tvg-name="ES: HISTORIA SD" tvg-logo="https://miguia.tv/channels/big_92.png" group-title="ACE_EVENTOS",ES: HISTORIA SD
 http://757581837380321262.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321262.ts
 
-#EXTINF:-1 tvg-id="HOLLYWOOD FHD" tvg-name="ES: HOLLYWOOD FHD" tvg-logo="https://miguia.tv/channels/big_94.png" group-title="ACE_EVENTOS",ES: HOLLYWOOD FHD
+EXTINF:-1 tvg-id="HOLLYWOOD FHD" tvg-name="ES: HOLLYWOOD FHD" tvg-logo="https://miguia.tv/channels/big_94.png" group-title="ACE_EVENTOS",ES: HOLLYWOOD FHD
 http://757581837380321265.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321265.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: IMAS TV FHD" tvg-logo="http://www.imasmedia.es/imagenes/logos/imastv%20web%20imasmedia%20240.png"  group-title="ACE_EVENTOS",ES: IMAS TV FHD
+EXTINF:-1 tvg-id="" tvg-name="ES: IMAS TV FHD" tvg-logo="http://www.imasmedia.es/imagenes/logos/imastv%20web%20imasmedia%20240.png"  group-title="ACE_EVENTOS",ES: IMAS TV FHD
 http://757581837380321273.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321273.ts
 
-#EXTINF:-1 tvg-id="La Resistencia" tvg-name="ES: LA RESISTENCIA HD" tvg-logo="https://miguia.tv/channels/big_345.png" group-title="ACE_EVENTOS",ES: LA RESISTENCIA HD
+EXTINF:-1 tvg-id="La Resistencia" tvg-name="ES: LA RESISTENCIA HD" tvg-logo="https://miguia.tv/channels/big_345.png" group-title="ACE_EVENTOS",ES: LA RESISTENCIA HD
 http://757581837380321286.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321286.ts
 
 
-#EXTINF:-1 tvg-id="Mega HD" tvg-name="ES: MEGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/MegaHD.png"  group-title="ACE_EVENTOS"",ES: MEGA HD
+EXTINF:-1 tvg-id="Mega HD" tvg-name="ES: MEGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/MegaHD.png"  group-title="ACE_EVENTOS"",ES: MEGA HD
 http://757581837380321300.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321300.ts
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: MTV EUROPE HD" tvg-logo="" group-title="ACE_EVENTOS",ES: MTV EUROPE HD
+EXTINF:-1 tvg-id="" tvg-name="ES: MTV EUROPE HD" tvg-logo="" group-title="ACE_EVENTOS",ES: MTV EUROPE HD
 http://757581837380321358.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321358.ts
  
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: MTV HITS SD" tvg-logo="https://logo.nero-iptv.click//lagi/ES_ESPANE_MUSICA/MTV_HD.png"  group-title="ACE_EVENTOS",ES: MTV HITS SD
+EXTINF:-1 tvg-id="" tvg-name="ES: MTV HITS SD" tvg-logo="https://logo.nero-iptv.click//lagi/ES_ESPANE_MUSICA/MTV_HD.png"  group-title="ACE_EVENTOS",ES: MTV HITS SD
 http://757581837380321360.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321360. 
 
 
-#EXTINF:-1 tvg-id="NAT GEO FHD" tvg-name="ES: NATIONAL GEOGRAPHIC FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NATGEO" group-title="ACE_EVENTOS",ES: NATIONAL GEOGRAPHIC FHD
+EXTINF:-1 tvg-id="NAT GEO FHD" tvg-name="ES: NATIONAL GEOGRAPHIC FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NATGEO" group-title="ACE_EVENTOS",ES: NATIONAL GEOGRAPHIC FHD
 http://757581837380321371.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321371.ts
 
-#EXTINF:-1 tvg-id="NEOX" tvg-name="ES: NEOX FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_1_7587_412_1_C00000_0_0_0.png"  group-title="ACE_EVENTOS",ES: NEOX FHD
+EXTINF:-1 tvg-id="NEOX" tvg-name="ES: NEOX FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_1_7587_412_1_C00000_0_0_0.png"  group-title="ACE_EVENTOS",ES: NEOX FHD
 http://757581837380321374.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321374.ts
 
 
 
 
-#EXTINF:-1 tvg-id="NOVA" tvg-name="ES: NOVA HD" tvg-logo="https://miguia.tv/channels/big_130.png"  group-title="ACE_EVENTOS",ES: NOVA HD
+EXTINF:-1 tvg-id="NOVA" tvg-name="ES: NOVA HD" tvg-logo="https://miguia.tv/channels/big_130.png"  group-title="ACE_EVENTOS",ES: NOVA HD
 http://757581837380321383.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321383.ts
 
-#EXTINF:-1 tvg-id="CANAL ODISEA" tvg-name="ES: ODISEA SD" tvg-logo="https://miguia.tv/channels/big_131.png" group-title="ACE_EVENTOS",ES: ODISEA SD
+EXTINF:-1 tvg-id="CANAL ODISEA" tvg-name="ES: ODISEA SD" tvg-logo="https://miguia.tv/channels/big_131.png" group-title="ACE_EVENTOS",ES: ODISEA SD
 http://757581837380321390.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321390.ts
 
-#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="ES: PARAMOUNT NETWORK SD" tvg-logo="https://miguia.tv/channels/big_133.png"  group-title="ACE_EVENTOS",ES: PARAMOUNT NETWORK SD
+EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="ES: PARAMOUNT NETWORK SD" tvg-logo="https://miguia.tv/channels/big_133.png"  group-title="ACE_EVENTOS",ES: PARAMOUNT NETWORK SD
 http://757581837380321392.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321392.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: SOLIDARIA TV HD" tvg-logo="https://nnssmadrid.files.wordpress.com/2015/09/a4-solidaria-tv.png"  group-title="ACE_EVENTOS",ES: SOLIDARIA TV HD
+EXTINF:-1 tvg-id="" tvg-name="ES: SOLIDARIA TV HD" tvg-logo="https://nnssmadrid.files.wordpress.com/2015/09/a4-solidaria-tv.png"  group-title="ACE_EVENTOS",ES: SOLIDARIA TV HD
 http://757581837380321410.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321410.ts
 
-#EXTINF:-1 tvg-id="Somos" tvg-name="ES: SOMOS FHD" tvg-logo="https://miguia.tv/channels/big_193.png" group-title="ACE_EVENTOS",ES: SOMOS FHD
+EXTINF:-1 tvg-id="Somos" tvg-name="ES: SOMOS FHD" tvg-logo="https://miguia.tv/channels/big_193.png" group-title="ACE_EVENTOS",ES: SOMOS FHD
 http://757581837380321412.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321412.ts
 
-#EXTINF:-1 tvg-id="sundance.es" tvg-name="ES: SUNDANCE FHD" tvg-logo="https://miguia.tv/channels/big_194.png"  group-title="ACE_EVENTOS",ES: SUNDANCE FHD
+EXTINF:-1 tvg-id="sundance.es" tvg-name="ES: SUNDANCE FHD" tvg-logo="https://miguia.tv/channels/big_194.png"  group-title="ACE_EVENTOS",ES: SUNDANCE FHD
 http://757581837380321418.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321418.ts
 
-#EXTINF:-1 tvg-id="SYFY FHD" tvg-name="ES: SYFY FHD" tvg-logo="https://miguia.tv/channels/big_141.png" group-title="ACE_EVENTOS",ES: SYFY FHD
+EXTINF:-1 tvg-id="SYFY FHD" tvg-name="ES: SYFY FHD" tvg-logo="https://miguia.tv/channels/big_141.png" group-title="ACE_EVENTOS",ES: SYFY FHD
 http://757581837380321422.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321422.ts
 
-#EXTINF:-1 tvg-id="tcm.es" tvg-name="ES: TCM FHD" tvg-logo="https://miguia.tv/channels/big_146.png" group-title="ACE_EVENTOS",ES: TCM FHD
+EXTINF:-1 tvg-id="tcm.es" tvg-name="ES: TCM FHD" tvg-logo="https://miguia.tv/channels/big_146.png" group-title="ACE_EVENTOS",ES: TCM FHD
 http://757581837380321425.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321425.ts
 
-http://757581837380321427.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321427.ts
-#EXTINF:-1 tvg-id="Condavision.TV" tvg-name="ES: TEN SD" tvg-logo="https://diretele.com/wp-content/uploads/2020/09/ten-tv.png" group-title="ACE_EVENTOS",ES: TEN SD
+EXTINF:-1 tvg-id="Condavision.TV" tvg-name="ES: TEN SD" tvg-logo="https://diretele.com/wp-content/uploads/2020/09/ten-tv.png" group-title="ACE_EVENTOS",ES: TEN SD
 http://757581837380321440.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321440.ts
-#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: TNT FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_1_76CB_40E_1_C00000_0_0_0.png"  group-title="ACE_EVENTOS",ES: TNT FHD
+
+EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: TNT FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_1_76CB_40E_1_C00000_0_0_0.png"  group-title="ACE_EVENTOS",ES: TNT FHD
 http://757581837380321442.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321442.ts
 
 
@@ -694,31 +693,30 @@ http://757581837380321442.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321442.ts
 
 
 
-#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="ES: M+ ACCION FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png"group-title="ACE_EVENTOS" ,ES: M+ ACCION FHD
+EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="ES: M+ ACCION FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png"group-title="ACE_EVENTOS" ,ES: M+ ACCION FHD
 http://757581837380321305.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321305.ts
 
-#EXTINF:-1 tvg-id="M+ CLÁSICOS HD" tvg-name="ES: M+ CLASICOS FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MCLAS" group-title="ACE_EVENTOS" ,ES: M+ CLASICOS FHD
+EXTINF:-1 tvg-id="M+ CLÁSICOS HD" tvg-name="ES: M+ CLASICOS FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MCLAS" group-title="ACE_EVENTOS" ,ES: M+ CLASICOS FHD
 http://757581837380321314.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321314.ts
 
-#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="ES: M+ COMEDIA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOME.png"group-title="ACE_EVENTOS" ,ES: M+ COMEDIA FHD
+EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="ES: M+ COMEDIA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOME.png"group-title="ACE_EVENTOS" ,ES: M+ COMEDIA FHD
 http://757581837380321317.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321317.ts
 
-#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="ES: M+ DRAMA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOLE.png" group-title="ACE_EVENTOS" ,ES: M+ DRAMA FHD
+EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="ES: M+ DRAMA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOLE.png" group-title="ACE_EVENTOS" ,ES: M+ DRAMA FHD
 http://757581837380321331.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321331.ts
 
-#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: M+ ESTRENOS 2 FHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/movistar-estrenos-2-es.png?raw=true" group-title="ACE_EVENTOS" ,ES: M+ ESTRENOS 2 FHD
+EXTINF:-1 tvg-id="LA 1" tvg-name="ES: M+ ESTRENOS 2 FHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/movistar-estrenos-2-es.png?raw=true" group-title="ACE_EVENTOS" ,ES: M+ ESTRENOS 2 FHD
 http://757581837380321334.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321334.ts
 
-#EXTINF:-1 tvg-id="LA 1 FHD" tvg-name="ES: M+ ESTRENOS FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_7539_426_1_C00000_0_0_0.png" group-title="ACE_EVENTOS" ,ES: M+ ESTRENOS FHD
+EXTINF:-1 tvg-id="LA 1 FHD" tvg-name="ES: M+ ESTRENOS FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_7539_426_1_C00000_0_0_0.png" group-title="ACE_EVENTOS" ,ES: M+ ESTRENOS FHD
 http://757581837380321337.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321337.ts
 
 
-
-#EXTINF:-1 tvg-id="M. SERIES HD" tvg-name="ES: M+ SERIES FHD" tvg-logo="https://miguia.tv/channels/big_273.png" group-title="ACE_EVENTOS" ,ES: M+ SERIES FHD
+EXTINF:-1 tvg-id="M. SERIES HD" tvg-name="ES: M+ SERIES FHD" tvg-logo="https://miguia.tv/channels/big_273.png" group-title="ACE_EVENTOS" ,ES: M+ SERIES FHD
 http://757581837380321347.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321347.ts
 
 
-#EXTINF:-1 tvg-id="movistarseriesmania.es" tvg-name="ES: M+ SERIESMANIA FHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/movistar-multideporte-es.png?raw=true"group-title="ACE_EVENTOS" ,ES: M+ SERIESMANIA FHD
+EXTINF:-1 tvg-id="movistarseriesmania.es" tvg-name="ES: M+ SERIESMANIA FHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/movistar-multideporte-es.png?raw=true"group-title="ACE_EVENTOS" ,ES: M+ SERIESMANIA FHD
 http://757581837380321350.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/321350.ts
 
 

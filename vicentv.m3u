@@ -355,10 +355,6 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/mani
 
 
 
-
-
-
-
 #EXTINF:-1 tvg-id="Divinity.es" tvg-logo="https://i.imgur.com/o7fvEr6.png"group-title="ACE_EVENTOS",Divinity (432p)
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:18_HD.smil/index.m3u8
 
@@ -378,17 +374,6 @@ https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ImasTV.es" tvg-logo="https://i.imgur.com/a9hgTmM.png"group-title="ACE_EVENTOS",Imás TV (1080p) [Not 24/7]
 https://secure3.todostreaming.es/live/imastv-livestream.m3u8
-
-
-
-
-
-
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-id="BeMad.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/512px-Be_Mad_TV.svg.png" group-title="ACE_EVENTOS",Be Mad (1080p)
@@ -590,255 +575,140 @@ https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="RADIO" TVg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" TVg-id="CadenaS.RADIO" TVg-name="Cadena SER" ,Cadena SER
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
-#EXTINF:-1 group-title="RADIO" TVg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" TVg-id="OC.RADIO" TVg-name="Onda Cero" ,Onda Cero
-https://livefastly-webs.ondacero.es/ondacero/audio/master.m3u8
+
 #EXTINF:-1 group-title="RADIO" TVg-logo="https://graph.facebook.com/esRADIO/picture?width=200&height=200" TVg-id="esRADIO.RADIO" TVg-name="esRADIO" ,esRADIO
 https://libertaddigital-RADIO-live1.flumotion.com/libertaddigital/ld-live1-med.aac
+
 #EXTINF:-1 group-title="RADIO" TVg-logo="https://graph.facebook.com/RADIOMARCA/picture?width=200&height=200" TVg-id="Marca.RADIO" TVg-name="RADIO Marca" ,RADIO Marca
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONAL.mp3
+
 #EXTINF:-1 group-title="RADIO" TVg-logo="https://graph.facebook.com/los40/picture?width=200&height=200" TVg-id="los40.RADIO" TVg-name="LOS40" ,LOS40
 https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3
+
 #EXTINF:-1 group-title="RADIO" TVg-logo="https://graph.facebook.com/cadenadial/picture?width=200&height=200" TVg-id="CadenaDial.RADIO" TVg-name="Cadena Dial" ,Cadena Dial
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3
+
 #EXTINF:-1 group-title="RADIO" TVg-logo="https://graph.facebook.com/CADENA100/picture?width=200&height=200" TVg-id="Cadena100.RADIO" TVg-name="Cadena 100" ,Cadena 100
 https://cadena100-cope.flumotion.com/chunks.m3u8
-#EXTINF:-1 group-title="RADIO" TVg-logo="https://graph.facebook.com/tueuropafm/picture?width=200&height=200" TVg-id="EuropaFM.RADIO" TVg-name="Europa FM" ,Europa FM
-https://livefastly-webs.europafm.com/europafm/audio/master.m3u8
+
 #EXTINF:-1 group-title="RADIO" TVg-logo="https://graph.facebook.com/RockFM/picture?width=200&height=200" TVg-id="RockFM.RADIO" TVg-name="Rock FM" ,Rock FM
 https://rockfm-cope.flumotion.com/playlist.m3u8
+
 #EXTINF:-1 group-title="RADIO" TVg-logo="https://graph.facebook.com/Los40Classic.Oficial/picture?width=200&height=200" TVg-id="los40classic.RADIO" TVg-name="LOS40 Classic" ,LOS40 Classic
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3
+
 #EXTINF:-1 group-title="RADIO" TVg-logo="https://graph.facebook.com/kissfm.es/picture?width=200&height=200" TVg-id="KissFm.RADIO" TVg-name="Kiss FM" ,Kiss FM
 https://kissfm.kissfmRADIO.cires21.com/kissfm.mp3
+
 #EXTINF:-1 group-title="RADIO" TVg-logo="https://graph.facebook.com/RADIOle/picture?width=200&height=200" TVg-id="RADIOle.RADIO" TVg-name="RADIOlé" ,RADIOlé
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE.mp3
+
 #EXTINF:-1 group-title="RADIO" TVg-logo="https://graph.facebook.com/canallfiesta/picture?width=200&height=200" TVg-id="CanalFiesta.RADIO" TVg-name="Canal Fiesta RADIO" ,Canal Fiesta RADIO
 https://cdnlive.shooowit.net/rTValive/smil:channel5.smil/master.m3u8
+
 #EXTINF:-1 group-title="RADIO" TVg-logo="https://graph.facebook.com/hitfm.es/picture?width=200&height=200" TVg-id="HitFM.RADIO" TVg-name="Hit FM" ,Hit FM
 https://adhandler.kissfmRADIO.cires21.com/get_link?url=https://bbhitfm.kissfmRADIO.cires21.com/bbhitfm.mp3
+
 #EXTINF:-1 group-title="RADIO" TVg-logo="https://graph.facebook.com/MegaStarFM/picture?width=200&height=200" TVg-id="MegaStar.RADIO" TVg-name="MegaStar FM" ,MegaStar FM
 https://megastar-cope.flumotion.com/playlist.m3u8
-#EXTINF:-1 group-title="RADIO" TVg-logo="https://graph.facebook.com/tumelodiafm/picture?width=200&height=200" TVg-name="Melodía FM" ,Melodía FM
-https://livefastly-webs.melodia-fm.com/melodiafm/audio/master.m3u8
+
 #EXTINF:-1 group-title="RADIO" TVg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" TVg-id="LocaFM.RADIO" TVg-name="Loca FM" ,Loca FM
 http://s3.we4stream.com:8045/live
+
 #EXTINF:-1 group-title="RADIO" TVg-logo="https://graph.facebook.com/RADIOMariaSpa/picture?width=200&height=200" TVg-id="RADIOMaria.RADIO" TVg-name="RADIO María" ,RADIO María
 http://dreamsiteRADIOcp.com:8060/;stream.mp3
+
 #EXTINF:-1 group-title="RADIO" TVg-logo="https://graph.facebook.com/los40dance/picture?width=200&height=200" TVg-id="los40dance.RADIO" TVg-name="LOS40 Dance" ,LOS40 Dance
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE.mp3
+
 #EXTINF:-1 group-title="RADIO" TVg-logo="https://graph.facebook.com/los40urban/picture?width=200&height=200" TVg-id="los40urban.RADIO" TVg-name="LOS40 Urban" ,LOS40 Urban
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3
+
 #EXTINF:-1 group-title="RADIO" TVg-logo="https://recursosweb.prisaRADIO.com/fotos/dest/010002743853.jpg" TVg-name="Dial Baladas" ,Dial Baladas
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_03.mp3
+
 #EXTINF:-1 group-title="RADIO" TVg-logo="https://recursosweb.prisaRADIO.com/fotos/dest/010002743852.jpg" TVg-name="Dial Esencial" ,Dial Esencial
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_01.mp3
+
 #EXTINF:-1 group-title="RADIO" TVg-logo="https://recursosweb.prisaRADIO.com/fotos/dest/010002743851.jpg" TVg-name="Dial Latino" ,Dial Latino
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_02AAC_SC
+
 #EXTINF:-1 group-title="RADIO" TVg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" TVg-name="Loca FM Dance" ,Loca FM Dance
 http://s02.fjperezdj.com:8025/live
+
 #EXTINF:-1 group-title="RADIO" TVg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" TVg-name="Loca FM Remember" ,Loca FM Remember
 http://s02.fjperezdj.com:8035/live
+
 #EXTINF:-1 group-title="RADIO" TVg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" TVg-name="Loca FM House" ,Loca FM House
 http://s02.fjperezdj.com:8026/live
+
 #EXTINF:-1 group-title="RADIO" TVg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" TVg-name="Loca FM Chill out" ,Loca FM Chill out
 http://s02.fjperezdj.com:8006/live
+
 #EXTINF:-1 group-title="RADIO" TVg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" TVg-name="Loca FM Tech House" ,Loca FM Tech House
 http://s02.fjperezdj.com:8046/live
+
 #EXTINF:-1 group-title="RADIO" TVg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" TVg-name="Loca FM Trance" ,Loca FM Trance
 http://s02.fjperezdj.com:8055/live
+
 #EXTINF:-1 group-title="RADIO" TVg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" TVg-name="Loca FM Techno" ,Loca FM Techno
 http://s02.fjperezdj.com:8050/live
+
 #EXTINF:-1 group-title="RADIO" TVg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" TVg-name="Loca FM Big Room" ,Loca FM Big Room
 http://s02.fjperezdj.com:8005/live
+
 #EXTINF:-1 group-title="RADIO" TVg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" TVg-name="Loca FM Dub Techno" ,Loca FM Dub Techno
 http://s02.fjperezdj.com:8066/live
+
 #EXTINF:-1 group-title="RADIO" TVg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" TVg-name="Loca FM Hard" ,Loca FM Hard
 http://s02.fjperezdj.com:8016/live
+
 #EXTINF:-1 group-title="RADIO" TVg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" TVg-name="Loca FM Sessions" ,Loca FM Sessions
 http://s02.fjperezdj.com:8095/live
+
 #EXTINF:-1 group-title="RADIO" TVg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" TVg-name="Loca FM Ambient" ,Loca FM Ambient
 http://s02.fjperezdj.com:8036/live
+
 #EXTINF:-1 group-title="RADIO" TVg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" TVg-name="Loca FM Loca 80's" ,Loca FM Loca 80's
 http://s02.fjperezdj.com:8075/live
+
 #EXTINF:-1 group-title="RADIO" TVg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" TVg-name="Loca FM Loca 90's" ,Loca FM Loca 90's
 http://s02.fjperezdj.com:8000/live
+
 #EXTINF:-1 group-title="RADIO" TVg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" TVg-name="Loca FM Melodic Techno" ,Loca FM Melodic Techno
 http://s02.fjperezdj.com:8056/live
+
 #EXTINF:-1 group-title="RADIO" TVg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" TVg-name="Loca FM Trap" ,Loca FM Trap
 http://s02.fjperezdj.com:8060/live
+
 #EXTINF:-1 group-title="RADIO" TVg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" TVg-name="Loca FM Loca Pride" ,Loca FM Loca Pride
 http://s02.fjperezdj.com:8070/live
+
 #EXTINF:-1 group-title="RADIO" TVg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" TVg-name="Loca FM Industrial" ,Loca FM Industrial
 http://s02.fjperezdj.com:8076/live
+
 #EXTINF:-1 group-title="RADIO" TVg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" TVg-name="Loca FM Drum&Bass" ,Loca FM Drum&Bass
 http://s02.fjperezdj.com:8065/live
+
 #EXTINF:-1 group-title="RADIO" TVg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" TVg-name="Loca FM Urban" ,Loca FM Urban
 http://locafm02.we4stream.com:8015/live
-#EXTINF:-1 group-title="RADIO" TVg-logo="https://graph.facebook.com/clasicafmRADIO/picture?width=200&height=200" TVg-name="Clásica FM RADIO" ,Clásica FM RADIO
-https://edge.mixlr.com/channel/asnfw
+
 #EXTINF:-1 group-title="RADIO" TVg-logo="https://graph.facebook.com/digitalhits/picture?width=200&height=200" TVg-name="digitalHits FM" ,digitalHits FM
 http://digitalhits.frilab.com:8000/digitalhits;
+
 #EXTINF:-1 group-title="RADIO" TVg-logo="https://graph.facebook.com/fmurban/picture?width=200&height=200" TVg-name="La Urban RADIO" ,La Urban RADIO
 https://st1.urbanrevolution.es:8443/laurbanfm.mp3
+
 #EXTINF:-1 group-title="RADIO" TVg-logo="https://graph.facebook.com/FlamencoRADIO/picture?width=200&height=200" TVg-name="Flamenco RADIO" ,Flamenco RADIO
 https://cdnlive.shooowit.net/rTValive/smil:channel7.smil/master.m3u8
+
 #EXTINF:-1 group-title="RADIO" TVg-logo="https://graph.facebook.com/canallfiesta/picture?width=200&height=200" TVg-id="CanalFiesta.RADIO" TVg-name="Canal Fiesta RADIO" ,Canal Fiesta RADIO
 https://cdnlive.shooowit.net/rTValive/smil:channel5.smil/master.m3u8
+
 #EXTINF:-1 group-title="RADIO" TVg-logo="https://graph.facebook.com/web.RADIOsevillanas/picture?width=200&height=200" TVg-name="RADIO Sevillanas" ,RADIO Sevillanas
 acestream://0550416ea6d64cf9669fced8ce9aea2713820f6e]
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ES: TAQUILLA 1 HD" tvg-logo=" group-title="PELICULAS",ES: TAQUILLA 1 HD
-http://757581837380279332.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/279332.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="ES: TAQUILLA 2 HD" tvg-logo=" group-title="PELICULAS",ES: TAQUILLA 2 HD
-http://757581837380279334.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/279334.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: TAQUILLA 3 HD" tvg-logo=" group-title="PELICULAS",ES: TAQUILLA 3 HD
-http://757581837380279335.of1030ok.xyz:80/play/fe720065/wAcjeTDERPcr/279335.ts
-
-
 
 
 
@@ -6239,6 +6109,12 @@ http://757581837380679994.of1030ok.xyz:80/movie/fe720065/wAcjeTDERPcr/679994.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Five Nights at Freddy's (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6RSJ1z8bDEYpk4fLwxfkXciUak.jpg" group-title="PELICULAS",Five Nights at Freddy's (2023)
 http://757581837380680001.of1030ok.xyz:80/movie/fe720065/wAcjeTDERPcr/680001.mkv
 
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Mujer S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/3erbQWGOecwuKBzDKlbWVMJyiTe.jpg" group-title="SERIES",Mujer S01 E01
 http://757581837380226573.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/226573.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mujer S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/kd2EJxMUEygAw2cGWSYfwYXqeAP.jpg" group-title="SERIES",Mujer S01 E02
@@ -6335,6 +6211,9 @@ http://757581837380226618.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/226618.mk
 http://757581837380226619.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/226619.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mujer S02 E16" tvg-logo="https://image.tmdb.org/t/p/w300/gArmhRvu5SlF2PEM8xTs1qqrauu.jpg" group-title="SERIES",Mujer S02 E16
 http://757581837380226620.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/226620.mkv
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Prison Break S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/zpKU5P9a39o3Em781Qg3MDf7Znl.jpg" group-title="SERIES",Prison Break S01 E01
 http://757581837380226621.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/226621.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Prison Break S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/neHtBayxgjMI4yp9VUW3ZQbGcHo.jpg" group-title="SERIES",Prison Break S01 E02
@@ -6511,6 +6390,8 @@ http://757581837380226706.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/226706.mk
 http://757581837380226707.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/226707.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Prison Break S05 E09" tvg-logo="https://image.tmdb.org/t/p/w300/d21YkZrWDPGXzqvM4PVqWwU0vJN.jpg" group-title="SERIES",Prison Break S05 E09
 http://757581837380226708.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/226708.mkv
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Absentia S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/AaJyEcU3IhI8HnGUg0DRTpVyWIc.jpg" group-title="SERIES",Absentia S01 E01
 http://757581837380227798.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/227798.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Absentia S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/rsOQ4X7FadE4twREANU7nfRKRxm.jpg" group-title="SERIES",Absentia S01 E02
@@ -6571,6 +6452,8 @@ http://757581837380227825.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/227825.mk
 http://757581837380227826.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/227826.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Absentia S03 E10" tvg-logo="https://image.tmdb.org/t/p/w300/uXxgAI0cZpQ2hwQYHOBFYYNqUds.jpg" group-title="SERIES",Absentia S03 E10
 http://757581837380227827.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/227827.mkv
+
+
 #EXTINF:-1 tvg-id="" tvg-name="American Horror Story S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/71aRrn1Bu3rIlIURFWAgFzLZkjf.jpg" group-title="SERIES",American Horror Story S01 E01
 http://757581837380227828.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/227828.mp4
 #EXTINF:-1 tvg-id="" tvg-name="American Horror Story S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/24ugyFFz3CD9g6t7jEbdXLiUmro.jpg" group-title="SERIES",American Horror Story S01 E02
@@ -6777,6 +6660,8 @@ http://757581837380227928.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/227928.mk
 http://757581837380227929.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/227929.mkv
 #EXTINF:-1 tvg-id="" tvg-name="American Horror Story S09 E09" tvg-logo="https://image.tmdb.org/t/p/w300/pgWDl0aC3RlUew6mlYic56boKuU.jpg" group-title="SERIES",American Horror Story S09 E09
 http://757581837380227930.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/227930.mkv
+
+
 #EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/oUSHa6RG91xHvbBMiXNBems83UQ.jpg" group-title="SERIES",The Walking Dead S01 E01
 http://757581837380227931.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/227931.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/lqCddh21oAjwEpY1yELIokr6RpE.jpg" group-title="SERIES",The Walking Dead S01 E02
@@ -7071,6 +6956,8 @@ http://757581837380228075.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/228075.mk
 http://757581837380228076.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/228076.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S10 E16" tvg-logo="https://image.tmdb.org/t/p/w300/nKCOYIJQyt1vlqm7OOZb8Iwd9c.jpg" group-title="SERIES",The Walking Dead S10 E16
 http://757581837380228077.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/228077.mkv
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Así nos ven S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/h2cqbOwbPH6W9GWxQ4nvTSxitjd.jpg" group-title="SERIES",Así nos ven S01 E01
 http://757581837380229461.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/229461.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Así nos ven S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/bcRzUAqISiHVSsJdQlLYimLFN0W.jpg" group-title="SERIES",Así nos ven S01 E02
@@ -7079,6 +6966,8 @@ http://757581837380229462.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/229462.mk
 http://757581837380229463.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/229463.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Así nos ven S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/qH6Lm3BB53vkJdnO2GdJusj6rLT.jpg" group-title="SERIES",Así nos ven S01 E04
 http://757581837380229464.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/229464.mkv
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Black Summer S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/8p8ucGgZT9nvMP6rPOC9KDj1KT9.jpg" group-title="SERIES",Black Summer S01 E01
 http://757581837380229465.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/229465.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Black Summer S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/20DinuAoPSTjzgIVikz4H5IcERj.jpg" group-title="SERIES",Black Summer S01 E02
@@ -7095,6 +6984,8 @@ http://757581837380229470.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/229470.mk
 http://757581837380229471.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/229471.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Black Summer S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/lIoVuGcTMvo5WV2qhn7FO0WgozG.jpg" group-title="SERIES",Black Summer S01 E08
 http://757581837380229472.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/229472.mkv
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/ydlY3iPfeOAvu8gVqrxPoMvzNCn.jpg" group-title="SERIES",Breaking Bad S01 E01
 http://757581837380282586.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/282586.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/tjDNvbokPLtEnpFyFPyXMOd6Zr1.jpg" group-title="SERIES",Breaking Bad S01 E02
@@ -7219,6 +7110,8 @@ http://757581837380282645.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/282645.mk
 http://757581837380282646.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/282646.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S05 E16" tvg-logo="https://image.tmdb.org/t/p/w300/pA0YwyhvdDXP3BEGL2grrIhq8aM.jpg" group-title="SERIES",Breaking Bad S05 E16
 http://757581837380282647.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/282647.mkv
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Brigada Costa del Sol S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oSomOlrlpOzYQZKpzxYyVj7y9r2.jpg" group-title="SERIES",Brigada Costa del Sol S01 E01
 http://757581837380502235.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/502235.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Brigada Costa del Sol S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Bpyqv6EhlXJ9hPwRH0WgOGlPHP.jpg" group-title="SERIES",Brigada Costa del Sol S01 E02
@@ -7243,6 +7136,8 @@ http://757581837380502244.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/502244.mk
 http://757581837380502245.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/502245.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Brigada Costa del Sol S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMaWombZXqxzQdSkEVzBgx6uTwk.jpg" group-title="SERIES",Brigada Costa del Sol S01 E12
 http://757581837380502246.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/502246.mkv
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Chernobyl S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/thaMHLz5l6TVL8R4EzaBkjn2EZA.jpg" group-title="SERIES",Chernobyl S01 E01
 http://757581837380502247.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/502247.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chernobyl S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVsUEtOOYeLRmABVuZztl4k9onO.jpg" group-title="SERIES",Chernobyl S01 E02
@@ -7253,6 +7148,8 @@ http://757581837380502249.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/502249.mk
 http://757581837380502250.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/502250.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chernobyl S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgXm2Y6SOFDHtD5thi2LmS7uQBj.jpg" group-title="SERIES",Chernobyl S01 E05
 http://757581837380502251.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/502251.mkv
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Dark S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljQC5U5Ag86vRylCR5gmf78fVaS.jpg" group-title="SERIES",Dark S01 E01
 http://757581837380502252.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/502252.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dark S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oFTNaNwF1g0GCQPTXgHviixMCDM.jpg" group-title="SERIES",Dark S01 E02
@@ -7305,6 +7202,8 @@ http://757581837380502275.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/502275.mk
 http://757581837380502276.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/502276.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dark S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pvPrpHjJbO6TcnBZ7OIiG39dx9X.jpg" group-title="SERIES",Dark S03 E08
 http://757581837380502277.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/502277.mkv
+
+
 #EXTINF:-1 tvg-id="" tvg-name="El cuento de la criada S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pKci0lZfsh7rnaxL77gLf9ibD2w.jpg" group-title="SERIES",El cuento de la criada S01 E01
 http://757581837380502657.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/502657.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El cuento de la criada S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5le5FKBpII0a7rccwr2iett1YVV.jpg" group-title="SERIES",El cuento de la criada S01 E02
@@ -7377,6 +7276,8 @@ http://757581837380502690.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/502690.mk
 http://757581837380502691.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/502691.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El cuento de la criada S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iYiiy1eVPVNr1h6dCO67YS1VD0u.jpg" group-title="SERIES",El cuento de la criada S03 E13
 http://757581837380502692.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/502692.mkv
+
+
 #EXTINF:-1 tvg-id="" tvg-name="EL ULTIMO REINO S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9SAjz8NgcCI4B3bztXGynATWfz.jpg" group-title="SERIES",EL ULTIMO REINO S01 E01
 http://757581837380502696.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/502696.mkv
 #EXTINF:-1 tvg-id="" tvg-name="EL ULTIMO REINO S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJiU12eCG2HApS4xxnlbeMw0MK0.jpg" group-title="SERIES",EL ULTIMO REINO S01 E02
@@ -7449,6 +7350,8 @@ http://757581837380502729.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/502729.mk
 http://757581837380502730.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/502730.mkv
 #EXTINF:-1 tvg-id="" tvg-name="EL ULTIMO REINO S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pv8kwcF2bAyumzyLBVPCZLJTkmL.jpg" group-title="SERIES",EL ULTIMO REINO S04 E10
 http://757581837380502731.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/502731.mkv
+
+
 #EXTINF:-1 tvg-id="" tvg-name="El visitante S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s0wTBwP254iIub1kHsqXckLQ7CO.jpg" group-title="SERIES",El visitante S01 E01
 http://757581837380502732.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/502732.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El visitante S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sik148iMHzpV3ASvIqylSIQ9oK7.jpg" group-title="SERIES",El visitante S01 E02
@@ -7469,6 +7372,8 @@ http://757581837380502739.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/502739.mk
 http://757581837380502740.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/502740.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El visitante S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7QWJZ08IewtrVP1tes8WVNJZii.jpg" group-title="SERIES",El visitante S01 E10
 http://757581837380502741.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/502741.mkv
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Fariña S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x87caIfdsBoOGhTmPP5LggBGgWp.jpg" group-title="SERIES",Fariña S01 E01
 http://757581837380502742.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/502742.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Fariña S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/emiEIV3ntliRO1fYGd8RI3BEN6r.jpg" group-title="SERIES",Fariña S01 E02
@@ -7489,6 +7394,8 @@ http://757581837380502749.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/502749.mk
 http://757581837380502750.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/502750.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Fariña S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3wjuJTFTPhVGwtGdT6GM9vgP8Z4.jpg" group-title="SERIES",Fariña S01 E10
 http://757581837380502751.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/502751.mkv
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Hermanos de sangre S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ic7AgPLAvWT9Vu3Rzv7AnuyOwVz.jpg" group-title="SERIES",Hermanos de sangre S01 E01
 http://757581837380502753.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/502753.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hermanos de sangre S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VZgbvmphYRRG7IFhgdUfrrCm2v.jpg" group-title="SERIES",Hermanos de sangre S01 E02
@@ -7511,6 +7418,8 @@ http://757581837380502761.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/502761.mk
 http://757581837380502762.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/502762.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hermanos de sangre S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tFdHfzPmBSuLZn8L2L09nhxkOOH.jpg" group-title="SERIES",Hermanos de sangre S01 E11
 http://757581837380502752.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/502752.mkv
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Hierro S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/96z2HSZIlFC1pqHjldBNewGbBmq.jpg" group-title="SERIES",Hierro S01 E01
 http://757581837380502763.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/502763.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hierro S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4vftOKMgRHtTgm2J4uULQRQKdtY.jpg" group-title="SERIES",Hierro S01 E02
@@ -7527,6 +7436,8 @@ http://757581837380502768.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/502768.mk
 http://757581837380502769.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/502769.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hierro S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ilpdpj5aKquPLaK18O1lar8QIFI.jpg" group-title="SERIES",Hierro S01 E08
 http://757581837380502770.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/502770.mkv
+
+
 #EXTINF:-1 tvg-id="" tvg-name="La Casa de Papel S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxdCIxCA6DydRcRUpEXLwZHDWXZ.jpg" group-title="SERIES",La Casa de Papel S01 E01
 http://757581837380502771.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/502771.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La Casa de Papel S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e5sVue90Xd7kbTLrfbArexjpPEz.jpg" group-title="SERIES",La Casa de Papel S01 E02
@@ -7589,6 +7500,8 @@ http://757581837380502799.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/502799.mk
 http://757581837380502800.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/502800.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La Casa de Papel S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z01Dc0Ly2GmCpLe6Scx4d3dPP1S.jpg" group-title="SERIES",La Casa de Papel S04 E08
 http://757581837380502801.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/502801.mkv
+
+
 #EXTINF:-1 tvg-id="" tvg-name="La peste S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tW3SfhntaicrDG9TVqLdWgIcMk9.jpg" group-title="SERIES",La peste S01 E01
 http://757581837380502802.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/502802.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La peste S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/85XIuLBW6jNZkGbeBw00xRMcRcD.jpg" group-title="SERIES",La peste S01 E02
@@ -7613,6 +7526,8 @@ http://757581837380502811.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/502811.mk
 http://757581837380502812.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/502812.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La peste S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6w6yviWCH8vRqqh0MIt7qtz8Pjb.jpg" group-title="SERIES",La peste S02 E06
 http://757581837380502813.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/502813.mkv
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Los 100 S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g1bCJEu4joxA2KvvBocojaqUVzz.jpg" group-title="SERIES",Los 100 S01 E01
 http://757581837380502814.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/502814.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Los 100 S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFmn5m6o9HQnUrVJ7WrdIv8aRDo.jpg" group-title="SERIES",Los 100 S01 E02
@@ -7993,6 +7908,8 @@ http://757581837380503042.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/503042.mk
 http://757581837380503043.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/503043.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ragnarok S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7jbyGV6GsicVPGrV8K68iQexnBe.jpg" group-title="SERIES",Ragnarok S01 E06
 http://757581837380503044.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/503044.mkv
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Stranger Things S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AdwF2jXvhdODr6gUZ61bHKRkz09.jpg" group-title="SERIES",Stranger Things S01 E01
 http://757581837380503045.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/503045.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Stranger Things S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8iA56ugQyHZmX81wSsNqwXjCE6F.jpg" group-title="SERIES",Stranger Things S01 E02
@@ -8043,6 +7960,8 @@ http://757581837380503146.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/503146.mk
 http://757581837380503147.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/503147.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Stranger Things S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5YcjTWas07RteM9lssOzL9UhmJh.jpg" group-title="SERIES",Stranger Things S03 E08
 http://757581837380503148.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/503148.mkv
+
+
 #EXTINF:-1 tvg-id="" tvg-name="The Witcher S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kvnbgfKMSOeq08gWeL7FrzT0mah.jpg" group-title="SERIES",The Witcher S01 E01
 http://757581837380503149.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/503149.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Witcher S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7KWyZgiSXSAuagbtzjTZLrkOtNk.jpg" group-title="SERIES",The Witcher S01 E02
@@ -8059,6 +7978,8 @@ http://757581837380503154.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/503154.mk
 http://757581837380503155.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/503155.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Witcher S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3MqMmcoRShLEylaVlCy97ziGWF0.jpg" group-title="SERIES",The Witcher S01 E08
 http://757581837380503156.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/503156.mkv
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Vikingos S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7cuiE0fvDXnCyVbQ5EXHtIz2sAr.jpg" group-title="SERIES",Vikingos S01 E01
 http://757581837380503157.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/503157.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Vikingos S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5IN9TOLnqt9dpIC3h6xnmGNqZuz.jpg" group-title="SERIES",Vikingos S01 E02
@@ -8237,6 +8158,8 @@ http://757581837380503319.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/503319.mk
 http://757581837380503320.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/503320.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Vikingos S06 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1qJ5CMO7vLvU4Hw04hVLtK5d39d.jpg" group-title="SERIES",Vikingos S06 E20
 http://757581837380503321.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/503321.mkv
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Vis a vis S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbuKo1500WVqA1pCbsC2uFRiGo.jpg" group-title="SERIES",Vis a vis S01 E01
 http://757581837380503322.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/503322.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Vis a vis S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q7qoDvH2CfuczXoGT48WMiT3XAt.jpg" group-title="SERIES",Vis a vis S01 E02
@@ -8317,6 +8240,8 @@ http://757581837380503359.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/503359.mk
 http://757581837380503360.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/503360.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Vis a vis S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6S55n6azFZN77PZ9SczFAznPZQX.jpg" group-title="SERIES",Vis a vis S04 E08
 http://757581837380503361.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/503361.mkv
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQwqbaoxaEJdi5xNMnWpt02Y6Bd.jpg" group-title="SERIES",Dragon Ball Super S01 E01
 http://757581837380503362.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/503362.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6D19DLwM0PG1ECTnWvItyYu1DVV.jpg" group-title="SERIES",Dragon Ball Super S01 E02
@@ -8579,6 +8504,8 @@ http://757581837380503490.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/503490.mk
 http://757581837380503491.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/503491.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01 E131" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mtyMLDoFwnCURfGLZ3WMDk9Seur.jpg" group-title="SERIES",Dragon Ball Super S01 E131
 http://757581837380503492.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/503492.mkv
+
+
 #EXTINF:-1 tvg-id="" tvg-name="El Chapo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pbjOklPhb7OvM1Q03FEjM22leTA.jpg" group-title="SERIES",El Chapo S01 E01
 http://757581837380503493.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/503493.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Chapo S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cKdbkhHAcIVgnplvH1g9eNP82V.jpg" group-title="SERIES",El Chapo S01 E02
@@ -8645,6 +8572,8 @@ http://757581837380503547.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/503547.mk
 http://757581837380503548.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/503548.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Chapo S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qUcIKT8QkNfA75O948AKJjckvAt.jpg" group-title="SERIES",El Chapo S03 E13
 http://757581837380503549.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/503549.mkv
+
+
 #EXTINF:-1 tvg-id="" tvg-name="El Ministerio del Tiempo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d93u9CXuDdT2zOS1f2zRbwkYMo6.jpg" group-title="SERIES",El Ministerio del Tiempo S01 E01
 http://757581837380503516.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/503516.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Ministerio del Tiempo S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdth7AtpaxnO1345gkb0ULzw49x.jpg" group-title="SERIES",El Ministerio del Tiempo S01 E02
@@ -8715,6 +8644,8 @@ http://757581837380503561.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/503561.mk
 http://757581837380503562.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/503562.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Expediente X S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/puRJHce1lYqE2GJLn1XBTHszHbF.jpg" group-title="SERIES",Expediente X S01 E01
 http://757581837380503563.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/503563.mkv
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Expediente X S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fArORQn3wtv5Him6lKcRVxsqzHp.jpg" group-title="SERIES",Expediente X S01 E02
 http://757581837380503564.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/503564.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Expediente X S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rJ5qOZRx12mH6WqqDnhrroBveQ.jpg" group-title="SERIES",Expediente X S01 E03
@@ -9147,6 +9078,8 @@ http://757581837380503780.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/503780.mk
 http://757581837380503781.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/503781.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Expediente X S11 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZyFXwJ1zGKCGgxk2aRCPR9y6Ww.jpg" group-title="SERIES",Expediente X S11 E10
 http://757581837380503782.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/503782.mkv
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Manos a la obra S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvVoBOLBcMk2nrMEd8mjYncSCoA.jpg" group-title="SERIES",Manos a la obra S01 E01
 http://757581837380503839.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/503839.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Manos a la obra S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvVoBOLBcMk2nrMEd8mjYncSCoA.jpg" group-title="SERIES",Manos a la obra S01 E02
@@ -9407,6 +9340,8 @@ http://757581837380503968.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/503968.mp
 http://757581837380503969.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/503969.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Manos a la obra S06 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvVoBOLBcMk2nrMEd8mjYncSCoA.jpg" group-title="SERIES",Manos a la obra S06 E13
 http://757581837380503970.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/503970.mp4
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Veneno S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rp9JOhaSYrdhgbeqIac36qiJSZO.jpg" group-title="SERIES",Veneno S01 E01
 http://757581837380504043.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/504043.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Veneno S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnHQuzBgDH5nPqrLWtTEh4rqhv5.jpg" group-title="SERIES",Veneno S01 E02
@@ -9423,6 +9358,8 @@ http://757581837380504048.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/504048.mk
 http://757581837380504049.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/504049.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Veneno S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jqhgxKpD5pBFkTSuDWIlMdQ2vGn.jpg" group-title="SERIES",Veneno S01 E08
 http://757581837380504050.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/504050.mkv
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Vis a Vis: El Oasis S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkK4SDsdYQNiVEkQZ3GPphKYko4.jpg" group-title="SERIES",Vis a Vis: El Oasis S01 E01
 http://757581837380504051.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/504051.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Vis a Vis: El Oasis S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ax8KCJN5UqolCMIZB5aI5VM8j7L.jpg" group-title="SERIES",Vis a Vis: El Oasis S01 E02
@@ -9439,6 +9376,8 @@ http://757581837380504056.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/504056.mk
 http://757581837380504057.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/504057.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Vis a Vis: El Oasis S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wUz2FZ36epgtgWl5qMRO4MFdmRp.jpg" group-title="SERIES",Vis a Vis: El Oasis S01 E08
 http://757581837380504058.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/504058.mkv
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Antidisturbios S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/7mVIta66Wk9JHVfROnnsfxJUSn7.jpg" group-title="SERIES",Antidisturbios S01 E01
 http://757581837380284136.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/284136.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Antidisturbios S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/qBVqFo2qodjn5BxXSg45PXiHYGu.jpg" group-title="SERIES",Antidisturbios S01 E02
@@ -9451,10 +9390,14 @@ http://757581837380284139.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/284139.mk
 http://757581837380284140.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/284140.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Antidisturbios S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/29YyTBcSvZnK9v7o6Cb2ULcMvf3.jpg" group-title="SERIES",Antidisturbios S01 E06
 http://757581837380284141.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/284141.mkv
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Física o Química: El Reencuentro S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lg0mjCxwqDFpOpatPPkSqDZ7hyY.jpg" group-title="SERIES",Física o Química: El Reencuentro S01 E01
 http://757581837380504302.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/504302.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Física o Química: El Reencuentro S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEi3XzbbdrZr5KDOXBoSPInXMu2.jpg" group-title="SERIES",Física o Química: El Reencuentro S01 E02
 http://757581837380504303.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/504303.mkv
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Hijos de la anarquía S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2H5wGYpjuMKx5kLUB3eWFIwCB7T.jpg" group-title="SERIES",Hijos de la anarquía S01 E01
 http://757581837380504186.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/504186.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hijos de la anarquía S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ze4PXaLqejK6Cn3KSMDitrM7q9O.jpg" group-title="SERIES",Hijos de la anarquía S01 E02
@@ -9639,6 +9582,8 @@ http://757581837380504299.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/504299.mp
 http://757581837380504300.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/504300.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hijos de la anarquía S07 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbHsHNKHfc8xIq1naQ6rxXIaSdo.jpg" group-title="SERIES",Hijos de la anarquía S07 E13
 http://757581837380504301.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/504301.mp4
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Ozark S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kt9D7lU2P0Ct3lCau5QetFdFhcj.jpg" group-title="SERIES",Ozark S01 E01
 http://757581837380504146.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/504146.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ozark S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c06qY3lchB8ReTLahmfupliP7J.jpg" group-title="SERIES",Ozark S01 E02
@@ -9649,6 +9594,8 @@ http://757581837380504148.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/504148.mk
 http://757581837380504149.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/504149.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ozark S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/brpbiIML6vA4cEIDZstQEj9UdXp.jpg" group-title="SERIES",Ozark S01 E05
 http://757581837380504150.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/504150.mkv
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Utopía (2013) S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/duleMtfadEGfdnngaWLZbAj25S3.jpg" group-title="SERIES",Utopía (2013) S01 E01
 http://757581837380504134.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/504134.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Utopía (2013) S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8RHrGhQt7rP3aTZ4Bjp5jRGocK7.jpg" group-title="SERIES",Utopía (2013) S01 E02
@@ -9689,6 +9636,8 @@ http://757581837380504131.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/504131.mk
 http://757581837380504132.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/504132.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Utopia (2020) S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsj4UkAcZTmGDzarrSVRD5fPGRd.jpg" group-title="SERIES",Utopia (2020) S01 E08
 http://757581837380504133.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/504133.mkv
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Big Bang S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxWlBXZhGWhumbLB8gAHyyW3ITD.jpg" group-title="SERIES",Big Bang S01 E01
 http://757581837380504059.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/504059.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Big Bang S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Itgr82yyAEtwegAZgMm30UqJXK.jpg" group-title="SERIES",Big Bang S01 E02
@@ -9815,6 +9764,8 @@ http://757581837380504120.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/504120.mk
 http://757581837380504098.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/504098.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Big Bang S02 E46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NiLbb4TXeiiAjTPyqP08Swu8w5.jpg" group-title="SERIES",Big Bang S02 E46
 http://757581837380504121.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/504121.mkv
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Valeria S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yC1pDIdxsi2dYiygGqGqSnFrFRw.jpg" group-title="SERIES",Valeria S01 E01
 http://757581837380512367.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/512367.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Valeria S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Jrg6L40hfb8j8iJ7UMrT4yTwAR.jpg" group-title="SERIES",Valeria S01 E02
@@ -9863,6 +9814,8 @@ http://757581837380512388.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/512388.mp
 http://757581837380512389.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/512389.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Valeria S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5DcxA5Q1FtOqYX7YITBCCmJm0CI.jpg" group-title="SERIES",Valeria S03 E08
 http://757581837380512390.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/512390.mp4
+
+
 #EXTINF:-1 tvg-id="" tvg-name="The White Lotus S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5AkJFSmfPHQDovs23M84p9FPjqy.jpg" group-title="SERIES",The White Lotus S01 E01
 http://757581837380529020.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/529020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The White Lotus S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/116eiqnFbU00ZCSwLY5u6MMRFXq.jpg" group-title="SERIES",The White Lotus S01 E02
@@ -9889,6 +9842,8 @@ http://757581837380529030.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/529030.mk
 http://757581837380529031.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/529031.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The White Lotus S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/243a6NIkZ1ai5FmT2bpdcf4Av5g.jpg" group-title="SERIES",The White Lotus S02 E07
 http://757581837380529032.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/529032.mkv
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Juego de tronos S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9hGF3WUkBf7cSjMg0cdMDHJkByd.jpg" group-title="SERIES",Juego de tronos S01 E01
 http://757581837380536364.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/536364.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Juego de tronos S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1kdHRLs05ia0E9X3Hi5Ts5Sc1jk.jpg" group-title="SERIES",Juego de tronos S01 E02
@@ -10035,6 +9990,8 @@ http://757581837380536434.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/536434.mk
 http://757581837380536435.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/536435.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Juego de tronos S08 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zBi2O5EJfgTS6Ae0HdAYLm9o2nf.jpg" group-title="SERIES",Juego de tronos S08 E06
 http://757581837380536436.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/536436.mkv
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Rapa S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfYm4tKvwDm4wNUNcB4ZMtIOdBW.jpg" group-title="SERIES",Rapa S01 E01
 http://757581837380550984.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/550984.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Rapa S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7QdSCKOBF65dQK0TRqle1DfhK6C.jpg" group-title="SERIES",Rapa S01 E02
@@ -10059,6 +10016,8 @@ http://757581837380550993.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/550993.mk
 http://757581837380550994.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/550994.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Rapa S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1sASTT4PkvXeU6nzbKT4xjWuK6.jpg" group-title="SERIES",Rapa S02 E06
 http://757581837380550995.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/550995.mkv
+
+
 #EXTINF:-1 tvg-id="" tvg-name="El inmortal S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zGVXS8ic7LPSqluBFbS7xo4RjCM.jpg" group-title=" SERIES",El inmortal S01 E01
 http://757581837380678046.of1030ok.xyz:80/series/fe720065/wAcjeTDERPcr/678046.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El inmortal S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/luDIkGnFLBi2ufDKkz8W9ilbQ4k.jpg" group-title=" SERIES",El inmortal S01 E02

@@ -240,6 +240,21 @@ acestream://c373da9e901d414b7384e671112e64d5a2310c29
 #EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,M. Golf 1080
 acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 
+#EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200"  group-title="ACE_EVENTOS" tvg-name="Real Madrid TV",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
+#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,Teledeporte
+https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
+
+
+#EXTINF:-1 tvg-id="GOLPLAY.es" tvg-logo="https://i.imgur.com/DSKLw0U.png"group-title="ACE_EVENTOS",GOL PLAY (432p)
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.m3u8
+
+#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,Padel TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadeltv-samsungspain/playlist.m3u8
+
+
+
 
 
 
@@ -334,6 +349,10 @@ acestream://cc7b8c39f70aa
 
 
 
+
+
+
+
 #EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,LA 1
 https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8            
 
@@ -348,9 +367,6 @@ https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/index.
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/index.m3u8
 
 
-
-
-
 #EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,24H
 https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8
 
@@ -360,13 +376,10 @@ https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
 
 
-#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,Teledeporte
-https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
 
 
 
-#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,Padel TV
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadeltv-samsungspain/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,Clan
@@ -378,13 +391,6 @@ https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e417
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="ACE_EVENTOS" tvg-name="Pequeradio TV",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-
-
-#EXTINF:-1 tvg-id="BabyTV.es" tvg-logo="https://i.imgur.com/fvVovnc.png" group-title="ACE_EVENTOS",Baby TV
-http://stream.flynetwifi.com:1936/live/mobile-060/playlist.m3u8
-
-
-
 
 
 
@@ -408,15 +414,11 @@ https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:19_HD.smil/index
 
 
 
-#EXTINF:-1 tvg-id="ExtremeSportsChannel.nl" tvg-logo="https://i.imgur.com/m7IC01U.png" group-title="ACE_EVENTOS", user-agent="ExoPlayer2/2.37",Extreme Sports
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://edge02.odtv.az/o4/extremesport/playlist.m3u8
+
 #EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="ACE_EVENTOS",Fashion TV
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="GOLPLAY.es" tvg-logo="https://i.imgur.com/DSKLw0U.png"group-title="ACE_EVENTOS",GOL PLAY (432p)
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.m3u8
 
 
 
@@ -516,8 +518,7 @@ https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/elconfidencial/picture?width=200&height=200" group-title="ACE_EVENTOS" tvg-name="El Confidencial",El Confidencial
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 
-#EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200"  group-title="ACE_EVENTOS" tvg-name="Real Madrid TV",Real Madrid TV
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
 
 
 
@@ -644,11 +645,6 @@ https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id=" tvg-logo=" group-title="ACE_EVENTOS"  ,Rakuten TV Shows Spain (720p)
 https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="WarnerTV.es" tvg-logo="https://i.imgur.com/Otg74pw.png" group-title="ACE_EVENTOS"  ,Warner TV
-http://stream.flynetwifi.com:1936/live/mobile-030/playlist.m3u8
-
 
 
 

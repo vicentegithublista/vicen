@@ -342,8 +342,9 @@ https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 
 
-#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,Antena 3
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-logo="https://i.imgur.com/aKV5voq.png" group-title="Undefined",La Sexta (1080p)
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/index.m3u8
 
 
 

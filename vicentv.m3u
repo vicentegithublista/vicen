@@ -8,12 +8,6 @@ acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 
 
 
-
-
-
-
-
-
 #EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/512px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="M.Liga 1080 Multi" , M+ LaLigaTV OPC.1
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 
@@ -27,9 +21,6 @@ acestream://f031f5728b32f6089dda28edebe990cf198108d8
 
 #EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/512px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="M.Liga 1080 Multi" , M+ LaLigaTV OPC.4
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-
-
-
 
 
 
@@ -69,19 +60,6 @@ acestream://4c46585214b23b1d802ef2168060c7649a3894cf
 
 #EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/2335px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png" , LaLiga Hypermotion2 OPC.1
 acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -189,29 +167,6 @@ acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" tvg-id=" DAZN F1 1080" , DAZN F1 OPC.1
 acestream://5789ca155323664edd293b848606688edf803f4d
 
@@ -253,11 +208,8 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manife
 #EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,Padel TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadeltv-samsungspain/playlist.m3u8
 
-
-
-
-
-
+#EXTINF:-1 tvg-id="E3.TV" tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200"group-title="ACE_EVENTOS" tvg-name="Esport 3",Esport 3 GEO
+https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
 
 
 
@@ -306,9 +258,6 @@ acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 
 
 
-
-
-
 #EXTINF:-1 group-title="ACE_EVENTOS" TVg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B_Sport_2015.png/640px-Canal%2B_Sport_2015.png" TVg-id="Canal+" ,Canal+ Sport1
 acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
 
@@ -330,9 +279,6 @@ acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
 
 #EXTINF:-1 group-title="ACE_EVENTOS" TVg-logo="https://sport-onthebox.com/wp-content/uploads/2019/08/Premier-Sports-2.png" TVg-id="Premier Sports 2" ,Premier Sports 2
 acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
-
-
-
 
 
 
@@ -374,10 +320,6 @@ https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,Euronews
 https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
-
-
-
-
 
 
 
@@ -510,8 +452,7 @@ https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="Negocios.TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="ACE_EVENTOS"  tvg-name="Negocios TV",Negocios TV
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 
-#EXTINF:-1 tvg-id="E3.TV" tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200"group-title="ACE_EVENTOS" tvg-name="Esport 3",Esport 3 GEO
-https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
+
 
 
 
@@ -537,19 +478,6 @@ https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/flooxer/picture?width=200&height=200" group-title="ACE_EVENTOS"  tvg-name="flooxer",flooxer
 https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200"  group-title="ACE_EVENTOS"  tvg-name="Atresplayer Clásicos",Atresplayer Clásicos
-https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="ACE_EVENTOS"  tvg-name="Atresplayer Comedia",Atresplayer Comedia
-https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200"  group-title="ACE_EVENTOS"  tvg-name="Atresplayer Mentes Inquietas",Atresplayer Mentes Inquietas
-https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="ACE_EVENTOS" 
-tvg-name="Atresplayer Multicine",Atresplayer Multicine
-https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
 
 
 #EXTINF:-1 tvg-id="Atreseries.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/512px-Atreseries_2020_logo.svg.png" group-title="ACE_EVENTOS" ,Atreseries (720p)

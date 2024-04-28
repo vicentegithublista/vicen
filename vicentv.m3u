@@ -478,6 +478,35 @@ https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8
 #EXTINF:-1 tvg-id="Atreseries.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/512px-Atreseries_2020_logo.svg.png" group-title="ACE_EVENTOS" ,Atreseries (720p)
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:10_HD.smil/manifest.m3u8
 
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mega_Chile_2020.png/800px-Mega_Chile_2020.png" tvg-id="Mega" tvg-name="ES: MEGA FHD" ,ES: MEGA FHD
+http://rampro.xyz:80/34051069746347/91628564806238/822314
+
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" tvg-id="Nat Geo Wild HD" tvg-name="ES: NAT GEO WILD FHD" ,ES: NAT GEO WILD FHD
+http://rampro.xyz:80/34051069746347/91628564806238/822315
+
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="data:image/png;base64,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" tvg-id="Iberalia TV" tvg-name="ES: IBERALIA ORIGINAL FHD" ,ES: IBERALIA ORIGINAL FHD
+http://rampro.xyz:80/34051069746347/91628564806238/822280
+
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://www.contenidostv.es/images/iberaliaPesca-512.png" tvg-id="Iberalia pesca" tvg-name="ES: IBERALIA 100% PESCA FHD" ,ES: IBERALIA 100% PESCA FHD
+http://rampro.xyz:80/34051069746347/91628564806238/822278
+
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://www.contenidostv.es/images/iberaliaPesca-512.png" tvg-id="Iberalia caza" tvg-name="ES: IBERALIA 100% CAZA FHD" ,ES: IBERALIA 100% CAZA FHD
+http://rampro.xyz:80/34051069746347/91628564806238/822279
+
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Caza-pesca_m%2B.png" tvg-id="Caza y Pesca HD" tvg-name="ES: CAZA Y PESCA FHD" ,ES: CAZA Y PESCA FHD
+http://rampro.xyz:80/34051069746347/91628564806238/819127
+
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Logo_La_Resistencia.png" tvg-id="La Resistencia 24H" tvg-name="ES: RESISTENCIA FHD" ,ES: RESISTENCIA FHD
+http://rampro.xyz:80/34051069746347/91628564806238/822250
+
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://getlogo.net/wp-content/uploads/2019/08/canal-decasa-logo-vector.png" tvg-id="Decasa" tvg-name="ES: CANAL DE CASA FHD" ,ES: CANAL DE CASA FHD
+http://rampro.xyz:80/34051069746347/91628564806238/819126
+
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://i.ibb.co/jMYSwkD/channels4-profile.jpg" tvg-id="Canal Cocina" tvg-name="ES: CANAL COCINA FHD" ,ES: CANAL COCINA FHD
+http://rampro.xyz:80/34051069746347/91628564806238/819125
+
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://pbs.twimg.com/profile_images/1655479927972429824/-8ollcWs_400x400.jpg" tvg-id="Historia" tvg-name="ES: HISTORIA FHD" ,ES: HISTORIA FHD
+http://rampro.xyz:80/34051069746347/91628564806238/818149
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="ACE_EVENTOS"  tvg-name="RTVE Crimen",RTVE Crimen
 https://ztnr.rtve.es/ztnr/6924117.m3u8
@@ -522,6 +551,46 @@ https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id=" tvg-logo=" group-title="ACE_EVENTOS"  ,Rakuten TV Shows Spain (720p)
 https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Estrenos_por_Movistar_Plus%2B_2022_logo.svg/640px-Estrenos_por_Movistar_Plus%2B_2022_logo.svg.png" tvg-id="M+ Suspense HD" tvg-name="ES: SUSPENSE FHD" ,ES: SUSPENSE FHD
+http://rampro.xyz:80/34051069746347/91628564806238/819122
+
+
+
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/11/1_0_1_749D_41C_1_C00000_0_0_0-1.png" tvg-id="M+ Terror" tvg-name="ES: VACACIONES FHD" ,ES: VACACIONES FHD
+http://rampro.xyz:80/34051069746347/91628564806238/819116
+
+
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://i.ibb.co/5cgMFFr/Movistar-Comedia.png" tvg-id="M+ Comedia HD" tvg-name="ES: COMEDIA HD" ,ES: COMEDIA HD
+http://rampro.xyz:80/34051069746347/91628564806238/11
+
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1200px-Movistar_Drama.svg.png" tvg-id="M+ Drama HD" tvg-name="ES: M+ DRAMA HD" ,ES: M+ DRAMA HD
+http://rampro.xyz:80/34051069746347/91628564806238/391141
+
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1200px-Movistar_Acci%C3%B3n.svg.png" tvg-id="M+ Acción HD" tvg-name="ES: ACCION FHD" ,ES: ACCION FHD
+http://rampro.xyz:80/34051069746347/91628564806238/818154
+
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/1529px-Movistar_Cine_Espa%C3%B1ol.svg.png" tvg-id="M+ Cine Español" tvg-name="ES: M+ DCINE ESPANOL FHD" ,ES: M+ DCINE ESPANOL FHD
+http://rampro.xyz:80/34051069746347/91628564806238/822322
+
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Cl%C3%A1sicos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Cl%C3%A1sicos_por_Movistar_Plus%2B_2022_logo.svg.png" tvg-name="ES: CLASICOS FHD" ,ES: CLASICOS FHD
+http://rampro.xyz:80/34051069746347/91628564806238/818156
+
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://i.ibb.co/5cgMFFr/Movistar-Comedia.png" tvg-id="M+ Comedia HD" tvg-name="ES: COMEDIA FHD" ,ES: COMEDIA FHD
+http://rampro.xyz:80/34051069746347/91628564806238/818157
+
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://i.ibb.co/v3vrp5g/download.png" tvg-id="M+ Indie HD" tvg-name="ES: INDIE FHD" ,ES: INDIE FHD
+http://rampro.xyz:80/34051069746347/91628564806238/818153
+
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://i.ibb.co/qBZCf1q/download-1.jpg" tvg-id="M+ Cine HD" tvg-name="ES: M+ CINE FHD" ,ES: M+ CINE FHD
+http://rampro.xyz:80/34051069746347/91628564806238/818155
+
+
+
+
+
+
 
 
 

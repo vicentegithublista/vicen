@@ -311,7 +311,7 @@ https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,LA 2
 https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
 
-#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/A3" tvg-id="Antena 3 HD" tvg-name="ES: ANTENA 3 FHD" ,ES: ANTENA 3 FHD
+EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/A3" tvg-id="Antena 3 HD" tvg-name="ES: ANTENA 3 FHD" ,ES: ANTENA 3 FHD
 http://rampro.xyz:80/34051069746347/91628564806238/818061
 
 
@@ -320,7 +320,7 @@ http://rampro.xyz:80/34051069746347/91628564806238/818061
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/index.m3u8
 
 
-#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/T5" tvg-id="Telecinco HD" tvg-name="ES: TELECINCO FHD" ,ES: TELECINCO FHD
+EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/T5" tvg-id="Telecinco HD" tvg-name="ES: TELECINCO FHD" ,ES: TELECINCO FHD
 http://rampro.xyz:80/34051069746347/91628564806238/818049
 
 

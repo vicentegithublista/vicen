@@ -317,6 +317,9 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/inde
 #EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,24H
 https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8
 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/tveInternacional/picture?width=200&height=200" group-title="ACE_EVENTOS" tvg-name="TVE Int. Europa",TVE Int. Europa
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8
+
 
 
 #EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,Euronews

@@ -1,5 +1,6 @@
 EXTM3U
-
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" tvg-id="Movistar Plus+ HD" tvg-name="M+ PLUS+ FHD" ,M+ PLUS+ FHD
+http://89198490877646233.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/646233.ts
 
 #EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,Vamos 1080
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
@@ -305,13 +306,13 @@ https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,LA 2
 https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
 
-#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://miguia.tv/channels/big_10.png" tvg-id="antena3.es" tvg-name="ES: ANTENA 3 FHD" ,ES: ANTENA 3 FHD
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://miguia.tv/channels/big_10.png" tvg-id="antena3.es" tvg-name="ANTENA 3 FHD" ,ANTENA 3 FHD
 http://89198490877321105.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321105.ts
 
 #EXTINF:-1 tvg-id="Cuatro.es" tvg-logo="https://i.imgur.com/NYLnABb.png" group-title="ACE_EVENTOS",Cuatro (1080p)
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/index.m3u8
 
-#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://miguia.tv/channels/big_161.png" tvg-id="telecinco.es" tvg-name="ES: TELECINCO FHD" ,ES: TELECINCO FHD
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://miguia.tv/channels/big_161.png" tvg-id="telecinco.es" tvg-name="TELECINCO FHD" ,TELECINCO FHD
 http://89198490877321429.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321429.ts
 
 
@@ -341,9 +342,9 @@ https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e417
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="ACE_EVENTOS" tvg-name="Pequeradio TV",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://miguia.tv/channels/big_70.png" tvg-id="disneychannel.es" tvg-name="ES: DISNEY CHANNEL FHD" ,ES: DISNEY CHANNEL FHD
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://miguia.tv/channels/big_70.png" tvg-id="disneychannel.es" tvg-name="DISNEY CHANNEL FHD" ,DISNEY CHANNEL FHD
 http://89198490877321214.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321214.ts
-#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://miguia.tv/channels/big_74.png" tvg-id="disneyjunior.es" tvg-name="ES: DISNEY JUNIOR HD" ,ES: DISNEY JUNIOR HD
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://miguia.tv/channels/big_74.png" tvg-id="disneyjunior.es" tvg-name="DISNEY JUNIOR HD" ,DISNEY JUNIOR HD
 http://89198490877321217.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321217.ts
 
 
@@ -355,6 +356,8 @@ https://fast-channels.atresmedia.com/648ef5882bfab0e4627e0d61/648ef5882bfab0e462
 
 #EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,El club de la comedia
 https://fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad.m3u8
+
+
                   
   
 
@@ -468,19 +471,19 @@ https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id=" tvg-logo=" group-title="ACE_EVENTOS"  ,Rakuten TV Shows Spain (720p)
 https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" tvg-id="movistaraccion.es" tvg-name="ES: M+ ACCION FHD" ,ES: M+ ACCION FHD
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" tvg-id="movistaraccion.es" tvg-name="M+ ACCION FHD" ,M+ ACCION FHD
 http://89198490877321305.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321305.ts
-#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" tvg-id="M+ CLÁSICOS HD" tvg-name="ES: M+ CLASICOS FHD" ,ES: M+ CLASICOS FHD
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" tvg-id="M+ CLÁSICOS HD" tvg-name="M+ CLASICOS FHD" ,M+ CLASICOS FHD
 http://89198490877321314.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321314.ts
-#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOLE.png" tvg-id="moviestardrama.es" tvg-name="ES: M+ DRAMA FHD" ,ES: M+ DRAMA FHD
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOLE.png" tvg-id="moviestardrama.es" tvg-name="M+ DRAMA FHD" ,M+ DRAMA FHD
 http://89198490877321331.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321331.ts
-#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOME.png" tvg-id="M+ Comedia HD" tvg-name="ES: M+ COMEDIA HD" ,ES: M+ COMEDIA HD
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOME.png" tvg-id="M+ Comedia HD" tvg-name="M+ COMEDIA HD" ,M+ COMEDIA HD
 http://89198490877321318.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321318.ts
-#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_7539_426_1_C00000_0_0_0.png" tvg-id="movistarestrenos.es" tvg-name="ES: M+ ESTRENOS FHD" ,ES: M+ ESTRENOS FHD
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_7539_426_1_C00000_0_0_0.png" tvg-id="movistarestrenos.es" tvg-name="M+ ESTRENOS FHD" ,M+ ESTRENOS FHD
 http://89198490877321337.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321337.ts
-#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MINDI.png" tvg-id="M+ Indie HD" tvg-name="ES: M+ INDIE FHD" ,ES: M+ INDIE FHD
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MINDI.png" tvg-id="M+ Indie HD" tvg-name=M+ INDIE FHD" ,M+ INDIE FHD
 http://89198490877552957.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/552957.ts
-#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://miguia.tv/channels/big_273.png" tvg-id="M+ Series HD" tvg-name="ES: M+ SERIES FHD" ,ES: M+ SERIES FHD
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://miguia.tv/channels/big_273.png" tvg-id="M+ Series HD" tvg-name=M+ SERIES FHD" ,M+ SERIES FHD
 http://89198490877321347.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321347.ts
 
 

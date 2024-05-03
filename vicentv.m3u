@@ -198,9 +198,6 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
 
 
-#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,GOL TV 1080
-acestream://d4627f7b6b237a8556819445b3283d866caceca2
-
 #EXTINF:-1 tvg-id="GOLPLAY.es" tvg-logo="https://i.imgur.com/DSKLw0U.png"group-title="ACE_EVENTOS",GOL PLAY (432p)
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.m3u8
 

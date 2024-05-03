@@ -370,8 +370,6 @@ https://new-international-23-secure2.akamaized.net/index.m3u8
 
 
 
-
-
 #EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,Canal Sur
 https://d35x6iaiw8f75z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbwsl0jk1bvoo/canal_sur_andalucia_es.m3u8           
 
@@ -381,13 +379,11 @@ https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 #EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,Castilla-La Mancha Media
 https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/canal4villarrobledo/picture?width=200&height=200"  group-title="ACE_EVENTOS" tvg-name="Canal 4 Mancha Centro",Canal 4 Mancha Centro
+https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
 
-
-  
-
-#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,Telemadrid Internacional
-https://new-international-23-secure2.akamaized.net/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/Teletoledo/picture?width=200&height=200"  group-title="ACE_EVENTOS" tvg-name="TeleToledo",TeleToledo
+#EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
 
 
 

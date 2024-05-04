@@ -201,8 +201,8 @@ http://89198490877466755.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/466755.ts
 #EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200"  group-title="ACE_EVENTOS" tvg-name="Real Madrid TV",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
-#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Real_Betis.png" tvg-name="CANAL BETIS TV SD" ,CANAL BETIS TV SD
-http://89198490877463948.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/463948.ts
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://miguia.tv/channels/big_14.png" tvg-id="barcatv.es" tvg-name="BARCA SD" ,BARCA SD
+http://89198490877538747.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/538747.ts
 
 #EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://www.sevillafc.es/themes/da_vinci/images/opta_images/logo_sevilla_fc.png" tvg-id="Sevilla FC Televisión" tvg-name="SEVILLA FC SD" ,SEVILLA FC SD
 http://89198490877463951.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/463951.ts
@@ -440,7 +440,12 @@ https://cloud.fastchannel.es/mic/manifiest/hls/mundonautica/mundonautica.m3u8
 
 #EXTINF:-1 group-title="ACE_EVENTOS" tvg-name="MOTO ADV HD" ,MOTO ADV HD
 http://89198490877466762.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/466762.ts
+
 #EXTINF:-1 group-title="ACE_EVENTOS" tvg-id="DBike" tvg-name="DBIKE HD" ,DBIKE HD
+http://89198490877466753.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/466753.ts
+
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/UBEAT" tvg-id="UBEAT" tvg-name="UBEAT FHD" ,UBEAT FHD
+http://89198490877648495.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/648495.ts
 
 #EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://miguia.tv/channels/big_345.png" tvg-id="La Resistencia" tvg-name="LA RESISTENCIA HD" ,LA RESISTENCIA HD
 http://89198490877321286.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321286.ts
@@ -514,6 +519,8 @@ http://89198490877321318.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321318.ts
 http://89198490877321337.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321337.ts
 #EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MINDI.png" tvg-id="M+ Indie HD" tvg-name=M+ INDIE FHD" ,M+ INDIE FHD
 http://89198490877552957.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/552957.ts
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="http://vpsapache.hopto.org/images/1_0_1_7736_416_1_C00000_0_0_0.png" tvg-id="M+ Cine Español" tvg-name="M+ CINE ESPAÑOL FHD" ,M+ CINE ESPAÑOL FHD
+http://89198490877620943.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/620943.ts
 #EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://miguia.tv/channels/big_273.png" tvg-id="M+ Series HD" tvg-name=M+ SERIES FHD" ,M+ SERIES FHD
 http://89198490877321347.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321347.ts
 #EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MORIG.png" tvg-id="LA 1" tvg-name="M+ ORIGINALES FHD" ,M+ ORIGINALES FHD
@@ -610,7 +617,8 @@ http://89198490877399757.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/399757.ts
 http://89198490877459777.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/459777.ts
 
 
-
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" tvg-id="Movistar Plus+ HD" tvg-name="M+ PLUS+ FHD" ,M+ PLUS+ FHD
+http://89198490877646233.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/646233.ts
 
 #EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD" tvg-id="vamos.es" tvg-name="#VAMOS HD" ,#VAMOS HD
 http://89198490877321072.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321072.ts
@@ -663,19 +671,39 @@ http://89198490877228393.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/228393.ts
 #EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-4-espana-es.png" tvg-name="M+ DAZN 4 FHD" ,M+ DAZN 4 FHD
 http://89198490877228397.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/228397.ts
 
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPDEP" tvg-id="movistardeportes.es" tvg-name="M+ DEPORTES FHD" ,M+ DEPORTES FHD
+http://89198490877538695.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/538695.ts
+
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ARTHUR" tvg-id="M+ Deportes 2 HD" tvg-name="M+ DEPORTES 2 FHD" ,M+ DEPORTES 2 FHD
+http://89198490877538679.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/538679.ts
+
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/USOP2" tvg-id="M+ Deportes 3" tvg-name="M+ DEPORTES 3 FHD" ,M+ DEPORTES 3 FHD
+http://89198490877538682.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/538682.ts
+
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/USOP3" tvg-id="M+ Deportes 4" tvg-name="M+ DEPORTES 4 FHD" ,M+ DEPORTES 4 FHD
+http://89198490877538685.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/538685.ts
+
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/USOP11" tvg-id="M+ Deportes 5" tvg-name="M+ DEPORTES 5 FHD" ,M+ DEPORTES 5 FHD
+http://89198490877538688.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/538688.ts
+
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MULTI8" tvg-id="M+ Deportes 6" tvg-name="M+ DEPORTES 6 FHD" ,M+ DEPORTES 6 FHD
+http://89198490877538691.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/538691.ts
+
+
 #EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP" tvg-id="LA 1" tvg-name="EUROSPORT 1 FHD" ,EUROSPORT 1 FHD
 http://89198490877290348.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/290348.ts
 
 #EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP2" tvg-id="LA 1" tvg-name="EUROSPORT 2 FHD" ,EUROSPORT 2 FHD
 http://89198490877290351.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/290351.ts
 
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2020/06/NFL_Network_logo-1024x402.png" tvg-name="NFL NETWORK HD" ,NFL NETWORK HD
+http://89198490877538751.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/538751.ts
 
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="http://fight-time.com/wp-content/uploads/2017/03/Fight-Time-Logo-Transparente-g.png" tvg-id="Fight Time" tvg-name="FIGHT TIME SD" ,FIGHT TIME SD
+http://89198490877605497.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/605497.ts
 
-
-
-
-
-
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://da3.rbmbtnx.net/v4/RBTV/pd/FO-1WDHTD9ZW5N11/im:i:q_70,f_png,e_trim/im:i:w_600,c_limit/a:s/st:0OQOgFK557PgH3PKfPTosa/wrc_titletreatment_logo.svg" tvg-name="RALLY TV FHD" ,RALLY TV FHD
+http://89198490877771303.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/771303.ts
 
 
 

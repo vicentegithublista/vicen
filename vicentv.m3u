@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor.xml.gz"
 
 
 #EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" tvg-id="LA 1 HD" tvg-name="ONETORO" ,ONETORO TV OPC.1
@@ -459,9 +459,6 @@ http://89198490877321377.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321377.ts
 http://89198490877321381.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321381.ts
 
 
-#EXTINF:-1 tvg-id="Calle13Universal.es" tvg-logo="https://i.imgur.com/Lu1l4qD.png" group-title="ACE_EVENTOS",Calle 13 Universal (1080p)
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:96_HD.smil/manifest.m3u8
-
 #EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,El Hormiguero
 https://fast-channels.atresmedia.com/648ef5882bfab0e4627e0d61/648ef5882bfab0e4627e0d61.m3u8
 
@@ -498,8 +495,6 @@ https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 #EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,Castilla-La Mancha Media
 https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/canal4villarrobledo/picture?width=200&height=200"  group-title="ACE_EVENTOS" tvg-name="Canal 4 Mancha Centro",Canal 4 Mancha Centro
-https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="ACE_EVENTOS" tvg-name="El Toro TV",El Toro TV

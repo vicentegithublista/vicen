@@ -325,6 +325,10 @@ https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
 
+#EXTINF:-1 ,Tennis Channel International (Geo)
+https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8
+
+
 #EXTINF:-1 group-title="ACE_EVENTOS" TVg-logo="https://pbs.twimg.com/profile_images/1551576769735565312/p29DD_wc_400x400.jpg" TVg-id="Espn US",ESPN US
 acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
 
@@ -432,6 +436,9 @@ https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8
 
 
+#EXTINF:-1 ,EuroNews (Spain)
+https://rakuten-euronews-4-es.samsung.wurl.tv/playlist.m3u8
+
 
 #EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,Euronews
 https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
@@ -466,7 +473,10 @@ https://fast-channels.atresmedia.com/648ef5882bfab0e4627e0d61/648ef5882bfab0e462
 #EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,El club de la comedia
 https://fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad.m3u8
 
-
+#EXTINF:-1 ,BBC Drama (Spain)
+https://bbceu-bbcdrama-3-es.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,DR WHO (Spain)
+https://bbceu-doctorwho-2-es.rakuten.wurl.tv/playlist.m3u8
                   
   
 
@@ -568,9 +578,13 @@ https://ztnr.rtve.es/ztnr/6922467.m3u8
 
 #EXTINF:-1 tvg-id="RakutenTVActionMovies.es" tvg-logo="https://i.imgur.com/NJYEYE3.png"  group-title="ACE_EVENTOS"  ,Rakuten Action Movies
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Rakuten Actionmovies (ES Subs) LG
+https://rakuten-actionmovies-2-es.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RakutenTVComedyMovies.es" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="ACE_EVENTOS"  ,Rakuten Comedy Movies
 https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Rakuten Comedy Movies (ES Subs) LG
+https://rakuten-comedymovies-2-es.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RakutenTVDramaMovies.es" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="ACE_EVENTOS"  ,Rakuten Drama
 https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
@@ -580,12 +594,21 @@ https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RakutenTVSpotlight.es" tvg-logo="https://i.imgur.com/NJYEYE3.png"  group-title="ACE_EVENTOS"  ,Rakuten Spotlight
 https://rakuten-spotlight-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Rakuten Spotlight (ES Subs) LG
+https://rakuten-spotlight-2-es.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="  group-title="ACE_EVENTOS"  ,Rakuten Top Free Spain (720p)
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id=" tvg-logo=" group-title="ACE_EVENTOS"  ,Rakuten TV Shows Spain (720p)
 https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1 ,Rakuten TV Shows (ES Subs) LG
+https://rakuten-tvshows-2-es.lg.wurl.tv/playlist.m3u8
+
+
+
 
 #EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" tvg-name="ALQUILER 1 FHD" ,ALQUILER 1 FHD
 http://89198490877267808.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/267808.ts
@@ -720,28 +743,9 @@ http://89198490877771303.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/771303.ts
 
 
 
-https://estv-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,EuroNews (Spain)
-https://rakuten-euronews-4-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,BBC Drama (Spain)
-https://bbceu-bbcdrama-3-es.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,DR WHO (Spain)
-https://bbceu-doctorwho-2-es.rakuten.wurl.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 ,Tennis Channel International (Geo)
-https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8
-
-https://newidco-rakutenviki-2-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,Rakuten Spotlight (ES Subs) LG
-https://rakuten-spotlight-2-es.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,Rakuten Actionmovies (ES Subs) LG
-https://rakuten-actionmovies-2-es.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,Rakuten TV Shows (ES Subs) LG
-https://rakuten-tvshows-2-es.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,Rakuten Comedy Movies (ES Subs) LG
-https://rakuten-comedymovies-2-es.lg.wurl.tv/playlist.m3u8
 
 
 

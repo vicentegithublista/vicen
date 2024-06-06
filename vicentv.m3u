@@ -321,7 +321,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadeltv-sam
 #EXTINF:-1 tvg-id="E3.TV" tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200"group-title="ACE_EVENTOS" tvg-name="Esport 3",Esport 3 GEO
 https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
 
-#EXTINF:-1 group-title="ACE_EVENTOS" ,Tennis Channel
+EXTINF:-1 group-title="ACE_EVENTOS" ,Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1 ,Tennis Channel International (Geo)
@@ -329,11 +329,6 @@ https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://i.postimg.cc/tgV0RQxM/tench2.png" tvg-id="TennisChannel.us2" , Tenis Channel 2
 http://127.0.0.1:6878/ace/getstream?id=51a682f0daa2e2fb61e078e48704cb1e3411a300
-
-
-
-#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/02/World-Padel-Tour.jpg" tvg-id="I392.76950.schedulesdirect.org" , WPT [IPTV]
-https://amg01970-mypadeldigitals-mypadeltv-samsungspain-k7d0l.amagi.tv/playlist/amg01970-mypadeldigitals-mypadeltv-samsungspain/playlist.m3u8
 
 
 

@@ -26,21 +26,28 @@ http://89198490877321072.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321072.ts
 
 
 
-#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/512px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="M.Liga 1080 Multi" , M+ LaLigaTV OPC.1
-acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://i.postimg.cc/BbSxDVxS/sodapdf-converted.png" tvg-id="M+ LaLiga TV HD" ,M+ LaLigaTV OPC.1
+http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
 
-#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/512px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="M.Liga 1080 Multi" , M+ LaLigaTV OPC.2
-acestream://1969c27658d4c8333ab2c0670802546121a774a5
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" tvg-id="M+ LaLiga TV HD" ,M+ LaLigaTV OPC.2
+http://127.0.0.1:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02fM+ 
+
 
 #EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/512px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="M.Liga 1080 Multi" , M+ LaLigaTV OPC.3
+acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
+
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/512px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="M.Liga 1080 Multi" , M+ LaLigaTV OPC.4
+acestream://1969c27658d4c8333ab2c0670802546121a774a5
+
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/512px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="M.Liga 1080 Multi" , M+ LaLigaTV OPC.5
 acestream://f031f5728b32f6089dda28edebe990cf198108d8
 
 
 
-#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/512px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="M.Liga 1080 Multi" , M+ LaLigaTV OPC.4
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/512px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="M.Liga 1080 Multi" , M+ LaLigaTV OPC.6
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 
-#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" tvg-id="LA 1" tvg-name="M+ LALIGA FHD" ,M+ LaLigaTV OPC.5
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" tvg-id="LA 1" tvg-name="M+ LALIGA FHD" ,M+ LaLigaTV OPC.7
 http://89198490877165385.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/165385.ts
 
 #EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_liga_es.png" tvg-name="LALIGA TV BAR HD" ,LALIGA TV BAR HD
@@ -122,16 +129,19 @@ acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
 
 
 
-#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,M.L. Campeones OPC.1
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" tvg-id="M+ Liga de Campeones HD" ,M.L. Campeones OPC.1
+http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
+
+#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,M.L. Campeones OPC.2
 acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
 
 
-#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,M.L. Campeones OPC.2
+#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,M.L. Campeones OPC.3
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
 
 
 
-#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,M.L. Campeones OPC.3
+#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,M.L. Campeones OPC.4
 acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
 
 
@@ -152,14 +162,16 @@ http://89198490877282469.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/282469.ts
 
 
 
-
-#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,M. Deportes OPC.1
-acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem1.png" tvg-id="M+ Deportes HD" ,M. Deportes OPC.1
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
 
 #EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,M. Deportes OPC.2
 acestream://d00223931b1854163e24c5c22475015d7d45c112
 
-#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPDEP" tvg-id="movistardeportes.es" tvg-name="M+ DEPORTES FHD" ,M. Deportes OPC.3
+#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,M. Deportes OPC.3
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPDEP" tvg-id="movistardeportes.es" tvg-name="M+ DEPORTES FHD" ,M. Deportes OPC.4
 http://89198490877538695.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/538695.ts
 
 
@@ -202,16 +214,17 @@ http://89198490877538691.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/538691.ts
 
 
 
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" tvg-id="DAZN 1 HD" , DAZN 1 OPC.1
+http://127.0.0.1:6878/ace/getstream?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
 
-
-
-#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,DAZN 1 OPC.1
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
 
 #EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,DAZN 1 OPC.2
+acestream://8ca07071b39185431f8e940ec98d1add9e561639
+
+#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,DAZN 1 OPC.3
 acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
 
-#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://i.pinimg.com/474x/67/21/0a/67210a52f8c3a001ac0710e63324ad30.jpg" tvg-name="M+ DAZN 1 HD" ,DAZN 1 OPC.3
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://i.pinimg.com/474x/67/21/0a/67210a52f8c3a001ac0710e63324ad30.jpg" tvg-name="M+ DAZN 1 HD" ,DAZN 1 OPC.4
 http://89198490877228385.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/228385.ts
 
 #EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,DAZN 2 OPC.1
@@ -245,44 +258,53 @@ http://89198490877228397.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/228397.ts
 
 
 
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" tvg-id="DAZN F1 HD" , DAZN F1 OPC.1
+http://127.0.0.1:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2
 
-
-
-#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" tvg-id=" DAZN F1 1080" , DAZN F1 OPC.1
-acestream://5789ca155323664edd293b848606688edf803f4d
 
 #EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" tvg-id=" DAZN F1 1080" , DAZN F1 OPC.2
-acestream://9dad717d99b29a05672166258a77c25b57713dd5
+acestream://5789ca155323664edd293b848606688edf803f4d
 
 #EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" tvg-id=" DAZN F1 1080" , DAZN F1 OPC.3
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
+
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" tvg-id=" DAZN F1 1080" , DAZN F1 OPC.4
 acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
 
-#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" tvg-id="LA 1" tvg-name="DAZN FORMULA 1 FHD" ,DAZN F1 OPC.4
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" tvg-id="LA 1" tvg-name="DAZN FORMULA 1 FHD" ,DAZN F1 OPC.5
 http://89198490877165418.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/165418.ts
 
-#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" tvg-id="LA 1" tvg-name="DAZN FORMULA 1 HEVC" ,DAZN F1 OPC.5
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" tvg-id="LA 1" tvg-name="DAZN FORMULA 1 HEVC" ,DAZN F1 OPC.6
 http://89198490877318564.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/318564.ts
 
-#EXTINF:-1 group-title="ACE_EVENTOS" TVg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" ,DAZN F1 OPC.6
+#EXTINF:-1 group-title="ACE_EVENTOS" TVg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" ,DAZN F1 OPC.7
 acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
 
 
 
 
 
-#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,EuroSport Ocp.1
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" tvg-id="Eurosport 1 HD" ,EuroSport Ocp.1
+http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+
+
+#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,EuroSport Ocp.2
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 
-#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP" tvg-id="LA 1" tvg-name="EUROSPORT 1 FHD" ,EuroSport Ocp.2
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP" tvg-id="LA 1" tvg-name="EUROSPORT 1 FHD" ,EuroSport Ocp.3
 http://89198490877290348.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/290348.ts
 
-#EXTINF:-1 group-title="ACE_EVENTOS" TVg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" TVg-id="Eurosport 1 GER",EuroSport Ocp.3 GER
+#EXTINF:-1 group-title="ACE_EVENTOS" TVg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" TVg-id="Eurosport 1 GER",EuroSport Ocp.4
 acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766
 
-#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,EuroSport2 Ocp.1
+
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es2.png" tvg-id="Eurosport 2" ,EuroSport2 Ocp.1
+http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
+
+#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,EuroSport2 Ocp.2
 acestream://c373da9e901d414b7384e671112e64d5a2310c29
 
-#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP2" tvg-id="LA 1" tvg-name="EUROSPORT 2 FHD" ,EuroSport2 Ocp.2
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP2" tvg-id="LA 1" tvg-name="EUROSPORT 2 FHD" ,EuroSport2 Ocp.3
 http://89198490877290351.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/290351.ts
 
 
@@ -304,33 +326,42 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://www.sevillafc.es/themes/da_vinci/images/opta_images/logo_sevilla_fc.png" tvg-id="Sevilla FC Televisión" tvg-name="SEVILLA FC SD" ,SEVILLA FC SD
 http://89198490877463951.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/463951.ts
 
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png" tvg-id="Teledeporte" tvg-name="TELEDEPORTE" ,TELEDEPORTE OPC.1
+https://ztnr.rtve.es/ztnr/1712295.m3u8
 
-#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,Teledeporte
+
+#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO",TELEDEPORTE OPC.2
 https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
 
 
-#EXTINF:-1 tvg-id="GOLPLAY.es" tvg-logo="https://i.imgur.com/DSKLw0U.png"group-title="ACE_EVENTOS",GOL PLAY (432p)
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.m3u8
 
+
+
+
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ANTENA3HD.png" tvg-id="TV3 HD" tvg-name="TV3 HD" , TV3 HD
+https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
+
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-esport-3-614.png" tvg-id="ext" tvg-name="Esports 3" , Esports 3 OPC.1
+https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="E3.TV" tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200"group-title="ACE_EVENTOS" tvg-name="Esport 3",Esports 3 OPC.2
+https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
 
 
 
 #EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,Padel TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadeltv-samsungspain/playlist.m3u8
 
-#EXTINF:-1 tvg-id="E3.TV" tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200"group-title="ACE_EVENTOS" tvg-name="Esport 3",Esport 3 GEO
-https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
-
-EXTINF:-1 group-title="ACE_EVENTOS" ,Tennis Channel
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-
-#EXTINF:-1 ,Tennis Channel International (Geo)
+#EXTINF:-1 ,Tennis Channel
 https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://i.postimg.cc/tgV0RQxM/tench2.png" tvg-id="TennisChannel.us2" , Tenis Channel 2
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://i.postimg.cc/tgV0RQxM/tench2.png" tvg-id="TennisChannel.us2" , Tenis Channel2
 http://127.0.0.1:6878/ace/getstream?id=51a682f0daa2e2fb61e078e48704cb1e3411a300
 
-
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://pbs.twimg.com/profile_images/1551576769735565312/p29DD_wc_400x400.jpg" tvg-id="I156.32281.schedulesdirect.org" , NBA 
+http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
 
 #EXTINF:-1 group-title="ACE_EVENTOS" TVg-logo="https://pbs.twimg.com/profile_images/1551576769735565312/p29DD_wc_400x400.jpg" TVg-id="Espn US",ESPN US
 acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
@@ -399,6 +430,27 @@ acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
 acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
 
 
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://archive.org/download/BtSportExtra4/bt%20sport%20extra%204.png" tvg-id="BT Sport4" , BT Sport4 [UK]
+http://127.0.0.1:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
+
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://cdn141.picsart.com/d2212bf5-0999-4b88-a137-e70f998eeada/402020668010211.png?to=crop&type=webp&r=540x405&q=85" tvg-id="beIN Sport Extra ñ" , beIN SPORT Extra ñ
+http://127.0.0.1:6878/ace/getstream?id=92a7dcc55392efc6dd5d012c4ff3878891eb6a6e
+
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmRpZ2l0dXJrLmxpZ3R2X2ljb25fMTU1NDM0OTkwMl8wNzI/icon.png?fakeurl=1&h=240&type=webp" ,beIN Soports HD [TR]
+http://127.0.0.1:6878/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52
+
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" tvg-id="ext" , MuTV [Manchester United]
+http://127.0.0.1:6878/ace/getstream?id=30447ef0ecb4410d5499eaac68026bf123a7ffa6#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://ia800808.us.archive.org/17/items/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png" tvg-id="Sky Sports Premier League" , Sky Sports Premier League
+http://127.0.0.1:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky-sports-main-event-logo.png" tvg-id="I400.52300.schedulesdirect.org" , Sky Sports Maint Event
+http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://image.discovery.indazn.com/eu/v2/eu/image?id=762962501269_image-header_pDach_1662550975000" tvg-id="(DE) DAZN 1" , (DE) DAZN 1
+http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
+
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://image.discovery.indazn.com/eu/v2/eu/image?id=762965573106_image-header_pDach_1662550976000" tvg-id="(DE) DAZN 2" , (DE) DAZN 2
+http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
 
 
 
@@ -411,12 +463,23 @@ acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
 
 
 
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://www.gratistodo.com/wp-content/uploads/2021/12/La-1.png" tvg-id="La1.es" tvg-name="TVE1" ,LA 1 OPC.1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
 
-#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,LA 1
-https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8            
+#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,LA 1 OPC.2
+https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8 
 
-#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,LA 2
+
+
+#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,LA 2 OPC.1
 https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
+
+
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/LA2.png" tvg-id="La2.es" tvg-name="LA 2 HD" , LA 2 OPC.2
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+
+
+
 
 #EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://miguia.tv/channels/big_10.png" tvg-id="antena3.es" tvg-name="ANTENA 3 FHD" ,ANTENA 3 FHD
 http://89198490877321105.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321105.ts
@@ -439,6 +502,9 @@ https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8
 
 
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-id="24Horas.sp" ,ES | Canal 24 Horas
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main.m3u8
+
 #EXTINF:-1 ,EuroNews (Spain)
 https://rakuten-euronews-4-es.samsung.wurl.tv/playlist.m3u8
 
@@ -448,9 +514,15 @@ https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 
-#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,Clan
+
+
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-id="ClanTVE.es" ,ES | Clan OP.1
+https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main.m3u8
+
+#EXTINF:-1 group-title="ACE_EVENTOS"  TVg-id="EVENTO" ,Clan OP.2
 https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
-#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="http://fanc.tmsimg.com/assets/s69093_ll_h3_af.png" tvg-id="boing.es" tvg-name="BOING SD" ,BOING SD
+
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="http://fanc.tmsimg.com/assets/s69093_ll_h3_af.png" tvg-id="boing.es" tvg-name="BOING SD" ,BOING
 http://89198490877321135.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321135.ts
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/atresplayerkidz/picture?width=200&height=200"  group-title="ACE_EVENTOS" tvg-name="Kidz",Kidz
@@ -458,14 +530,19 @@ https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e417
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="ACE_EVENTOS" tvg-name="Pequeradio TV",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+
 #EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://miguia.tv/channels/big_70.png" tvg-id="disneychannel.es" tvg-name="DISNEY CHANNEL FHD" ,DISNEY CHANNEL FHD
 http://89198490877321214.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321214.ts
+
 #EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://miguia.tv/channels/big_74.png" tvg-id="disneyjunior.es" tvg-name="DISNEY JUNIOR HD" ,DISNEY JUNIOR HD
 http://89198490877321217.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321217.ts
+
 #EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_750D_420_1_C00000_0_0_0.png" tvg-id="dreamworks.es" tvg-name="DREAMWORKS HD" ,DREAMWORKS HD
 http://89198490877321229.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321229.ts
+
 #EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://miguia.tv/channels/big_120.png" tvg-id="nickjr.es" tvg-name="NICK JUNIOR HD" ,NICK JUNIOR HD
 http://89198490877321377.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321377.ts
+
 #EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://miguia.tv/channels/big_126.png" tvg-id="nickelodeon.es" tvg-name="NICKELODEON HD" ,NICKELODEON HD
 http://89198490877321381.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321381.ts
 
@@ -626,7 +703,7 @@ https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e458
 https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
 
 
-#EXTINF:-1 group-title="Eventuales" tvg-logo="https://graph.facebook.com/flooxer/picture?width=200&height=200" tvg-name="flooxer" ,flooxer
+#EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://graph.facebook.com/flooxer/picture?width=200&height=200" tvg-name="flooxer" ,flooxer
 https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
 
 #EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" tvg-name="ALQUILER 1 FHD" ,ALQUILER 1 FHD
@@ -757,6 +834,24 @@ http://89198490877605497.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/605497.ts
 
 #EXTINF:-1 group-title="ACE_EVENTOS" tvg-logo="https://da3.rbmbtnx.net/v4/RBTV/pd/FO-1WDHTD9ZW5N11/im:i:q_70,f_png,e_trim/im:i:w_600,c_limit/a:s/st:0OQOgFK557PgH3PKfPTosa/wrc_titletreatment_logo.svg" tvg-name="RALLY TV FHD" ,RALLY TV FHD
 http://89198490877771303.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/771303.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

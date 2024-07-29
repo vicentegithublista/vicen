@@ -461,9 +461,6 @@ acestream://e72d03fb9694164317260f684470be9ab781ed95
 acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
 
 
-#EXTINF:-1 group-title="DEPORTE-TV"  TVg-logo="https://pbs.twimg.com/profile_images/1551576769735565312/p29DD_wc_400x400.jpg" TVg-id="Espn 2 US" ,ESPN 2 US
-acestream://664eb5fe460b96941aed633959a845b185cd8394
-
 
 #EXTINF:-1 group-title="DEPORTE-TV" TVg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png" TVg-id="Eleven Sports 1 4K" ,Eleven1 0p1
 acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
@@ -710,11 +707,8 @@ https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
 https://cloud.fastchannel.es/mic/manifiest/hls/mundonautica/mundonautica.m3u8
 
-#EXTINF:-1 group-title="DEPORTE-TV" tvg-name="MOTO ADV HD" ,MOTO ADV HD
-http://89198490877466762.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/466762.ts
 
-#EXTINF:-1 group-title="DEPORTE-TV" tvg-id="DBike" tvg-name="DBIKE HD" ,DBIKE HD
-http://89198490877466753.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/466753.ts
+
 
 #EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/UBEAT" tvg-id="UBEAT" tvg-name="UBEAT FHD" ,UBEAT FHD
 http://89198490877648495.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/648495.ts
@@ -826,8 +820,7 @@ http://89198490877620943.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/620943.ts
 http://89198490877321347.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321347.ts
 #EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MORIG.png" tvg-id="LA 1" tvg-name="M+ ORIGINALES FHD" ,M+ ORIGINALES FHD
 http://89198490877321068.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321068.ts
-#EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_276.png" tvg-id="atreSERIE MUJER.es" tvg-name="A3 SERIE MUJER FHD" ,A3 SERIE MUJER FHD
-http://89198490877321086.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321086.ts
+
 #EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_195.png" tvg-id="LA 1" tvg-name="AMC FHD" ,AMC FHD
 http://89198490877321102.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321102.ts
 #EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_15.png" tvg-id="AMC Break" tvg-name="AMC BREAK SD" ,AMC BREAK SD
@@ -840,8 +833,7 @@ http://89198490877321115.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321115.ts
 http://89198490877321118.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321118.ts
 #EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_277.png" tvg-id="BE MAD" tvg-name="BE MAD HD" ,BE MAD HD
 http://89198490877321126.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321126.ts
-#EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="http://vpsapache.hopto.org/images/1_0_1_772D_416_1_C00000_0_0_0.png" tvg-id="blaze.es" tvg-name="BLAZE HD" ,BLAZE HD
-http://89198490877321130.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321130.ts
+
 #EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_21.png" tvg-id="calle13.es" tvg-name="CALLE 13 FHD" ,CALLE 13 FHD
 http://89198490877321138.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321138.ts
 #EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_43.png" tvg-id="LA 1" tvg-name="CANAL COCINA FHD" ,CANAL COCINA FHD
@@ -854,18 +846,14 @@ http://89198490877321168.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321168.ts
 http://89198490877321172.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321172.ts
 #EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_62.png" tvg-id="cosmo.es" tvg-name="COSMO FHD" ,COSMO FHD
 http://89198490877321187.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321187.ts
-#EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CYM" tvg-id="crimeinvestigation.es" tvg-name="CRIMEN & INVESTIGACION SD" ,CRIMEN & INVESTIGACION SD
-http://89198490877321194.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321194.ts
+
 #EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_198.png" tvg-id="dark.es" tvg-name="DARK SD" ,DARK SD
 http://89198490877321203.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321203.ts
-#EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="http://vpsapache.hopto.org/images/1_0_1_772F_416_1_C00000_0_0_0.png" tvg-id="disneychannel.es" tvg-name="DISCOVERY CHANNEL SD" ,DISCOVERY CHANNEL SD
-http://89198490877321209.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321209.ts
-#EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_76.png" tvg-id="divinity.es" tvg-name="DIVINITY SD" ,DIVINITY SD
-http://89198490877321223.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321223.ts
+
+
 #EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_184.png" tvg-id="LA 1" tvg-name="DMAX FHD" ,DMAX FHD
 http://89198490877321225.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321225.ts
-#EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_85.png" tvg-id="factoriaficcion.es" tvg-name="FDF SD" ,FDF SD
-http://89198490877321249.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321249.ts
+
 #EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_45.png" tvg-id="LA 1" tvg-name="FOX FHD" ,FOX FHD
 http://89198490877321251.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321251.ts
 #EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="http://fanc.tmsimg.com/assets/s101732_ll_h3_aa.png" tvg-id="foxlife.es" tvg-name="FOX LIFE FHD" ,FOX LIFE FHD
@@ -876,8 +864,7 @@ http://89198490877321262.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321262.ts
 http://89198490877321266.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321266.ts
 #EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/MegaHD.png" tvg-id="mega.es" tvg-name="MEGA HD" ,MEGA HD
 http://89198490877321300.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321300.ts
-#EXTINF:-1 group-title="DEPORTE-TV" tvg-name="MTV EUROPE HD" ,MTV EUROPE HD
-http://89198490877321358.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321358.ts
+
 #EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_124.png" tvg-id="natgeo.es" tvg-name="NATIONAL GEOGRAPHIC FHD" ,NATIONAL GEOGRAPHIC FHD
 http://89198490877321371.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321371.ts
 #EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NEOX" tvg-id="neox.es" tvg-name="NEOX FHD" ,NEOX FHD
@@ -886,8 +873,7 @@ http://89198490877321374.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321374.ts
 http://89198490877321383.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321383.ts
 #EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_131.png" tvg-id="odisea.es" tvg-name="ODISEA SD" ,ODISEA SD
 http://89198490877321390.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321390.ts
-#EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_133.png" tvg-id="paramountchannel.es" tvg-name="PARAMOUNT NETWORK SD" ,PARAMOUNT NETWORK SD
-http://89198490877321392.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321392.ts
+
 #EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_193.png" tvg-id="Somos" tvg-name="SOMOS FHD" ,SOMOS FHD
 http://89198490877321412.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321412.ts
 #EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_194.png" tvg-id="sundance.es" tvg-name="SUNDANCE FHD" ,SUNDANCE FHD
@@ -902,16 +888,13 @@ http://89198490877321440.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321440.ts
 http://89198490877321442.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321442.ts
 #EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_213.png" tvg-id="xtrm.es" tvg-name="XTRM FHD" ,XTRM FHD
 http://89198490877321476.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321476.ts
-#EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CLASSD" tvg-id="classica.es" tvg-name="CLASSICA SD" ,CLASSICA SD
-http://89198490877326814.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/326814.ts
-#EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_307.png" tvg-id="BOM Cine" tvg-name="BOM CINE SD" ,BOM CINE SD
-http://89198490877336287.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/336287.ts
+
+
 #EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/92/13/9213f37d-340f-4761-bc3a-f67922d17616/unnamed.png__400x400_q85_subsampling-2.png" tvg-name="IBERALIA 100% CAZA HD" ,IBERALIA 100% CAZA HD
 http://89198490877336328.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/336328.ts
 #EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/ce/46/ce461169-432d-4017-85ea-e1031e37bab3/unnamed_1.png__400x400_q85_subsampling-2.png" tvg-name="IBERALIA 100% PESCA HD" ,IBERALIA 100% PESCA HD
 http://89198490877336331.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/336331.ts
-#EXTINF:-1 group-title="DEPORTE-TV" tvg-id="viajar.es" tvg-name="VIAJAR HD" ,VIAJAR HD
-http://89198490877383270.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/383270.ts
+
 #EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://www.cineytele.com/wp-content/uploads/2022/12/LOGO_Enfamila-color.png" tvg-id="Enfamilia" tvg-name="ENFAMILIA HD" ,ENFAMILIA HD
 http://89198490877399757.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/399757.ts
 #EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_150.png" tvg-id="Warner TV HD" tvg-name="WARNER TV FHD" ,WARNER TV FHD
@@ -922,11 +905,6 @@ http://89198490877459777.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/459777.ts
 
 
 
-#EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2020/06/NFL_Network_logo-1024x402.png" tvg-name="NFL NETWORK HD" ,NFL NETWORK HD
-http://89198490877538751.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/538751.ts
-
-#EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="http://fight-time.com/wp-content/uploads/2017/03/Fight-Time-Logo-Transparente-g.png" tvg-id="Fight Time" tvg-name="FIGHT TIME SD" ,FIGHT TIME SD
-http://89198490877605497.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/605497.ts
 
 #EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://da3.rbmbtnx.net/v4/RBTV/pd/FO-1WDHTD9ZW5N11/im:i:q_70,f_png,e_trim/im:i:w_600,c_limit/a:s/st:0OQOgFK557PgH3PKfPTosa/wrc_titletreatment_logo.svg" tvg-name="RALLY TV FHD" ,RALLY TV FHD
 http://89198490877771303.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/771303.ts

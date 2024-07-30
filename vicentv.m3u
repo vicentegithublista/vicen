@@ -28,8 +28,7 @@ acestream://63135c171f056d1d6028f9ffb1637ed704b88a20
 #EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png" tvg-id="Teledeporte" tvg-name="OLIMPIADAS TELEDEPORTE" ,OLIMPIADAS TELEDEPORTE
 https://ztnr.rtve.es/ztnr/1712295.m3u8
 
-#EXTINF:-1 group-title="DEPORTE-TV"  TVg-id="OLIMPIADAS La 2" ,OLIMPIADAS La 2
-https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
+
 
 
 #EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" tvg-id="OLIMPIADAS Eurosport 1" ,OLIMPIADAS Eurosport 1
@@ -73,7 +72,8 @@ acestream://721a78f2076faa584c9c09059ffb4e10159f4665
 acestream://dd9c56ef2f09753c59d9c2e2d2af31aeea6451c0
 
 
-
+#EXTINF:-1 group-title="DEPORTE-TV"  TVg-id="OLIMPIADAS La 2" ,OLIMPIADAS La 2
+https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
 
 
 
@@ -367,31 +367,78 @@ acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
 
 
 
-#EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" tvg-id="Eurosport 1 HD" ,EuroSport Ocp.1
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" TVg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" TVg-id="OLIMPIADAS Eurosport 4k,OLIMPIADAS Eurosport 4k
+acestream://63135c171f056d1d6028f9ffb1637ed704b88a20
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" tvg-id="Eurosport Opc.1" ,EuroSport Ocp.1
 http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 
 
-
-
-#EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP" tvg-id="LA 1" tvg-name="EUROSPORT 1 FHD" ,EuroSport Ocp.3
+#EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP" tvg-id="LA 1" tvg-name="Eurosport Opc.2" ,EuroSport Ocp.2
 http://89198490877290348.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/290348.ts
 
-#EXTINF:-1 group-title="DEPORTE-TV" TVg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" TVg-id="Eurosport 1 GER",EuroSport Ocp.4
+#EXTINF:-1 group-title="DEPORTE-TV" TVg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" TVg-id="Eurosport Opc.3" ,EuroSport Ocp.3
 acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766
 
 
-#EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es2.png" tvg-id="Eurosport 2" ,EuroSport2 Ocp.1
+
+#EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es2.png" tvg-id="Eurosport 2 Opc.1" ,Eurosport 2 Opc.1
 http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
+
 
 #EXTINF:-1 group-title="DEPORTE-TV"  TVg-id="EVENTO" ,EuroSport2 Ocp.2
 acestream://c373da9e901d414b7384e671112e64d5a2310c29
 
 
-
-
-
 #EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP2" tvg-id="LA 1" tvg-name="EUROSPORT 2 FHD" ,EuroSport2 Ocp.3
 http://89198490877290351.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/290351.ts
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" TVg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" TVg-id="Eurosport 3,Eurosport 3
+acestream://a62c010c71bfb76b18188f108c3cc4541c34f45e
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" TVg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" TVg-id="Eurosport 4,Eurosport 4
+acestream://76a482a4cb53fc28518187c6b814f136b3db3c95
+
+#EXTINF:-1 group-title="DEPORTE-TV" TVg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" TVg-id="Eurosport 5,Eurosport 5
+acestream://914ce366baec9b0fb3523dd7ba762a44b597fc40
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" TVg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" TVg-id="Eurosport 6,Eurosport 6
+acestream://1bc614c5aa2a94117c13c7f0be2b8ea31b535f38
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" TVg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" TVg-id="Eurosport 7,Eurosport 7
+acestream://e899a4f1e20f7ce1b39cc529dc237fc29a21855f
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" TVg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" TVg-id="Eurosport 8,Eurosport 8
+acestream://721a78f2076faa584c9c09059ffb4e10159f4665
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" TVg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" TVg-id="Eurosport 9,Eurosport 9
+acestream://dd9c56ef2f09753c59d9c2e2d2af31aeea6451c0
+
+
+
+
+
+
 
 
 

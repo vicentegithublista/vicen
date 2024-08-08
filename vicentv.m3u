@@ -3,14 +3,14 @@
 
 
  
-#EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" tvg-id="LA 1 HD" tvg-name="ES: MUNDOTORO TV FHD" ,ONETORO TV OPC.1
+1 #EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" tvg-id="LA 1 HD" tvg-name="ES: MUNDOTORO TV FHD" ,ONETORO TV OPC.1
 http://89198490877441850.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/441850.ts
 
 
-#EXTINF:-1 group-title="DEPORTE-TV" TVg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" TVg-id="M. Champions Tour Opc.1,M. Champions Tour Opc.1
+EXTINF:-1 group-title="DEPORTE-TV" TVg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" TVg-id="M. Champions Tour Opc.1,M. Champions Tour Opc.1
 acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393 
 
-#EXTINF:-1 group-title="DEPORTE-TV" TVg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" TVg-id="M. Champions Tour Opc.2,M. Champions Tour Opc.2
+#EXTINF:-1 group-title="DEPORTE-TV" TVg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" TVg-id="M. Champions Tour,M. Champions Tour 
 acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9 
 
 #EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" tvg-id="Movistar Plus+ HD" tvg-name="M+ PLUS+ FHD" ,M+ PLUS+ 
@@ -459,7 +459,7 @@ http://89198490877463951.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/463951.ts
 https://ztnr.rtve.es/ztnr/1712295.m3u8
 
 
-#EXTINF:-1 group-title="DEPORTE-TV"  TVg-id="EVENTO",TELEDEPORTE OPC.2
+EXTINF:-1 group-title="DEPORTE-TV"  TVg-id="EVENTO",TELEDEPORTE OPC.2
 https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
 
 
@@ -480,7 +480,7 @@ https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
 
 
 
-#EXTINF:-1 group-title="DEPORTE-TV"  TVg-id="EVENTO" ,Padel TV
+EXTINF:-1 group-title="DEPORTE-TV"  TVg-id="EVENTO" ,Padel TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadeltv-samsungspain/playlist.m3u8
 
 #EXTINF:-1 ,Tennis Channel

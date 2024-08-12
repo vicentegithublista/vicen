@@ -65,7 +65,7 @@ http://piripi.boston:8080/Evaristo/Evaristo/688948
 https://ztnr.rtve.es/ztnr/1712295.m3u8
 
 
-EXTINF:-1 group-title="DEPORTE-TV"  TVg-id="EVENTO",TELEDEPORTE OPC.2
+#EXTINF:-1 group-title="DEPORTE-TV"  TVg-id="EVENTO",TELEDEPORTE OPC.2
 https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
 
 
@@ -144,7 +144,7 @@ http://piripi.boston:8080/Evaristo/Evaristo/688941
 #EXTINF:-1 group-title="DEPORTE-TV",CANAL DECASA 4K
 http://piripi.boston:8080/Evaristo/Evaristo/688938
 
-#EXTINF:-1 group-title="DEPORTE-TV",CANAL DECASA FHD
+#EXTINF:-1 group-title="DEPORTE-TV",CANAL DECASA 
 http://piripi.boston:8080/Evaristo/Evaristo/688937
 
 #EXTINF:-1 group-title="DEPORTE-TV",IBERALIA 100% CAZA FHD
@@ -505,31 +505,32 @@ acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 
 
 
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_liga_es.png" tvg-name="LALIGA TV BAR HD" ,DAZN LA LIGA OPC.1
+http://89198490877165407.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/165407.ts
 
-
-#EXTINF:-1 group-title="DEPORTE-TV",DAZN LA LIGA OPC.1
+#EXTINF:-1 group-title="DEPORTE-TV",DAZN LA LIGA OPC.2
 http://piripi.boston:8080/Evaristo/Evaristo/698380
 
 
 
 
-#EXTINF:-1 group-title="DEPORTE-TV",DAZN LA LIGA OPC.2
+#EXTINF:-1 group-title="DEPORTE-TV",DAZN LA LIGA OPC.3
 http://piripi.boston:8080/Evaristo/Evaristo/698379
 
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl= 1" tvg-id="Dazn La Liga 1080 Multi" , DAZN LaLiga OPC.3
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl= 1" tvg-id="Dazn La Liga 1080 Multi" , DAZN LaLiga OPC.4
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 
 
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" tvg-name="DAZN LALIGA FHD" , DAZN LaLiga OPC.4
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" tvg-name="DAZN LALIGA FHD" , DAZN LaLiga OPC.5
 http://89198490877320782.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/320782.ts
 
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl= 1" tvg-id="Dazn La Liga 1080 Multi" , DAZN LaLiga OPC.5
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl= 1" tvg-id="Dazn La Liga 1080 Multi" , DAZN LaLiga OPC.6
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
 
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl= 1" tvg-id="Dazn La Liga 1080 Multi" , DAZN LaLiga OPC.6
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl= 1" tvg-id="Dazn La Liga 1080 Multi" , DAZN LaLiga OPC.7
 acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
 
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl= 1" tvg-id="Dazn La Liga 1080 Multi" , DAZN LaLiga OPC.7
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl= 1" tvg-id="Dazn La Liga 1080 Multi" , DAZN LaLiga OPC.8
 acestream://75251ba975132ec9a202806ba5bf606e87280c96
 
 

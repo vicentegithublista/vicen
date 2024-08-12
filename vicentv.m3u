@@ -159,10 +159,6 @@ http://piripi.boston:8080/Evaristo/Evaristo/688925
 http://piripi.boston:8080/Evaristo/Evaristo/723035
 
 
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_7539_426_1_C00000_0_0_0.png" tvg-id="movistarestrenos.es" tvg-name="M+ ESTRENOS FHD" ,M+ ESTRENOS FHD
-http://89198490877321337.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321337.ts
-
-
 #EXTINF:-1 group-title="DEPORTE-TV",M+ CINE FHD
 http://piripi.boston:8080/Evaristo/Evaristo/723029
 
@@ -192,6 +188,9 @@ http://89198490877321318.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321318.ts
 
 #EXTINF:-1 group-title="DEPORTE-TV",M+ COMEDIA ROMANTICA FHD
 http://piripi.boston:8080/Evaristo/Evaristo/723014
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_7539_426_1_C00000_0_0_0.png" tvg-id="movistarestrenos.es" tvg-name="M+ ESTRENOS FHD" ,M+ COMEDIA ROMANTICA
+http://89198490877321337.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321337.ts
 
 
 #EXTINF:-1 group-title="DEPORTE-TV",M+ DRAMA HD

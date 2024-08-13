@@ -831,11 +831,9 @@ http://89198490877771303.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/771303.ts
 
 
 
-#EXTINF:-1 group-title="DEPORTE-TV",SEVILLA TV OPC.1
-http://piripi.boston:8080/Evaristo/Evaristo/698356
 
 
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.sevillafc.es/themes/da_vinci/images/opta_images/logo_sevilla_fc.png" tvg-id="Sevilla FC Televisión" tvg-name="SEVILLA FC SD" ,SEVILLA TV OPC.2
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.sevillafc.es/themes/da_vinci/images/opta_images/logo_sevilla_fc.png" tvg-id="Sevilla FC Televisión" tvg-name="SEVILLA FC SD" ,SEVILLA TV 
 http://89198490877463951.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/463951.ts
 
 
@@ -871,20 +869,20 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadeltv-sam
 
 
 
+#EXTINF:-1 group-title="DEPORTE-TV",ENFAMILIA FHD
+http://piripi.boston:8080/Evaristo/Evaristo/688897
 
 
 
 
 
-
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-id="ClanTVE.es" ,Clan OP.1
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-id="ClanTVE.es" ,Clan OPC.1
 https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main.m3u8
 
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV"  TVg-id="EVENTO" ,Clan OP.2
-https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
 
 
-#EXTINF:-1 group-title="DEPORTE-TV",CLAN OPC.3
+
+#EXTINF:-1 group-title="DEPORTE-TV",CLAN OPC.2
 http://piripi.boston:8080/Evaristo/Evaristo/694428
 
 
@@ -1442,8 +1440,7 @@ http://piripi.boston:8080/Evaristo/Evaristo/688903
 #EXTINF:-1 group-title="DEPORTE-TV",DISCOVERY CHANNEL FHD
 http://piripi.boston:8080/Evaristo/Evaristo/688900
 
-#EXTINF:-1 group-title="DEPORTE-TV",ENFAMILIA FHD
-http://piripi.boston:8080/Evaristo/Evaristo/688897
+
 
 
 

@@ -138,31 +138,43 @@ acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
 #EXTINF:-1 group-title="DEPORTE-TV",CANAL COCINA 4K
 http://piripi.boston:8080/Evaristo/Evaristo/688942
 
-#EXTINF:-1 group-title="DEPORTE-TV",CANAL COCINA 
+#EXTINF:-1 group-title="DEPORTE-TV",CANAL COCINA OPC.1
 http://piripi.boston:8080/Evaristo/Evaristo/688941
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_43.png" tvg-id="LA 1" tvg-name="CANAL COCINA FHD" ,CANAL COCINA OPC.2
+http://89198490877321147.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321147.ts
+
 
 #EXTINF:-1 group-title="DEPORTE-TV",CANAL DECASA 4K
 http://piripi.boston:8080/Evaristo/Evaristo/688938
 
-#EXTINF:-1 group-title="DEPORTE-TV",CANAL DECASA 
+#EXTINF:-1 group-title="DEPORTE-TV",CANAL DECASA OPC.1
 http://piripi.boston:8080/Evaristo/Evaristo/688937
 
-#EXTINF:-1 group-title="DEPORTE-TV",IBERALIA 100% CAZA FHD
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_68.png" tvg-id="canaldecasa.es" tvg-name="CANAL DECASA HD" ,CANAL DECASA OPC.2
+http://89198490877321153.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321153.ts
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/ce/46/ce461169-432d-4017-85ea-e1031e37bab3/unnamed_1.png__400x400_q85_subsampling-2.png" tvg-name="IBERALIA 100% PESCA HD" ,IBERALIA 100% PESCA
+http://89198490877336331.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/336331.ts
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/92/13/9213f37d-340f-4761-bc3a-f67922d17616/unnamed.png__400x400_q85_subsampling-2.png" tvg-name="IBERALIA 100% CAZA HD" ,IBERALIA 100% CAZA OPC.1
+http://89198490877336328.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/336328.ts
+
+#EXTINF:-1 group-title="DEPORTE-TV",IBERALIA 100% CAZA OPC.2
 http://piripi.boston:8080/Evaristo/Evaristo/688932
 
-#EXTINF:-1 group-title="DEPORTE-TV",CAZA Y PESCA FHD
+#EXTINF:-1 group-title="DEPORTE-TV",CAZA Y PESCA OPC.1
 http://piripi.boston:8080/Evaristo/Evaristo/688928
 
-#EXTINF:-1 group-title="DEPORTE-TV",CAZAVISION FHD
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="http://fanc.tmsimg.com/assets/s86992_ll_h3_aa.png" tvg-id="cazapesca.es" tvg-name="CAZA Y PESCA FHD" ,CAZA Y PESCA OPC.2
+http://89198490877321168.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321168.ts
+
+#EXTINF:-1 group-title="DEPORTE-TV",CAZAVISION OPC.1
 http://piripi.boston:8080/Evaristo/Evaristo/688925
 
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://masmediatv.es/images/2020/10/28/canal-cazavision-removebg-preview.png" tvg-id="LA 1" tvg-name="CAZAVISION FHD" ,CAZAVISION OPC.2
+http://89198490877321172.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321172.ts
 
 
 #EXTINF:-1 group-title="DEPORTE-TV",M+ VACACIONES FHD
@@ -202,7 +214,6 @@ http://piripi.boston:8080/Evaristo/Evaristo/723014
 #EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_7539_426_1_C00000_0_0_0.png" tvg-id="movistarestrenos.es" tvg-name="M+ ESTRENOS FHD" ,M+ COMEDIA ROMANTICA OPC.2
 http://89198490877321337.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321337.ts
 
-
 #EXTINF:-1 group-title="DEPORTE-TV",M+ DRAMA OPC.1
 http://piripi.boston:8080/Evaristo/Evaristo/723010
 
@@ -224,8 +235,10 @@ http://89198490877321347.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321347.ts
 
 #EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" tvg-name="ALQUILER 1 FHD" ,ALQUILER 1 FHD
 http://89198490877267808.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/267808.ts
+
 #EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" tvg-name="ALQUILER 2 FHD" ,ALQUILER 2 FHD
 http://89198490877267809.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/267809.ts
+
 #EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" tvg-name="ALQUILER 3 FHD" ,ALQUILER 3 FHD
 http://89198490877267810.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/267810.ts
 
@@ -791,207 +804,25 @@ http://89198490877282469.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/282469.ts
 #EXTINF:-1 group-title="DEPORTE-TV",M+ LIGA DE CAMPEONES 3 
 http://piripi.boston:8080/Evaristo/Evaristo/688631
 
+#EXTINF:-1 group-title="DEPORTE-TV",MOVISTAR GOLF
+http://piripi.boston:8080/Evaristo/Evaristo/694705
 
 
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOLF2.png" tvg-id="movistargolf2.es" tvg-name="M+ GOLF 2 FHD" ,M+ GOLF 2 FHD
+#EXTINF:-1 group-title="DEPORTE-TV",MOVISTAR GOLF 2 OPC.1
+http://piripi.boston:8080/Evaristo/Evaristo/694702
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOLF2.png" tvg-id="movistargolf2.es" tvg-name="M+ GOLF 2 FHD" ,M+ GOLF 2 OPC.2
 http://89198490877454216.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/454216.ts
 
 
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-id="ClanTVE.es" ,Clan OP.1
-https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main.m3u8
+#EXTINF:-1 group-title="DEPORTE-TV",TENNIS CHANNEL OPC.1
+http://piripi.boston:8080/Evaristo/Evaristo/694687
 
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV"  TVg-id="EVENTO" ,Clan OP.2
-https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
+#EXTINF:-1 group-title="DEPORTE-TV" ,Tennis Channel OPC.2
+https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="http://fanc.tmsimg.com/assets/s69093_ll_h3_af.png" tvg-id="boing.es" tvg-name="BOING SD" ,BOING
-http://89198490877321135.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321135.ts
-
-#EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://graph.facebook.com/atresplayerkidz/picture?width=200&height=200"  group-title="DEPORTE-TV" tvg-name="Kidz",Kidz
-https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/2.m3u8
-
-#EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="DEPORTE-TV" tvg-name="Pequeradio TV",Pequeradio TV
-https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_70.png" tvg-id="disneychannel.es" tvg-name="DISNEY CHANNEL FHD" ,DISNEY CHANNEL FHD
-http://89198490877321214.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321214.ts
-
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_74.png" tvg-id="disneyjunior.es" tvg-name="DISNEY JUNIOR HD" ,DISNEY JUNIOR HD
-http://89198490877321217.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321217.ts
-
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_750D_420_1_C00000_0_0_0.png" tvg-id="dreamworks.es" tvg-name="DREAMWORKS HD" ,DREAMWORKS HD
-http://89198490877321229.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321229.ts
-
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_120.png" tvg-id="nickjr.es" tvg-name="NICK JUNIOR HD" ,NICK JUNIOR HD
-http://89198490877321377.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321377.ts
-
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_126.png" tvg-id="nickelodeon.es" tvg-name="NICKELODEON HD" ,NICKELODEON HD
-http://89198490877321381.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321381.ts
-
-
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV"  TVg-id="EVENTO" ,El Hormiguero
-https://fast-channels.atresmedia.com/648ef5882bfab0e4627e0d61/648ef5882bfab0e4627e0d61.m3u8
-
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV"  TVg-id="EVENTO" ,El club de la comedia
-https://fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad.m3u8
-
-#EXTINF:-1 group-title="DEPORTE-TV" ,BBC Drama (Spain)
-https://bbceu-bbcdrama-3-es.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="DEPORTE-TV" ,DR WHO (Spain)
-https://bbceu-doctorwho-2-es.rakuten.wurl.tv/playlist.m3u8
-                  
-  
-
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV"  TVg-id="EVENTO" ,equipo-de-investigacion
-https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
-
-
-
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV"  TVg-id="EVENTO" ,aqui-no-hay-quien-viva
-https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="DEPORTE-TV" tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="DEPORTE-TV" tvg-name="El Toro TV",El Toro TV
-https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
-   
-      
-
-#EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://graph.facebook.com/elpais/picture?width=200&height=200" group-title="DEPORTE-TV"  tvg-name="El País",El País
-https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
-
-#EXTINF:-1 group-title="DEPORTE-TV" tvg-id="Negocios.TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="DEPORTE-TV"  tvg-name="Negocios TV",Negocios TV
-https://streaming013.gestec-video.com/hls/negociostv.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://graph.facebook.com/elconfidencial/picture?width=200&height=200" group-title="DEPORTE-TV" tvg-name="El Confidencial",El Confidencial
-https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://graph.facebook.com/MundoNautica/picture?width=200&height=200"  group-title="DEPORTE-TV" tvg-name="Mundo Nautica",Mundo Nautica
-#EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
-https://cloud.fastchannel.es/mic/manifiest/hls/mundonautica/mundonautica.m3u8
-
-
-
-
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/UBEAT" tvg-id="UBEAT" tvg-name="UBEAT FHD" ,UBEAT FHD
-http://89198490877648495.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/648495.ts
-
-
-
-
-
- 
-#EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Hd2WYs49wYCBMAphVpvvpBzd-EJFU8XFQgccPIw=s200" group-title="DEPORTE-TV" tvg-name="¡HOLA! Play",¡HOLA! Play
-https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://graph.facebook.com/flooxer/picture?width=200&height=200" tvg-name="flooxer" ,flooxer
-https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
-
-
-
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_195.png" tvg-id="LA 1" tvg-name="AMC FHD" ,AMC FHD
-http://89198490877321102.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321102.ts
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_15.png" tvg-id="AMC Break" tvg-name="AMC BREAK SD" ,AMC BREAK SD
-http://89198490877321100.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321100.ts
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" tvg-id="AMC Crime" tvg-name="AMC CRIME SD" ,AMC CRIME SD
-http://89198490877321101.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321101.ts
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="http://fanc.tmsimg.com/assets/s87047_ll_h3_aa.png" tvg-id="axnwhite.es" tvg-name="AXN WHITE FHD" ,AXN WHITE FHD
-http://89198490877321115.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321115.ts
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_5.png" tvg-id="axn.es" tvg-name="AXN FHD" ,AXN FHD
-http://89198490877321118.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321118.ts
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_277.png" tvg-id="BE MAD" tvg-name="BE MAD HD" ,BE MAD HD
-http://89198490877321126.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321126.ts
-
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_21.png" tvg-id="calle13.es" tvg-name="CALLE 13 FHD" ,CALLE 13 FHD
-http://89198490877321138.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321138.ts
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_43.png" tvg-id="LA 1" tvg-name="CANAL COCINA FHD" ,CANAL COCINA FHD
-http://89198490877321147.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321147.ts
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_68.png" tvg-id="canaldecasa.es" tvg-name="CANAL DECASA HD" ,CANAL DECASA HD
-http://89198490877321153.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321153.ts
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="http://fanc.tmsimg.com/assets/s86992_ll_h3_aa.png" tvg-id="cazapesca.es" tvg-name="CAZA Y PESCA FHD" ,CAZA Y PESCA FHD
-http://89198490877321168.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321168.ts
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://masmediatv.es/images/2020/10/28/canal-cazavision-removebg-preview.png" tvg-id="LA 1" tvg-name="CAZAVISION FHD" ,CAZAVISION FHD
-http://89198490877321172.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321172.ts
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_62.png" tvg-id="cosmo.es" tvg-name="COSMO FHD" ,COSMO FHD
-http://89198490877321187.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321187.ts
-
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_198.png" tvg-id="dark.es" tvg-name="DARK SD" ,DARK SD
-http://89198490877321203.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321203.ts
-
-
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_184.png" tvg-id="LA 1" tvg-name="DMAX FHD" ,DMAX FHD
-http://89198490877321225.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321225.ts
-
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_45.png" tvg-id="LA 1" tvg-name="FOX FHD" ,FOX FHD
-http://89198490877321251.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321251.ts
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="http://fanc.tmsimg.com/assets/s101732_ll_h3_aa.png" tvg-id="foxlife.es" tvg-name="FOX LIFE FHD" ,FOX LIFE FHD
-http://89198490877336315.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/336315.ts
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="http://fanc.tmsimg.com/assets/s90350_ll_h3_aa.png" tvg-id="historia.es" tvg-name="HISTORIA SD" ,HISTORIA SD
-http://89198490877321262.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321262.ts
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_94.png" tvg-id="hollywood.es" tvg-name="HOLLYWOOD HD" ,HOLLYWOOD HD
-http://89198490877321266.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321266.ts
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/MegaHD.png" tvg-id="mega.es" tvg-name="MEGA HD" ,MEGA HD
-http://89198490877321300.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321300.ts
-
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_124.png" tvg-id="natgeo.es" tvg-name="NATIONAL GEOGRAPHIC FHD" ,NATIONAL GEOGRAPHIC FHD
-http://89198490877321371.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321371.ts
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NEOX" tvg-id="neox.es" tvg-name="NEOX FHD" ,NEOX FHD
-http://89198490877321374.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321374.ts
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_130.png" tvg-id="nova.es" tvg-name="NOVA HD" ,NOVA HD
-http://89198490877321383.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321383.ts
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_131.png" tvg-id="odisea.es" tvg-name="ODISEA SD" ,ODISEA SD
-http://89198490877321390.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321390.ts
-
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_193.png" tvg-id="Somos" tvg-name="SOMOS FHD" ,SOMOS FHD
-http://89198490877321412.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321412.ts
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_194.png" tvg-id="sundance.es" tvg-name="SUNDANCE FHD" ,SUNDANCE FHD
-http://89198490877321418.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321418.ts
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_141.png" tvg-id="syfy.es" tvg-name="SYFY FHD" ,SYFY FHD
-http://89198490877321422.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321422.ts
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_146.png" tvg-id="tcm.es" tvg-name="TCM FHD" ,TCM FHD
-http://89198490877321425.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321425.ts
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://diretele.com/wp-content/uploads/2020/09/ten-tv.png" tvg-id="antena3.es" tvg-name="TEN SD" ,TEN SD
-http://89198490877321440.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321440.ts
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="http://vpsapache.hopto.org/images/1_0_1_76CB_40E_1_C00000_0_0_0.png" tvg-id="tnt.es" tvg-name="TNT FHD" ,TNT FHD
-http://89198490877321442.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321442.ts
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_213.png" tvg-id="xtrm.es" tvg-name="XTRM FHD" ,XTRM FHD
-http://89198490877321476.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321476.ts
-
-
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/92/13/9213f37d-340f-4761-bc3a-f67922d17616/unnamed.png__400x400_q85_subsampling-2.png" tvg-name="IBERALIA 100% CAZA HD" ,IBERALIA 100% CAZA HD
-http://89198490877336328.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/336328.ts
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/ce/46/ce461169-432d-4017-85ea-e1031e37bab3/unnamed_1.png__400x400_q85_subsampling-2.png" tvg-name="IBERALIA 100% PESCA HD" ,IBERALIA 100% PESCA HD
-http://89198490877336331.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/336331.ts
-
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.cineytele.com/wp-content/uploads/2022/12/LOGO_Enfamila-color.png" tvg-id="Enfamilia" tvg-name="ENFAMILIA HD" ,ENFAMILIA HD
-http://89198490877399757.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/399757.ts
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_150.png" tvg-id="Warner TV HD" tvg-name="WARNER TV FHD" ,WARNER TV FHD
-http://89198490877459777.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/459777.ts
-
-
-
-
-
-
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://i.postimg.cc/tgV0RQxM/tench2.png" tvg-id="TennisChannel.us2" , Tenis Channel2
+http://127.0.0.1:6878/ace/getstream?id=51a682f0daa2e2fb61e078e48704cb1e3411a300
 
 #EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://da3.rbmbtnx.net/v4/RBTV/pd/FO-1WDHTD9ZW5N11/im:i:q_70,f_png,e_trim/im:i:w_600,c_limit/a:s/st:0OQOgFK557PgH3PKfPTosa/wrc_titletreatment_logo.svg" tvg-name="RALLY TV FHD" ,RALLY TV FHD
 http://89198490877771303.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/771303.ts
@@ -1000,14 +831,11 @@ http://89198490877771303.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/771303.ts
 
 
 
+#EXTINF:-1 group-title="DEPORTE-TV",SEVILLA TV OPC.1
+http://piripi.boston:8080/Evaristo/Evaristo/698356
 
 
-
-
-
-
-
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.sevillafc.es/themes/da_vinci/images/opta_images/logo_sevilla_fc.png" tvg-id="Sevilla FC Televisión" tvg-name="SEVILLA FC SD" ,SEVILLA FC SD
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.sevillafc.es/themes/da_vinci/images/opta_images/logo_sevilla_fc.png" tvg-id="Sevilla FC Televisión" tvg-name="SEVILLA FC SD" ,SEVILLA TV OPC.2
 http://89198490877463951.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/463951.ts
 
 
@@ -1029,47 +857,131 @@ https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
 EXTINF:-1 group-title="DEPORTE-TV"  TVg-id="EVENTO" ,Padel TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadeltv-samsungspain/playlist.m3u8
 
-#EXTINF:-1 group-title="DEPORTE-TV",SEVILLA TV FHD
-http://piripi.boston:8080/Evaristo/Evaristo/698356
-
-
-#EXTINF:-1 group-title="DEPORTE-TV",SKY SPORTS PREMIER LEAGUE FHD
-http://piripi.boston:8080/Evaristo/Evaristo/680370
-
-
-#EXTINF:-1 group-title="DEPORTE-TV",MOVISTAR GOLF FHD (SAT)
-http://piripi.boston:8080/Evaristo/Evaristo/694705
-
-
-#EXTINF:-1 group-title="DEPORTE-TV",MOVISTAR GOLF 2 FHD 
-http://piripi.boston:8080/Evaristo/Evaristo/694702
-
-
-
-#EXTINF:-1 group-title="DEPORTE-TV",|IT| SKY SPORTS FOOTBALL FHD
-http://piripi.boston:8080/Evaristo/Evaristo/680365
-
-#EXTINF:-1 group-title="DEPORTE-TV",|IT| SKY SPORTS SERIE A FHD
-http://piripi.boston:8080/Evaristo/Evaristo/680364
 
 
 
 
 
 
-#EXTINF:-1 group-title="DEPORTE-TV",TYC SPORTS - ARGENTINA HD
-http://piripi.boston:8080/Evaristo/Evaristo/680333
 
 
-#EXTINF:-1 group-title="DEPORTE-TV",RALLY TV FHD
-http://piripi.boston:8080/Evaristo/Evaristo/694698
-
-#EXTINF:-1 group-title="DEPORTE-TV",RED BULL TV FHD
-http://piripi.boston:8080/Evaristo/Evaristo/694697
 
 
-#EXTINF:-1 group-title="DEPORTE-TV",SURF CHANNEL FHD
-http://piripi.boston:8080/Evaristo/Evaristo/694693
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-id="ClanTVE.es" ,Clan OP.1
+https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main.m3u8
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV"  TVg-id="EVENTO" ,Clan OP.2
+https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
+
+
+#EXTINF:-1 group-title="DEPORTE-TV",CLAN OPC.3
+http://piripi.boston:8080/Evaristo/Evaristo/694428
+
+
+
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV",ENFAMILIA FHD
+http://piripi.boston:8080/Evaristo/Evaristo/694422
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV",BABY TV SD
+http://piripi.boston:8080/Evaristo/Evaristo/694406
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="http://fanc.tmsimg.com/assets/s69093_ll_h3_af.png" tvg-id="boing.es" tvg-name="BOING SD" ,BOING OPC.1
+http://89198490877321135.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321135.ts
+
+
+#EXTINF:-1 group-title="DEPORTE-TV",BOING OPC.2
+http://piripi.boston:8080/Evaristo/Evaristo/694425
+
+#EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://graph.facebook.com/atresplayerkidz/picture?width=200&height=200"  group-title="DEPORTE-TV" tvg-name="Kidz",Kidz
+https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/2.m3u8
+
+#EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="DEPORTE-TV" tvg-name="Pequeradio TV",Pequeradio TV
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_70.png" tvg-id="disneychannel.es" tvg-name="DISNEY CHANNEL FHD" ,DISNEY CHANNEL OPC.1
+http://89198490877321214.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321214.ts
+
+#EXTINF:-1 group-title="DEPORTE-TV",DISNEY CHANNEL OPC.2
+http://piripi.boston:8080/Evaristo/Evaristo/694412
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_74.png" tvg-id="disneyjunior.es" tvg-name="DISNEY JUNIOR HD" ,DISNEY JUNIOR OPC.1
+http://89198490877321217.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321217.ts
+
+#EXTINF:-1 group-title="DEPORTE-TV",DISNEY JR OPC.2
+http://piripi.boston:8080/Evaristo/Evaristo/694424
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_750D_420_1_C00000_0_0_0.png" tvg-id="dreamworks.es" tvg-name="DREAMWORKS HD" ,DREAMWORKS OPC.1
+http://89198490877321229.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321229.ts
+
+#EXTINF:-1 group-title="DEPORTE-TV",DREAMWORKS OPC.2
+http://piripi.boston:8080/Evaristo/Evaristo/694409
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_120.png" tvg-id="nickjr.es" tvg-name="NICK JUNIOR HD" ,NICK JUNIOR OPC.1
+http://89198490877321377.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321377.ts
+
+#EXTINF:-1 group-title="DEPORTE-TV",NICK JR OPC.2
+http://piripi.boston:8080/Evaristo/Evaristo/694418
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_126.png" tvg-id="nickelodeon.es" tvg-name="NICKELODEON HD" ,NICKELODEON OPC.1
+http://89198490877321381.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321381.ts
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV",NICKELODEON OPC.2
+http://piripi.boston:8080/Evaristo/Evaristo/694415
+
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV"  TVg-id="EVENTO" ,El Hormiguero
+https://fast-channels.atresmedia.com/648ef5882bfab0e4627e0d61/648ef5882bfab0e4627e0d61.m3u8
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV"  TVg-id="EVENTO" ,El club de la comedia
+https://fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad.m3u8
+
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" ,BBC Drama (Spain)
+https://bbceu-bbcdrama-3-es.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTE-TV" ,DR WHO (Spain)
+https://bbceu-doctorwho-2-es.rakuten.wurl.tv/playlist.m3u8
+                  
+  
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV"  TVg-id="EVENTO" ,equipo-de-investigacion
+https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV"  TVg-id="EVENTO" ,aqui-no-hay-quien-viva
+https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
 
 
 #EXTINF:-1 group-title="DEPORTE-TV",LA QUE SE AVECINA SEÑAL 1
@@ -1099,9 +1011,6 @@ http://piripi.boston:8080/Evaristo/Evaristo/688404
 #EXTINF:-1 group-title="DEPORTE-TV",LOS SERRANO 
 http://piripi.boston:8080/Evaristo/Evaristo/688402
 
-
-#EXTINF:-1 group-title="DEPORTE-TV",DOCTOR WHO 24/7
-http://piripi.boston:8080/Evaristo/Evaristo/688397
 
 #EXTINF:-1 group-title="DEPORTE-TV",PIRATAS DEL CARIBE
 http://piripi.boston:8080/Evaristo/Evaristo/688396
@@ -1211,6 +1120,175 @@ https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e458
 https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
 
 
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_15.png" tvg-id="AMC Break" tvg-name="AMC BREAK SD" ,AMC BREAK SD
+http://89198490877321100.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321100.ts
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_195.png" tvg-id="LA 1" tvg-name="AMC FHD" ,AMC FHD
+http://89198490877321102.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321102.ts
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV"
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" tvg-id="AMC Crime" tvg-name="AMC CRIME SD" ,AMC CRIME SD
+http://89198490877321101.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321101.ts
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="http://fanc.tmsimg.com/assets/s87047_ll_h3_aa.png" tvg-id="axnwhite.es" tvg-name="AXN WHITE FHD" ,AXN WHITE FHD
+http://89198490877321115.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321115.ts
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_5.png" tvg-id="axn.es" tvg-name="AXN FHD" ,AXN FHD
+http://89198490877321118.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321118.ts
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_277.png" tvg-id="BE MAD" tvg-name="BE MAD HD" ,BE MAD HD
+http://89198490877321126.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321126.ts
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_21.png" tvg-id="calle13.es" tvg-name="CALLE 13 FHD" ,CALLE 13 FHD
+http://89198490877321138.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321138.ts
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_62.png" tvg-id="cosmo.es" tvg-name="COSMO FHD" ,COSMO FHD
+http://89198490877321187.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321187.ts
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_198.png" tvg-id="dark.es" tvg-name="DARK SD" ,DARK SD
+http://89198490877321203.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321203.ts
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_184.png" tvg-id="LA 1" tvg-name="DMAX FHD" ,DMAX FHD
+http://89198490877321225.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321225.ts
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_45.png" tvg-id="LA 1" tvg-name="FOX FHD" ,FOX FHD
+http://89198490877321251.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321251.ts
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="http://fanc.tmsimg.com/assets/s101732_ll_h3_aa.png" tvg-id="foxlife.es" tvg-name="FOX LIFE FHD" ,FOX LIFE FHD
+http://89198490877336315.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/336315.ts
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="http://fanc.tmsimg.com/assets/s90350_ll_h3_aa.png" tvg-id="historia.es" tvg-name="HISTORIA SD" ,HISTORIA SD
+http://89198490877321262.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321262.ts
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_94.png" tvg-id="hollywood.es" tvg-name="HOLLYWOOD HD" ,HOLLYWOOD HD
+http://89198490877321266.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321266.ts
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/MegaHD.png" tvg-id="mega.es" tvg-name="MEGA HD" ,MEGA HD
+http://89198490877321300.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321300.ts
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_124.png" tvg-id="natgeo.es" tvg-name="NATIONAL GEOGRAPHIC FHD" ,NATIONAL GEOGRAPHIC FHD
+http://89198490877321371.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321371.ts
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NEOX" tvg-id="neox.es" tvg-name="NEOX FHD" ,NEOX FHD
+http://89198490877321374.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321374.ts
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_130.png" tvg-id="nova.es" tvg-name="NOVA HD" ,NOVA HD
+http://89198490877321383.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321383.ts
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_131.png" tvg-id="odisea.es" tvg-name="ODISEA SD" ,ODISEA SD
+http://89198490877321390.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321390.ts
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_193.png" tvg-id="Somos" tvg-name="SOMOS FHD" ,SOMOS FHD
+http://89198490877321412.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321412.ts
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_194.png" tvg-id="sundance.es" tvg-name="SUNDANCE FHD" ,SUNDANCE FHD
+http://89198490877321418.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321418.ts
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_141.png" tvg-id="syfy.es" tvg-name="SYFY FHD" ,SYFY FHD
+http://89198490877321422.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321422.ts
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_146.png" tvg-id="tcm.es" tvg-name="TCM FHD" ,TCM FHD
+http://89198490877321425.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321425.ts
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://diretele.com/wp-content/uploads/2020/09/ten-tv.png" tvg-id="antena3.es" tvg-name="TEN SD" ,TEN SD
+http://89198490877321440.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321440.ts
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="http://vpsapache.hopto.org/images/1_0_1_76CB_40E_1_C00000_0_0_0.png" tvg-id="tnt.es" tvg-name="TNT FHD" ,TNT FHD
+http://89198490877321442.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321442.ts
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_213.png" tvg-id="xtrm.es" tvg-name="XTRM FHD" ,XTRM FHD
+http://89198490877321476.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321476.ts
+
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.cineytele.com/wp-content/uploads/2022/12/LOGO_Enfamila-color.png" tvg-id="Enfamilia" tvg-name="ENFAMILIA HD" ,ENFAMILIA HD
+http://89198490877399757.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/399757.ts
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_150.png" tvg-id="Warner TV HD" tvg-name="WARNER TV FHD" ,WARNER TV FHD
+http://89198490877459777.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/459777.ts
+
+
+#EXTINF:-1 group-title="DEPORTE-TV",DOCTOR WHO 24/7
+http://piripi.boston:8080/Evaristo/Evaristo/688397
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="DEPORTE-TV" tvg-name="El Toro TV",El Toro TV
+https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
+   
+      
+
+#EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://graph.facebook.com/elpais/picture?width=200&height=200" group-title="DEPORTE-TV"  tvg-name="El País",El País
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+
+#EXTINF:-1 group-title="DEPORTE-TV" tvg-id="Negocios.TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="DEPORTE-TV"  tvg-name="Negocios TV",Negocios TV
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://graph.facebook.com/elconfidencial/picture?width=200&height=200" group-title="DEPORTE-TV" tvg-name="El Confidencial",El Confidencial
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://graph.facebook.com/MundoNautica/picture?width=200&height=200"  group-title="DEPORTE-TV" tvg-name="Mundo Nautica",Mundo Nautica
+#EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
+https://cloud.fastchannel.es/mic/manifiest/hls/mundonautica/mundonautica.m3u8
+
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/UBEAT" tvg-id="UBEAT" tvg-name="UBEAT FHD" ,UBEAT FHD
+http://89198490877648495.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/648495.ts
+
+
+
+
+
+ 
+#EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Hd2WYs49wYCBMAphVpvvpBzd-EJFU8XFQgccPIw=s200" group-title="DEPORTE-TV" tvg-name="¡HOLA! Play",¡HOLA! Play
+https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://graph.facebook.com/flooxer/picture?width=200&height=200" tvg-name="flooxer" ,flooxer
+https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV",SKY SPORTS PREMIER LEAGUE FHD
+http://piripi.boston:8080/Evaristo/Evaristo/680370
+
+
+
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV",|IT| SKY SPORTS FOOTBALL FHD
+http://piripi.boston:8080/Evaristo/Evaristo/680365
+
+#EXTINF:-1 group-title="DEPORTE-TV",|IT| SKY SPORTS SERIE A FHD
+http://piripi.boston:8080/Evaristo/Evaristo/680364
+
+
+
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV",TYC SPORTS - ARGENTINA HD
+http://piripi.boston:8080/Evaristo/Evaristo/680333
+
+
+#EXTINF:-1 group-title="DEPORTE-TV",RALLY TV FHD
+http://piripi.boston:8080/Evaristo/Evaristo/694698
+
+#EXTINF:-1 group-title="DEPORTE-TV",RED BULL TV FHD
+http://piripi.boston:8080/Evaristo/Evaristo/694697
+
+
+#EXTINF:-1 group-title="DEPORTE-TV",SURF CHANNEL FHD
+http://piripi.boston:8080/Evaristo/Evaristo/694693
+
+
+
+
+
 
 #EXTINF:-1 group-title="DEPORTE-TV",SKYSHOWTIME FHD
 http://piripi.boston:8080/Evaristo/Evaristo/723005
@@ -1312,6 +1390,10 @@ http://piripi.boston:8080/Evaristo/Evaristo/694437
 #EXTINF:-1 group-title="DEPORTE-TV",24H TVE FHD
 http://piripi.boston:8080/Evaristo/Evaristo/694436
 
+
+
+
+
 #EXTINF:-1 group-title="DEPORTE-TV",TOROLÉ TV FHD
 http://piripi.boston:8080/Evaristo/Evaristo/694433
 
@@ -1319,36 +1401,7 @@ http://piripi.boston:8080/Evaristo/Evaristo/694433
 #EXTINF:-1 group-title="DEPORTE-TV",EL TORO TV HD
 http://piripi.boston:8080/Evaristo/Evaristo/694429
 
-#EXTINF:-1 group-title="DEPORTE-TV",CLAN TVE FHD
-http://piripi.boston:8080/Evaristo/Evaristo/694428
 
-
-#EXTINF:-1 group-title="DEPORTE-TV",BOING SD
-http://piripi.boston:8080/Evaristo/Evaristo/694425
-
-#EXTINF:-1 group-title="DEPORTE-TV",DISNEY JR FHD
-http://piripi.boston:8080/Evaristo/Evaristo/694424
-
-
-#EXTINF:-1 group-title="DEPORTE-TV",ENFAMILIA FHD
-http://piripi.boston:8080/Evaristo/Evaristo/694422
-
-
-#EXTINF:-1 group-title="DEPORTE-TV",NICK JR FHD
-http://piripi.boston:8080/Evaristo/Evaristo/694418
-
-
-#EXTINF:-1 group-title="DEPORTE-TV",NICKELODEON FHD
-http://piripi.boston:8080/Evaristo/Evaristo/694415
-
-#EXTINF:-1 group-title="DEPORTE-TV",DISNEY CHANNEL FHD
-http://piripi.boston:8080/Evaristo/Evaristo/694412
-
-#EXTINF:-1 group-title="DEPORTE-TV",DREAMWORKS FHD
-http://piripi.boston:8080/Evaristo/Evaristo/694409
-
-#EXTINF:-1 group-title="DEPORTE-TV",BABY TV SD
-http://piripi.boston:8080/Evaristo/Evaristo/694406
 
 #EXTINF:-1 group-title="DEPORTE-TV",M+ DOCUMENTALES FHD
 http://piripi.boston:8080/Evaristo/Evaristo/688951
@@ -1517,8 +1570,7 @@ http://piripi.boston:8080/Evaristo/Evaristo/688306
 http://piripi.boston:8080/Evaristo/Evaristo/694692
 
 
-#EXTINF:-1 group-title="DEPORTE-TV",TENNIS CHANNEL HD
-http://piripi.boston:8080/Evaristo/Evaristo/694687
+
 
 
 #EXTINF:-1 group-title="DEPORTE-TV",TRACE SPORT STARS FHD
@@ -1551,11 +1603,7 @@ acestream://160b4b508a11f8c8b5c6e0e62ac04a437e00bb67
 acestream://3a21b411e9b764efefc0c2166ca07f4655b3d31c
 
 
-#EXTINF:-1 group-title="DEPORTE-TV" ,Tennis Channel
-https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://i.postimg.cc/tgV0RQxM/tench2.png" tvg-id="TennisChannel.us2" , Tenis Channel2
-http://127.0.0.1:6878/ace/getstream?id=51a682f0daa2e2fb61e078e48704cb1e3411a300
 
 #EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://pbs.twimg.com/profile_images/1551576769735565312/p29DD_wc_400x400.jpg" tvg-id="I156.32281.schedulesdirect.org" , NBA 
 http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95

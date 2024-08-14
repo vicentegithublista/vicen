@@ -2,6 +2,44 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor.xml.gz"
 
 
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" tvg-id="M+ Liga de Campeones HD" ,🆚 Real Madrid - Atalanta
+http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV"  TVg-id="EVENTO" ,🆚 Real Madrid - Atalanta
+acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV"  TVg-id="EVENTO" ,🆚 Real Madrid - Atalanta
+acestream://931b1984badcb821df7b47a66ac0835ac871b51c
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" tvg-id="Movistar Plus+ HD" tvg-name="M+ PLUS+ FHD" ,🆚 Real Madrid - Atalanta
+acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV"  TVg-id="EVENTO" ,🆚 Real Madrid - Atalanta
+acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/512px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" tvg-id="M.Liga 1080 Multi" ,🆚 Real Madrid - Atalanta
+acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" tvg-name="LIGA DE CAMPEONES FHD HEVC" ,🆚 Real Madrid - Atalanta
+http://89198490877262412.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/262412.ts
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_liga_es.png" tvg-name="LALIGA TV BAR HD" ,🆚 Real Madrid - Atalanta
+http://89198490877165407.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/165407.ts
+
+
+
+
+XTINF:-1 group-title="DEPORTE-TV" tvg-id="RMTV.TV" tvg-logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200"  group-title="DEPORTE-TV" tvg-name="Real Madrid TV",🆚 Real Madrid - Atalanta
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
+
+
+
 #EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" tvg-id="LA 1 HD" tvg-name="ONETORO TV" ,ONETORO TV 
 http://89198490877441850.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/441850.ts
 
@@ -128,11 +166,10 @@ http://piripi.boston:8080/Evaristo/Evaristo/723038
 http://89198490877321068.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321068.ts
 
 
-#EXTINF:-1 group-title="DEPORTE-TV",M+ PLUS OPC.1
-http://piripi.boston:8080/Evaristo/Evaristo/723044
 
 
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" tvg-id="Movistar Plus+ HD" tvg-name="M+ PLUS+ FHD" ,M+ PLUS OPC.2
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" tvg-id="Movistar Plus+ HD" tvg-name="M+ PLUS+ FHD" ,M+ PLUS 
 acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
 
 #EXTINF:-1 group-title="DEPORTE-TV",CANAL COCINA 4K

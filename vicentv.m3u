@@ -996,7 +996,8 @@ acestream://160b4b508a11f8c8b5c6e0e62ac04a437e00bb67
 #EXTINF:-1 group-title="DEPORTE-TV" tvg-ID="" tvg-name="|FR| AMAZON PRIME LEAGUE 8 HD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/SPORT/49078.png"group-title="DEPORTE-TV", AMAZON PRIME LEAGUE 8 HD
 acestream://3a21b411e9b764efefc0c2166ca07f4655b3d31c
 
-
+#EXTINF:-1 group-title="DEPORTE-TV",NBA
+acestream://e72d03fb9694164317260f684470be9ab781ed95
 
 
 #EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://pbs.twimg.com/profile_images/1551576769735565312/p29DD_wc_400x400.jpg" tvg-id="I156.32281.schedulesdirect.org" , NBA 
@@ -1004,8 +1005,6 @@ http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
 
 
 
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" TVg-logo="https://pbs.twimg.com/profile_images/1551576769735565312/p29DD_wc_400x400.jpg" TVg-id="NBA",NBA
-acestream://e72d03fb9694164317260f684470be9ab781ed95
 
 
 
@@ -1103,8 +1102,7 @@ http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710
 
 
-#EXTINF:-1 group-title="DEPORTE-TV",NBA
-acestream://e72d03fb9694164317260f684470be9ab781ed95
+
 
 #EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://image.discovery.indazn.com/eu/v2/eu/image?id=762962501269_image-header_pDach_1662550975000" tvg-id="(DE) DAZN 1" , (DE) DAZN 1
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229

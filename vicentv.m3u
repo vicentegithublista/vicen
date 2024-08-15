@@ -1,49 +1,12 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor.xml.gz"
 
 
-🎾 Tenis - 01:00
-🏆 ATP CINCINNATI
-🆚 Monfils-Alcaraz
-🖥 M+ Deportes
-
-🚴‍♂ Ciclismo - 13:50
-🏆 TOUR DE FRANCIA FEMENINO
-🆚 Remiremont-Morteau (160.0 km)
-🖥 Teledeporte
-
-⚽️ Fútbol - 19:00
-🏆 LALIGA EA SPORTS
-🆚 Celta de Vigo-Alavés
-🖥 M+ LALIGA TV
-
-⚽️ Fútbol - 19:00
-🏆 LALIGA HYPERMOTION
-🆚 Mirandés-Córdoba
-🖥 LALIGA TV HYPERMOTION
-
-⚽️ Fútbol - 21:00
-🏆 PREMIER LEAGUE
-🆚 Manchester Utd.-Fulham
-🖥 DAZN 1
-
-⚽️ Fútbol - 21:30
-🏆 LALIGA EA SPORTS
-🆚 Las Palmas-Sevilla
-🖥 GOL PLAY
-
-⚽️ Fútbol - 21:30
-🏆 LALIGA HYPERMOTION
-🆚 Cádiz-Real Zaragoza
-🖥 M+ Vamos
 
 
 
 
 #EXTINF:-1 group-title="DEPORTE-TV",19:00 ⚽️Celta de Vigo-Alavés
-
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-
-
 
 #EXTINF:-1 group-title="DEPORTE-TV",19:00 ⚽️Celta de Vigo-Alavés
 acestream://1969c27658d4c8333ab2c0670802546121a774a5
@@ -55,20 +18,32 @@ acestream://1969c27658d4c8333ab2c0670802546121a774a5
 #EXTINF:-1 group-title="DEPORTE-TV" ,19:00 ⚽️Mirandés-Córdoba
 acestream://4c46585214b23b1d802ef2168060c7649a3894cf
 
-
-
-
 #EXTINF:-1 group-title="DEPORTE-TV",19:00 ⚽️Mirandés-Córdoba
 acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+
+
+
 
 #EXTINF:-1 group-title="DEPORTE-TV" ,21:30 ⚽️Cádiz-Real Zaragoza
 acestream://4c46585214b23b1d802ef2168060c7649a3894cf
 
-
-
-
 #EXTINF:-1 group-title="DEPORTE-TV",21:30 ⚽️Cádiz-Real Zaragoza
 acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" ,21:30 ⚽️Las Palmas-Sevilla
+acestream://d4627f7b6b237a8556819445b3283d866caceca2
+
+
+
+
+
+
+
+
+
 
 EXTINF:-1 group-title="DEPORTE-TV",21:30 ⚽️Betis - Girona
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a

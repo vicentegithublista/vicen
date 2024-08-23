@@ -1327,8 +1327,8 @@ acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
 
 
 
-#EXTINF:0,
-#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" tvg-id=" DAZN F1 1080" , P1
 http://127.0.0.1:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 
 
@@ -1338,8 +1338,10 @@ http://127.0.0.1:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 
 
 
-#EXTINF:0,
-#EXTVLCOPT:network-caching=1000
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" tvg-id=" DAZN F1 1080" , P1
 http://127.0.0.1:6878/ace/getstream?id=6b94479c24898700089e6b87d28a3ccc72dc4041
 
 
@@ -1349,8 +1351,10 @@ http://127.0.0.1:6878/ace/getstream?id=6b94479c24898700089e6b87d28a3ccc72dc4041
 
 
 
-#EXTINF:0,
-#EXTVLCOPT:network-caching=1000
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" tvg-id=" DAZN F1 1080" , P1
 http://127.0.0.1:6878/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5
 
 
@@ -1362,8 +1366,10 @@ http://127.0.0.1:6878/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5
 
 
 
-#EXTINF:0,
-#EXTVLCOPT:network-caching=1000
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" tvg-id=" DAZN F1 1080" , P1
 http://127.0.0.1:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2
 
 

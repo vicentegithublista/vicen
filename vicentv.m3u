@@ -1,32 +1,35 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor.xml.gz"
 
-#EXTINF:-1 group-title="DEPORTE-TV",M.L. Campeones⚽️ 
-acestream://931b1984badcb821df7b47a66ac0835ac871b51c
-
-
-
-
-#EXTINF:-1 group-title="DEPORTE-TV",M.L. Campeones⚽️ 
-http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
 
 
 
 
 
-#EXTINF:-1 group-title="DEPORTE-TV",M.L. Campeones⚽️ 
-http://89198490877262412.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/262412.ts
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" tvg-id=" DAZN F1 1080" , DAZN F1 
+acestream://5789ca155323664edd293b848606688edf803f4d
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" tvg-id=" DAZN F1 1080" , DAZN F1 
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" tvg-id="LA 1" tvg-name="DAZN FORMULA 1 FHD" ,DAZN F1 
+http://89198490877165418.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/165418.ts
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" tvg-id="LA 1" tvg-name="DAZN FORMULA 1 FHD" ,DAZN F1 
+http://89198490877165418.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/165418.ts
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" tvg-id="DAZN F1 HD" , DAZN F1 
+http://127.0.0.1:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" tvg-id=" DAZN F1 1080" , DAZN F1 
+acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
 
 
 
-#EXTINF:-1 group-title="DEPORTE-TV",M.L. Campeones⚽️ 
-acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 
 
-
-
-#EXTINF:-1 group-title="DEPORTE-TV",M.L. Campeones⚽️ 
-acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
-
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" TVg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" ,SKY SPORT F1 
+acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
 
 
 
@@ -323,14 +326,15 @@ acestream://9dad717d99b29a05672166258a77c25b57713dd5
 #EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" tvg-id="LA 1" tvg-name="DAZN FORMULA 1 FHD" ,DAZN F1 
 http://89198490877165418.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/165418.ts
 
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" tvg-id="LA 1" tvg-name="DAZN FORMULA 1 FHD" ,DAZN F1 
+http://89198490877165418.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/165418.ts
+
 #EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" tvg-id="DAZN F1 HD" , DAZN F1 
 http://127.0.0.1:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2
 
 #EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" tvg-id=" DAZN F1 1080" , DAZN F1 
 acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
 
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" tvg-id="LA 1" tvg-name="DAZN FORMULA 1 FHD" ,DAZN F1 
-http://89198490877165418.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/165418.ts
 
 
 
@@ -1243,7 +1247,32 @@ EXTINF:-1 group-title="DEPORTE-TV",⚽️DAZN LIGA
 http://89198490877165407.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/165407.ts
 
 
+EXTINF:-1 group-title="DEPORTE-TV",M.L. Campeones⚽️ 
+acestream://931b1984badcb821df7b47a66ac0835ac871b51c
 
+
+
+
+EXTINF:-1 group-title="DEPORTE-TV",M.L. Campeones⚽️ 
+http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
+
+
+
+
+
+EXTINF:-1 group-title="DEPORTE-TV",M.L. Campeones⚽️ 
+http://89198490877262412.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/262412.ts
+
+
+
+EXTINF:-1 group-title="DEPORTE-TV",M.L. Campeones⚽️ 
+acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+
+
+
+
+EXTINF:-1 group-title="DEPORTE-TV",M.L. Campeones⚽️ 
+acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
 
 
 

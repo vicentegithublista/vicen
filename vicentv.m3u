@@ -493,7 +493,6 @@ acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 
 
 
-
 #EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" tvg-id="Eurosport1 Opc.1" ,EuroSport1 
 http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 
@@ -1325,33 +1324,69 @@ acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
 
 
 
-EXTINF:-1 group-title="DEPORTE-TV",P1
-http://127.0.0.1:6878/ace/getstream?id=f233f3a8e9ddfae2e43d919789073fc17d9bbd7c
 
-
-
-
-
-#EXTINF:-1 group-title="DEPORTE-TV",P2
-http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-
-
-
-
-EXTINF:-1 group-title="DEPORTE-TV",P3
-http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-
-
-
-
-EXTINF:-1 group-title="DEPORTE-TV",P4
-http://127.0.0.1:6878/ace/getstream?id=60106275d34f995e26bb2cc4a21a42f586c
-
-
-
-
-#EXTINF:-1 group-title="DEPORTE-TV",P5
+#EXTINF:-1 group-title="DEPORTE-TV",P1 
 http://127.0.0.1:6878/ace/getstream?id=d59fe9978eed49f256b312a60671b5bce43d3f24
+
+
+
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV",P2 
+http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+
+
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV",P3 
+http://127.0.0.1:6878/ace/getstream?id=6753492c1908274c268a1b28e2a054a0ff8f86f9
+
+
+
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV",P4 
+http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV",P5 
+http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV",P6 
+http://127.0.0.1:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c
+
+
+
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV",P7 
+http://127.0.0.1:6878/ace/getstream?id=1d79a7543d691666135669f89f3541f54e2dd0a9
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV",P8 
+http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
 
 
 

@@ -74,12 +74,13 @@ acestream://4c46585214b23b1d802ef2168060c7649a3894cf
 acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
 
 
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" tvg-name="LIGA DE CAMPEONES FHD HEVC" ,⚽️LIGA DE CAMPEONES 
+#EXTINF:-1 group-title="DEPORTE-TV",⚽️LIGA DE CAMPEONES 
 http://89198490877262412.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/262412.ts
 
 
 
-
+#EXTINF:-1 group-title="DEPORTE-TV",⚽️LIGA DE CAMPEONES 
+http://127.0.0.1:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c
 
 
 

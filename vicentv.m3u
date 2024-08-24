@@ -1325,9 +1325,27 @@ acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
 
 
 
+#EXTINF:-1 group-title="DEPORTE-TV",P1
+http://127.0.0.1:6878/ace/getstream?id=f233f3a8e9ddfae2e43d919789073fc17d9bbd7c
 
 
 
+
+
+#EXTINF:-1 group-title="DEPORTE-TV",P2
+http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV",P3
+http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV",P4
+http://127.0.0.1:6878/ace/getstream?id=60106275d34f995e26bb2cc4a21a42f586c
 
 
 

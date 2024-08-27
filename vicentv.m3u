@@ -1,151 +1,26 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor.xml.gz"
 
 
+#EXTINF:-1 group-title="DEPORTE-TV",Us open canal 1
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
 
+#EXTINF:-1 group-title="DEPORTE-TV",Us open canal 2
+http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
 
+#EXTINF:-1 group-title="DEPORTE-TV",Us open canal 3
+http://127.0.0.1:6878/ace/getstream?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
 
+#EXTINF:-1 group-title="DEPORTE-TV",Us open canal 4
+http://127.0.0.1:6878/ace/getstream?id=42e83c337ece0af9ca7808859f84c7960e9cb6f5
 
+#EXTINF:-1 group-title="DEPORTE-TV",Us open canal 5
+http://127.0.0.1:6878/ace/getstream?id=b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
 
+#EXTINF:-1 group-title="DEPORTE-TV",Us open canal 6
+http://127.0.0.1:6878/ace/getstream?id=8587ed8ac36ac477e1d4176d3159a38bd154d4ce
 
-
-#EXTINF:-1 group-title="DEPORTE-TV",DAZN F1 
-http://127.0.0.1:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2
-
-
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" tvg-id=" DAZN F1 1080" ,DAZN F1 
-http://127.0.0.1:6878/ace/getstream?id=5789ca155323664edd293b848606688edf803f4d
-
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" tvg-id=" DAZN F1 1080" , DAZN F1 
-http://127.0.0.1:6878/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5
-
-
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" tvg-id="LA 1" tvg-name="DAZN FORMULA 1 FHD" ,DAZN F1 
-http://89198490877165418.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/165418.ts
-
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" tvg-id="LA 1" tvg-name="DAZN FORMULA 1 FHD" ,DAZN F1 
-http://89198490877165418.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/165418.ts
-
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" tvg-id="DAZN F1 HD" , DAZN F1 
-http://127.0.0.1:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2
-
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" tvg-id=" DAZN F1 1080" , DAZN F1 
-http://127.0.0.1:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2
-
-
-
-
-
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" TVg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" ,SKY SPORT F1 
-http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
-
-
-
-
-#EXTINF:-1 group-title="DEPORTE-TV",⚽️DAZN LIGA
-http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
-
-#EXTINF:-1 group-title="DEPORTE-TV",⚽️DAZN LIGA  
-http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
-
-
-
-#EXTINF:-1 group-title="DEPORTE-TV",⚽️DAZN LIGA 
-http://89198490877165407.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/165407.ts
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="DEPORTE-TV",⚽️LA LIGA 
-http://127.0.0.1:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
-
-#EXTINF:-1 group-title="DEPORTE-TV",⚽️LA LIGA
-http://127.0.0.1:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
-
-
-
-
-#EXTINF:-1 group-title="DEPORTE-TV" ,⚽️LA LIGA 
-http://live.lordstreams.co:8080/Montecrispo/126728543/3811
-
-
-#EXTINF:-1 group-title="DEPORTE-TV",⚽️LA LIGA 
-http://live.lordstreams.co:8080/Montecrispo/126728543/40648
-
-
-#EXTINF:-1 group-title="DEPORTE-TV" ,⚽️LA LIGA SEGUNDA
-http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
-
-#EXTINF:-1 group-title="DEPORTE-TV",⚽️LA LIGA SEGUNDA
-http://127.0.0.1:6878/ace/getstream?id=06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-
-
-#EXTINF:-1 group-title="DEPORTE-TV",⚽️LIGA DE CAMPEONES 
-http://89198490877262412.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/262412.ts
-
-
-
-#EXTINF:-1 group-title="DEPORTE-TV",⚽️LIGA DE CAMPEONES 
-http://127.0.0.1:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c
-
-
-
-#EXTINF:-1 group-title="DEPORTE-TV",⚽️PREMIER
-http://127.0.0.1:6878/ace/getstream?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
-
-
-#EXTINF:-1 group-title="DEPORTE-TV",⚽️PREMIER
-http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
-
-
-#EXTINF:-1 group-title="DEPORTE-TV",⚽️PREMIER
-http://89198490877228389.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/228389.ts
-
-
-
-#EXTINF:-1 group-title="DEPORTE-TV",⚽️PREMIER
-http://127.0.0.1:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-
-
-
-#EXTINF:-1 group-title="DEPORTE-TV",⚽️PREMIER
-http://127.0.0.1:6878/ace/getstream?id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" tvg-id="LA 1 HD" tvg-name="ONETORO TV" ,CANAL SUR 
-https://paco@cdnlive.codev8.net/rtvalive/DtRLVjt1.smil/chunklist_b2200000.m3u8
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" tvg-id="LA 1 HD" tvg-name="ONETORO TV" ,CMM
-https://paco@acortar.link/fl8KMR
-
+#EXTINF:-1 group-title="DEPORTE-TV",Us open canal 7
+http://127.0.0.1:6878/ace/getstream?id=2448f1d084f440eed2fbe847e24f1c02f5659a78
 
 
 
@@ -1813,6 +1688,149 @@ http://live.lordstreams.co:8080/Montecrispo/126728543/89461
 
 
 
+
+
+
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV",DAZN F1 
+http://127.0.0.1:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" tvg-id=" DAZN F1 1080" ,DAZN F1 
+http://127.0.0.1:6878/ace/getstream?id=5789ca155323664edd293b848606688edf803f4d
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" tvg-id=" DAZN F1 1080" , DAZN F1 
+http://127.0.0.1:6878/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" tvg-id="LA 1" tvg-name="DAZN FORMULA 1 FHD" ,DAZN F1 
+http://89198490877165418.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/165418.ts
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" tvg-id="LA 1" tvg-name="DAZN FORMULA 1 FHD" ,DAZN F1 
+http://89198490877165418.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/165418.ts
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" tvg-id="DAZN F1 HD" , DAZN F1 
+http://127.0.0.1:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" tvg-id=" DAZN F1 1080" , DAZN F1 
+http://127.0.0.1:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2
+
+
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" TVg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" ,SKY SPORT F1 
+http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
+
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV",⚽️DAZN LIGA
+http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
+
+#EXTINF:-1 group-title="DEPORTE-TV",⚽️DAZN LIGA  
+http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV",⚽️DAZN LIGA 
+http://89198490877165407.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/165407.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV",⚽️LA LIGA 
+http://127.0.0.1:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
+
+#EXTINF:-1 group-title="DEPORTE-TV",⚽️LA LIGA
+http://127.0.0.1:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
+
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" ,⚽️LA LIGA 
+http://live.lordstreams.co:8080/Montecrispo/126728543/3811
+
+
+#EXTINF:-1 group-title="DEPORTE-TV",⚽️LA LIGA 
+http://live.lordstreams.co:8080/Montecrispo/126728543/40648
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" ,⚽️LA LIGA SEGUNDA
+http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
+
+#EXTINF:-1 group-title="DEPORTE-TV",⚽️LA LIGA SEGUNDA
+http://127.0.0.1:6878/ace/getstream?id=06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+
+
+#EXTINF:-1 group-title="DEPORTE-TV",⚽️LIGA DE CAMPEONES 
+http://89198490877262412.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/262412.ts
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV",⚽️LIGA DE CAMPEONES 
+http://127.0.0.1:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV",⚽️PREMIER
+http://127.0.0.1:6878/ace/getstream?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
+
+
+#EXTINF:-1 group-title="DEPORTE-TV",⚽️PREMIER
+http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
+
+
+#EXTINF:-1 group-title="DEPORTE-TV",⚽️PREMIER
+http://89198490877228389.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/228389.ts
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV",⚽️PREMIER
+http://127.0.0.1:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV",⚽️PREMIER
+http://127.0.0.1:6878/ace/getstream?id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" tvg-id="LA 1 HD" tvg-name="ONETORO TV" ,CANAL SUR 
+https://paco@cdnlive.codev8.net/rtvalive/DtRLVjt1.smil/chunklist_b2200000.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" tvg-id="LA 1 HD" tvg-name="ONETORO TV" ,CMM
+https://paco@acortar.link/fl8KMR
 
 
 

@@ -11,47 +11,47 @@
 
 
 
-#EXTINF:-1 group-title="DEPORTE-TV"tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" tvg-id="Movistar Plus+ HD" tvg-name="M+ PLUS+ FHD",⚽21:30 Atlético - Espanyol
+#EXTINF:-1 group-title="DEPORTE-TV",M+
 http://127.0.0.1:6878/ace/getstream?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
 
 
+#EXTINF:-1 group-title="DEPORTE-TV",#Vamos 
+http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
+
+#EXTINF:-1 group-title="DEPORTE-TV",#Vamos 
+http://89198490877321072.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321072.ts
 
 
-#EXTINF:-1 group-title="DEPORTE-TV",⚽21:30 Atlético - Espanyol
+#EXTINF:-1 group-title="DEPORTE-TV",⚽LA LIGA
 http://127.0.0.1:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
 
 
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-id="M.Liga 1080 Multi",⚽21:30 Atlético - Espanyol
+#EXTINF:-1 group-title="DEPORTE-TV",⚽LA LIGA
 http://127.0.0.1:6878/ace/getstream?id=f031f5728b32f6089dda28edebe990cf198108d8
 
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-id="LA 1" tvg-name="M+ LALIGA FHD"⚽21:30 Atlético - Espanyol 
+#EXTINF:-1 group-title="DEPORTE-TV",⚽LA LIGA
 http://89198490877165385.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/165385.ts
 
-#EXTINF:-1 group-title="DEPORTE-TV",⚽21:30 Atlético - Espanyol
+#EXTINF:-1 group-title="DEPORTE-TV",⚽LA LIGA
 http://127.0.0.1:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
 
 
 
+EXTINF:-1 group-title="DEPORTE-TV",⚽DAZN LIGA
+http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
+
+EXTINF:-1 group-title="DEPORTE-TV",⚽DAZN LIGA
+http://127.0.0.1:6878/ace/getstream?id=75251ba975132ec9a202806ba5bf606e87280c96
+
+EXTINF:-1 group-title="DEPORTE-TV",⚽DAZN LIGA
+http://89198490877165407.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/165407.ts
 
 
 
-
-#EXTINF:-1 group-title="DEPORTE-TV",⚽21:30 Real Sociedad - Alavés
+#EXTINF:-1 group-title="DEPORTE-TV",⚽DAZN LIGA2 
 http://127.0.0.1:6878/ace/getstream?id=e33e666c393ef04ebe99a9b92135d2e0b48c4d10
 
-
-
-
-
-#EXTINF:-1 group-title="DEPORTE-TV" ,⚽21:30 Real Sociedad - Alavés 
-http://127.0.0.1:6878/ace/getstream?id=e33e666c393ef04ebe99a9b92135d2e0b48c4d10
-
-
-
-#EXTINF:-1 group-title="DEPORTE-TV",⚽21:30 Real Sociedad - Alavés
-http://127.0.0.1:6878/ace/getstream?id=e33e666c393ef04ebe99a9b92135d2e0b48c4d10
-
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png" tvg-name="DAZN LALIGA 2 FHD" ,⚽21:30 Real Sociedad - Alavés
+#EXTINF:-1 group-title="DEPORTE-TV",⚽DAZN LIGA2
 http://89198490877320780.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/320780.ts
 
 
@@ -66,8 +66,6 @@ http://89198490877320780.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/320780.ts
 http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
 
 
-
-
 #EXTINF:-1 group-title="DEPORTE-TV",M.L. Campeones⚽️ 
 http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
 
@@ -75,29 +73,11 @@ http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
 
 
 
-#EXTINF:-1 group-title="DEPORTE-TV",M.L. Campeones⚽️ 
-http://89198490877262412.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/262412.ts
-
-
-
-#EXTINF:-1 group-title="DEPORTE-TV",M.L. Campeones⚽️ 
-http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-
-
-
-
-#EXTINF:-1 group-title="DEPORTE-TV",M.L. Campeones⚽️ 
-http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
 
 
 
 
 
-#EXTINF:-1 group-title="DEPORTE-TV",TENIS🎾Us open 
-http://live.lordstreams.co:8080/Montecrispo/126728543/3811
-
-#EXTINF:-1 group-title="DEPORTE-TV",TENIS🎾Us open
-http://live.lordstreams.co:8080/Montecrispo/126728543/40648
 
 #EXTINF:-1 group-title="DEPORTE-TV",TENIS🎾Us open canal 1
 http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
@@ -138,16 +118,8 @@ http://127.0.0.1:6878/ace/getstream?id=2448f1d084f440eed2fbe847e24f1c02f5659a78
 
 
 
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" tvg-id="Movistar Plus+ HD" tvg-name="M+ PLUS+ FHD" ,M+ PLUS+
-http://127.0.0.1:6878/ace/getstream?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
 
 
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV"  TVg-id="EVENTO" ,#Vamos 
-http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
-
-
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD" tvg-id="vamos.es" tvg-name="#VAMOS HD" ,#Vamos 
-http://89198490877321072.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321072.ts
 
 
 
@@ -1926,14 +1898,6 @@ http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
 
  
 
-EXTINF:-1 group-title="DEPORTE-TV",⚽21:30 Real Sociedad - Alavés
-http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
-
-EXTINF:-1 group-title="DEPORTE-TV",⚽21:30 Real Sociedad - Alavés
-http://127.0.0.1:6878/ace/getstream?id=75251ba975132ec9a202806ba5bf606e87280c96
-
-EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-name="LALIGA TV BAR HD" ,⚽21:30 Real Sociedad - Alavés
-http://89198490877165407.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/165407.ts
 
 
 

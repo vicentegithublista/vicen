@@ -1,5 +1,13 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor.xml.gz"
 
+#EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://i.ibb.co/n7Hj1NK/onetoro.png" ,ED• ONETORO (HD) »1«
+http://fastream.xyz:8080/juanabril21/canale2021/236540
+
+#EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://i.ibb.co/n7Hj1NK/onetoro.png" ,ED• ONETORO (HD) »2«
+http://fastream.xyz:8080/juanabril21/canale2021/236541
+
+#EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://i.ibb.co/n7Hj1NK/onetoro.png" ,ED• ONETORO (HD) »3«
+http://fastream.xyz:8080/juanabril21/canale2021/236542
 
 #EXTINF:-1 group-title="DEPORTE-TV",M+
 http://127.0.0.1:6878/ace/getstream?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0

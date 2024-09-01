@@ -9,8 +9,6 @@ http://fastream.xyz:8080/juanabril21/canale2021/236541
 #EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://i.ibb.co/n7Hj1NK/onetoro.png" ,ONETORO»3«
 http://fastream.xyz:8080/juanabril21/canale2021/236542
 
-#EXTINF:-1 group-title="DEPORTE-TV",M+
-http://127.0.0.1:6878/ace/getstream?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
 
 
 #EXTINF:-1 group-title="DEPORTE-TV",#Vamos 
@@ -124,8 +122,23 @@ http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
 
 
 
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" TVg-logo="https://i.goalzz.com/?i=katkotati%2Flogo_chaine%2Fportugal%2Feleven+sports+4+portugal.gif" TVg-id="Eleven Sports 4" ,Eleven4 0p1
+http://127.0.0.1:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
 
 
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV"  TVg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" TVg-id="Premier Sports 1" ,Premier Sports 1
+http://127.0.0.1:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" TVg-logo="https://sport-onthebox.com/wp-content/uploads/2019/08/Premier-Sports-2.png" TVg-id="Premier Sports 2" ,Premier Sports 2
+http://127.0.0.1:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://image.discovery.indazn.com/eu/v2/eu/image?id=762962501269_image-header_pDach_1662550975000" tvg-id="(DE) DAZN 1" , (DE) DAZN 1
+http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://image.discovery.indazn.com/eu/v2/eu/image?id=762965573106_image-header_pDach_1662550976000" tvg-id="(DE) DAZN 2" , (DE) DAZN 2
+http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
 
 
 
@@ -638,6 +651,14 @@ http://127.0.0.1:6878/ace/getstream?id=0742f7fabb74715b11c5a5dae24e93a4644697a5
 http://89198490877454216.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/454216.ts
 
 
+#EXTINF:-1 group-title="DEPORTE-TV",ESPN
+http://live.lordstreams.co:8080/Montecrispo/126728543/3811
+
+#EXTINF:-1 group-title="DEPORTE-TV",Fox Deportes
+http://live.lordstreams.co:8080/Montecrispo/126728543/3853
+
+#EXTINF:-1 group-title="DEPORTE-TV",ESPN
+http://live.lordstreams.co:8080/Montecrispo/126728543/40648
 
 #EXTINF:-1 group-title="DEPORTE-TV" ,Tennis Channel 
 https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8
@@ -648,6 +669,8 @@ http://127.0.0.1:6878/ace/getstream?id=51a682f0daa2e2fb61e078e48704cb1e3411a300
 
 
 
+#EXTINF:-1 group-title="DEPORTE-TV" tvg-id="RMTV.TV" tvg-logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200"  group-title="DEPORTE-TV" tvg-name="Real Madrid TV",REAL MADRID 
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
 
 
@@ -671,9 +694,26 @@ https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
 https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
 
 
+#EXTINF:-1 group-title="DEPORTE-TV",TV Barca TV
+http://live.lordstreams.co:8080/Montecrispo/126728543/50906
 
-EXTINF:-1 group-title="DEPORTE-TV"  TVg-id="EVENTO" ,Padel TV
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadeltv-samsungspain/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTE-TV",Tele Deporte
+http://live.lordstreams.co:8080/Montecrispo/126728543/50905
+
+
+#EXTINF:-1 group-title="DEPORTE-TV",GOL TV
+http://live.lordstreams.co:8080/Montecrispo/126728543/40646
+
+#EXTINF:-1 group-title="DEPORTE-TV",Benfica FC
+http://live.lordstreams.co:8080/Montecrispo/126728543/40645
+
+#EXTINF:-1 group-title="DEPORTE-TV" tvg-id="TVBOL" ,DEPORTE-TV
+http://live.lordstreams.co:8080/Montecrispo/126728543/4619
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://www.thewrap.com/wp-content/uploads/2013/10/Fox-Deportes-Logo.png" tvg-id="foxdeportes.us" ,Fox Sports
+http://live.lordstreams.co:8080/Montecrispo/126728543/40647
+
 
 
 
@@ -826,14 +866,16 @@ https://ztnr.rtve.es/ztnr/1712295.m3u8
 
 
 
-#EXTINF:-1 group-title="DEPORTE-TV" tvg-id="RMTV.TV" tvg-logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200"  group-title="DEPORTE-TV" tvg-name="Real Madrid TV",REAL MADRID 
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
        
 
 #EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="DEPORTE-TV" tvg-name="Canal Sur 2 Accesible",Canal Sur 2 Accesible
 https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 
 
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://digitechtricks.com/wp-content/uploads/2017/04/mega.jpg" tvg-id="mega.es" ,Mega
+http://live.lordstreams.co:8080/Montecrispo/126728543/50898
 
 
 
@@ -1157,29 +1199,6 @@ https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8
 
 
 
-#EXTINF:-1 group-title="DEPORTE-TV" tvg-ID="" tvg-name="|FR| AMAZON PRIME LEAGUE 1 HD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/SPORT/49078.png"group-title="DEPORTE-TV", AMAZON PRIME LEAGUE 1 HD
-http://127.0.0.1:6878/ace/getstream?id=5323ccadb659f7d3cb5fa2e5835c5af362e144d6
-
-#EXTINF:-1 group-title="DEPORTE-TV" tvg-ID="" tvg-name="|FR| AMAZON PRIME LEAGUE 2 HD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/SPORT/49078.png"group-title="DEPORTE-TV", AMAZON PRIME LEAGUE 2 HD
-http://127.0.0.1:6878/ace/getstream?id=2926e34c63d83764f9c6671da53397d55041b4ea
-
-#EXTINF:-1 group-title="DEPORTE-TV" tvg-ID="" tvg-name="|FR| AMAZON PRIME LEAGUE 3 HD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/SPORT/49078.png" group-title="DEPORTE-TV", AMAZON PRIME LEAGUE 3 HD
-http://127.0.0.1:6878/ace/getstream?id=7b979c38e2565ea0ce4c6ec3c13f6edf05b0c08c
-
-#EXTINF:-1 group-title="DEPORTE-TV" tvg-ID="" tvg-name="|FR| AMAZON PRIME LEAGUE 4 HD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/SPORT/49078.png" group-title="DEPORTE-TV", AMAZON PRIME LEAGUE 4 HD
-http://127.0.0.1:6878/ace/getstream?id=77697d1e2f382196dd156ed384e84c62fc7d32f7
-
-#EXTINF:-1 group-title="DEPORTE-TV" tvg-ID="" tvg-name="|FR| AMAZON PRIME LEAGUE 5 HD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/SPORT/49078.png"group-title="DEPORTE-TV", AMAZON PRIME LEAGUE 5 HD
-http://127.0.0.1:6878/ace/getstream?id=d3634268718c6e52cde4a34d0e75cfef26c1ba9
-
-#EXTINF:-1 group-title="DEPORTE-TV" tvg-ID="" tvg-name="|FR| AMAZON PRIME LEAGUE 6 HD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/SPORT/49078.png" group-title="DEPORTE-TV", AMAZON PRIME LEAGUE 6 HD
-http://127.0.0.1:6878/ace/getstream?id=26e31f091414fb036917a255b4adaf12b2f3da5b
-
-#EXTINF:-1 group-title="DEPORTE-TV" tvg-ID="" tvg-name="|FR| AMAZON PRIME LEAGUE 7 HD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/SPORT/49078.png" group-title="DEPORTE-TV", AMAZON PRIME LEAGUE 7 HD
-http://127.0.0.1:6878/ace/getstream?id=160b4b508a11f8c8b5c6e0e62ac04a437e00bb67
-
-#EXTINF:-1 group-title="DEPORTE-TV" tvg-ID="" tvg-name="|FR| AMAZON PRIME LEAGUE 8 HD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/SPORT/49078.png"group-title="DEPORTE-TV", AMAZON PRIME LEAGUE 8 HD
-http://127.0.0.1:6878/ace/getstream?id=3a21b411e9b764efefc0c2166ca07f4655b3d31c
 
 #EXTINF:-1 group-title="DEPORTE-TV",NBA
 http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
@@ -1298,77 +1317,3 @@ http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
 
 #EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" ,RALLY TV FHD
 http://89198490877771303.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/771303.ts
-
-
-
-
-#EXTINF:-1 group-title="DEPORTE-TV",TUDN X1
-http://live.lordstreams.co:8080/Montecrispo/126728543/40612
-
-#EXTINF:-1 group-title="DEPORTE-TV",TUDN X2
-http://live.lordstreams.co:8080/Montecrispo/126728543/40611
-
-#EXTINF:-1 group-title="DEPORTE-TV",TUDN X3
-http://live.lordstreams.co:8080/Montecrispo/126728543/40613
-
-#EXTINF:-1 group-title="DEPORTE-TV",TUDN X4
-http://live.lordstreams.co:8080/Montecrispo/126728543/40614
-
-#EXTINF:-1 group-title="DEPORTE-TV",TUDN X5
-http://live.lordstreams.co:8080/Montecrispo/126728543/40615
-
-#EXTINF:-1 group-title="DEPORTE-TV",TUDN X6
-http://live.lordstreams.co:8080/Montecrispo/126728543/40616
-
-#EXTINF:-1 group-title="DEPORTE-TV",TUDN X7
-http://live.lordstreams.co:8080/Montecrispo/126728543/40617
-
-#EXTINF:-1 group-title="DEPORTE-TV",TUDN X8
-http://live.lordstreams.co:8080/Montecrispo/126728543/40618
-
-#EXTINF:-1 group-title="DEPORTE-TV",TUDN X9
-http://live.lordstreams.co:8080/Montecrispo/126728543/40619
-
-#EXTINF:-1 group-title="DEPORTE-TV",TUDN X10
-http://live.lordstreams.co:8080/Montecrispo/126728543/40620
-
-
-
-
-#EXTINF:-1 group-title="DEPORTE-TV",ESPN
-http://live.lordstreams.co:8080/Montecrispo/126728543/3811
-
-#EXTINF:-1 group-title="DEPORTE-TV",Fox Deportes
-http://live.lordstreams.co:8080/Montecrispo/126728543/3853
-
-#EXTINF:-1 group-title="DEPORTE-TV",ESPN
-http://live.lordstreams.co:8080/Montecrispo/126728543/40648
-
-#EXTINF:-1 group-title="DEPORTE-TV",TV Barca TV
-http://live.lordstreams.co:8080/Montecrispo/126728543/50906
-
-#EXTINF:-1 group-title="DEPORTE-TV",Tele Deporte
-http://live.lordstreams.co:8080/Montecrispo/126728543/50905
-
-
-#EXTINF:-1 group-title="DEPORTE-TV",GOL TV
-http://live.lordstreams.co:8080/Montecrispo/126728543/40646
-
-#EXTINF:-1 group-title="DEPORTE-TV",Benfica FC
-http://live.lordstreams.co:8080/Montecrispo/126728543/40645
-
-#EXTINF:-1 group-title="DEPORTE-TV" tvg-id="TVBOL" ,DEPORTE-TV
-http://live.lordstreams.co:8080/Montecrispo/126728543/4619
-
-
-#EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://www.thewrap.com/wp-content/uploads/2013/10/Fox-Deportes-Logo.png" tvg-id="foxdeportes.us" ,Fox Sports
-http://live.lordstreams.co:8080/Montecrispo/126728543/40647
-
-
-#EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://digitechtricks.com/wp-content/uploads/2017/04/mega.jpg" tvg-id="mega.es" ,Mega
-http://live.lordstreams.co:8080/Montecrispo/126728543/50898
-
-
-
-
-

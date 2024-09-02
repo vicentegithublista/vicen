@@ -1,53 +1,13 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor.xml.gz"
 
 
-#EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://i.ibb.co/n7Hj1NK/onetoro.png" ,ONETORO»3«
+#EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://i.ibb.co/n7Hj1NK/onetoro.png" ,ONETORO
 http://fastream.xyz:8080/juanabril21/canale2021/236542
 
 
 
 #EXTINF:-1 group-title="DEPORTE-TV",#Vamos 
 http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
-
-#EXTINF:-1 group-title="DEPORTE-TV",#Vamos 
-http://89198490877321072.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321072.ts
-
-
-
-
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" tvg-id=" DAZN F1 1080" , DAZN F1 
-http://127.0.0.1:6878/ace/getstream?id=5789ca155323664edd293b848606688edf803f4d
-
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" tvg-id=" DAZN F1 1080" , DAZN F1 
-http://127.0.0.1:6878/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5
-
-
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" tvg-id="LA 1" tvg-name="DAZN FORMULA 1 FHD" ,DAZN F1 
-http://89198490877165418.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/165418.ts
-
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" tvg-id="LA 1" tvg-name="DAZN FORMULA 1 FHD" ,DAZN F1 
-http://89198490877165418.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/165418.ts
-
-
-
-
-
-
-EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" tvg-id="DAZN 1 HD" , DAZN 1 
-http://127.0.0.1:6878/ace/getstream?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
-
-
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV"  TVg-id="EVENTO" ,DAZN 1 
-http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
-
-EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV"  TVg-id="EVENTO" ,DAZN 1 
-http://127.0.0.1:6878/ace/getstream?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
-
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://i.pinimg.com/474x/67/21/0a/67210a52f8c3a001ac0710e63324ad30.jpg" tvg-name="M+ DAZN 1 HD" ,DAZN 1 
-http://89198490877228385.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/228385.ts
-
-
-
 
 
 
@@ -109,16 +69,50 @@ http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
 
 
 
-#EXTINF:-1 group-title="DEPORTE-TV",TENIS🎾Us open canal 1
+#EXTINF:-1 group-title="DEPORTE-TV",M. Deportes
 http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
 
-#EXTINF:-1 group-title="DEPORTE-TV",TENIS🎾Us open canal 2
+#EXTINF:-1 group-title="DEPORTE-TV",M. Deportes2
 http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
 
+#EXTINF:-1 group-title="DEPORTE-TV",#Vamos 
+http://89198490877321072.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321072.ts
 
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" tvg-id=" DAZN F1 1080" , DAZN F1 
+http://127.0.0.1:6878/ace/getstream?id=5789ca155323664edd293b848606688edf803f4d
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" tvg-id=" DAZN F1 1080" , DAZN F1 
+http://127.0.0.1:6878/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" tvg-id="LA 1" tvg-name="DAZN FORMULA 1 FHD" ,DAZN F1 
+http://89198490877165418.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/165418.ts
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" tvg-id="LA 1" tvg-name="DAZN FORMULA 1 FHD" ,DAZN F1 
+http://89198490877165418.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/165418.ts
 
 #EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" TVg-logo="https://i.goalzz.com/?i=katkotati%2Flogo_chaine%2Fportugal%2Feleven+sports+4+portugal.gif" TVg-id="Eleven Sports 4" ,Eleven4 0p1
 http://127.0.0.1:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
+
+
+
+
+EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" tvg-id="DAZN 1 HD" , DAZN 1 
+http://127.0.0.1:6878/ace/getstream?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV"  TVg-id="EVENTO" ,DAZN 1 
+http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
+
+EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV"  TVg-id="EVENTO" ,DAZN 1 
+http://127.0.0.1:6878/ace/getstream?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://i.pinimg.com/474x/67/21/0a/67210a52f8c3a001ac0710e63324ad30.jpg" tvg-name="M+ DAZN 1 HD" ,DAZN 1 
+http://89198490877228385.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/228385.ts
+
 
 
 
@@ -1315,5 +1309,3 @@ http://89198490877771303.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/771303.ts
 
 
 
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" ,Padel p1
-https://www.youtube.com/live/ykd7xlueNYM?si=WOi5lGFFEIiRUsI8.m3u

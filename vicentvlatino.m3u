@@ -5,42 +5,41 @@
 
 
 
-#EXTINF:-1,ESPN
+#EXTINF:-1 group-title="DEPORTE-TV",ESPN
 http://190.90.18.161:15082/play/a071/index.m3u8
 
-#EXTINF:-1,ESPN
+#EXTINF:-1 group-title="DEPORTE-TV",ESPN
 http://190.90.18.161:15082/play/a052/index.m3u8
 
 
-#EXTINF:-1,ESPN 2 
+#EXTINF:-1 group-title="DEPORTE-TV",ESPN 2 
 http://190.90.18.161:15082/play/a075/index.m3u8
 
 
-#EXTINF:-1,ESPN 4
+#EXTINF:-1 group-title="DEPORTE-TV",ESPN 4
 http://190.90.18.161:15082/play/a025/index.m3u8
 
 
-#EXTINF:-1,ESPN 4
+#EXTINF:-1 group-title="DEPORTE-TV",ESPN 4
 http://190.90.18.161:15082/play/a05l/index.m3u8
 
-#EXTINF:-1,ESPN 5
+#EXTINF:-1 group-title="DEPORTE-TV",ESPN 5
 http://190.90.18.161:15082/play/a066/index.m3u8
 
 
-#EXTINF:-1,ESPN 6
+#EXTINF:-1 group-title="DEPORTE-TV",ESPN 6
 http://190.90.18.161:15082/play/a05k/index.m3u8
 
-#EXTINF:-1,ESPN 6
+#EXTINF:-1 group-title="DEPORTE-TV",ESPN 6
 http://190.90.18.161:15082/play/a06e/index.m3u8
 
 
-#EXTINF:-1,ESPN 7
+#EXTINF:-1 group-title="DEPORTE-TV",ESPN 7
 http://190.90.18.161:15082/play/a05j/index.m3u8
 
 
 
-#EXTINF:-1,WIN SPORTS
-
+#EXTINF:-1 group-title="DEPORTE-TV",WIN SPORTS
 http://190.90.18.161:15082/play/a061/index.m3u8
 
 
@@ -50,10 +49,10 @@ http://190.90.18.161:15082/play/a061/index.m3u8
 
 
 
-#EXTINF:-1,TNT HD
+#EXTINF:-1 group-title="DEPORTE-TV",TNT HD
 http://190.90.18.161:15082/play/a04x/index.m3u8
 
-#EXTINF:-1,TNT Series 
+#EXTINF:-1 group-title="DEPORTE-TV",TNT Series 
 http://190.90.18.161:15082/play/a067/index.m3u8
 
 
@@ -61,32 +60,32 @@ http://190.90.18.161:15082/play/a067/index.m3u8
 #EXTINF:-1,CINE PRIMIUM
 http://190.90.18.161:15082/play/a06s/index.m3u8
 
-#EXTINF:-1,CINE CANAL
+#EXTINF:-1 group-title="DEPORTE-TV",CINE CANAL
 http://190.90.18.161:15082/play/a058/index.m3u8
 
-#EXTINF:-1,CINE FAMILIAR
+#EXTINF:-1 group-title="DEPORTE-TV",CINE FAMILIAR
 http://190.90.18.161:15082/play/a06r/index.m3u8
 
-#EXTINF:-1,CINE HISPANO
+#EXTINF:-1 group-title="DEPORTE-TV",CINE HISPANO
 http://190.90.18.161:15082/play/a06q/index.m3u8
 
 
-#EXTINF:-1,STAR CHANNEL HD
+#EXTINF:-1 group-title="DEPORTE-TV",STAR CHANNEL HD
 http://190.90.18.161:15082/play/a06b/index.m3u8
 
-#EXTINF:-1,Sony Movies
+#EXTINF:-1 group-title="DEPORTE-TV",Sony Movies
 http://190.90.18.161:15082/play/a054/index.m3u8
 
 
 
-#EXTINF:-1,TCM
+#EXTINF:-1 group-title="DEPORTE-TV",TCM
 http://190.90.18.161:15082/play/a032/index.m3u8
 
 
-#EXTINF:-1,WARNER
+#EXTINF:-1 group-title="DEPORTE-TV",WARNER
 http://190.90.18.161:15082/play/a05y/index.m3u8
 
-#EXTINF:-1,Space HD
+#EXTINF:-1 group-title="DEPORTE-TV",Space HD
 http://190.90.18.161:15082/play/a051/index.m3u8
 
 
@@ -98,38 +97,38 @@ http://190.90.18.161:15082/play/a051/index.m3u8
 
 
 
-#EXTINF:-1,Pasiones HD
+#EXTINF:-1 group-title="DEPORTE-TV",Pasiones HD
 http://190.90.18.161:15082/play/a04v/index.m3u8
 
-#EXTINF:-1,TLNOVELAS
+#EXTINF:-1 group-title="DEPORTE-TV",TLNOVELAS
 http://190.90.18.161:15082/play/a05f/index.m3u8
 
 
 
-#EXTINF:-1,Disney HD
+#EXTINF:-1 group-title="DEPORTE-TV",Disney HD
 http://190.90.18.161:15082/play/a04w/index.m3u8
 
-#EXTINF:-1,DISNEY JUNIOR
+#EXTINF:-1 group-title="DEPORTE-TV",DISNEY JUNIOR
 http://190.90.18.161:15082/play/a04d/index.m3u8
 
-#EXTINF:-1,Cartoonito
+#EXTINF:-1 group-title="DEPORTE-TV",Cartoonito
 http://190.90.18.161:15082/play/a04f/index.m3u8
 
 
-#EXTINF:-1,Discovery Kids HD
+#EXTINF:-1 group-title="DEPORTE-TV",Discovery Kids HD
 http://190.90.18.161:15082/play/a041/index.m3u8
 
-#EXTINF:-1,CINE INFANTIL
+#EXTINF:-1 group-title="DEPORTE-TV",CINE INFANTIL
 http://190.90.18.161:15082/play/a06t/index.m3u8
 
-#EXTINF:-1,CISCO 
+#EXTINF:-1 group-title="DEPORTE-TV",CISCO 
 http://190.90.18.161:15082/play/a060/index.m3u8
 
-#EXTINF:-1,TVSTAR
+#EXTINF:-1 group-title="DEPORTE-TV",TVSTAR
 http://190.90.18.161:15082/play/a059/index.m3u8
 
 
-#EXTINF:-1,DHE HD
+#EXTINF:-1 group-title="DEPORTE-TV",DHE HD
 http://190.90.18.161:15082/play/a06a/index.m3u8
 
 
@@ -137,21 +136,21 @@ http://190.90.18.161:15082/play/a06a/index.m3u8
 
 
 
-#EXTINF:-1,Discovery H&H HD
+#EXTINF:-1 group-title="DEPORTE-TV",Discovery H&H HD
 http://190.90.18.161:15082/play/a02l/index.m3u8
 
-#EXTINF:-1,Discovery HD
+#EXTINF:-1 group-title="DEPORTE-TV",Discovery HD
 http://190.90.18.161:15082/play/a05n/index.m3u8
 
 
-#EXTINF:-1,Discovery Science
+#EXTINF:-1 group-title="DEPORTE-TV",Discovery Science
 http://190.90.18.161:15082/play/a02c/index.m3u8
 
-#EXTINF:-1,Discovery Theater HD
+#EXTINF:-1 group-title="DEPORTE-TV",Discovery Theater HD
 http://190.90.18.161:15082/play/a069/index.m3u8
 
 
-#EXTINF:-1,El Gourmet HD
+#EXTINF:-1 group-title="DEPORTE-TV",El Gourmet HD
 http://190.90.18.161:15082/play/a050/index.m3u8
 
 
@@ -169,22 +168,22 @@ http://190.90.18.161:15082/play/a050/index.m3u8
 
 
 
-#EXTINF:-1,MUSICA HITS
+#EXTINF:-1 group-title="DEPORTE-TV",MUSICA HITS
 http://190.90.18.161:15082/play/a06w/index.m3u8
 
-#EXTINF:-1,MUSICA KPOP
+#EXTINF:-1 group-title="DEPORTE-TV",MUSICA KPOP
 http://190.90.18.161:15082/play/a06v/index.m3u8
 
-#EXTINF:-1,MUSICA POPULAR
+#EXTINF:-1 group-title="DEPORTE-TV",MUSICA POPULAR
 http://190.90.18.161:15082/play/a06x/index.m3u8
 
-#EXTINF:-1,MUSICA REGGEATON
+#EXTINF:-1 group-title="DEPORTE-TV",MUSICA REGGEATON
 http://190.90.18.161:15082/play/a06u/index.m3u8
 
-#EXTINF:-1,TELEHIT CUCUTA
+#EXTINF:-1 group-title="DEPORTE-TV",TELEHIT CUCUTA
 http://190.90.18.161:15082/play/a057/index.m3u8
 
-#EXTINF:-1,HTV
+#EXTINF:-1 group-title="DEPORTE-TV",HTV
 http://190.90.18.161:15082/play/a06m/index.m3u8
 
 
@@ -192,62 +191,62 @@ http://190.90.18.161:15082/play/a06m/index.m3u8
 
 
 
-#EXTINF:-1,ATN
+#EXTINF:-1 group-title="DEPORTE-TV",ATN
 http://190.90.18.161:15082/play/a062/index.m3u8
 
-#EXTINF:-1,BETHEL
+#EXTINF:-1 group-title="DEPORTE-TV",BETHEL
 http://190.90.18.161:15082/play/a05s/index.m3u8
 
-#EXTINF:-1,ENLACE
+#EXTINF:-1 group-title="DEPORTE-TV",ENLACE
 http://190.90.18.161:15082/play/a05q/index.m3u8
 
-#EXTINF:-1,FX HD
+#EXTINF:-1 group-title="DEPORTE-TV",FX HD
 http://190.90.18.161:15082/play/a068/index.m3u8
 
-#EXTINF:-1,HGTV
+#EXTINF:-1 group-title="DEPORTE-TV",HGTV
 http://190.90.18.161:15082/play/a06n/index.m3u8
 
-#EXTINF:-1,ID HD
+#EXTINF:-1 group-title="DEPORTE-TV",ID HD
 http://190.90.18.161:15082/play/a04y/index.m3u8
 
-#EXTINF:-1,IVC
+#EXTINF:-1 group-title="DEPORTE-TV",IVC
 http://190.90.18.161:15082/play/a05i/index.m3u8
 
 
-#EXTINF:-1,Meridiano
+#EXTINF:-1 group-title="DEPORTE-TV",Meridiano
 http://190.90.18.161:15082/play/a06j/index.m3u8
 
-#EXTINF:-1,Nuestra Tele
+#EXTINF:-1 group-title="DEPORTE-TV",Nuestra Tele
 http://190.90.18.161:15082/play/a04g/index.m3u8
 
 
-#EXTINF:-1,E!
+#EXTINF:-1 group-title="DEPORTE-TV",E!
 http://190.90.18.161:15082/play/a05w/index.m3u8
 
 
-#EXTINF:-1,GOLDEN
+#EXTINF:-1 group-title="DEPORTE-TV",GOLDEN
 http://190.90.18.161:15082/play/a055/index.m3u8
 
 
-#EXTINF:-1,RCN
+#EXTINF:-1 group-title="DEPORTE-TV",RCN
 http://190.90.18.161:15082/play/a06z/index.m3u8
 
-#EXTINF:-1,TELEAMIGA
+#EXTINF:-1 group-title="DEPORTE-TV",TELEAMIGA
 http://190.90.18.161:15082/play/a05o/index.m3u8
 
 
-#EXTINF:-1,TELEISLAS-CUCUTA
+#EXTINF:-1 group-title="DEPORTE-TV",TELEISLAS-CUCUTA
 http://190.90.18.161:15082/play/a05u/index.m3u8
 
 
-#EXTINF:-1,TURBO
+#EXTINF:-1 group-title="DEPORTE-TV",TURBO
 http://190.90.18.161:15082/play/a06l/index.m3u8
 
 
-#EXTINF:-1,Venevisiðn
+#EXTINF:-1 group-title="DEPORTE-TV",Venevisiðn
 http://190.90.18.161:15082/play/a065/index.m3u8
 
-#EXTINF:-1,Venezolana de Televisiðn
+#EXTINF:-1 group-title="DEPORTE-TV",Venezolana de Televisiðn
 http://190.90.18.161:15082/play/a072/index.m3u8
 
 

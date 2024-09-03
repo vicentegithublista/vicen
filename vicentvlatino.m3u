@@ -124,6 +124,58 @@ http://190.90.18.161:15082/play/a06t/index.m3u8
 #EXTINF:-1 group-title="DEPORTE-TV",CISCO 
 http://190.90.18.161:15082/play/a060/index.m3u8
 
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-id="ClanTVE.es" ,Clan OPC.1
+https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="http://fanc.tmsimg.com/assets/s69093_ll_h3_af.png" tvg-id="boing.es" tvg-name="BOING SD" ,BOING 
+http://89198490877321135.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321135.ts
+
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://graph.facebook.com/atresplayerkidz/picture?width=200&height=200"  group-title="DEPORTE-TV" tvg-name="Kidz",Kidz
+https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/2.m3u8
+
+#EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="DEPORTE-TV" tvg-name="Pequeradio TV",Pequeradio TV
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_70.png" tvg-id="disneychannel.es" tvg-name="DISNEY CHANNEL FHD" ,DISNEY CHANNEL
+http://89198490877321214.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321214.ts
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_750D_420_1_C00000_0_0_0.png" tvg-id="dreamworks.es" tvg-name="DREAMWORKS HD" ,DREAMWORKS 
+http://89198490877321229.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321229.ts
+
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_120.png" tvg-id="nickjr.es" tvg-name="NICK JUNIOR HD" ,NICK JUNIOR 
+http://89198490877321377.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321377.ts
+
+
+
+#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_126.png" tvg-id="nickelodeon.es" tvg-name="NICKELODEON HD" ,NICKELODEON
+http://89198490877321381.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321381.ts
+
+
 #EXTINF:-1 group-title="DEPORTE-TV",TVSTAR
 http://190.90.18.161:15082/play/a059/index.m3u8
 
@@ -517,57 +569,6 @@ https://new-international-23-secure2.akamaized.net/index.m3u8
 
 
 
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-id="ClanTVE.es" ,Clan OPC.1
-https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="http://fanc.tmsimg.com/assets/s69093_ll_h3_af.png" tvg-id="boing.es" tvg-name="BOING SD" ,BOING 
-http://89198490877321135.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321135.ts
-
-
-
-
-#EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://graph.facebook.com/atresplayerkidz/picture?width=200&height=200"  group-title="DEPORTE-TV" tvg-name="Kidz",Kidz
-https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/2.m3u8
-
-#EXTINF:-1 group-title="DEPORTE-TV" tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="DEPORTE-TV" tvg-name="Pequeradio TV",Pequeradio TV
-https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_70.png" tvg-id="disneychannel.es" tvg-name="DISNEY CHANNEL FHD" ,DISNEY CHANNEL
-http://89198490877321214.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321214.ts
-
-
-
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_74.png" tvg-id="disneyjunior.es" tvg-name="DISNEY JUNIOR HD" ,DISNEY JUNIOR 
-http://89198490877321217.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321217.ts
-
-
-
-
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_750D_420_1_C00000_0_0_0.png" tvg-id="dreamworks.es" tvg-name="DREAMWORKS HD" ,DREAMWORKS 
-http://89198490877321229.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321229.ts
-
-
-
-
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_120.png" tvg-id="nickjr.es" tvg-name="NICK JUNIOR HD" ,NICK JUNIOR 
-http://89198490877321377.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321377.ts
-
-
-
-#EXTINF:-1 group-title="DEPORTE-TV" group-title="DEPORTE-TV" tvg-logo="https://miguia.tv/channels/big_126.png" tvg-id="nickelodeon.es" tvg-name="NICKELODEON HD" ,NICKELODEON
-http://89198490877321381.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321381.ts
 
 
 

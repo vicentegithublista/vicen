@@ -1312,9 +1312,6 @@ http://190.90.18.161:15082/play/a071/index.m3u8
 #EXTINF:-1,ESPN
 http://190.90.18.161:15082/play/a052/index.m3u8
 
-#EXTINF:-1,ESPN 2
-http://190.90.18.161:15082/play/a05g/index.m3u8
-
 
 #EXTINF:-1,ESPN 2 
 http://190.90.18.161:15082/play/a075/index.m3u8
@@ -1341,9 +1338,7 @@ http://190.90.18.161:15082/play/a06e/index.m3u8
 #EXTINF:-1,ESPN 7
 http://190.90.18.161:15082/play/a05j/index.m3u8
 
-#EXTINF:-1,WIN SPORTS 
 
-http://190.90.18.161:15082/play/a05t/index.m3u8
 
 #EXTINF:-1,WIN SPORTS
 
@@ -1359,11 +1354,10 @@ http://190.90.18.161:15082/play/a061/index.m3u8
 #EXTINF:-1,TNT HD
 http://190.90.18.161:15082/play/a04x/index.m3u8
 
-#EXTINF:-1,TNT Series HD
+#EXTINF:-1,TNT Series 
 http://190.90.18.161:15082/play/a067/index.m3u8
 
-#EXTINF:-1,TNT Series HD
-http://190.90.18.161:15082/play/a047/index.m3u8
+
 
 #EXTINF:-1,CINE PRIMIUM
 http://190.90.18.161:15082/play/a06s/index.m3u8
@@ -1413,10 +1407,33 @@ http://190.90.18.161:15082/play/a05f/index.m3u8
 
 
 
+#EXTINF:-1,Disney HD
+http://190.90.18.161:15082/play/a04w/index.m3u8
+
+#EXTINF:-1,DISNEY JUNIOR
+http://190.90.18.161:15082/play/a04d/index.m3u8
+
+#EXTINF:-1,Cartoonito
+http://190.90.18.161:15082/play/a04f/index.m3u8
+
+
+#EXTINF:-1,Discovery Kids HD
+http://190.90.18.161:15082/play/a041/index.m3u8
+
+#EXTINF:-1,CINE INFANTIL
+http://190.90.18.161:15082/play/a06t/index.m3u8
+
+#EXTINF:-1,CISCO 
+http://190.90.18.161:15082/play/a060/index.m3u8
+
+#EXTINF:-1,TVSTAR
+http://190.90.18.161:15082/play/a059/index.m3u8
 
 
 #EXTINF:-1,DHE HD
 http://190.90.18.161:15082/play/a06a/index.m3u8
+
+
 
 
 
@@ -1446,28 +1463,6 @@ http://190.90.18.161:15082/play/a050/index.m3u8
 
 
 
-
-#EXTINF:-1,Disney HD
-http://190.90.18.161:15082/play/a04w/index.m3u8
-
-#EXTINF:-1,DISNEY JUNIOR
-http://190.90.18.161:15082/play/a04d/index.m3u8
-
-#EXTINF:-1,Cartoonito
-http://190.90.18.161:15082/play/a04f/index.m3u8
-
-
-#EXTINF:-1,Discovery Kids HD
-http://190.90.18.161:15082/play/a041/index.m3u8
-
-#EXTINF:-1,CINE INFANTIL
-http://190.90.18.161:15082/play/a06t/index.m3u8
-
-#EXTINF:-1,CISCO 
-http://190.90.18.161:15082/play/a060/index.m3u8
-
-#EXTINF:-1,TVSTAR
-http://190.90.18.161:15082/play/a059/index.m3u8
 
 
 

@@ -35,14 +35,10 @@ http://190.90.18.161:15082/play/a05j/index.m3u8
 #EXTINF:-1 group-title="DEPORTE",WIN SPORTS
 http://190.90.18.161:15082/play/a061/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTE",Fox Deportes
-http://live.lordstreams.co:8080/Montecrispo/126728543/3853
 
 #EXTINF:-1 group-title="DEPORTE" ,Tennis Channel 
 https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="DEPORTE",Tenis Channel 2
-http://127.0.0.1:6878/ace/getstream?id=51a682f0daa2e2fb61e078e48704cb1e3411a300
 
 #EXTINF:-1 group-title="DEPORTE",REAL MADRID 
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
@@ -50,9 +46,6 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 group-title="DEPORTE",SEVILLA 
 http://89198490877463951.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/463951.ts
 
-
-#EXTINF:-1 group-title="DEPORTE", TV3 HD
-https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
 
 #EXTINF:-1 group-title="DEPORTE",Esports 3 
 https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
@@ -327,33 +320,33 @@ http://89198490877321172.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321172.ts
 http://190.90.18.161:15082/play/a050/index.m3u8
 
 
-#EXTINF:-1 group-title="TEMATICO",ODISEA
+#EXTINF:-1 group-title="TEMATICOS",ODISEA
 http://89198490877321390.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321390.ts
 
 
-#EXTINF:-1 group-title="TEMATICO",DOCTOR WHO 24/7
+#EXTINF:-1 group-title="TEMATICOS",DOCTOR WHO 24/7
 http://piripi.boston:8080/Evaristo/Evaristo/688397
 
-#EXTINF:-1 group-title="TEMATICO",Mundo Nautica
+#EXTINF:-1 group-title="TEMATICOS",Mundo Nautica
 #EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
 https://cloud.fastchannel.es/mic/manifiest/hls/mundonautica/mundonautica.m3u8
 
-#EXTINF:-1 group-title="TEMATICO",UBEAT
+#EXTINF:-1 group-title="TEMATICOS",UBEAT
 http://89198490877648495.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/648495.ts
 
-#EXTINF:-1 group-title="TEMATICO",NATIONAL GEOGRAPHIC
+#EXTINF:-1 group-title="TEMATICOS",NATIONAL GEOGRAPHIC
 http://89198490877321371.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321371.ts
 
-#EXTINF:-1 group-title="TEMATICO",HISTORIA
+#EXTINF:-1 group-title="TEMATICOS",HISTORIA
 http://89198490877321262.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321262.ts
 
-#EXTINF:-1 group-title="TEMATICO",COSMO
+#EXTINF:-1 group-title="TEMATICOS",COSMO
 http://89198490877321187.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321187.ts
 
-#EXTINF:-1 group-title="TEMATICO",BE MAD
+#EXTINF:-1 group-title="TEMATICOS",BE MAD
 http://89198490877321126.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321126.ts
 
-#EXTINF:-1 group-title="TEMATICO",DMAX
+#EXTINF:-1 group-title="TEMATICOS",DMAX
 http://89198490877321225.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321225.ts
 
 
@@ -528,6 +521,18 @@ http://190.90.18.161:15082/play/a05u/index.m3u8
 #EXTINF:-1 group-title="TV",TURBO
 http://190.90.18.161:15082/play/a06l/index.m3u8
 
+#EXTINF:-1 group-title="TV",flooxer
+https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
+
+#EXTINF:-1 group-title="TV",MEGA HD
+http://89198490877321300.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321300.ts
+
+
+#EXTINF:-1 group-title="TV",NEOX FHD
+http://89198490877321374.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321374.ts
+
+#EXTINF:-1 group-title="TV",NOVA HD
+http://89198490877321383.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321383.ts
 
 #EXTINF:-1 group-title="TV",Venevisiðn
 http://190.90.18.161:15082/play/a065/index.m3u8
@@ -562,18 +567,9 @@ https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 group-title="TV",¡HOLA! Play
 https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8
 
-
-#EXTINF:-1 group-title="TV",flooxer
-https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
-
-#EXTINF:-1 group-title="TV",MEGA HD
-http://89198490877321300.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321300.ts
+#EXTINF:-1 group-title="TV", TV3 HD
+https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
 
 
-#EXTINF:-1 group-title="TV",NEOX FHD
-http://89198490877321374.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321374.ts
-
-#EXTINF:-1 group-title="TV",NOVA HD
-http://89198490877321383.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321383.ts
 
 

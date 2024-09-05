@@ -17,17 +17,12 @@ http://190.90.18.161:15082/play/a075/index.m3u8
 #EXTINF:-1 group-title="DEPORTE",ESPN 4
 http://190.90.18.161:15082/play/a025/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTE",ESPN 4
-http://190.90.18.161:15082/play/a05l/index.m3u8
-
 #EXTINF:-1 group-title="DEPORTE",ESPN 5
-http://190.90.18.161:15082/play/a066/index.m3u8
+http://190.90.18.161:15082/play/a05l/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTE",ESPN 6
 http://190.90.18.161:15082/play/a05k/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTE",ESPN 6
-http://190.90.18.161:15082/play/a06e/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTE",ESPN 7
 http://190.90.18.161:15082/play/a05j/index.m3u8
@@ -35,6 +30,8 @@ http://190.90.18.161:15082/play/a05j/index.m3u8
 #EXTINF:-1 group-title="DEPORTE",WIN SPORTS
 http://190.90.18.161:15082/play/a061/index.m3u8
 
+#EXTINF:-1 group-title="DEPORTE",GOL TV
+http://live.lordstreams.co:8080/Montecrispo/126728543/40646
 
 #EXTINF:-1 group-title="DEPORTE" ,Tennis Channel 
 https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8
@@ -57,13 +54,10 @@ http://live.lordstreams.co:8080/Montecrispo/126728543/50906
 http://live.lordstreams.co:8080/Montecrispo/126728543/50905
 
 
-#EXTINF:-1 group-title="DEPORTE",GOL TV
-http://live.lordstreams.co:8080/Montecrispo/126728543/40646
-
 #EXTINF:-1 group-title="DEPORTE",Benfica FC
 http://live.lordstreams.co:8080/Montecrispo/126728543/40645
 
-#EXTINF:-1 group-title="DEPORTE" tvg-id="TVBOL" ,DEPORTE-TV
+#EXTINF:-1 group-title="DEPORTE",TVBOL
 http://live.lordstreams.co:8080/Montecrispo/126728543/4619
 
 #EXTINF:-1 group-title="DEPORTE",RALLY TV FHD
@@ -73,9 +67,23 @@ http://89198490877771303.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/771303.ts
 
 
 
+#EXTINF:-1 group-title="CINE",STAR CHANNEL HD
+http://190.90.18.161:15082/play/a06b/index.m3u8
+
+#EXTINF:-1 group-title="CINE",STAR CRIME
+http://89198490877336315.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/336315.ts
+
+#EXTINF:-1 group-title="CINE",Sony Movies
+http://190.90.18.161:15082/play/a054/index.m3u8
+
+#EXTINF:-1 group-title="CINE",TCM
+http://190.90.18.161:15082/play/a032/index.m3u8
 
 #EXTINF:-1 group-title="CINE",TNT HD
 http://190.90.18.161:15082/play/a04x/index.m3u8
+
+#EXTINF:-1 group-title="CINE",WARNER TV
+http://89198490877459777.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/459777.ts
 
 #EXTINF:-1 group-title="CINE" PRIMIUM
 http://190.90.18.161:15082/play/a06s/index.m3u8
@@ -89,16 +97,7 @@ http://190.90.18.161:15082/play/a06r/index.m3u8
 #EXTINF:-1 group-title="CINE",CINE HISPANO
 http://190.90.18.161:15082/play/a06q/index.m3u8
 
-#EXTINF:-1 group-title="CINE",STAR CHANNEL HD
-http://190.90.18.161:15082/play/a06b/index.m3u8
-
-#EXTINF:-1 group-title="CINE",Sony Movies
-http://190.90.18.161:15082/play/a054/index.m3u8
-
-#EXTINF:-1 group-title="CINE",TCM
-http://190.90.18.161:15082/play/a032/index.m3u8
-
-#EXTINF:-1 group-title="CINE",WARNER
+#EXTINF:-1 group-title="CINE",HD2
 http://190.90.18.161:15082/play/a05y/index.m3u8
 
 #EXTINF:-1 group-title="CINE",Space HD
@@ -119,7 +118,7 @@ http://89198490877321305.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321305.ts
 #EXTINF:-1 group-title="CINE",M+ COMEDIA 
 http://89198490877321318.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321318.ts
 
-#EXTINF:-1 group-title="CINE",M+ COMEDIA ROMANTICA 
+#EXTINF:-1 group-title="CINE",M+ BRAD PITT 
 http://89198490877321337.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321337.ts
 
 #EXTINF:-1 group-title="CINE",M+ DRAMA 
@@ -157,9 +156,6 @@ https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="CINE",Rakuten Family
 https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="CINE",Rakuten Spotlight
-https://rakuten-spotlight-2-es.samsung.wurl.tv/playlist.m3u8
-
 
 #EXTINF:-1 group-title="CINE",Rakuten Top Free Spain 
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
@@ -167,8 +163,6 @@ https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="CINE",Rakuten TV Shows Spain (720p)
 https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="CINE",Rakuten TV Shows
-https://rakuten-tvshows-2-es.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1  group-title="CINE",Atresplayer Clásicos
 https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61.m3u8
@@ -182,19 +176,15 @@ https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e458
 #EXTINF:-1 group-title="CINE",Atresplayer Multicine
 https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
 
-#EXTINF:-1 group-title="CINE",AMC BREAK
-http://89198490877321100.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321100.ts
 
 #EXTINF:-1 group-title="CINE" group-title="CINE",AMC
 http://89198490877321102.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321102.ts
 
-#EXTINF:-1 group-title="CINE",AMC
-http://89198490877321101.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321101.ts
 
 #EXTINF:-1 group-title="CINE",AXN
 http://89198490877321115.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321115.ts
 
-#EXTINF:-1 group-title="CINE",AXN FHD
+#EXTINF:-1 group-title="CINE",AXN
 http://89198490877321118.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321118.ts
 
 
@@ -203,13 +193,6 @@ http://89198490877321138.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321138.ts
 
 #EXTINF:-1 group-title="CINE",DARK
 http://89198490877321203.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321203.ts
-
-
-#EXTINF:-1 group-title="CINE",FOX
-http://89198490877321251.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321251.ts
-
-#EXTINF:-1 group-title="CINE",FOX LIFE
-http://89198490877336315.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/336315.ts
 
 
 #EXTINF:-1 group-title="CINE",HOLLYWOOD
@@ -235,8 +218,7 @@ http://89198490877321425.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321425.ts
 #EXTINF:-1 group-title="CINE",ENFAMILIA HD
 http://89198490877399757.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/399757.ts
 
-#EXTINF:-1 group-title="CINE",WARNER TV FHD
-http://89198490877459777.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/459777.ts
+
 
 
 
@@ -251,8 +233,6 @@ http://190.90.18.161:15082/play/a04w/index.m3u8
 #EXTINF:-1 group-title="INFANTIL",DISNEY JUNIOR
 http://190.90.18.161:15082/play/a04d/index.m3u8
 
-#EXTINF:-1 group-title="INFANTIL",Cartoonito
-http://190.90.18.161:15082/play/a04f/index.m3u8
 
 #EXTINF:-1 group-title="INFANTIL",Discovery Kids HD
 http://190.90.18.161:15082/play/a041/index.m3u8
@@ -263,6 +243,9 @@ http://190.90.18.161:15082/play/a06t/index.m3u8
 #EXTINF:-1 group-title="INFANTIL",CISCO 
 http://190.90.18.161:15082/play/a060/index.m3u8
 
+#EXTINF:-1 group-title="INFANTIL",Cartoonito
+http://190.90.18.161:15082/play/a04f/index.m3u8
+
 #EXTINF:-1 group-title="INFANTIL",Clan
 https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main.m3u8
 
@@ -272,8 +255,6 @@ http://89198490877321135.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321135.ts
 #EXTINF:-1 group-title="INFANTIL",Kidz
 https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/2.m3u8
 
-#EXTINF:-1 group-title="INFANTIL",Pequeradio TV
-https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
 #EXTINF:-1 group-title="INFANTIL",DISNEY CHANNEL
 http://89198490877321214.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321214.ts
@@ -287,6 +268,13 @@ http://89198490877321381.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321381.ts
 
 
 
+
+
+#EXTINF:-1 group-title="TEMATICOS",Pasiones HD
+http://190.90.18.161:15082/play/a04v/index.m3u8
+
+#EXTINF:-1 group-title="TEMATICOS",TLNOVELAS
+http://190.90.18.161:15082/play/a05f/index.m3u8
 
 #EXTINF:-1 group-title="TEMATICOS",Discovery H&H HD
 http://190.90.18.161:15082/play/a02l/index.m3u8
@@ -304,6 +292,9 @@ http://190.90.18.161:15082/play/a069/index.m3u8
 #EXTINF:-1 group-title="TEMATICOS",CANAL COCINA 
 http://89198490877321147.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321147.ts
 
+#EXTINF:-1 group-title="TEMATICOS",El Gourmet HD
+http://190.90.18.161:15082/play/a050/index.m3u8
+
 #EXTINF:-1  group-title="TEMATICOS",CANAL DECASA 
 http://89198490877321153.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321153.ts
 
@@ -316,19 +307,15 @@ http://89198490877321168.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321168.ts
 #EXTINF:-1 group-title="TEMATICOS",CAZAVISION 
 http://89198490877321172.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321172.ts
 
-#EXTINF:-1 group-title="TEMATICOS",El Gourmet HD
-http://190.90.18.161:15082/play/a050/index.m3u8
 
+#EXTINF:-1 group-title="TEMATICOS" tvg-logo="https://i.ibb.co/n7Hj1NK/onetoro.png" ,ONETORO
+http://fastream.xyz:8080/juanabril21/canale2021/236542
 
 #EXTINF:-1 group-title="TEMATICOS",ODISEA
 http://89198490877321390.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321390.ts
 
 
-#EXTINF:-1 group-title="TEMATICOS",DOCTOR WHO 24/7
-http://piripi.boston:8080/Evaristo/Evaristo/688397
-
 #EXTINF:-1 group-title="TEMATICOS",Mundo Nautica
-#EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
 https://cloud.fastchannel.es/mic/manifiest/hls/mundonautica/mundonautica.m3u8
 
 #EXTINF:-1 group-title="TEMATICOS",UBEAT
@@ -340,14 +327,6 @@ http://89198490877321371.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321371.ts
 #EXTINF:-1 group-title="TEMATICOS",HISTORIA
 http://89198490877321262.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321262.ts
 
-#EXTINF:-1 group-title="TEMATICOS",COSMO
-http://89198490877321187.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321187.ts
-
-#EXTINF:-1 group-title="TEMATICOS",BE MAD
-http://89198490877321126.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321126.ts
-
-#EXTINF:-1 group-title="TEMATICOS",DMAX
-http://89198490877321225.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321225.ts
 
 
 #EXTINF:-1 group-title="TEMATICOS",El Hormiguero
@@ -356,8 +335,6 @@ https://fast-channels.atresmedia.com/648ef5882bfab0e4627e0d61/648ef5882bfab0e462
 #EXTINF:-1 group-title="TEMATICOS",El club de la comedia
 https://fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad.m3u8
 
-#EXTINF:-1 group-title="TEMATICOS" ,DR WHO (Spain)
-https://bbceu-doctorwho-2-es.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="TEMATICOS",aqui-no-hay-quien-viva
 https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
@@ -365,9 +342,6 @@ https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425
 #EXTINF:-1 group-title="TEMATICOS",equipo-de-investigacion
 https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
 
-
-#EXTINF:-1 group-title="TEMATICOS",RTVE Crimen
-https://ztnr.rtve.es/ztnr/6924117.m3u8
 
 #EXTINF:-1 group-title="TEMATICOS",RTVE 4 Estrellas
 https://ztnr.rtve.es/ztnr/2472038.m3u8
@@ -412,64 +386,21 @@ http://190.90.18.161:15082/play/a057/index.m3u8
 #EXTINF:-1 group-title="MUSICA",HTV
 http://190.90.18.161:15082/play/a06m/index.m3u8
 
-
-
-
-
-
-
-#EXTINF:-1 group-title="TV",Pasiones HD
-http://190.90.18.161:15082/play/a04v/index.m3u8
-
-#EXTINF:-1 group-title="TV",TLNOVELAS
-http://190.90.18.161:15082/play/a05f/index.m3u8
-
-#EXTINF:-1 group-title="TV",TVSTAR
+#EXTINF:-1 group-title="MUSICA",TVSTAR
 http://190.90.18.161:15082/play/a059/index.m3u8
 
-#EXTINF:-1 group-title="TV",LA 1 
-https://ztnr.rtve.es/ztnr/1688877.m3u8
-
-#EXTINF:-1 group-title="TV", LA 2 
-https://ztnr.rtve.es/ztnr/1688885.m3u8
-
-#EXTINF:-1 group-title="TV",ANTENA 3 
-http://89198490877321105.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321105.ts
-
-#EXTINF:-1 group-title="TV",CUATRO 
-https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/index.m3u8
-
-#EXTINF:-1 group-title="TV",TELECINCO 
-http://89198490877321429.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321429.ts
-
-#EXTINF:-1 group-title="TV",LA SEXTA 
-http://89198490877321288.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321288.ts
-
-#EXTINF:-1 group-title="TV",CANAL SUR 
-https://paco@cdnlive.codev8.net/rtvalive/DtRLVjt1.smil/chunklist_b2200000.m3u8
 
 
-#EXTINF:-1 group-title="TV",Canal Sur 2 Accesible
-https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 
 
-#EXTINF:-1 group-title="TV",Mega
-http://live.lordstreams.co:8080/Montecrispo/126728543/50898
 
-#EXTINF:-1 group-title="TV",24H 
-https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main.m3u8
 
-#EXTINF:-1 group-title="TV",TVE Int. Europa
-https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8
 
-#EXTINF:-1 group-title="TV",EuroNews 
-https://rakuten-euronews-4-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TV",AMC BREAK
+http://89198490877321100.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321100.ts
 
-#EXTINF:-1 group-title="TV",Telemadrid
-https://telemadrid-23-secure2.akamaized.net/master.m3u8
-
-#EXTINF:-1 group-title="TV",Telemadrid Internacional
-https://new-international-23-secure2.akamaized.net/index.m3u8
+#EXTINF:-1 group-title="TV",CRIME
+http://89198490877321101.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321101.ts
 
 #EXTINF:-1 group-title="TV",DHE HD
 http://190.90.18.161:15082/play/a06a/index.m3u8
@@ -521,6 +452,63 @@ http://190.90.18.161:15082/play/a05u/index.m3u8
 #EXTINF:-1 group-title="TV",TURBO
 http://190.90.18.161:15082/play/a06l/index.m3u8
 
+#EXTINF:-1 group-title="TV",Venevisiðn
+http://190.90.18.161:15082/play/a065/index.m3u8
+
+#EXTINF:-1 group-title="TV",Venezolana de Televisiðn
+http://190.90.18.161:15082/play/a072/index.m3u8
+
+#EXTINF:-1 group-title="TV",COSMO
+http://89198490877321187.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321187.ts
+
+#EXTINF:-1 group-title="TV",BE MAD
+http://89198490877321126.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321126.ts
+
+#EXTINF:-1 group-title="TV",DMAX
+http://89198490877321225.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321225.ts
+
+#EXTINF:-1 group-title="TV",LA 1 
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+
+#EXTINF:-1 group-title="TV", LA 2 
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+
+#EXTINF:-1 group-title="TV",ANTENA 3 
+http://89198490877321105.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321105.ts
+
+#EXTINF:-1 group-title="TV",CUATRO 
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/index.m3u8
+
+#EXTINF:-1 group-title="TV",TELECINCO 
+http://89198490877321429.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321429.ts
+
+#EXTINF:-1 group-title="TV",LA SEXTA 
+http://89198490877321288.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321288.ts
+
+#EXTINF:-1 group-title="TV",CANAL SUR 
+https://paco@cdnlive.codev8.net/rtvalive/DtRLVjt1.smil/chunklist_b2200000.m3u8
+
+
+#EXTINF:-1 group-title="TV",Canal Sur 2 Accesible
+https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
+
+
+#EXTINF:-1 group-title="TV",24H 
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main.m3u8
+
+#EXTINF:-1 group-title="TV",TVE Int. Europa
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8
+
+#EXTINF:-1 group-title="TV",EuroNews 
+https://rakuten-euronews-4-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TV",Telemadrid
+https://telemadrid-23-secure2.akamaized.net/master.m3u8
+
+#EXTINF:-1 group-title="TV",Telemadrid Internacional
+https://new-international-23-secure2.akamaized.net/index.m3u8
+
+
 #EXTINF:-1 group-title="TV",flooxer
 https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
 
@@ -533,15 +521,6 @@ http://89198490877321374.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321374.ts
 
 #EXTINF:-1 group-title="TV",NOVA HD
 http://89198490877321383.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321383.ts
-
-#EXTINF:-1 group-title="TV",Venevisiðn
-http://190.90.18.161:15082/play/a065/index.m3u8
-
-#EXTINF:-1 group-title="TV",Venezolana de Televisiðn
-http://190.90.18.161:15082/play/a072/index.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/n7Hj1NK/onetoro.png" ,ONETORO
-http://fastream.xyz:8080/juanabril21/canale2021/236542
 
 #EXTINF:-1 group-title="TV",TEN
 http://89198490877321440.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321440.ts

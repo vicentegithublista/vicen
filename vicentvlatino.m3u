@@ -40,9 +40,6 @@ https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTE",REAL MADRID 
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
-#EXTINF:-1 group-title="DEPORTE",SEVILLA 
-http://89198490877463951.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/463951.ts
-
 
 #EXTINF:-1 group-title="DEPORTE",Esports 3 
 https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
@@ -60,8 +57,8 @@ http://live.lordstreams.co:8080/Montecrispo/126728543/40645
 #EXTINF:-1 group-title="DEPORTE",TVBOL
 http://live.lordstreams.co:8080/Montecrispo/126728543/4619
 
-#EXTINF:-1 group-title="DEPORTE",RALLY TV FHD
-http://89198490877771303.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/771303.ts
+
+
 
 
 
@@ -70,8 +67,6 @@ http://89198490877771303.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/771303.ts
 #EXTINF:-1 group-title="CINE",STAR CHANNEL HD
 http://190.90.18.161:15082/play/a06b/index.m3u8
 
-#EXTINF:-1 group-title="CINE",STAR CRIME
-http://89198490877336315.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/336315.ts
 
 #EXTINF:-1 group-title="CINE",Sony Movies
 http://190.90.18.161:15082/play/a054/index.m3u8
@@ -112,9 +107,6 @@ http://89198490877552957.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/552957.ts
 
 #EXTINF:-1 group-title="CINE",M+ CLASICOS 
 http://89198490877321314.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321314.ts
-
-#EXTINF:-1 group-title="CINE",M+ ACCION 
-http://89198490877321305.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321305.ts
 
 #EXTINF:-1 group-title="CINE",M+ COMEDIA 
 http://89198490877321318.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321318.ts
@@ -213,8 +205,6 @@ http://89198490877321422.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321422.ts
 http://89198490877321425.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321425.ts
 
 
-#EXTINF:-1 group-title="CINE",ENFAMILIA HD
-http://89198490877399757.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/399757.ts
 
 
 
@@ -264,11 +254,14 @@ http://89198490877321229.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321229.ts
 http://89198490877321381.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321381.ts
 
 
+#EXTINF:-1 group-title="INFANTIL",ENFAMILIA
+http://89198490877399757.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/399757.ts
 
 
 
 
-#EXTINF:-1 group-title="TEMATICOS",Pasiones HD
+
+#EXTINF:-1 group-title="TEMATICOS",Pasiones
 http://190.90.18.161:15082/play/a04v/index.m3u8
 
 #EXTINF:-1 group-title="TEMATICOS",TLNOVELAS
@@ -316,8 +309,6 @@ http://89198490877321390.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321390.ts
 #EXTINF:-1 group-title="TEMATICOS",Mundo Nautica
 https://cloud.fastchannel.es/mic/manifiest/hls/mundonautica/mundonautica.m3u8
 
-#EXTINF:-1 group-title="TEMATICOS",UBEAT
-http://89198490877648495.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/648495.ts
 
 #EXTINF:-1 group-title="TEMATICOS",NATIONAL GEOGRAPHIC
 http://89198490877321371.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321371.ts
@@ -523,9 +514,6 @@ http://89198490877321383.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321383.ts
 #EXTINF:-1 group-title="TV",TEN
 http://89198490877321440.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321440.ts
 
-
-#EXTINF:-1 group-title="TV",XTRM
-http://89198490877321476.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321476.ts
 
 #EXTINF:-1 group-title="TV",El Toro TV
 https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8

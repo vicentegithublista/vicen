@@ -10,26 +10,22 @@ http://fastream.xyz:8080/juanabril21/canale2021/236542
 
 
 
-#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg" ,14:00 MOTO GP 
-http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
-
-
-
-#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg" ,14:00 MOTO GP 
-http://190.90.18.161:15082/play/a052/index.m3u8
-
-
-#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg" ,16:00 PADEL 
-http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
-
 
 #EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg" ,20:00 TENIS 
 http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
 
 
+#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg" ,20:00 TENIS 
+http://190.90.18.161:15082/play/a052/index.m3u8
+
 
 #EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg",20:30 FUTBOL 
 https://ztnr.rtve.es/ztnr/1688877.m3u8
+
+
+
+#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg",20:30 FUTBOL
+http://190.90.18.161:15082/play/a075/index.m3u8
 
 
 

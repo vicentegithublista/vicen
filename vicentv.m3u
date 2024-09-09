@@ -1157,7 +1157,8 @@ http://89198490877321288.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321288.ts
 #EXTINF:-1 group-title="TV"tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",CCM
 http://613513994766875964.ofbo903.xyz:80/live/Manicuras35/evBfJkJE8e53/875964.ts
 
-
+#EXTINF:-1 group-title="TV"tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",CANAL EXTREMADURA
+https://paco@acortar.link/sQr6oO
 
 #EXTINF:-1 group-title="TV"tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",CANAL SUR 
 https://paco@cdnlive.codev8.net/rtvalive/DtRLVjt1.smil/chunklist_b2200000.m3u8
@@ -1166,6 +1167,11 @@ https://paco@cdnlive.codev8.net/rtvalive/DtRLVjt1.smil/chunklist_b2200000.m3u8
 #EXTINF:-1 group-title="TV"tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",Canal Sur 2 Accesible
 https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="TV"tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",Telemadrid
+https://telemadrid-23-secure2.akamaized.net/master.m3u8
+
+#EXTINF:-1 group-title="TV"tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",Telemadrid Internacional
+https://new-international-23-secure2.akamaized.net/index.m3u8
 
 #EXTINF:-1 group-title="TV"tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",24H 
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main.m3u8
@@ -1175,12 +1181,6 @@ https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8
 
 #EXTINF:-1 group-title="TV"tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",EuroNews 
 https://rakuten-euronews-4-es.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="TV"tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",Telemadrid
-https://telemadrid-23-secure2.akamaized.net/master.m3u8
-
-#EXTINF:-1 group-title="TV"tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",Telemadrid Internacional
-https://new-international-23-secure2.akamaized.net/index.m3u8
 
 
 #EXTINF:-1 group-title="TV"tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",flooxer
@@ -11808,8 +11808,6 @@ http://613513994766848028.ofbo903.xyz:80/movie/Manicuras35/evBfJkJE8e53/848028.m
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://live.staticflickr.com/65535/53979612485_69eb0d26f8_z.jpg",¿Y qué tendrá que ver el amor? (2023)
 http://613513994766848029.ofbo903.xyz:80/movie/Manicuras35/evBfJkJE8e53/848029.mkv
 
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://live.staticflickr.com/65535/53979612485_69eb0d26f8_z.jpg",PRUEBA
-https://paco@acortar.link/sQr6oO
 
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://live.staticflickr.com/65535/53979612485_69eb0d26f8_z.jpg",PRUEBA
-https://www.canalextremadura.es/directo/television
+
+

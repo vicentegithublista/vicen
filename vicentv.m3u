@@ -1,36 +1,14 @@
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor.xml.gz"
 
-#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg" ,18:20 ONETORO 
-http://fastream.xyz:8080/juanabril21/canale2021/236542
 
 
-#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg" ,18:30 CCM
-http://613513994766875964.ofbo903.xyz:80/live/Manicuras35/evBfJkJE8e53/875964.ts
 
 
-#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg" ,22:30 M+
+#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg" ,🎾Tenis-16:00🏆COPA DAVIS
 http://127.0.0.1:6878/ace/getstream?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
 
 
-#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg" ,16:00 #VAMOS
-http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
-
-
-#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg" ,14:00 DEPORTES I
-http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-
-#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg" ,14:00 DEPORTES I
-http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
-
-#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg" ,22:20 LIGA DE CAMPEEONES
-http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
-
-#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg" ,22:20 LIGA DE CAMPEEONES
-http://127.0.0.1:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c
-
-#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg" ,22:20 LIGA DE CAMPEEONES
-http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 
 
 
@@ -47,6 +25,17 @@ http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,M+
 http://127.0.0.1:6878/ace/getstream?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
+
+
+#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg" ,#VAMOS
+http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
+
+
+#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg" ,M. DEPORTES I
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+
+#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg" ,M.    DEPORTES I
+http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
 
 
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,M. Deportes
@@ -111,7 +100,15 @@ http://127.0.0.1:6878/ace/getstream?id=2448f1d084f440eed2fbe847e24f1c02f5659a78
 
 
 
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,M+ LaLigaTV
+http://127.0.0.1:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
 
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,M+ LaLigaTV 
+http://127.0.0.1:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
+
+
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,M+ LaLigaTV 
+http://127.0.0.1:6878/ace/getstream?id=f031f5728b32f6089dda28edebe990cf198108d8
 
 
 
@@ -123,18 +120,6 @@ http://127.0.0.1:6878/ace/getstream?id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,M+ LaLigaTV
 http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,M+ LaLigaTV
-http://127.0.0.1:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
-
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,M+ LaLigaTV
-http://127.0.0.1:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
-
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,M+ LaLigaTV 
-http://127.0.0.1:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
-
-
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,M+ LaLigaTV 
-http://127.0.0.1:6878/ace/getstream?id=f031f5728b32f6089dda28edebe990cf198108d8
 
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,M+ LaLigaTV 
 http://89198490877165385.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/165385.ts
@@ -340,6 +325,14 @@ http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 
 
 
+#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg" ,LIGA DE CAMPEEONES
+http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
+
+#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg" ,LIGA DE CAMPEEONES
+http://127.0.0.1:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c
+
+#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg" ,LIGA DE CAMPEEONES
+http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 
 
 
@@ -1257,7 +1250,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/609ae5cd48d3200007b0a98e/master.m3u
 
 #EXTINF:-1 group-title="INFANTIL"tvg-logo="https://live.staticflickr.com/65535/53977162619_bf9c894d5c_w.jpg", Comedy Central South Park
 https://stitcher.pluto.tv/stitch/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=10e7188c-2359-11ef-8260-8217e3866619
-
 
 
 

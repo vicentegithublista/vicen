@@ -5,8 +5,18 @@
 
 
 
-#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg" ,🎾Tenis-16:00🏆COPA DAVIS
+#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg" ,🎾Tenis🏆COPA DAVIS
 http://127.0.0.1:6878/ace/getstream?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
+
+
+
+#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg" ,🎾Tenis🏆COPA DAVIS
+http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
+
+
+#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg" ,🎾Tenis🏆COPA DAVIS
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+
 
 
 
@@ -1292,6 +1302,35 @@ http://89198490877321168.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321168.ts
 #EXTINF:-1 group-title="TEMATICOS"tvg-logo="https://live.staticflickr.com/65535/53976870541_3eb48a660f.jpg",CAZAVISION 
 http://89198490877321172.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321172.ts
 
+
+
+
+
+#EXTINF:-1 group-title="TEMATICOS"tvg-logo="https://live.staticflickr.com/65535/53976870541_3eb48a660f.jpg",Pasiones
+http://190.90.18.161:15082/play/a04v/index.m3u8
+
+#EXTINF:-1 group-title="TEMATICOS"tvg-logo="https://live.staticflickr.com/65535/53976870541_3eb48a660f.jpg",TLNOVELAS
+http://190.90.18.161:15082/play/a05f/index.m3u8
+
+
+
+#EXTINF:-1 group-title="TEMATICOS"tvg-logo="https://live.staticflickr.com/65535/53976870541_3eb48a660f.jpg", Corazón
+https://stitcher.pluto.tv/stitch/hls/channel/646ccdd0939a5900088a1980/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=10e7188c-2359-11ef-8260-8217e3866619
+
+#EXTINF:-1 group-title="TEMATICOS"tvg-logo="https://live.staticflickr.com/65535/53976870541_3eb48a660f.jpg", Pluto TV Novelas
+https://stitcher.pluto.tv/stitch/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=10e7188c-2359-11ef-8260-8217e3866619
+
+
+
+#EXTINF:-1 group-title="TEMATICOS"tvg-logo="https://live.staticflickr.com/65535/53976870541_3eb48a660f.jpg", Sin Tetas No Hay Paraíso
+https://stitcher.pluto.tv/stitch/hls/channel/604bdf4e6d0abc0007ba77ad/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=10e7188c-2359-11ef-8260-8217e3866619
+
+#EXTINF:-1 group-title="TEMATICOS"tvg-logo="https://live.staticflickr.com/65535/53976870541_3eb48a660f.jpg", La Selección
+https://stitcher.pluto.tv/stitch/hls/channel/63211ba9cad976000794f988/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=10e7188c-2359-11ef-8260-8217e3866619
+
+
+
+
 #EXTINF:-1 group-title="TEMATICOS"tvg-logo="https://live.staticflickr.com/65535/53976870541_3eb48a660f.jpg",CANAL COCINA 
 http://89198490877321147.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321147.ts
 
@@ -1331,8 +1370,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/5f998c1fc54853000797bacd/master.m3u
 http://89198490877321390.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321390.ts
 
 
-#EXTINF:-1 group-title="TEMATICOS"tvg-logo="https://live.staticflickr.com/65535/53976870541_3eb48a660f.jpg",Mundo Nautica
-https://cloud.fastchannel.es/mic/manifiest/hls/mundonautica/mundonautica.m3u8
 
 
 #EXTINF:-1 group-title="TEMATICOS"tvg-logo="https://live.staticflickr.com/65535/53976870541_3eb48a660f.jpg",NATIONAL GEOGRAPHIC
@@ -1367,31 +1404,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=10e7188c-2359-11ef-8260-8217e3866619
 
 
-
-
-
-
-#EXTINF:-1 group-title="TEMATICOS"tvg-logo="https://live.staticflickr.com/65535/53976870541_3eb48a660f.jpg",Pasiones
-http://190.90.18.161:15082/play/a04v/index.m3u8
-
-#EXTINF:-1 group-title="TEMATICOS"tvg-logo="https://live.staticflickr.com/65535/53976870541_3eb48a660f.jpg",TLNOVELAS
-http://190.90.18.161:15082/play/a05f/index.m3u8
-
-
-
-#EXTINF:-1 group-title="TEMATICOS"tvg-logo="https://live.staticflickr.com/65535/53976870541_3eb48a660f.jpg", Corazón
-https://stitcher.pluto.tv/stitch/hls/channel/646ccdd0939a5900088a1980/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=10e7188c-2359-11ef-8260-8217e3866619
-
-#EXTINF:-1 group-title="TEMATICOS"tvg-logo="https://live.staticflickr.com/65535/53976870541_3eb48a660f.jpg", Pluto TV Novelas
-https://stitcher.pluto.tv/stitch/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=10e7188c-2359-11ef-8260-8217e3866619
-
-
-
-#EXTINF:-1 group-title="TEMATICOS"tvg-logo="https://live.staticflickr.com/65535/53976870541_3eb48a660f.jpg", Sin Tetas No Hay Paraíso
-https://stitcher.pluto.tv/stitch/hls/channel/604bdf4e6d0abc0007ba77ad/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=10e7188c-2359-11ef-8260-8217e3866619
-
-#EXTINF:-1 group-title="TEMATICOS"tvg-logo="https://live.staticflickr.com/65535/53976870541_3eb48a660f.jpg", La Selección
-https://stitcher.pluto.tv/stitch/hls/channel/63211ba9cad976000794f988/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=10e7188c-2359-11ef-8260-8217e3866619
 
 
 

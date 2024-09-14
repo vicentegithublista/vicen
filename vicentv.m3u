@@ -3,27 +3,17 @@
 
 
 
-#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg" ,🎾10:00 PADEL
+#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg" ,🎾COPA DAVIS Chekia-Francia
 http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
 
 
 
-
-
-#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg"  ,🏎️10:00/14:00 F1  
-http://127.0.0.1:6878/ace/getstream?id=5789ca155323664edd293b848606688edf803f4d
-
-
-
-
-#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg" ,🎾16:00 Chekia-Francia
+#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg" ,🎾COPA DAVIS Chekia-Francia
 http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
 
 
 #EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg" ,🐂17:50 ONETORO
 http://espaniatv.xyz/585267/cdjC3p/364416
-
-
 
 #EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg" ,🐂18:00 CCM
 http://613513994766875964.ofbo903.xyz:80/live/Manicuras35/evBfJkJE8e53/875964.ts
@@ -33,13 +23,30 @@ https://paco@cdnlive.codev8.net/rtvalive/DtRLVjt1.smil/chunklist_b2200000.m3u8
 
 
 
-#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg",⚽21:00 R.Sociedad-R.Madrid
+#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg",⚽TODOS LOS PARTIDOS
 http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
 
 
 
-#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg",⚽21:00 R.Sociedad-R.Madrid
+#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg",⚽TODOS LOS PARTIDOS
 http://127.0.0.1:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
+
+
+
+#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg"  ,🏎️F1  
+http://127.0.0.1:6878/ace/getstream?id=5789ca155323664edd293b848606688edf803f4d
+
+#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg"  ,🏎️F1  
+http://127.0.0.1:6878/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5
+
+
+#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg"  ,🏎️F1  
+http://89198490877165418.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/165418.ts
+
+
+#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg"  ,🏎️F1   
+http://127.0.0.1:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2
+
 
 
 
@@ -253,14 +260,10 @@ http://127.0.0.1:6878/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,DAZN F1 
 http://89198490877165418.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/165418.ts
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,DAZN F1 
-http://89198490877165418.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/165418.ts
 
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" , DAZN F1 
 http://127.0.0.1:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" , DAZN F1 
-http://127.0.0.1:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2
 
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,SKY SPORT F1 
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076

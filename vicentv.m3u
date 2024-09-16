@@ -48,8 +48,7 @@ http://127.0.0.1:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
 
 
 
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/telecinco-es.png" group-title="ES | TOP CANALES VIP", ES: Telecinco
-http://vipwanders.top:8080/VIP0199170543007519/21705430075618/647
+
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/la1.png" group-title="ES | TOP CANALES VIP", ES: LA 1
 http://vipwanders.top:8080/VIP0199170543007519/21705430075618/648
@@ -59,6 +58,9 @@ http://vipwanders.top:8080/VIP0199170543007519/21705430075618/649
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/antena-3-es.png" group-title="ES | TOP CANALES VIP", ES: ANTENA 3
 http://vipwanders.top:8080/VIP0199170543007519/21705430075618/646
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/telecinco-es.png" group-title="ES | TOP CANALES VIP", ES: Telecinco
+http://vipwanders.top:8080/VIP0199170543007519/21705430075618/647
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/lasexta-es.png" group-title="ES | TOP CANALES VIP", ES: LA SEXTA
 http://vipwanders.top:8080/VIP0199170543007519/21705430075618/650

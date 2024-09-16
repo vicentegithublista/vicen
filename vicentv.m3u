@@ -1,44 +1,44 @@
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor.xml.gz"
 
-#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg" ,11:00🎾Australia-España
+EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg" ,11:00🎾Australia-España
 http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
 
 
 
 
-#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg"  ,13:00🏎️F1 BAKU  
+EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg"  ,13:00🏎️F1 BAKU  
 http://127.0.0.1:6878/ace/getstream?id=5789ca155323664edd293b848606688edf803f4d
 
-#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg"  ,13:00🏎️F1 BAKU   
+EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg"  ,13:00🏎️F1 BAKU   
 http://127.0.0.1:6878/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5
 
 
-#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg"  ,13:00🏎️F1 BAKU   
+EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg"  ,13:00🏎️F1 BAKU   
 http://89198490877165418.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/165418.ts
 
 
-#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg"  ,13:00🏎️F1 BAKU    
+EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg"  ,13:00🏎️F1 BAKU    
 http://127.0.0.1:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2
 
 
-#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg" ,🐂17:49 ONETORO
+EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg" ,🐂17:49 ONETORO
 http://espaniatv.xyz/585267/cdjC3p/364416
 
-#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg" ,🐂17:30 CCM
+EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg" ,🐂17:30 CCM
 http://613513994766875964.ofbo903.xyz:80/live/Manicuras35/evBfJkJE8e53/875964.ts
 
-#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg" ,🐂17:55 CANAL SUR
+EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg" ,🐂17:55 CANAL SUR
 https://paco@cdnlive.codev8.net/rtvalive/DtRLVjt1.smil/chunklist_b2200000.m3u8
 
 
 
-#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg",⚽LIGATVBAR
+EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg",⚽LIGATVBAR
 http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
 
 
 
-#EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg",⚽LIGATV
+EXTINF:-1 group-title="EVENTOS"tvg-logo="https://live.staticflickr.com/65535/53976941166_5f076b0ae6_w.jpg",⚽LIGATV
 http://127.0.0.1:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
 
 

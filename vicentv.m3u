@@ -999,7 +999,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/609ae5cd48d3200007b0a98e/master.m3u
 
 
 
-#EXTINF:-1 group-title="TEMATICOS"tvg-logo="https://live.staticflickr.com/65535/53976870541_3eb48a660f.jpg",ONETORO
+EXTINF:-1 group-title="TEMATICOS"tvg-logo="https://live.staticflickr.com/65535/53976870541_3eb48a660f.jpg",ONETORO
 http://107.189.14.168:8080/MuhammetDemirel/xsUe3jRA/100208
 
 #EXTINF:-1 group-title="TEMATICOS"tvg-logo="https://live.staticflickr.com/65535/53976870541_3eb48a660f.jpg",IBERALIA 100% CAZA 
@@ -1320,27 +1320,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/64ff26233efb5100082eeb2e/master.m3u
 
 
 
-#EXTINF:-1 group-title="MUSICA"tvg-logo="https://live.staticflickr.com/65535/53977196759_54d27c9305_w.jpg",MTV Biggest Pop
-https://stitcher.pluto.tv/stitch/hls/channel/6047fabfce6e8e00070bcc9f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=10e7188c-2359-11ef-8260-8217e3866619
-
-#EXTINF:-1 group-title="MUSICA"tvg-logo="https://live.staticflickr.com/65535/53977196759_54d27c9305_w.jpg",MTV Spankin' New
-https://stitcher.pluto.tv/stitch/hls/channel/6047fd723b5bd00007de7092/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=10e7188c-2359-11ef-8260-8217e3866619
-
-#EXTINF:-1 group-title="MUSICA"tvg-logo="https://live.staticflickr.com/65535/53977196759_54d27c9305_w.jpg",MTV Flow Latino
-https://stitcher.pluto.tv/stitch/hls/channel/62b218fc511d4b00070ddc0c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=10e7188c-2359-11ef-8260-8217e3866619
-
-#EXTINF:-1 group-title="MUSICA"tvg-logo="https://live.staticflickr.com/65535/53977196759_54d27c9305_w.jpg",Conciertos por Stingray
-https://stitcher.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=10e7188c-2359-11ef-8260-8217e3866619
-
-#EXTINF:-1 group-title="MUSICA"tvg-logo="https://live.staticflickr.com/65535/53977196759_54d27c9305_w.jpg",Karaoke por Stingray
-https://stitcher.pluto.tv/stitch/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=10e7188c-2359-11ef-8260-8217e3866619
-
-
-
-
-
-
-
 
 
 
@@ -1491,45 +1470,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/62310d5a5dc9550007c6f580/master.m3u
 
 
 
-
-
-#EXTINF:-1 group-title=" LISTA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",M+ #0 
-http://mypro-stb.com:8080/21913754662460/43pMUGM1uS/298499
-
-#EXTINF:-1 group-title=" LISTA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",M+ #VAMOS
-http://mypro-stb.com:8080/21913754662460/43pMUGM1uS/298513
-
-#EXTINF:-1 group-title=" LISTA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",M. Ellas #V
-http://mypro-stb.com:8080/21913754662460/43pMUGM1uS/424044
-
-#EXTINF:-1 group-title=" LISTA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",M+ Deporte
-http://mypro-stb.com:8080/21913754662460/43pMUGM1uS/71687
-
-#EXTINF:-1 group-title=" LISTA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",La Liga Bar TV
-http://mypro-stb.com:8080/21913754662460/43pMUGM1uS/71656
-
-#EXTINF:-1 group-title=" LISTA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",DAZN F1
-http://mypro-stb.com:8080/21913754662460/43pMUGM1uS/827684
-
-#EXTINF:-1 group-title=" LISTA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",Dazn 1 
-http://mypro-stb.com:8080/21913754662460/43pMUGM1uS/298514
-
-#EXTINF:-1 group-title=" LISTA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",Dazn 2
-http://mypro-stb.com:8080/21913754662460/43pMUGM1uS/298515
-
-#EXTINF:-1 group-title=" LISTA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",Dazn 3
-http://mypro-stb.com:8080/21913754662460/43pMUGM1uS/298516
-
-#EXTINF:-1 group-title=" LISTA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",Dazn 4
-http://mypro-stb.com:8080/21913754662460/43pMUGM1uS/298517
-
-#EXTINF:-1 group-title=" LISTA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",M+ LCampeones
-http://mypro-stb.com:8080/21913754662460/43pMUGM1uS/298527
-
-#EXTINF:-1 group-title=" LISTA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",LaLiga Hypermotion TV
-http://mypro-stb.com:8080/21913754662460/43pMUGM1uS/827689
-
-#EXTINF:-1 group-title=" LISTA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg", EuroSport 1
+EXTINF:-1 group-title=" LISTA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg", EuroSport 1
 http://mypro-stb.com:8080/21913754662460/43pMUGM1uS/71698
 
 

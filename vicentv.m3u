@@ -5,16 +5,103 @@
 
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,🏆M.Plus
+
+
+
+
+
+
+
+
+
+
+
+
+EXTINF:0 tvg-id="LaLigaTVHypermotion.es" group-title="ES | DEPORTES VIP",ES: LALIGA TV HYPERMOTION
+http://viphopo.top:8080/VIP01739171982327986/0be6fadd60e2/246
+EXTINF:0 tvg-id="LaLigaTVHypermotion2.es" group-title="ES | DEPORTES VIP",ES: LALIGA TV HYPERMOTION 2
+http://viphopo.top:8080/VIP01739171982327986/0be6fadd60e2/634
+EXTINF:0 tvg-id="LaLigaTVHypermotion3.es" group-title="ES | DEPORTES VIP",ES: LALIGA TV HYPERMOTION 3
+http://viphopo.top:8080/VIP01739171982327986/0be6fadd60e2/635
+EXTINF:0 tvg-id="DAZNLaLiga2.es" group-title="ES | DEPORTES VIP",ES: DAZN LALIGA 2
+http://viphopo.top:8080/VIP01739171982327986/0be6fadd60e2/128942
+EXTINF:0 tvg-id="M.LaLiga2.es" group-title="ES | DEPORTES VIP",ES: M+ LALIGA 2
+http://viphopo.top:8080/VIP01739171982327986/0be6fadd60e2/255
+EXTINF:0 tvg-id="M.LaLiga3.es" group-title="ES | DEPORTES VIP",ES: M+ LALIGA 3
+http://viphopo.top:8080/VIP01739171982327986/0be6fadd60e2/256
+EXTINF:0 tvg-id="M.LaLiga5.es" group-title="ES | DEPORTES VIP",ES: M+ LALIGA 5
+http://viphopo.top:8080/VIP01739171982327986/0be6fadd60e2/56467
+EXTINF:0 tvg-id="M.LigaCampeones2.es" group-title="ES | DEPORTES VIP",ES: M+ LIGA DE CAMPEONES 2
+http://viphopo.top:8080/VIP01739171982327986/0be6fadd60e2/266
+EXTINF:0 tvg-id="M.LigaCampeones4.es" group-title="ES | DEPORTES VIP",ES: M+ LIGA DE CAMPEONES 4
+http://viphopo.top:8080/VIP01739171982327986/0be6fadd60e2/268
+
+
+
+
+EXTINF:0 tvg-id="M.Deportes2.es" group-title="ES | DEPORTES VIP",ES: M+ DEPORTES 2
+http://viphopo.top:8080/VIP01739171982327986/0be6fadd60e2/288
+EXTINF:0 tvg-id="M.Deportes3.es" group-title="ES | DEPORTES VIP",ES: M+ DEPORTES 3
+http://viphopo.top:8080/VIP01739171982327986/0be6fadd60e2/289
+EXTINF:0 tvg-id="M.Deportes4.es" group-title="ES | DEPORTES VIP",ES: M+ DEPORTES 4
+http://viphopo.top:8080/VIP01739171982327986/0be6fadd60e2/290
+EXTINF:0 tvg-id="M.Deportes5.es" group-title="ES | DEPORTES VIP",ES: M+ DEPORTES 5
+http://viphopo.top:8080/VIP01739171982327986/0be6fadd60e2/291
+EXTINF:0 tvg-id="M.Deportes6.es" group-title="ES | DEPORTES VIP",ES: M+ DEPORTES 6
+http://viphopo.top:8080/VIP01739171982327986/0be6fadd60e2/292
+EXTINF:0 tvg-id="M.Deportes7.es" group-title="ES | DEPORTES VIP",ES: M+ DEPORTES 7
+http://viphopo.top:8080/VIP01739171982327986/0be6fadd60e2/293
+EXTINF:0 tvg-id="Eurosport1.es" group-title="ES | DEPORTES VIP",ES: EUROSPORT 1
+http://viphopo.top:8080/VIP01739171982327986/0be6fadd60e2/281
+EXTINF:0 tvg-id="Eurosport2.es" group-title="ES | DEPORTES VIP",ES: EUROSPORT 2
+http://viphopo.top:8080/VIP01739171982327986/0be6fadd60e2/282
+
+
+
+EXTINF:0 tvg-id="ext" group-title="ES | DEPORTES VIP",ES: BARCA TV
+http://viphopo.top:8080/VIP01739171982327986/0be6fadd60e2/721
+EXTINF:0 tvg-id="RealMadridTV.es" group-title="ES | DEPORTES VIP",ES: REAL MADRID TV
+http://viphopo.top:8080/VIP01739171982327986/0be6fadd60e2/724
+EXTINF:0 tvg-id="M+Ellas#V.es" group-title="ES | DEPORTES VIP",ES: M+ ELLASV #
+
+EXTINF:0 tvg-id="Teledeporte.es" group-title="ES | DEPORTES VIP",ES: Teledeporte
+http://viphopo.top:8080/VIP01739171982327986/0be6fadd60e2/726
+EXTINF:0 tvg-id="GOL.es" group-title="ES | DEPORTES VIP",ES: GOL PLAY
+http://viphopo.top:8080/VIP01739171982327986/0be6fadd60e2/633
+EXTINF:0 tvg-id="Golf.es" group-title="ES | DEPORTES VIP",ES: M+ GOLF
+http://viphopo.top:8080/VIP01739171982327986/0be6fadd60e2/285
+EXTINF:0 tvg-id="ext" group-title="ES | DEPORTES VIP",ES: M+ LIGA DE CAMPEONES 5
+http://viphopo.top:8080/VIP01739171982327986/0be6fadd60e2/269
+EXTINF:0 tvg-id="ext" group-title="ES | DEPORTES VIP",ES: RALLY TV
+http://viphopo.top:8080/VIP01739171982327986/0be6fadd60e2/128955
+
+
+
+
+EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,🏆M.Plus
 http://127.0.0.1:6878/ace/getstream?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
 
 
-EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",🏆#VAMOS
-http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
+
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",🏆#VAMOS
+http://viphopo.top:8080/VIP01739171982327986/0be6fadd60e2/632
 
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",🏆#VAMOS
 http://mypro-stb.com:8080/21913754662460/43pMUGM1uS/298513
 
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",🏆#VAMOS
+http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
+
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",🏆#VAMOS ELLAS
+http://viphopo.top:8080/VIP01739171982327986/0be6fadd60e2/723
+
+
+
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",🏀M.DEPORTES
+http://viphopo.top:8080/VIP01739171982327986/0be6fadd60e2/128951
+
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",🏀M.DEPORTES
+http://viphopo.top:8080/VIP01739171982327986/0be6fadd60e2/286
 
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",🏀M.DEPORTES
 http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
@@ -75,8 +162,8 @@ http://127.0.0.1:6878/ace/getstream?id=2448f1d084f440eed2fbe847e24f1c02f5659a78
 
 
 
-
-
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,⚽DAZN LALIGA
+http://viphopo.top:8080/VIP01739171982327986/0be6fadd60e2/243
 
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,⚽DAZN LALIGA
 http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
@@ -105,9 +192,12 @@ http://127.0.0.1:6878/ace/getstream?id=e33e666c393ef04ebe99a9b92135d2e0b48c4d10
 
 
 
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,⚽LA LIGATV
+http://viphopo.top:8080/VIP01739171982327986/0be6fadd60e2/252
 
 
-
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",⚽LIGATVBAR
+http://viphopo.top:8080/VIP01739171982327986/0be6fadd60e2/283
 
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",⚽LIGATVBAR
 http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
@@ -153,7 +243,8 @@ http://89198490877165400.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/165400.ts
 
 
 
-
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,🏍DAZN 1 
+http://viphopo.top:8080/VIP01739171982327986/0be6fadd60e2/247
 
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,🏍DAZN 1 
 http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
@@ -165,8 +256,8 @@ http://127.0.0.1:6878/ace/getstream?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
 http://89198490877228385.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/228385.ts
 
 
-
-
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,⚽DAZN 2 
+http://viphopo.top:8080/VIP01739171982327986/0be6fadd60e2/248
 
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,⚽DAZN 2 
 http://127.0.0.1:6878/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
@@ -176,9 +267,10 @@ http://89198490877228389.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/228389.ts
 
 
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,⚽DAZN 3 
+http://viphopo.top:8080/VIP01739171982327986/0be6fadd60e2/249
+
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,⚽DAZN 3 
 http://127.0.0.1:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-
-
 
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,⚽DAZN 3 
 http://piripi.boston:8080/Evaristo/Evaristo/680337
@@ -186,11 +278,12 @@ http://piripi.boston:8080/Evaristo/Evaristo/680337
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,⚽DAZN 3 
 http://piripi.boston:8080/Evaristo/Evaristo/723302
 
-
-
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,⚽DAZN 3 
 http://89198490877228393.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/228393.ts
 
+
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,⚽DAZN 4 
+http://viphopo.top:8080/VIP01739171982327986/0be6fadd60e2/250
 
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,⚽DAZN 4 
 http://127.0.0.1:6878/ace/getstream?id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
@@ -199,6 +292,11 @@ http://127.0.0.1:6878/ace/getstream?id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,⚽DAZN 4 
 http://89198490877228397.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/228397.ts
 
+
+
+
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,🏎️DAZN F1 
+http://viphopo.top:8080/VIP01739171982327986/0be6fadd60e2/251
 
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,🏎️DAZN F1 
 http://127.0.0.1:6878/ace/getstream?id=5789ca155323664edd293b848606688edf803f4d
@@ -219,6 +317,9 @@ http://127.0.0.1:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 
 
+
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",🏆⚽LIGA DE CAMPEONES
+http://viphopo.top:8080/VIP01739171982327986/0be6fadd60e2/264
 
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",🏆⚽LIGA DE CAMPEONES
 http://89198490877262412.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/262412.ts
@@ -338,8 +439,8 @@ http://127.0.0.1:6878/ace/getstream?id=721a78f2076faa584c9c09059ffb4e10159f4665
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,🏆EUROSPORT 9 
 http://127.0.0.1:6878/ace/getstream?id=dd9c56ef2f09753c59d9c2e2d2af31aeea6451c0
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,tdp 
-http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Tele Deporte
+http://live.lordstreams.co:8080/Montecrispo/126728543/50905
 
 
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,M. Golf2 1080
@@ -352,6 +453,10 @@ http://127.0.0.1:6878/ace/getstream?id=0742f7fabb74715b11c5a5dae24e93a4644697a5
 http://89198490877454216.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/454216.ts
 
 
+
+
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Tennis Channel 
+https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" , Tenis Channel2
 http://root:1234http://root:@127.0.0.1:6878/ace/getstream?id=51a682f0daa2e2fb61e078e48704cb1e3411a300
@@ -372,8 +477,7 @@ http://89198490877463951.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/463951.ts
 
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,TV3 HD
-https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
+
 
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" , Esports 3 
 https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
@@ -397,8 +501,7 @@ http://live.lordstreams.co:8080/Montecrispo/126728543/40646
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,Benfica FC
 http://live.lordstreams.co:8080/Montecrispo/126728543/40645
 
-#EXTINF:-1 group-title="DEPORTE" tvg-id="TVBOL" ,DEPORTE
-http://live.lordstreams.co:8080/Montecrispo/126728543/4619
+
 
 
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,Fox Sports
@@ -529,8 +632,7 @@ http://89198490877320785.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/320785.ts
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",GOL TV
 http://live.lordstreams.co:8080/Montecrispo/126728543/40646
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Tennis Channel 
-https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",REAL MADRID 
@@ -542,8 +644,7 @@ https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",TV Barca TV
 http://live.lordstreams.co:8080/Montecrispo/126728543/50906
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Tele Deporte
-http://live.lordstreams.co:8080/Montecrispo/126728543/50905
+
 
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Benfica FC
 http://live.lordstreams.co:8080/Montecrispo/126728543/40645

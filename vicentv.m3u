@@ -1,7 +1,10 @@
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor.xml.gz"
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",🏆#VAMOS
+
+
+
+#EXTINF:-1 group-title="DEPORTE" block group=1234 tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",🏆#VAMOS
 http://89198490877321072.ofd0120.xyz:80/play/CmRahMgag/a9753124680A13/321072.ts
 
 
@@ -1371,9 +1374,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/646ccd3681844c000974d6f4/master.m3u
 
 #EXTINF:-1 group-title="TV"tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg", TeleFórmula
 https://stitcher.pluto.tv/stitch/hls/channel/63d2c140c111bc0008cb890b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=10e7188c-2359-11ef-8260-8217e3866619
-
-#EXTINF:-1 group-title="TV"tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg", CBS News
-https://root:1234@192.168.18.1:stitcher.pluto.tv/stitch/hls/channel/62310d5a5dc9550007c6f580/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=10e7188c-2359-11ef-8260-8217e3866619
 
 
 

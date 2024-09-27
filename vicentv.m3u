@@ -1373,15 +1373,17 @@ https://stitcher.pluto.tv/stitch/hls/channel/646ccd3681844c000974d6f4/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/63d2c140c111bc0008cb890b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=10e7188c-2359-11ef-8260-8217e3866619
 
 #EXTINF:-1 group-title="TV"tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg", CBS News
-https://stitcher.pluto.tv/stitch/hls/channel/62310d5a5dc9550007c6f580/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=10e7188c-2359-11ef-8260-8217e3866619
+https://root:1234@stitcher.pluto.tv/stitch/hls/channel/62310d5a5dc9550007c6f580/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=10e7188c-2359-11ef-8260-8217e3866619
 
-#EXTINF:-1 group-title="TV"tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg", PRUEBA
-https://futbolhonduras24.com/?p=tv&c=1&f=1
+
 
 
 EXTINF:-1 group-title=" LISTA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg", EuroSport 1
 http://mypro-stb.com:8080/21913754662460/43pMUGM1uS/71698
 
+http://root:tupassword@192.168.***************** (lo que sigue)
+o
+http://root:tupassword@tuhostdns**************** (lo que sigue)
 
 
 

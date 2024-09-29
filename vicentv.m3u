@@ -1351,16 +1351,103 @@ https://stitcher.pluto.tv/stitch/hls/channel/63d2c140c111bc0008cb890b/master.m3u
 
 
 
-EXTINF:-1 group-title=" LISTA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg", EuroSport 1
-http://mypro-stb.com:8080/21913754662460/43pMUGM1uS/71698
 
 
 
 
-EXTINF:-1 group-title="SERIES" tvg-logo="https://live.staticflickr.com/65535/53979428603_c918fc2f8f_c.jpg",Mujer S01 E01
-http://613513994766226573.ofbo903.xyz:80/series/Manicuras35/evBfJkJE8e53/226573.mkv
 
 
-EXTINF:-1 group-title="PELICULAS" tvg-logo="https://live.staticflickr.com/65535/53979612485_69eb0d26f8_z.jpg",1, 2, 3... A la cama! (2018)
-http://613513994766146880.ofbo903.xyz:80/movie/Manicuras35/evBfJkJE8e53/146880.mp4
+#EXTINF:-1 group-title=" LISTA PRUEBA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",p1
+http://127.0.0.1:6878/ace/getstream?id=ed66e83009626b7eb7de46db416cfe47bcf1c2df   
+
+#EXTINF:-1 group-title=" LISTA PRUEBA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",p2
+http://127.0.0.1:6878/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb   
+
+#EXTINF:-1 group-title=" LISTA PRUEBA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",p3
+http://127.0.0.1:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7   
+
+#EXTINF:-1 group-title=" LISTA PRUEBA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",p4
+http://127.0.0.1:6878/ace/getstream?id=4b129146077c1e357e4ab341448b9fb629f939dc   
+
+#EXTINF:-1 group-title=" LISTA PRUEBA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",p5
+http://127.0.0.1:6878/ace/getstream?id=2F5e94200ae8b1d95cb559fb150e5993d92e15d4   
+
+#EXTINF:-1 group-title=" LISTA PRUEBA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",p6
+http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280   
+
+#EXTINF:-1 group-title=" LISTA PRUEBA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",p7
+http://127.0.0.1:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565   
+
+#EXTINF:-1 group-title=" LISTA PRUEBA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",p8
+http://127.0.0.1:6878/ace/getstream?id=d0842346aad155a78f94dffe7d4ca313c33882a4   
+
+#EXTINF:-1 group-title=" LISTA PRUEBA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",p9
+http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952   
+#EXTINF:-1 group-title=" LISTA PRUEBA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",p10
+http://127.0.0.1:6878/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52   
+
+#EXTINF:-1 group-title=" LISTA PRUEBA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",p11
+http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917   
+
+#EXTINF:-1 group-title=" LISTA PRUEBA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",p12
+http://127.0.0.1:6878/ace/getstream?id=04fb02f24f70987504bbc5587728c56a210daa69   
+
+#EXTINF:-1 group-title=" LISTA PRUEBA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",p13
+http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639   
+
+#EXTINF:-1 group-title=" LISTA PRUEBA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",p14
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce   
+
+#EXTINF:-1 group-title=" LISTA PRUEBA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",p15
+http://127.0.0.1:6878/ace/getstream?id=5323ccadb659f7d3cb5fa2e5835c5af362e144d6   
+
+#EXTINF:-1 group-title=" LISTA PRUEBA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",p16
+http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952   
+
+#EXTINF:-1 group-title=" LISTA PRUEBA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",p17
+http://127.0.0.1:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5   
+
+#EXTINF:-1 group-title=" LISTA PRUEBA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",p18
+http://127.0.0.1:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee   
+
+#EXTINF:-1 group-title=" LISTA PRUEBA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",p19
+http://127.0.0.1:6878/ace/getstream?id=8cc506577e65d73dceb8c72340c8bdd931b3731d   
+
+#EXTINF:-1 group-title=" LISTA PRUEBA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",p20
+http://127.0.0.1:6878/ace/getstream?id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914   
+
+#EXTINF:-1 group-title=" LISTA PRUEBA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",p21
+http://127.0.0.1:6878/ace/getstream?id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914   
+
+#EXTINF:-1 group-title=" LISTA PRUEBA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",p22
+http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf   
+
+#EXTINF:-1 group-title=" LISTA PRUEBA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",p23
+http://127.0.0.1:6878/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc   
+
+#EXTINF:-1 group-title=" LISTA PRUEBA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",p24
+http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b   
+
+#EXTINF:-1 group-title=" LISTA PRUEBA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",p25
+http://127.0.0.1:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c   
+
+#EXTINF:-1 group-title=" LISTA PRUEBA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",p26
+http://127.0.0.1:6878/ace/getstream?id=5932623d2fd7ed16b01787251b418e4f59a01cda   
+
+#EXTINF:-1 group-title=" LISTA PRUEBA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",p27
+http://127.0.0.1:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c   
+
+#EXTINF:-1 group-title=" LISTA PRUEBA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",p28
+http://127.0.0.1:6878/ace/getstream?id=f031f5728b32f6089dda28edebe990cf198108d8   
+
+#EXTINF:-1 group-title=" LISTA PRUEBA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",p29
+http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c   
+
+#EXTINF:-1 group-title=" LISTA PRUEBA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",p30
+http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c   
+
+
+
+
+
 

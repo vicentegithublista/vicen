@@ -274,8 +274,8 @@ http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
 
 
 
-
-
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Teledeporte
+http://offshore.lat/MarioMo0901/MMonte09012021/282492
 
 
 
@@ -413,10 +413,49 @@ http://127.0.0.1:6878/ace/getstream?id=600222a4f98df80a2c0df2d60cb5ff3df9620710
 
 
 
+#EXTINF:-1 group-title="CINE"tvg-logo="https://live.staticflickr.com/65535/53976830251_d4091627af_c.jpg",Movistar Estrenos
+http://offshore.lat/MarioMo0901/MMonte09012021/1164
 
 
 
+#EXTINF:-1 group-title="CINE"tvg-logo="https://live.staticflickr.com/65535/53976830251_d4091627af_c.jpg",Movistar Accion
+http://offshore.lat/MarioMo0901/MMonte09012021/1166
 
+
+
+#EXTINF:-1 group-title="CINE"tvg-logo="https://live.staticflickr.com/65535/53976830251_d4091627af_c.jpg",Movistar CineDoc&Roll
+http://offshore.lat/MarioMo0901/MMonte09012021/1169
+
+
+
+#EXTINF:-1 group-title="CINE"tvg-logo="https://live.staticflickr.com/65535/53976830251_d4091627af_c.jpg",Movistar Cine Ñ
+http://offshore.lat/MarioMo0901/MMonte09012021/1171
+
+
+
+#EXTINF:-1 group-title="CINE"tvg-logo="https://live.staticflickr.com/65535/53976830251_d4091627af_c.jpg",Hollywood
+http://offshore.lat/MarioMo0901/MMonte09012021/1175
+
+#EXTINF:-1 group-title="CINE"tvg-logo="https://live.staticflickr.com/65535/53976830251_d4091627af_c.jpg",AMC
+http://offshore.lat/MarioMo0901/MMonte09012021/1177
+
+#EXTINF:-1 group-title="CINE"tvg-logo="https://live.staticflickr.com/65535/53976830251_d4091627af_c.jpg",TCM
+http://offshore.lat/MarioMo0901/MMonte09012021/1178
+
+#EXTINF:-1 group-title="CINE"tvg-logo="https://live.staticflickr.com/65535/53976830251_d4091627af_c.jpg",Calle 13
+http://offshore.lat/MarioMo0901/MMonte09012021/1179
+
+#EXTINF:-1 group-title="CINE"tvg-logo="https://live.staticflickr.com/65535/53976830251_d4091627af_c.jpg",AXN
+http://offshore.lat/MarioMo0901/MMonte09012021/1180
+
+#EXTINF:-1 group-title="CINE"tvg-logo="https://live.staticflickr.com/65535/53976830251_d4091627af_c.jpg",AXN White
+http://offshore.lat/MarioMo0901/MMonte09012021/1181
+
+#EXTINF:-1 group-title="CINE"tvg-logo="https://live.staticflickr.com/65535/53976830251_d4091627af_c.jpg",Star Channel
+http://offshore.lat/MarioMo0901/MMonte09012021/1182
+
+#EXTINF:-1 group-title="CINE"tvg-logo="https://live.staticflickr.com/65535/53976830251_d4091627af_c.jpg",Star Life
+http://offshore.lat/MarioMo0901/MMonte09012021/1183
 
 
 #EXTINF:-1 group-title="CINE"tvg-logo="https://live.staticflickr.com/65535/53976830251_d4091627af_c.jpg",Rakuten Comedy Movies
@@ -706,6 +745,11 @@ https://stitcher.pluto.tv/stitch/hls/channel/609ae5cd48d3200007b0a98e/master.m3u
 
 
 
+#EXTINF:-1 group-title="TEMATICOS"tvg-logo="https://live.staticflickr.com/65535/53976870541_3eb48a660f.jpg",Mundotoro
+http://offshore.lat/MarioMo0901/MMonte09012021/308788
+
+#EXTINF:-1 group-title="TEMATICOS"tvg-logo="https://live.staticflickr.com/65535/53976870541_3eb48a660f.jpg",Mundotoro Op2
+http://offshore.lat/MarioMo0901/MMonte09012021/311498
 
 
 
@@ -724,10 +768,28 @@ http://offshore.lat/MarioMo0901/MMonte09012021/1191
 http://offshore.lat/MarioMo0901/MMonte09012021/226707
 
 
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://pbs.twimg.com/profile_images/726543483377438720/qL4LgDCT_400x400.jpg" ,ES | Odisea
+http://offshore.lat/MarioMo0901/MMonte09012021/1187
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBiD0CykP2w1ug1a87N7OeuCJuj8Y-VS1-ae74m0AYak2lu1TEttHxicROxCW06UKhQ.png" ,ES | Discovery Channel
+http://offshore.lat/MarioMo0901/MMonte09012021/1188
 
 
 
 
+
+
+#EXTINF:-1 group-title="TEMATICOS"tvg-logo="https://live.staticflickr.com/65535/53976870541_3eb48a660f.jpg",Historia
+http://offshore.lat/MarioMo0901/MMonte09012021/1194
+
+#EXTINF:-1 group-title="TEMATICOS"tvg-logo="https://live.staticflickr.com/65535/53976870541_3eb48a660f.jpg",Nat Geo Wild
+http://offshore.lat/MarioMo0901/MMonte09012021/1195
+
+#EXTINF:-1 group-title="TEMATICOS"tvg-logo="https://live.staticflickr.com/65535/53976870541_3eb48a660f.jpg",National Geographic
+http://offshore.lat/MarioMo0901/MMonte09012021/1196
+
+
+#EXTINF:-1 group-title="TEMATICOS"tvg-logo="https://live.staticflickr.com/65535/53976870541_3eb48a660f.jpg",Be Mad
+http://offshore.lat/MarioMo0901/MMonte09012021/277706
 
 
 
@@ -1049,15 +1111,49 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 group-title="TV"tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg", LA 2 
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 
+#EXTINF:-1 group-title="TV"tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",ANTENA 3
+http://offshore.lat/MarioMo0901/MMonte09012021/1145
+
+
 
 
 #EXTINF:-1 group-title="TV"tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",CUATRO 
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/index.m3u8
 
 
+#EXTINF:-1 group-title="TV"tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",Telecinco
+http://offshore.lat/MarioMo0901/MMonte09012021/1147
+
+#EXTINF:-1 group-title="TV"tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",La Sexta
+http://offshore.lat/MarioMo0901/MMonte09012021/1148
+
+#EXTINF:-1 group-title="TV"tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",CCM
+http://offshore.lat/MarioMo0901/MMonte09012021/282566
+
+#EXTINF:-1 group-title="TV"tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",Canal Sur
+http://offshore.lat/MarioMo0901/MMonte09012021/282505
 
 #EXTINF:-1 group-title="TV"tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",Canal Sur 2 Accesible
 https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="TV"tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",FDF
+http://offshore.lat/MarioMo0901/MMonte09012021/1150
+
+#EXTINF:-1 group-title="TV"tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",Mega
+http://offshore.lat/MarioMo0901/MMonte09012021/1156
+
+#EXTINF:-1 group-title="TV"tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",A3 Series
+http://offshore.lat/MarioMo0901/MMonte09012021/1157
+
+#EXTINF:-1 group-title="TV"tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",Dkiss
+http://offshore.lat/MarioMo0901/MMonte09012021/1158
+
+#EXTINF:-1 group-title="TV"tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",Comedy Central
+http://offshore.lat/MarioMo0901/MMonte09012021/1163
+
 
 
 
@@ -1134,55 +1230,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/63d2c140c111bc0008cb890b/master.m3u
 
 
 
-
-
-EXTINF:-1 group-title=" LISTA PRUEBA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",Movistar Liga de Campeones
-http://streamsy.online:2999/juanv/04bodwaga0/1773
-
-EXTINF:-1 group-title=" LISTA PRUEBA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",beIN Sports La Liga
-http://streamsy.online:2999/juanv/04bodwaga0/626
-
-EXTINF:-1 group-title=" LISTA PRUEBA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",Movistar Deportes
-http://streamsy.online:2999/juanv/04bodwaga0/1779
-
-EXTINF:-1 group-title=" LISTA PRUEBA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",Movistar F1
-http://streamsy.online:2999/juanv/04bodwaga0/1442
-
-
-EXTINF:-1 group-title=" LISTA PRUEBA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",DAZN F1
-http://streamsy.online:2999/juanv/04bodwaga0/1650
-
-EXTINF:-1 group-title=" LISTA PRUEBA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",Eurosport 1
-http://streamsy.online:2999/juanv/04bodwaga0/1775
-
-EXTINF:-1 group-title=" LISTA PRUEBA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",Eurosport 2
-http://streamsy.online:2999/juanv/04bodwaga0/1776
-
-EXTINF:-1 group-title=" LISTA PRUEBA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",Real Madrid TV
-http://streamsy.online:2999/juanv/04bodwaga0/1777
-
-EXTINF:-1 group-title=" LISTA PRUEBA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",Barca TV
-http://streamsy.online:2999/juanv/04bodwaga0/1778
-
-
-EXTINF:-1 group-title=" LISTA PRUEBA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",Golf Channel
-http://streamsy.online:2999/juanv/04bodwaga0/89
-
-EXTINF:-1 group-title=" LISTA PRUEBA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",AXN White
-http://streamsy.online:2999/juanv/04bodwaga0/609
-
-EXTINF:-1 group-title=" LISTA PRUEBA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",One Toro
-http://streamsy.online:2999/juanv/04bodwaga0/1781
-
-EXTINF:-1 group-title=" LISTA PRUEBA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",Caza y Pezca
-http://streamsy.online:2999/juanv/04bodwaga0/1228
-
-
-EXTINF:-1 group-title=" LISTA PRUEBA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",Antena 3 Int
-http://streamsy.online:2999/juanv/04bodwaga0/1782
-
-EXTINF:-1 group-title=" LISTA PRUEBA" tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",LaSexta
-http://streamsy.online:2999/juanv/04bodwaga0/1783
 
 
 

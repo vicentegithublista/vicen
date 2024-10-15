@@ -413,7 +413,7 @@ http://127.0.0.1:6878/ace/getstream?id=600222a4f98df80a2c0df2d60cb5ff3df9620710
 
 
 
-#EXTINF:-1 group-title="CINE"tvg-logo="https://live.staticflickr.com/65535/53976830251_d4091627af_c.jpg",Movistar Estrenos
+#EXTINF:-1 group-title="CINE"tvg-logo="https://live.staticflickr.com/65535/53976830251_d4091627af_c.jpg",Movistar Cine Español
 http://offshore.lat/MarioMo0901/MMonte09012021/1164
 
 
@@ -421,15 +421,6 @@ http://offshore.lat/MarioMo0901/MMonte09012021/1164
 #EXTINF:-1 group-title="CINE"tvg-logo="https://live.staticflickr.com/65535/53976830251_d4091627af_c.jpg",Movistar Accion
 http://offshore.lat/MarioMo0901/MMonte09012021/1166
 
-
-
-#EXTINF:-1 group-title="CINE"tvg-logo="https://live.staticflickr.com/65535/53976830251_d4091627af_c.jpg",Movistar CineDoc&Roll
-http://offshore.lat/MarioMo0901/MMonte09012021/1169
-
-
-
-#EXTINF:-1 group-title="CINE"tvg-logo="https://live.staticflickr.com/65535/53976830251_d4091627af_c.jpg",Movistar Cine Ñ
-http://offshore.lat/MarioMo0901/MMonte09012021/1171
 
 
 
@@ -768,9 +759,10 @@ http://offshore.lat/MarioMo0901/MMonte09012021/1191
 http://offshore.lat/MarioMo0901/MMonte09012021/226707
 
 
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://pbs.twimg.com/profile_images/726543483377438720/qL4LgDCT_400x400.jpg" ,ES | Odisea
+#EXTINF:-1 group-title="TEMATICOS"tvg-logo="https://live.staticflickr.com/65535/53976870541_3eb48a660f.jpg",Odisea
 http://offshore.lat/MarioMo0901/MMonte09012021/1187
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBiD0CykP2w1ug1a87N7OeuCJuj8Y-VS1-ae74m0AYak2lu1TEttHxicROxCW06UKhQ.png" ,ES | Discovery Channel
+
+#EXTINF:-1 group-title="TEMATICOS"tvg-logo="https://live.staticflickr.com/65535/53976870541_3eb48a660f.jpg",Discovery Channel
 http://offshore.lat/MarioMo0901/MMonte09012021/1188
 
 
@@ -1127,8 +1119,6 @@ http://offshore.lat/MarioMo0901/MMonte09012021/1147
 #EXTINF:-1 group-title="TV"tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",La Sexta
 http://offshore.lat/MarioMo0901/MMonte09012021/1148
 
-#EXTINF:-1 group-title="TV"tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",CCM
-http://offshore.lat/MarioMo0901/MMonte09012021/282566
 
 #EXTINF:-1 group-title="TV"tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",Canal Sur
 http://offshore.lat/MarioMo0901/MMonte09012021/282505

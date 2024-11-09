@@ -2,22 +2,8 @@
 
 
 
-
-
-
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.PLUS🏆
-http://127.0.0.1:6878/ace/getstream?id=56ac8e227d526e722624675ccdd91b0cc850582f
-
-
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",#Vamos🏆
 http://127.0.0.1:6878/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2
-
-
-
-
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",#Vamos🏆
-http://127.0.0.1:6878/ace/getstream?id=12ba546d229bc39f01c3c18988a034b215fe6adb
-
 
 
 
@@ -1298,7 +1284,764 @@ https://stitcher.pluto.tv/stitch/hls/channel/63d2c140c111bc0008cb890b/master.m3u
 
 
 
- 
+
+
+#EXTINF:-1 tvg-id="BARCA TV" tvg-name="EVENTOS  IMPORTANTES 2" tvg-logo="http://hudini.site:8080/images/08dcf503e68f9690b1b263534a8af781.png" group-title="ESPAÑA DEPORTES",EVENTOS  IMPORTANTES 2
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151638
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="M+ Copa del Rey HD Orange" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ Copa del Rey HD Orange
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/140392
+#EXTINF:-1 tvg-id="" tvg-name="M+ Copa del Rey FHD Orange" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ Copa del Rey FHD Orange
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/465962
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="M. FORMULA 1" tvg-logo="https://lp-research.com/wp-content/uploads/2013/08/F1Logo1.png" group-title="ESPAÑA DEPORTES",M. FORMULA 1
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151694
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="MOVISTAR F1 HD" tvg-logo="https://lp-research.com/wp-content/uploads/2013/08/F1Logo1.png" group-title="ESPAÑA DEPORTES",MOVISTAR F1 HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151695
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="M. FORMULA 1 FHD" tvg-logo="https://lp-research.com/wp-content/uploads/2013/08/F1Logo1.png" group-title="ESPAÑA DEPORTES",M. FORMULA 1 FHD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151696
+#EXTINF:-1 tvg-id="LA 1" tvg-name="MOVISTAR LA LIGA  SD" tvg-logo="" group-title="ESPAÑA DEPORTES",MOVISTAR LA LIGA  SD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/181901
+#EXTINF:-1 tvg-id="LA 1" tvg-name="MOVISTAR LA LIGA HD" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2019/06/movistar-laliga.jpg" group-title="ESPAÑA DEPORTES",MOVISTAR LA LIGA HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/190999
+#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="MOVISTAR LALIGA FHD" tvg-logo="https://i.imgur.com/YE22cNP.png" group-title="ESPAÑA DEPORTES",MOVISTAR LALIGA FHD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151645
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name="LALIGA TV HYPERMOTION FHD 1" tvg-logo="" group-title="ESPAÑA DEPORTES",LALIGA TV HYPERMOTION FHD 1
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/240420
+#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="MOVISTAR LIGA HD ALTERNATIVA" tvg-logo="" group-title="ESPAÑA DEPORTES",MOVISTAR LIGA HD ALTERNATIVA
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/242408
+#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="LALIGA FHD ALTERNATIVA" tvg-logo="" group-title="ESPAÑA DEPORTES",LALIGA FHD ALTERNATIVA
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/242409
+#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="MOVISTAR LALIGA 2K" tvg-logo="https://i.imgur.com/YE22cNP.png" group-title="ESPAÑA DEPORTES",MOVISTAR LALIGA 2K
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151646
+#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="MOVISTAR LALIGA 4k" tvg-logo="https://i.imgur.com/YE22cNP.png" group-title="ESPAÑA DEPORTES",MOVISTAR LALIGA 4k
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151647
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 1 (Solo Eventos)" tvg-logo="https://i.imgur.com/YE22cNP.png" group-title="ESPAÑA DEPORTES",MOVISTAR LA LIGA 1 (Solo Eventos)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151648
+#EXTINF:-1 tvg-id="M+ LALIGA TV 2" tvg-name="MOVISTAR LIGA 2 HD" tvg-logo="https://i.imgur.com/YE22cNP.png" group-title="ESPAÑA DEPORTES",MOVISTAR LIGA 2 HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151642
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 1 FULLHD (Solo Eventos)" tvg-logo="https://i.imgur.com/YE22cNP.png" group-title="ESPAÑA DEPORTES",MOVISTAR LA LIGA 1 FULLHD (Solo Eventos)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151649
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  LALIGA 2 (Solo Eventos)" tvg-logo="https://i.imgur.com/YE22cNP.png" group-title="ESPAÑA DEPORTES",MOVISTAR  LALIGA 2 (Solo Eventos)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151650
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 2 FHD (Solo Eventos)" tvg-logo="https://i.imgur.com/YE22cNP.png" group-title="ESPAÑA DEPORTES",MOVISTAR LA LIGA 2 FHD (Solo Eventos)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151651
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  LA LIGA 3 (Solo Eventos)" tvg-logo="https://i.imgur.com/YE22cNP.png" group-title="ESPAÑA DEPORTES",MOVISTAR  LA LIGA 3 (Solo Eventos)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151652
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 3 FULLHD (Solo Eventos)" tvg-logo="https://i.imgur.com/YE22cNP.png" group-title="ESPAÑA DEPORTES",MOVISTAR LA LIGA 3 FULLHD (Solo Eventos)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151658
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 4 (Solo Eventos)" tvg-logo="https://i.imgur.com/YE22cNP.png" group-title="ESPAÑA DEPORTES",MOVISTAR LA LIGA 4 (Solo Eventos)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151653
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 5 (Solo Eventos)" tvg-logo="https://i.imgur.com/YE22cNP.png" group-title="ESPAÑA DEPORTES",MOVISTAR LA LIGA 5 (Solo Eventos)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151654
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 6 (Solo Eventos)" tvg-logo="https://i.imgur.com/YE22cNP.png" group-title="ESPAÑA DEPORTES",MOVISTAR LA LIGA 6 (Solo Eventos)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151655
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 7 (Solo Eventos)" tvg-logo="https://i.imgur.com/YE22cNP.png" group-title="ESPAÑA DEPORTES",MOVISTAR LA LIGA 7 (Solo Eventos)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151656
+#EXTINF:-1 tvg-id="M. LaLiga" tvg-name="MOVISTAR LA LIGA 8 (Solo Eventos)" tvg-logo="https://i.imgur.com/YE22cNP.png" group-title="ESPAÑA DEPORTES",MOVISTAR LA LIGA 8 (Solo Eventos)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151660
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 9 (Solo Eventos)" tvg-logo="https://i.imgur.com/YE22cNP.png" group-title="ESPAÑA DEPORTES",MOVISTAR LA LIGA 9 (Solo Eventos)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151659
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 10 (Solo Eventos)" tvg-logo="https://i.imgur.com/YE22cNP.png" group-title="ESPAÑA DEPORTES",MOVISTAR LA LIGA 10 (Solo Eventos)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151657
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga TV Bar SD" tvg-logo="" group-title="ESPAÑA DEPORTES",LaLiga TV Bar SD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/155932
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga TV Bar HD" tvg-logo="http://cms.bimbotv.net:2052/images/logos/laligatvbar.png" group-title="ESPAÑA DEPORTES",LaLiga TV Bar HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/155933
+#EXTINF:-1 tvg-id="" tvg-name=" LaLiga TV Bar FHD" tvg-logo="" group-title="ESPAÑA DEPORTES", LaLiga TV Bar FHD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/155934
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="MOVISTAR LIGA CAMPEONES SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="ESPAÑA DEPORTES",MOVISTAR LIGA CAMPEONES SD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151714
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="MOVISTAR LIGA CAMPEONES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="ESPAÑA DEPORTES",MOVISTAR LIGA CAMPEONES HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151662
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="MOVISTAR LIGA CAMPEONES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="ESPAÑA DEPORTES",MOVISTAR LIGA CAMPEONES FHD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151663
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="M+  LIGA CAMPEONES ALTERNATIVA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="ESPAÑA DEPORTES",M+  LIGA CAMPEONES ALTERNATIVA
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/242405
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="M+  LIGA CAMPEONES HD ALTERNATIVA" tvg-logo="" group-title="ESPAÑA DEPORTES",M+  LIGA CAMPEONES HD ALTERNATIVA
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/242406
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="M+  LIGA CAMPEONES FHD ALTERNATIVA" tvg-logo="" group-title="ESPAÑA DEPORTES",M+  LIGA CAMPEONES FHD ALTERNATIVA
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/242407
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="M+ Campeones UHD 2K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="ESPAÑA DEPORTES",M+ Campeones UHD 2K
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151664
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="M+ Campeones FHD Orange" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="ESPAÑA DEPORTES",M+ Campeones FHD Orange
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151665
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 2  ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="ESPAÑA DEPORTES",MOVISTAR LIGA DE CAMPEONES 2  ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151666
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2" tvg-name="MOVISTAR LIGA CAMPEONES 2 FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="ESPAÑA DEPORTES",MOVISTAR LIGA CAMPEONES 2 FULLHD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151667
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA CAMPEONES 3   ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="ESPAÑA DEPORTES",MOVISTAR LIGA CAMPEONES 3   ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151668
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 4  ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="ESPAÑA DEPORTES",MOVISTAR LIGA DE CAMPEONES 4  ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151669
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA CAMPEONES 5 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="ESPAÑA DEPORTES",MOVISTAR LIGA CAMPEONES 5 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151670
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA CAMPEONES 6  ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="ESPAÑA DEPORTES",MOVISTAR LIGA CAMPEONES 6  ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151671
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA CAMPEONES 7 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="ESPAÑA DEPORTES",MOVISTAR LIGA CAMPEONES 7 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151672
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA CAMPEONES 8 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="ESPAÑA DEPORTES",MOVISTAR LIGA CAMPEONES 8 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151673
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Plus+ HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MPLUS" group-title="ESPAÑA DEPORTES",Movistar Plus+ HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/465822
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Plus+ FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MPLUS2" group-title="ESPAÑA DEPORTES",Movistar Plus+ FHD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/465823
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Plus+ 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MPLUS2" group-title="ESPAÑA DEPORTES",Movistar Plus+ 2 HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/465824
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Plus+ 2 FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MPLUS2" group-title="ESPAÑA DEPORTES",Movistar Plus+ 2 FHD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/465825
+#EXTINF:-1 tvg-id="EUROSPORT1HD" tvg-name="EUROSPORT" tvg-logo="http://eter-picons.one/picons/Eurosport_1.png" group-title="ESPAÑA DEPORTES",EUROSPORT
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151677
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="EUROSPORT HD" tvg-logo="http://eter-picons.one/picons/Eurosport_1.png" group-title="ESPAÑA DEPORTES",EUROSPORT HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151676
+#EXTINF:-1 tvg-id="EUROSPORT1HD" tvg-name="EUROSPORT FULL HD" tvg-logo="http://eter-picons.one/picons/Eurosport_1.png" group-title="ESPAÑA DEPORTES",EUROSPORT FULL HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151675
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport  2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="ESPAÑA DEPORTES",Eurosport  2
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151674
+#EXTINF:-1 tvg-id="M+ Golf" tvg-name="MOVISTAR  GOLF" tvg-logo="http://eter-picons.one/picons/M.Golf_HD.png" group-title="ESPAÑA DEPORTES",MOVISTAR  GOLF
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151678
+#EXTINF:-1 tvg-id="M+ Golf" tvg-name="MOVISTAR GOLF HD" tvg-logo="http://eter-picons.one/picons/M.Golf_HD.png" group-title="ESPAÑA DEPORTES",MOVISTAR GOLF HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151679
+#EXTINF:-1 tvg-id="M+ Golf" tvg-name="MOVISTAR GOLF FHD" tvg-logo="http://eter-picons.one/picons/M.Golf_HD.png" group-title="ESPAÑA DEPORTES",MOVISTAR GOLF FHD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151697
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="REAL MADRID TV" tvg-logo="" group-title="ESPAÑA DEPORTES",REAL MADRID TV
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151683
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="REAL MADRID FHD" tvg-logo="https://i.imgur.com/2M9WfqA.jpg" group-title="ESPAÑA DEPORTES",REAL MADRID FHD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151684
+#EXTINF:-1 tvg-id="gol.es" tvg-name="GOL TV FHD" tvg-logo="http://hudini.site:8080/images/6fab318601e89099a3df0647771838bd.png" group-title="ESPAÑA DEPORTES",GOL TV FHD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151685
+#EXTINF:-1 tvg-id="M+ Vamos" tvg-name="VAMOS  FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD" group-title="ESPAÑA DEPORTES",VAMOS  FHD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151639
+#EXTINF:-1 tvg-id="M+ Vamos" tvg-name="VAMOS HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD" group-title="ESPAÑA DEPORTES",VAMOS HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151640
+#EXTINF:-1 tvg-id="M+ Vamos" tvg-name="VAMOS SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD" group-title="ESPAÑA DEPORTES",VAMOS SD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151641
+#EXTINF:-1 tvg-id="M+ Deportes" tvg-name="MOVISTAR  DEPORTE" tvg-logo="http://eter-picons.one/picons/M.Deportes.png" group-title="ESPAÑA DEPORTES",MOVISTAR  DEPORTE
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151680
+#EXTINF:-1 tvg-id="M+ Deportes" tvg-name="MOVISTAR DEPORTE HD" tvg-logo="http://eter-picons.one/picons/M.Deportes.png" group-title="ESPAÑA DEPORTES",MOVISTAR DEPORTE HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151681
+#EXTINF:-1 tvg-id="M+ Deportes" tvg-name="MOVISTAR DEPORTE FHD" tvg-logo="http://eter-picons.one/picons/M.Deportes.png" group-title="ESPAÑA DEPORTES",MOVISTAR DEPORTE FHD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151682
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="MOVISTAR DEPORTE 1 FULLHD" tvg-logo="http://eter-picons.one/picons/M.Deportes.png" group-title="ESPAÑA DEPORTES",MOVISTAR DEPORTE 1 FULLHD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151686
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="MOVISTAR DEPORTE 1" tvg-logo="http://eter-picons.one/picons/M.Deportes.png" group-title="ESPAÑA DEPORTES",MOVISTAR DEPORTE 1
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151687
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTE 2 (Solo Eventos)" tvg-logo="" group-title="ESPAÑA DEPORTES",MOVISTAR DEPORTE 2 (Solo Eventos)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151688
+#EXTINF:-1 tvg-id="M+ Deportes 3" tvg-name="MOVISTAR DEPORTE 3 (Solo Eventos)" tvg-logo="" group-title="ESPAÑA DEPORTES",MOVISTAR DEPORTE 3 (Solo Eventos)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151689
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTE 4 (Solo Eventos)" tvg-logo="" group-title="ESPAÑA DEPORTES",MOVISTAR DEPORTE 4 (Solo Eventos)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151690
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTE 5 (Solo Eventos)" tvg-logo="" group-title="ESPAÑA DEPORTES",MOVISTAR DEPORTE 5 (Solo Eventos)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151691
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="MOVISTAR DEPORTE 6 (Solo Eventos)" tvg-logo="" group-title="ESPAÑA DEPORTES",MOVISTAR DEPORTE 6 (Solo Eventos)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151692
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTE 7" tvg-logo="http://eter-picons.one/picons/M.Deportes.png" group-title="ESPAÑA DEPORTES",MOVISTAR DEPORTE 7
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151693
+#EXTINF:-1 tvg-id="Teledeporte" tvg-name="TELEDEPORTE" tvg-logo="http://doctorverde.ddns.net:7070/picon/teledeporte.png" group-title="ESPAÑA DEPORTES",TELEDEPORTE
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151698
+#EXTINF:-1 tvg-id="Teledeporte" tvg-name="TELEDEPORTE  HD" tvg-logo="http://doctorverde.ddns.net:7070/picon/teledeporte.png" group-title="ESPAÑA DEPORTES",TELEDEPORTE  HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151699
+#EXTINF:-1 tvg-id="Teledeporte" tvg-name="TELEDEPORTE FHD" tvg-logo="http://doctorverde.ddns.net:7070/picon/teledeporte.png" group-title="ESPAÑA DEPORTES",TELEDEPORTE FHD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151700
+#EXTINF:-1 tvg-id="toros.es" tvg-name="TOROLE TV" tvg-logo="http://eter-picons.one/picons/Toros_HD.png" group-title="ESPAÑA DEPORTES",TOROLE TV
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151701
+#EXTINF:-1 tvg-id="TOROS HD" tvg-name="ONE TORO TV HD" tvg-logo="http://eter-picons.one/picons/Toros_HD.png" group-title="ESPAÑA DEPORTES",ONE TORO TV HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151702
+#EXTINF:-1 tvg-id="toros.es" tvg-name="MUNDO TORO TV" tvg-logo="http://eter-picons.one/picons/Toros_HD.png" group-title="ESPAÑA DEPORTES",MUNDO TORO TV
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151703
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="DAZN F1 FHD" tvg-logo="" group-title="ESPAÑA DAZN",DAZN F1 FHD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151704
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 FHD" tvg-logo="" group-title="ESPAÑA DAZN",DAZN 1 FHD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151705
+#EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN SD 2" tvg-logo="" group-title="ESPAÑA DAZN",DAZN SD 2
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151706
+#EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2 HD" tvg-logo="" group-title="ESPAÑA DAZN",DAZN 2 HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151707
+#EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2 FHD" tvg-logo="" group-title="ESPAÑA DAZN",DAZN 2 FHD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151708
+#EXTINF:-1 tvg-id="DAZN 3" tvg-name="DAZN 3 HD" tvg-logo="" group-title="ESPAÑA DAZN",DAZN 3 HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151709
+#EXTINF:-1 tvg-id="DAZN 3" tvg-name="DAZN 3 FHD" tvg-logo="" group-title="ESPAÑA DAZN",DAZN 3 FHD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151710
+#EXTINF:-1 tvg-id="DAZN 4" tvg-name="DAZN 4 HD" tvg-logo="" group-title="ESPAÑA DAZN",DAZN 4 HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151711
+#EXTINF:-1 tvg-id="DAZN 4" tvg-name="DAZN 4 FHD" tvg-logo="" group-title="ESPAÑA DAZN",DAZN 4 FHD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151712
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="DAZN F1 4K" tvg-logo="" group-title="ESPAÑA DEPORTES",DAZN F1 4K
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151713
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 HD" tvg-logo="" group-title="ESPAÑA DAZN",DAZN 1 HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/152089
+#EXTINF:-1 tvg-id="" tvg-name="ORANGE LIGA " tvg-logo="http://viptv.be:8080/images/b0e265f2cf2d6fbe37ca92712ab231b9.png" group-title="ESPAÑA DEPORTES",ORANGE LIGA 
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/158913
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga HD OPC2" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg" group-title="ESPAÑA DEPORTES",M. LaLiga HD OPC2
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/158914
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga OPC3" tvg-logo="http://viptv.be:8080/images/b0e265f2cf2d6fbe37ca92712ab231b9.png" group-title="ESPAÑA DEPORTES",M. LaLiga OPC3
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/158917
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 2 OPC2" tvg-logo="http://viptv.be:8080/images/b0e265f2cf2d6fbe37ca92712ab231b9.png" group-title="ESPAÑA DEPORTES",M. LaLiga 2 OPC2
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/158918
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 3 OPC2" tvg-logo="http://viptv.be:8080/images/b0e265f2cf2d6fbe37ca92712ab231b9.png" group-title="ESPAÑA DEPORTES",M. LaLiga 3 OPC2
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/158919
+#EXTINF:-1 tvg-id="" tvg-name="M Liga Especial" tvg-logo="http://viptv.be:8080/images/b0e265f2cf2d6fbe37ca92712ab231b9.png" group-title="ESPAÑA DEPORTES",M Liga Especial
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/158915
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name="LALIGA TV HYPERMOTION FHD" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/espn-1-461787.png" group-title="ESPAÑA DEPORTES",LALIGA TV HYPERMOTION FHD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/158916
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 SD" tvg-logo="" group-title="ESPAÑA DAZN",DAZN 1 SD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/159067
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 " tvg-logo="" group-title="ESPAÑA DAZN",DAZN 1 
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/159068
+#EXTINF:-1 tvg-id="" tvg-name="TWITCH IBAI" tvg-logo="" group-title="ESPAÑA DEPORTES",TWITCH IBAI
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/181898
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="DAZN F1 HD" tvg-logo="" group-title="ESPAÑA DAZN",DAZN F1 HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/202655
+#EXTINF:-1 tvg-id="SEVILLAFC TV" tvg-name="SEVILLA FC" tvg-logo="" group-title="ESPAÑA DEPORTES",SEVILLA FC
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/205229
+#EXTINF:-1 tvg-id="Betis TV HD" tvg-name="CANAL BETIS TV" tvg-logo="" group-title="ESPAÑA DEPORTES",CANAL BETIS TV
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/205230
+#EXTINF:-1 tvg-id="" tvg-name="WORLD PADEL TOUR TV" tvg-logo="" group-title="ESPAÑA DEPORTES",WORLD PADEL TOUR TV
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/210263
+#EXTINF:-1 tvg-id="M+ Ellas V" tvg-name="ELLAS #V FHD" tvg-logo="" group-title="ESPAÑA DEPORTES",ELLAS #V FHD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/219264
+#EXTINF:-1 tvg-id="M+ Ellas V" tvg-name="ELLAS #V HD" tvg-logo="" group-title="ESPAÑA DEPORTES",ELLAS #V HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/219265
+#EXTINF:-1 tvg-id="M+ Ellas V" tvg-name="ELLAS #V SD" tvg-logo="" group-title="ESPAÑA DEPORTES",ELLAS #V SD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/219266
+#EXTINF:-1 tvg-id="" tvg-name="UEFA EVENTO 1 (solo eventos)" tvg-logo="" group-title="ESPAÑA DEPORTES",UEFA EVENTO 1 (solo eventos)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/219641
+#EXTINF:-1 tvg-id="" tvg-name="UEFA EVENTO 2 (solo eventos)" tvg-logo="" group-title="ESPAÑA DEPORTES",UEFA EVENTO 2 (solo eventos)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/219642
+#EXTINF:-1 tvg-id="" tvg-name="UEFA EVENTO 3 (solo eventos)" tvg-logo="" group-title="ESPAÑA DEPORTES",UEFA EVENTO 3 (solo eventos)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/219643
+#EXTINF:-1 tvg-id="" tvg-name="UEFA EVENTO 4 (solo eventos)" tvg-logo="" group-title="ESPAÑA DEPORTES",UEFA EVENTO 4 (solo eventos)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/219644
+#EXTINF:-1 tvg-id="" tvg-name="UEFA EVENTO 5 (solo eventos)" tvg-logo="" group-title="ESPAÑA DEPORTES",UEFA EVENTO 5 (solo eventos)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/219645
+#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-name="DAZN LIGA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/512px-DAZN_LaLiga_logo.svg.png" group-title="ESPAÑA DAZN",DAZN LIGA FHD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/228844
+#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-name="DAZN LIGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/512px-DAZN_LaLiga_logo.svg.png" group-title="ESPAÑA DAZN",DAZN LIGA HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/228845
+#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-name="DAZN LIGA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/512px-DAZN_LaLiga_logo.svg.png" group-title="ESPAÑA DAZN",DAZN LIGA SD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/228846
+#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-name="DAZN LIGA ALTERNATIVA" tvg-logo="" group-title="ESPAÑA DAZN",DAZN LIGA ALTERNATIVA
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/242410
+#EXTINF:-1 tvg-id="DAZN LALIGA 2" tvg-name="DAZN LIGA 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/512px-DAZN_LaLiga_logo.svg.png" group-title="ESPAÑA DAZN",DAZN LIGA 2 FHD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/228848
+#EXTINF:-1 tvg-id="DAZN LALIGA 2" tvg-name="DAZN LIGA 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/512px-DAZN_LaLiga_logo.svg.png" group-title="ESPAÑA DAZN",DAZN LIGA 2 HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/228849
+#EXTINF:-1 tvg-id="DAZN LALIGA 2" tvg-name="DAZN LIGA 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/512px-DAZN_LaLiga_logo.svg.png" group-title="ESPAÑA DAZN",DAZN LIGA 2 SD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/228850
+#EXTINF:-1 tvg-id="DAZN LALIGA 2" tvg-name="DAZN LIGA 2 HD (OP1)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/512px-DAZN_LaLiga_logo.svg.png" group-title="ESPAÑA DAZN",DAZN LIGA 2 HD (OP1)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/228851
+#EXTINF:-1 tvg-id="" tvg-name="BETIS TV" tvg-logo="" group-title="ESPAÑA DEPORTES",BETIS TV
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/229737
+#EXTINF:-1 tvg-id="DAZN LALIGA 2" tvg-name="DAZN LIGA ALTERNATIVA 2" tvg-logo="" group-title="ESPAÑA DAZN",DAZN LIGA ALTERNATIVA 2
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/243632
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: ESPN 1 HD (LAT)" tvg-logo="" group-title="EVENTOS UEFA",SP: UEFA: ESPN 1 HD (LAT)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/372206
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: ESPN 2 HD (LAT)" tvg-logo="" group-title="EVENTOS UEFA",SP: UEFA: ESPN 2 HD (LAT)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/372207
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: ESPN 3 HD (LAT)" tvg-logo="" group-title="EVENTOS UEFA",SP: UEFA: ESPN 3 HD (LAT)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/372208
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: TUDN X1" tvg-logo="" group-title="EVENTOS UEFA",SP: UEFA: TUDN X1
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/372209
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: TUDN X2" tvg-logo="" group-title="EVENTOS UEFA",SP: UEFA: TUDN X2
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/372210
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: TUDN X3" tvg-logo="" group-title="EVENTOS UEFA",SP: UEFA: TUDN X3
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/372211
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: TUDN X4" tvg-logo="" group-title="EVENTOS UEFA",SP: UEFA: TUDN X4
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/372212
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: TUDN X5" tvg-logo="" group-title="EVENTOS UEFA",SP: UEFA: TUDN X5
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/372213
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: TUDN X6" tvg-logo="" group-title="EVENTOS UEFA",SP: UEFA: TUDN X6
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/372214
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: TUDN X7" tvg-logo="" group-title="EVENTOS UEFA",SP: UEFA: TUDN X7
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/372215
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: TUDN X8" tvg-logo="" group-title="EVENTOS UEFA",SP: UEFA: TUDN X8
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/372216
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: TUDN X9" tvg-logo="" group-title="EVENTOS UEFA",SP: UEFA: TUDN X9
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/372217
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: TUDN X10" tvg-logo="" group-title="EVENTOS UEFA",SP: UEFA: TUDN X10
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/372218
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: TUDN X11" tvg-logo="" group-title="EVENTOS UEFA",SP: UEFA: TUDN X11
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/372219
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: TUDN HD (US)" tvg-logo="" group-title="EVENTOS UEFA",SP: UEFA: TUDN HD (US)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/372220
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: BT Sport 1 HD (UK)" tvg-logo="" group-title="EVENTOS UEFA",SP: UEFA: BT Sport 1 HD (UK)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/372221
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: BT Sport 2 HD (UK)" tvg-logo="" group-title="EVENTOS UEFA",SP: UEFA: BT Sport 2 HD (UK)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/372222
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: BT Sport 3 HD (UK)" tvg-logo="" group-title="EVENTOS UEFA",SP: UEFA: BT Sport 3 HD (UK)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/372223
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: Eleven Sports 1 (PT)" tvg-logo="" group-title="EVENTOS UEFA",SP: UEFA: Eleven Sports 1 (PT)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/372224
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: Eleven Sports 2 (PT)" tvg-logo="" group-title="EVENTOS UEFA",SP: UEFA: Eleven Sports 2 (PT)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/372225
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: Eleven Sports 3 (PT)" tvg-logo="" group-title="EVENTOS UEFA",SP: UEFA: Eleven Sports 3 (PT)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/372226
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: Eleven Sports 4 (PT)" tvg-logo="" group-title="EVENTOS UEFA",SP: UEFA: Eleven Sports 4 (PT)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/372227
+#EXTINF:-1 tvg-id="" tvg-name="SP: UEFA: Eleven Sports 5 (PT)" tvg-logo="" group-title="EVENTOS UEFA",SP: UEFA: Eleven Sports 5 (PT)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/372228
+#EXTINF:-1 tvg-id="M+ Golf 2" tvg-name="ES: MOVISTAR GOLF 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOLF2.png" group-title="ESPAÑA DEPORTES",ES: MOVISTAR GOLF 2 FHD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/372337
+#EXTINF:-1 tvg-id="M+ Golf 2" tvg-name="ES: MOVISTAR GOLF 2 HD" tvg-logo="" group-title="ESPAÑA DEPORTES",ES: MOVISTAR GOLF 2 HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/372336
+#EXTINF:-1 tvg-id="M+ Golf 2" tvg-name="ES: MOVISTAR GOLF 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOLF2.png" group-title="ESPAÑA DEPORTES",ES: MOVISTAR GOLF 2 SD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/372335
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Mundotoro SD" tvg-logo="https://vecinosmp.org/wp-content/uploads/2015/10/mundotoro.png" group-title="ESPAÑA DEPORTES",SP: ES: Mundotoro SD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/372340
+#EXTINF:-1 tvg-id="" tvg-name="ES: Mundotoro HD" tvg-logo="https://vecinosmp.org/wp-content/uploads/2015/10/mundotoro.png" group-title="ESPAÑA DEPORTES",ES: Mundotoro HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/372341
+#EXTINF:-1 tvg-id="DAZN 3" tvg-name="DANZ LA LIGA 3" tvg-logo="" group-title="ESPAÑA DAZN",DANZ LA LIGA 3
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/376751
+#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-name="DAZN LA LIGA 4" tvg-logo="" group-title="ESPAÑA DAZN",DAZN LA LIGA 4
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/376752
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="LIGA DE CAMPEONES 4K" tvg-logo="" group-title="ESPAÑA DEPORTES",LIGA DE CAMPEONES 4K
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/377082
+#EXTINF:-1 tvg-id="" tvg-name="NHL 01 | OFF" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="| NBA | NFL | NHL | MLB |",NHL 01 | OFF
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392128
+#EXTINF:-1 tvg-id="" tvg-name="NHL 02 | OFFLINE" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="| NBA | NFL | NHL | MLB |",NHL 02 | OFFLINE
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392129
+#EXTINF:-1 tvg-id="" tvg-name="NHL 03 | OFFLINE" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="| NBA | NFL | NHL | MLB |",NHL 03 | OFFLINE
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392130
+#EXTINF:-1 tvg-id="" tvg-name="NHL 04 | OFFLINE" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="| NBA | NFL | NHL | MLB |",NHL 04 | OFFLINE
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392131
+#EXTINF:-1 tvg-id="" tvg-name="NHL 05 | OFFLINE" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="| NBA | NFL | NHL | MLB |",NHL 05 | OFFLINE
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392132
+#EXTINF:-1 tvg-id="" tvg-name="NHL 6 | 7:00 PM | Nashville Predators vs Chicago Blackhawks" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="| NBA | NFL | NHL | MLB |",NHL 6 | 7:00 PM | Nashville Predators vs Chicago Blackhawks
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392133
+#EXTINF:-1 tvg-id="" tvg-name="NHL 07 | OFFLINE" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="| NBA | NFL | NHL | MLB |",NHL 07 | OFFLINE
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392134
+#EXTINF:-1 tvg-id="" tvg-name="NHL 8 | 9:00 PM | Vegas Golden Knights vs Calgary Flames" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="| NBA | NFL | NHL | MLB |",NHL 8 | 9:00 PM | Vegas Golden Knights vs Calgary Flames
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392135
+#EXTINF:-1 tvg-id="" tvg-name="NHL 9| 8:00 PM | Arizona Coyotes vs Vancouver Canucks" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="| NBA | NFL | NHL | MLB |",NHL 9| 8:00 PM | Arizona Coyotes vs Vancouver Canucks
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392136
+#EXTINF:-1 tvg-id="" tvg-name="NHL 10| 9:30 PM | Los Angeles Kings vs Columbus Blue Jackets" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="| NBA | NFL | NHL | MLB |",NHL 10| 9:30 PM | Los Angeles Kings vs Columbus Blue Jackets
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392137
+#EXTINF:-1 tvg-id="" tvg-name="NHL 11 | OFFLINE" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="| NBA | NFL | NHL | MLB |",NHL 11 | OFFLINE
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392138
+#EXTINF:-1 tvg-id="" tvg-name="NHL 12 | OFFLINE" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="| NBA | NFL | NHL | MLB |",NHL 12 | OFFLINE
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392139
+#EXTINF:-1 tvg-id="" tvg-name="NHL 13 | OFFLINE" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="| NBA | NFL | NHL | MLB |",NHL 13 | OFFLINE
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392140
+#EXTINF:-1 tvg-id="" tvg-name="NHL 14| OFFLINE" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="| NBA | NFL | NHL | MLB |",NHL 14| OFFLINE
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392141
+#EXTINF:-1 tvg-id="" tvg-name="NHL  15: OFFLINE" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="| NBA | NFL | NHL | MLB |",NHL  15: OFFLINE
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392142
+#EXTINF:-1 tvg-id="" tvg-name="NHL SEATTLE KRAKEN" tvg-logo="https://1000logos.net/wp-content/uploads/2020/12/Seattle-Kraken-Logo.png" group-title="| NBA | NFL | NHL | MLB |",NHL SEATTLE KRAKEN
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392143
+#EXTINF:-1 tvg-id="" tvg-name="NHL WINNIPEG JETS" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/winnipeg-jets-logo.png" group-title="| NBA | NFL | NHL | MLB |",NHL WINNIPEG JETS
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392144
+#EXTINF:-1 tvg-id="" tvg-name="NHL WASHINGTON CAPITALS" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/washington-capitals-1-logo-png-transparent.png" group-title="| NBA | NFL | NHL | MLB |",NHL WASHINGTON CAPITALS
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392145
+#EXTINF:-1 tvg-id="" tvg-name="NHL VEGAS GOLDEN KNIGHTS" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/vegas-golden-knights-logo.png" group-title="| NBA | NFL | NHL | MLB |",NHL VEGAS GOLDEN KNIGHTS
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392146
+#EXTINF:-1 tvg-id="" tvg-name="NHL VANCOUVER CANUCKS" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/vancouver-canucks-logo.png" group-title="| NBA | NFL | NHL | MLB |",NHL VANCOUVER CANUCKS
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392147
+#EXTINF:-1 tvg-id="" tvg-name="NHL TORONTO MAPLE LEAFS" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/toronto-maple-leafs-logo.png" group-title="| NBA | NFL | NHL | MLB |",NHL TORONTO MAPLE LEAFS
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392148
+#EXTINF:-1 tvg-id="" tvg-name="NHL TAMPA BAY LIGHTNING" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/tampa-bay-lightning-logo.png" group-title="| NBA | NFL | NHL | MLB |",NHL TAMPA BAY LIGHTNING
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392149
+#EXTINF:-1 tvg-id="" tvg-name="NHL ST. LOUIS BLUES" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/st-louis-blues-logo.png" group-title="| NBA | NFL | NHL | MLB |",NHL ST. LOUIS BLUES
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392150
+#EXTINF:-1 tvg-id="" tvg-name="NHL SAN JOSE SHARKS" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/san-jose-sharks-logo.png" group-title="| NBA | NFL | NHL | MLB |",NHL SAN JOSE SHARKS
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392151
+#EXTINF:-1 tvg-id="" tvg-name="NHL PITTSBURGH PENGUINS" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/pittsburgh-penguins-logo.png" group-title="| NBA | NFL | NHL | MLB |",NHL PITTSBURGH PENGUINS
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392152
+#EXTINF:-1 tvg-id="" tvg-name="NHL PHILADELPHIA FLYERS" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/philadelphia-flyers-logo.png" group-title="| NBA | NFL | NHL | MLB |",NHL PHILADELPHIA FLYERS
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392153
+#EXTINF:-1 tvg-id="" tvg-name="NHL OTTAWA SENATORS" tvg-logo="https://logos-world.net/wp-content/uploads/2020/05/Ottawa-Senators-logo.png" group-title="| NBA | NFL | NHL | MLB |",NHL OTTAWA SENATORS
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392154
+#EXTINF:-1 tvg-id="" tvg-name="NHL NEW YORK RANGERS" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/new-york-rangers-logo.png" group-title="| NBA | NFL | NHL | MLB |",NHL NEW YORK RANGERS
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392155
+#EXTINF:-1 tvg-id="" tvg-name="NHL NEW YORK ISLANDERS" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/new-york-islanders-logo.png" group-title="| NBA | NFL | NHL | MLB |",NHL NEW YORK ISLANDERS
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392156
+#EXTINF:-1 tvg-id="" tvg-name="NHL NEW JERSEY DEVILS" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/new-jersey-devils-logo.png" group-title="| NBA | NFL | NHL | MLB |",NHL NEW JERSEY DEVILS
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392157
+#EXTINF:-1 tvg-id="" tvg-name="NHL NASHVILLE PREDATORS" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/nashville-predators-logo.png" group-title="| NBA | NFL | NHL | MLB |",NHL NASHVILLE PREDATORS
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392158
+#EXTINF:-1 tvg-id="" tvg-name="NHL MONTREAL CANADIENS" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/montreal-canadiens-logo.png" group-title="| NBA | NFL | NHL | MLB |",NHL MONTREAL CANADIENS
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392159
+#EXTINF:-1 tvg-id="" tvg-name="NHL MINNESOTA WILD" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/minnesota-wild-logo.png" group-title="| NBA | NFL | NHL | MLB |",NHL MINNESOTA WILD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392160
+#EXTINF:-1 tvg-id="" tvg-name="NHL LOS ANGELES KINGS" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/los-angeles-kings-2-logo-png-transparent.png" group-title="| NBA | NFL | NHL | MLB |",NHL LOS ANGELES KINGS
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392161
+#EXTINF:-1 tvg-id="" tvg-name="NHL FLORDIA PANTHERS" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/florida-panthers-logo.png" group-title="| NBA | NFL | NHL | MLB |",NHL FLORDIA PANTHERS
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392162
+#EXTINF:-1 tvg-id="" tvg-name="NHL EDMONTON OILERS" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/edmonton-oilers-logo.png" group-title="| NBA | NFL | NHL | MLB |",NHL EDMONTON OILERS
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392163
+#EXTINF:-1 tvg-id="" tvg-name="NHL DETROIT RED WINGS" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/detroit-red-wings-logo.png" group-title="| NBA | NFL | NHL | MLB |",NHL DETROIT RED WINGS
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392164
+#EXTINF:-1 tvg-id="" tvg-name="NHL DALLAS STARS" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/dallas-stars-logo.png" group-title="| NBA | NFL | NHL | MLB |",NHL DALLAS STARS
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392165
+#EXTINF:-1 tvg-id="" tvg-name="NHL COLUMBUS BLUE JACKETS" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/columbus-blue-jackets-logo-black-and-white.png" group-title="| NBA | NFL | NHL | MLB |",NHL COLUMBUS BLUE JACKETS
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392166
+#EXTINF:-1 tvg-id="" tvg-name="NHL COLORADO AVALANCHE" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/colorado-avalanche-logo.png" group-title="| NBA | NFL | NHL | MLB |",NHL COLORADO AVALANCHE
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392167
+#EXTINF:-1 tvg-id="" tvg-name="NHL CHICAGO BLACKHAWKS" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/chicago-blackhawks-logo.png" group-title="| NBA | NFL | NHL | MLB |",NHL CHICAGO BLACKHAWKS
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392168
+#EXTINF:-1 tvg-id="" tvg-name="NHL CAROLINA HURRICANES" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/carolina-hurricanes-logo.png" group-title="| NBA | NFL | NHL | MLB |",NHL CAROLINA HURRICANES
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392169
+#EXTINF:-1 tvg-id="" tvg-name="NHL CALGARY FLAMES" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/calgary-flames-logo.png" group-title="| NBA | NFL | NHL | MLB |",NHL CALGARY FLAMES
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392170
+#EXTINF:-1 tvg-id="" tvg-name="NHL BUFFALO SABRES" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/buffalo-sabres-logo.png" group-title="| NBA | NFL | NHL | MLB |",NHL BUFFALO SABRES
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392171
+#EXTINF:-1 tvg-id="" tvg-name="NHL BOSTON BRUINS" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/boston-bruins-logo.png" group-title="| NBA | NFL | NHL | MLB |",NHL BOSTON BRUINS
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392172
+#EXTINF:-1 tvg-id="" tvg-name="NHL ARIZONA COYOTES" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/arizona-coyotes-logo.png" group-title="| NBA | NFL | NHL | MLB |",NHL ARIZONA COYOTES
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392173
+#EXTINF:-1 tvg-id="" tvg-name="NHL ANAHEIM DUCKS" tvg-logo="https://static.wikia.nocookie.net/disney/images/0/0d/Mighty_ducks_primary_logo.png/revision/latest?cb=20140810222650" group-title="| NBA | NFL | NHL | MLB |",NHL ANAHEIM DUCKS
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392174
+#EXTINF:-1 tvg-id="" tvg-name="Red Zone" tvg-logo="https://www.pngitem.com/pimgs/m/512-5120176_nfl-redzone-nfl-red-zone-logo-hd-png.png" group-title="| NBA | NFL | NHL | MLB |",Red Zone
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392175
+#EXTINF:-1 tvg-id="" tvg-name="MLS 1" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Major-League-Soccer-Symbol.png" group-title="| NBA | NFL | NHL | MLB |",MLS 1
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392176
+#EXTINF:-1 tvg-id="" tvg-name="MLS 2" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Major-League-Soccer-Symbol.png" group-title="| NBA | NFL | NHL | MLB |",MLS 2
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392177
+#EXTINF:-1 tvg-id="" tvg-name="MLS 3" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Major-League-Soccer-Symbol.png" group-title="| NBA | NFL | NHL | MLB |",MLS 3
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392178
+#EXTINF:-1 tvg-id="" tvg-name="MLS 4" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Major-League-Soccer-Symbol.png" group-title="| NBA | NFL | NHL | MLB |",MLS 4
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392179
+#EXTINF:-1 tvg-id="" tvg-name="MLS 5" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Major-League-Soccer-Symbol.png" group-title="| NBA | NFL | NHL | MLB |",MLS 5
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392180
+#EXTINF:-1 tvg-id="" tvg-name="MLS 6" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Major-League-Soccer-Symbol.png" group-title="| NBA | NFL | NHL | MLB |",MLS 6
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392181
+#EXTINF:-1 tvg-id="" tvg-name="MLS 7" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Major-League-Soccer-Symbol.png" group-title="| NBA | NFL | NHL | MLB |",MLS 7
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392182
+#EXTINF:-1 tvg-id="" tvg-name="MLS 8" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Major-League-Soccer-Symbol.png" group-title="| NBA | NFL | NHL | MLB |",MLS 8
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392183
+#EXTINF:-1 tvg-id="" tvg-name="MLS 9" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Major-League-Soccer-Symbol.png" group-title="| NBA | NFL | NHL | MLB |",MLS 9
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392184
+#EXTINF:-1 tvg-id="" tvg-name="MLS 10" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Major-League-Soccer-Symbol.png" group-title="| NBA | NFL | NHL | MLB |",MLS 10
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392185
+#EXTINF:-1 tvg-id="" tvg-name="MLS 11" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Major-League-Soccer-Symbol.png" group-title="| NBA | NFL | NHL | MLB |",MLS 11
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392186
+#EXTINF:-1 tvg-id="" tvg-name="MLS 12" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Major-League-Soccer-Symbol.png" group-title="| NBA | NFL | NHL | MLB |",MLS 12
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392187
+#EXTINF:-1 tvg-id="" tvg-name="MLS 13" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Major-League-Soccer-Symbol.png" group-title="| NBA | NFL | NHL | MLB |",MLS 13
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392188
+#EXTINF:-1 tvg-id="" tvg-name="MLS 14" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Major-League-Soccer-Symbol.png" group-title="| NBA | NFL | NHL | MLB |",MLS 14
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392189
+#EXTINF:-1 tvg-id="" tvg-name="MLS 15" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Major-League-Soccer-Symbol.png" group-title="| NBA | NFL | NHL | MLB |",MLS 15
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392190
+#EXTINF:-1 tvg-id="" tvg-name="MLS Eventos HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/1938px-MLS_crest_logo_RGB_gradient.svg.png" group-title="| NBA | NFL | NHL | MLB |",MLS Eventos HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/392191
+#EXTINF:-1 tvg-id="" tvg-name="PPV NFL 1" tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/09/NFL-Logo.png" group-title="| NBA | NFL | NHL | MLB |",PPV NFL 1
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/393292
+#EXTINF:-1 tvg-id="" tvg-name="PPV NFL 2" tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/09/NFL-Logo.png" group-title="| NBA | NFL | NHL | MLB |",PPV NFL 2
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/393293
+#EXTINF:-1 tvg-id="" tvg-name="PPV NFL 3" tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/09/NFL-Logo.png" group-title="| NBA | NFL | NHL | MLB |",PPV NFL 3
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/393294
+#EXTINF:-1 tvg-id="" tvg-name="PPV NFL 4" tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/09/NFL-Logo.png" group-title="| NBA | NFL | NHL | MLB |",PPV NFL 4
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/393295
+#EXTINF:-1 tvg-id="" tvg-name="NFL 01: EVENT" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-NFL.png" group-title="| NBA | NFL | NHL | MLB |",NFL 01: EVENT
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/415835
+#EXTINF:-1 tvg-id="" tvg-name="RALLY TV" tvg-logo="" group-title="ESPAÑA",RALLY TV
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/459532
+#EXTINF:-1 tvg-id="" tvg-name="F1TV Cams: | 1 | Max Verstappen | Red Bull Racing" tvg-logo="https://www.formula1.com/content/dam/fom-website/drivers/M/MAXVER01_Max_Verstappen/maxver01.png.transform/2col/image.png" group-title="EVENTOS ESPAÑA VIP",F1TV Cams: | 1 | Max Verstappen | Red Bull Racing
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/459533
+#EXTINF:-1 tvg-id="" tvg-name="F1TV Cams: | 3 | Daniel Ricciardo | McLaren" tvg-logo="https://www.formula1.com/content/dam/fom-website/drivers/D/DANRIC01_Daniel_Ricciardo/danric01.png.transform/2col/image.png" group-title="EVENTOS ESPAÑA VIP",F1TV Cams: | 3 | Daniel Ricciardo | McLaren
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/459534
+#EXTINF:-1 tvg-id="" tvg-name="F1TV Cams: | 4 | Lando Norris | McLaren" tvg-logo="https://www.formula1.com/content/dam/fom-website/drivers/L/LANNOR01_Lando_Norris/lannor01.png.transform/2col/image.png" group-title="EVENTOS ESPAÑA VIP",F1TV Cams: | 4 | Lando Norris | McLaren
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/459535
+#EXTINF:-1 tvg-id="" tvg-name="F1TV Cams: | 5 | Sebastian Vettel | Aston Martin" tvg-logo="https://www.formula1.com/content/dam/fom-website/drivers/S/SEBVET01_Sebastian_Vettel/sebvet01.png.transform/2col/image.png" group-title="EVENTOS ESPAÑA VIP",F1TV Cams: | 5 | Sebastian Vettel | Aston Martin
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/459536
+#EXTINF:-1 tvg-id="" tvg-name="F1TV Cams: | 6 | Nicholas Latifi | Williams" tvg-logo="https://www.formula1.com/content/dam/fom-website/drivers/N/NICLAF01_Nicholas_Latifi/niclaf01.png.transform/2col/image.png" group-title="EVENTOS ESPAÑA VIP",F1TV Cams: | 6 | Nicholas Latifi | Williams
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/459537
+#EXTINF:-1 tvg-id="" tvg-name="F1TV Cams: | 10 | Pierre Gasly | AlphaTauri" tvg-logo="https://www.formula1.com/content/dam/fom-website/drivers/P/PIEGAS01_Pierre_Gasly/piegas01.png.transform/2col/image.png" group-title="EVENTOS ESPAÑA VIP",F1TV Cams: | 10 | Pierre Gasly | AlphaTauri
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/459538
+#EXTINF:-1 tvg-id="" tvg-name="F1TV Cams: | 11 | Sergio Perez | Red Bull Racing" tvg-logo="https://www.formula1.com/content/dam/fom-website/drivers/S/SERPER01_Sergio_Perez/serper01.png.transform/2col/image.png" group-title="EVENTOS ESPAÑA VIP",F1TV Cams: | 11 | Sergio Perez | Red Bull Racing
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/459539
+#EXTINF:-1 tvg-id="" tvg-name="F1TV Cams: | 14 | Fernando Alonso | Alpine" tvg-logo="https://www.formula1.com/content/dam/fom-website/drivers/F/FERALO01_Fernando_Alonso/feralo01.png.transform/2col/image.png" group-title="EVENTOS ESPAÑA VIP",F1TV Cams: | 14 | Fernando Alonso | Alpine
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/459540
+#EXTINF:-1 tvg-id="" tvg-name="F1TV Cams: | 16 | Charles Leclerc | Ferrari" tvg-logo="https://www.formula1.com/content/dam/fom-website/drivers/C/CHALEC01_Charles_Leclerc/chalec01.png.transform/2col/image.png" group-title="EVENTOS ESPAÑA VIP",F1TV Cams: | 16 | Charles Leclerc | Ferrari
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/459541
+#EXTINF:-1 tvg-id="" tvg-name="F1TV Cams: | 18 | Lance Stroll | Aston Martin" tvg-logo="https://www.formula1.com/content/dam/fom-website/drivers/L/LANSTR01_Lance_Stroll/lanstr01.png.transform/2col/image.png" group-title="EVENTOS ESPAÑA VIP",F1TV Cams: | 18 | Lance Stroll | Aston Martin
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/459542
+#EXTINF:-1 tvg-id="" tvg-name="F1TV Cams: | 20 | Kevin Magnussen | Haas F1 Team" tvg-logo="https://www.formula1.com/content/dam/fom-website/drivers/K/KIMRAI01_Kimi_R%C3%A4ikk%C3%B6nen/kimrai01.png.transform/2col/image.png" group-title="EVENTOS ESPAÑA VIP",F1TV Cams: | 20 | Kevin Magnussen | Haas F1 Team
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/459543
+#EXTINF:-1 tvg-id="" tvg-name="F1TV Cams: | 22 | Yuki Tsunoda | AlphaTauri" tvg-logo="https://www.formula1.com/content/dam/fom-website/drivers/Y/YUKTSU01_Yuki_Tsunoda/yuktsu01.png.transform/2col/image.png" group-title="EVENTOS ESPAÑA VIP",F1TV Cams: | 22 | Yuki Tsunoda | AlphaTauri
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/459544
+#EXTINF:-1 tvg-id="" tvg-name="F1TV Cams: | 23 | Alexander Albon | Williams" tvg-logo="https://www.formula1.com/content/dam/fom-website/drivers/N/NIKMAZ01_Nikita_Mazepin/nikmaz01.png.transform/2col/image.png" group-title="EVENTOS ESPAÑA VIP",F1TV Cams: | 23 | Alexander Albon | Williams
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/459545
+#EXTINF:-1 tvg-id="" tvg-name="F1TV Cams: | 24 | Guanyu Zhou | Alfa Romeo" tvg-logo="https://www.formula1.com/content/dam/fom-website/drivers/A/ANTGIO01_Antonio_Giovinazzi/antgio01.png.transform/2col/image.png" group-title="EVENTOS ESPAÑA VIP",F1TV Cams: | 24 | Guanyu Zhou | Alfa Romeo
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/459546
+#EXTINF:-1 tvg-id="" tvg-name="F1TV Cams: | 31 | Esteban Ocon | Alpine" tvg-logo="https://www.formula1.com/content/dam/fom-website/drivers/E/ESTOCO01_Esteban_Ocon/estoco01.png.transform/2col/image.png" group-title="EVENTOS ESPAÑA VIP",F1TV Cams: | 31 | Esteban Ocon | Alpine
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/459547
+#EXTINF:-1 tvg-id="" tvg-name="F1TV Cams: | 44 | Lewis Hamilton | Mercedes" tvg-logo="https://www.formula1.com/content/dam/fom-website/drivers/L/LEWHAM01_Lewis_Hamilton/lewham01.png.transform/2col/image.png" group-title="EVENTOS ESPAÑA VIP",F1TV Cams: | 44 | Lewis Hamilton | Mercedes
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/459548
+#EXTINF:-1 tvg-id="" tvg-name="F1TV Cams: | 47 | Mick Schumacher | Haas F1 Team" tvg-logo="https://www.formula1.com/content/dam/fom-website/drivers/M/MICSCH02_Mick_Schumacher/micsch02.png.transform/2col/image.png" group-title="EVENTOS ESPAÑA VIP",F1TV Cams: | 47 | Mick Schumacher | Haas F1 Team
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/459549
+#EXTINF:-1 tvg-id="" tvg-name="F1TV Cams: | 55 | Carlos Sainz | Ferrari" tvg-logo="https://www.formula1.com/content/dam/fom-website/drivers/C/CARSAI01_Carlos_Sainz/carsai01.png.transform/2col/image.png" group-title="EVENTOS ESPAÑA VIP",F1TV Cams: | 55 | Carlos Sainz | Ferrari
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/459550
+#EXTINF:-1 tvg-id="" tvg-name="F1TV Cams: | 63 | George Russell | Mercedes" tvg-logo="https://www.formula1.com/content/dam/fom-website/drivers/G/GEORUS01_George_Russell/georus01.png.transform/2col/image.png" group-title="EVENTOS ESPAÑA VIP",F1TV Cams: | 63 | George Russell | Mercedes
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/459551
+#EXTINF:-1 tvg-id="" tvg-name="F1TV Cams: | 77 | Valtteri Bottas | Alfa Romeo" tvg-logo="https://www.formula1.com/content/dam/fom-website/drivers/V/VALBOT01_Valtteri_Bottas/valbot01.png.transform/2col/image.png" group-title="EVENTOS ESPAÑA VIP",F1TV Cams: | 77 | Valtteri Bottas | Alfa Romeo
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/459552
+#EXTINF:-1 tvg-id="" tvg-name="NBA 01: (Se actualiza minutos antes del evento)" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="| NBA | NFL | NHL | MLB |",NBA 01: (Se actualiza minutos antes del evento)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/460264
+#EXTINF:-1 tvg-id="" tvg-name="NBA 02: (Funciona minutos antes del evento)" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="| NBA | NFL | NHL | MLB |",NBA 02: (Funciona minutos antes del evento)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/460265
+#EXTINF:-1 tvg-id="" tvg-name="NBA03: (Funciona minutos antes del evento)" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="| NBA | NFL | NHL | MLB |",NBA03: (Funciona minutos antes del evento)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/460266
+#EXTINF:-1 tvg-id="" tvg-name="NBA 04: (Funciona minutos antes del evento)" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="| NBA | NFL | NHL | MLB |",NBA 04: (Funciona minutos antes del evento)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/460267
+#EXTINF:-1 tvg-id="" tvg-name="NBA 05:  (Funciona minutos antes del evento)" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="| NBA | NFL | NHL | MLB |",NBA 05:  (Funciona minutos antes del evento)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/460268
+#EXTINF:-1 tvg-id="" tvg-name="NBA 06: (Funciona minutos antes del evento)" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="| NBA | NFL | NHL | MLB |",NBA 06: (Funciona minutos antes del evento)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/460269
+#EXTINF:-1 tvg-id="" tvg-name="NBA 07:(Funciona minutos antes del evento)" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="| NBA | NFL | NHL | MLB |",NBA 07:(Funciona minutos antes del evento)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/460270
+#EXTINF:-1 tvg-id="" tvg-name="NBA 08: (Funciona minutos antes del evento)" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="| NBA | NFL | NHL | MLB |",NBA 08: (Funciona minutos antes del evento)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/460271
+#EXTINF:-1 tvg-id="" tvg-name="NBA 09: (Funciona minutos antes del evento)" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="| NBA | NFL | NHL | MLB |",NBA 09: (Funciona minutos antes del evento)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/460272
+#EXTINF:-1 tvg-id="" tvg-name="NBA: 10 (Funciona minutos antes del evento)" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="| NBA | NFL | NHL | MLB |",NBA: 10 (Funciona minutos antes del evento)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/460273
+#EXTINF:-1 tvg-id="" tvg-name="NBA 11:  (Funciona minutos antes del evento)" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="| NBA | NFL | NHL | MLB |",NBA 11:  (Funciona minutos antes del evento)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/460274
+#EXTINF:-1 tvg-id="" tvg-name="NBA 12:  (Funciona minutos antes del evento)" tvg-logo="https://immaa.xyz/NBAApassssevv.png" group-title="| NBA | NFL | NHL | MLB |",NBA 12:  (Funciona minutos antes del evento)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/460275
+#EXTINF:-1 tvg-id="" tvg-name="NFL NETWORK ● HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="| NBA | NFL | NHL | MLB |",NFL NETWORK ● HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/461576
+#EXTINF:-1 tvg-id="" tvg-name="NFL 03: (Event only)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="| NBA | NFL | NHL | MLB |",NFL 03: (Event only)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/461577
+#EXTINF:-1 tvg-id="" tvg-name="NFL 04: (Event only)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="| NBA | NFL | NHL | MLB |",NFL 04: (Event only)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/461578
+#EXTINF:-1 tvg-id="" tvg-name="NFL 05: (Event only)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="| NBA | NFL | NHL | MLB |",NFL 05: (Event only)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/461579
+#EXTINF:-1 tvg-id="" tvg-name="NFL 06: (Event only)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="| NBA | NFL | NHL | MLB |",NFL 06: (Event only)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/461580
+#EXTINF:-1 tvg-id="" tvg-name="NFL 07: (Event only)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="| NBA | NFL | NHL | MLB |",NFL 07: (Event only)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/461581
+#EXTINF:-1 tvg-id="" tvg-name="NFL 08: (Event only)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="| NBA | NFL | NHL | MLB |",NFL 08: (Event only)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/461582
+#EXTINF:-1 tvg-id="" tvg-name="NFL 09: (Event only)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="| NBA | NFL | NHL | MLB |",NFL 09: (Event only)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/461583
+#EXTINF:-1 tvg-id="" tvg-name="NFL 10: (Event only)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="| NBA | NFL | NHL | MLB |",NFL 10: (Event only)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/461584
+#EXTINF:-1 tvg-id="" tvg-name="NFL 11: (Event only)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="| NBA | NFL | NHL | MLB |",NFL 11: (Event only)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/461585
+#EXTINF:-1 tvg-id="" tvg-name="NFL 12: (Event only)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="| NBA | NFL | NHL | MLB |",NFL 12: (Event only)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/461586
+#EXTINF:-1 tvg-id="" tvg-name="NFL 13:  ♠ (Event only)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="| NBA | NFL | NHL | MLB |",NFL 13:  ♠ (Event only)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/461587
+#EXTINF:-1 tvg-id="" tvg-name="NFL 14: (Event only)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="| NBA | NFL | NHL | MLB |",NFL 14: (Event only)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/461588
+#EXTINF:-1 tvg-id="" tvg-name="NFL 15: (Solo eventos)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="| NBA | NFL | NHL | MLB |",NFL 15: (Solo eventos)
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/461589
+#EXTINF:-1 tvg-id="" tvg-name="NFL 16:" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="| NBA | NFL | NHL | MLB |",NFL 16:
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/461590
+#EXTINF:-1 tvg-id="" tvg-name="NFL 17:  ♠" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="| NBA | NFL | NHL | MLB |",NFL 17:  ♠
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/461591
+#EXTINF:-1 tvg-id="" tvg-name="NBA 1 Dic-01 6:00PM | Washington Wizards at Orlando Magic" tvg-logo="" group-title="| NBA | NFL | NHL | MLB |",NBA 1 Dic-01 6:00PM | Washington Wizards at Orlando Magic
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/464987
+#EXTINF:-1 tvg-id="" tvg-name="NBA 2 Dic-01 6:30PM | Philadelphia 76ers at Boston Celtics" tvg-logo="" group-title="| NBA | NFL | NHL | MLB |",NBA 2 Dic-01 6:30PM | Philadelphia 76ers at Boston Celtics
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/464988
+#EXTINF:-1 tvg-id="" tvg-name="NBA 3 Dic-01 6:30PM | New York Knicks at Toronto Raptors" tvg-logo="" group-title="| NBA | NFL | NHL | MLB |",NBA 3 Dic-01 6:30PM | New York Knicks at Toronto Raptors
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/464989
+#EXTINF:-1 tvg-id="" tvg-name="NBA 4 Dic-01 6:30PM | Memphis Grizzlies at Dallas Mavericks" tvg-logo="" group-title="| NBA | NFL | NHL | MLB |",NBA 4 Dic-01 6:30PM | Memphis Grizzlies at Dallas Mavericks
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/464990
+#EXTINF:-1 tvg-id="" tvg-name="NBA 5 Dic-01 7:00PM | San Antonio Spurs at New Orleans Pelicans" tvg-logo="" group-title="| NBA | NFL | NHL | MLB |",NBA 5 Dic-01 7:00PM | San Antonio Spurs at New Orleans Pelicans
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/464991
+#EXTINF:-1 tvg-id="" tvg-name="NBA 6 Dic-01 9:00PM | Denver Nuggets at Phoenix Suns" tvg-logo="" group-title="| NBA | NFL | NHL | MLB |",NBA 6 Dic-01 9:00PM | Denver Nuggets at Phoenix Suns
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/464992
+#EXTINF:-1 tvg-id="GOL PLAY" tvg-name="GOLPLAY SD" tvg-logo="https://i.imgur.com/oPnTLVd.png" group-title="ESPAÑA DEPORTES",GOLPLAY SD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/465860
+#EXTINF:-1 tvg-id="GOL PLAY" tvg-name="GOLPLAY HD" tvg-logo="https://i.imgur.com/oPnTLVd.png" group-title="ESPAÑA DEPORTES",GOLPLAY HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/465861
+#EXTINF:-1 tvg-id="GOL PLAY" tvg-name="GOLPLAY FHD" tvg-logo="https://i.imgur.com/oPnTLVd.png" group-title="ESPAÑA DEPORTES",GOLPLAY FHD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/465862
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="REAL MADRID TV FHD" tvg-logo="https://i.imgur.com/2M9WfqA.jpg" group-title="ESPAÑA DEPORTES",REAL MADRID TV FHD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/465863
+#EXTINF:-1 tvg-id="" tvg-name="SEVILLA FC.TV" tvg-logo="https://diretele.com/wp-content/uploads/2019/03/sevilla-fc-televisi%C3%B3n-en-directo.png" group-title="ESPAÑA DEPORTES",SEVILLA FC.TV
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/465864
+#EXTINF:-1 tvg-id="Betis TV" tvg-name="BETIS TV" tvg-logo="https://diretele.com/wp-content/uploads/2019/03/betis-tv-en-directo.png" group-title="ESPAÑA DEPORTES",BETIS TV
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/465865
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA REPLAY INFORMACION" tvg-logo="https://i.postimg.cc/s2SgZR1B/1200px-Futbol-Replay-svg.png" group-title="ESPAÑA DEPORTES",LA LIGA REPLAY INFORMACION
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/465866
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA REPLAY 1" tvg-logo="https://i.postimg.cc/s2SgZR1B/1200px-Futbol-Replay-svg.png" group-title="ESPAÑA DEPORTES",LA LIGA REPLAY 1
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/465867
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA REPLAY 2" tvg-logo="https://i.postimg.cc/s2SgZR1B/1200px-Futbol-Replay-svg.png" group-title="ESPAÑA DEPORTES",LA LIGA REPLAY 2
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/465868
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA REPLAY 3" tvg-logo="https://i.postimg.cc/s2SgZR1B/1200px-Futbol-Replay-svg.png" group-title="ESPAÑA DEPORTES",LA LIGA REPLAY 3
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/465869
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA REPLAY 4" tvg-logo="https://i.postimg.cc/s2SgZR1B/1200px-Futbol-Replay-svg.png" group-title="ESPAÑA DEPORTES",LA LIGA REPLAY 4
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/465870
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA REPLAY 5" tvg-logo="https://i.postimg.cc/s2SgZR1B/1200px-Futbol-Replay-svg.png" group-title="ESPAÑA DEPORTES",LA LIGA REPLAY 5
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/465871
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA REPLAY 6" tvg-logo="https://i.postimg.cc/s2SgZR1B/1200px-Futbol-Replay-svg.png" group-title="ESPAÑA DEPORTES",LA LIGA REPLAY 6
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/465872
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA REPLAY 7" tvg-logo="https://i.postimg.cc/s2SgZR1B/1200px-Futbol-Replay-svg.png" group-title="ESPAÑA DEPORTES",LA LIGA REPLAY 7
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/465873
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA REPLAY 8" tvg-logo="https://i.postimg.cc/s2SgZR1B/1200px-Futbol-Replay-svg.png" group-title="ESPAÑA DEPORTES",LA LIGA REPLAY 8
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/465874
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA REPLAY 9" tvg-logo="https://i.postimg.cc/s2SgZR1B/1200px-Futbol-Replay-svg.png" group-title="ESPAÑA DEPORTES",LA LIGA REPLAY 9
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/465875
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA REPLAY 10" tvg-logo="https://i.postimg.cc/s2SgZR1B/1200px-Futbol-Replay-svg.png" group-title="ESPAÑA DEPORTES",LA LIGA REPLAY 10
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/465876
+#EXTINF:-1 tvg-id="" tvg-name="MULTIDEPORTE" tvg-logo="http://meteoalcorcon.es/1_0_1_76A3_41E_1_C00000_0_0_0.png" group-title="ESPAÑA DEPORTES",MULTIDEPORTE
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/465877
+#EXTINF:-1 tvg-id="" tvg-name="REDBULL TV" tvg-logo="" group-title="ESPAÑA DEPORTES",REDBULL TV
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/468768
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTE 8" tvg-logo="" group-title="ESPAÑA DEPORTES",MOVISTAR DEPORTE 8
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/470091
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ESP" group-title="ESPAÑA DEPORTES",EUROSPORT 1 FHD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/472050
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ESP" group-title="ESPAÑA DEPORTES",EUROSPORT 1 HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/472051
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ESP" group-title="ESPAÑA DEPORTES",EUROSPORT 1 SD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/472052
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="EUROSPORT 2 FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ESP2" group-title="ESPAÑA DEPORTES",EUROSPORT 2 FHD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/472053
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="EUROSPORT 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ESP2" group-title="ESPAÑA DEPORTES",EUROSPORT 2 HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/472054
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="EUROSPORT 2 SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ESP2" group-title="ESPAÑA DEPORTES",EUROSPORT 2 SD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/472055
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 3 FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP3" group-title="ESPAÑA DEPORTES",EUROSPORT 3 FHD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/472056
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 3 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP3" group-title="ESPAÑA DEPORTES",EUROSPORT 3 HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/472057
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 3 SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP3" group-title="ESPAÑA DEPORTES",EUROSPORT 3 SD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/472058
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 4 FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP4" group-title="ESPAÑA DEPORTES",EUROSPORT 4 FHD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/472059
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 4 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP4" group-title="ESPAÑA DEPORTES",EUROSPORT 4 HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/472060
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 4 SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP4" group-title="ESPAÑA DEPORTES",EUROSPORT 4 SD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/472061
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 5 FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP5" group-title="ESPAÑA DEPORTES",EUROSPORT 5 FHD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/472062
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 5 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP5" group-title="ESPAÑA DEPORTES",EUROSPORT 5 HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/472063
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 5 SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP5" group-title="ESPAÑA DEPORTES",EUROSPORT 5 SD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/472064
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 6 FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP6" group-title="ESPAÑA DEPORTES",EUROSPORT 6 FHD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/472065
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 6 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP6" group-title="ESPAÑA DEPORTES",EUROSPORT 6 HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/472066
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 6 SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP6" group-title="ESPAÑA DEPORTES",EUROSPORT 6 SD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/472067
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 7 FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ESP7" group-title="ESPAÑA DEPORTES",EUROSPORT 7 FHD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/472068
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 7 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ESP7" group-title="ESPAÑA DEPORTES",EUROSPORT 7 HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/472069
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 7 SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ESP7" group-title="ESPAÑA DEPORTES",EUROSPORT 7 SD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/472070
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 8 FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ESP8" group-title="ESPAÑA DEPORTES",EUROSPORT 8 FHD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/472071
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 8 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ESP8" group-title="ESPAÑA DEPORTES",EUROSPORT 8 HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/472072
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 8 SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ESP8" group-title="ESPAÑA DEPORTES",EUROSPORT 8 SD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/472073
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 9 FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ESP9" group-title="ESPAÑA DEPORTES",EUROSPORT 9 FHD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/472074
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 9 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ESP9" group-title="ESPAÑA DEPORTES",EUROSPORT 9 HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/472075
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 9 SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ESP9" group-title="ESPAÑA DEPORTES",EUROSPORT 9 SD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/472076
+#EXTINF:-1 tvg-id="" tvg-name="M+ Eurosport UHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/POPUHD" group-title="ESPAÑA DEPORTES",M+ Eurosport UHD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/472077
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 6 HD" tvg-logo="" group-title="ESPAÑA DAZN",DAZN SERIE A 6 HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/474680
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 5 HD" tvg-logo="" group-title="ESPAÑA DAZN",DAZN SERIE A 5 HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/474681
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 4 HD" tvg-logo="" group-title="ESPAÑA DAZN",DAZN SERIE A 4 HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/474682
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 3 HD" tvg-logo="" group-title="ESPAÑA DAZN",DAZN SERIE A 3 HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/474683
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 2 HD" tvg-logo="" group-title="ESPAÑA DAZN",DAZN SERIE A 2 HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/474684
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 1 HD" tvg-logo="" group-title="ESPAÑA DAZN",DAZN SERIE A 1 HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/474685
+#EXTINF:-1 tvg-id="" tvg-name="DAZN BUNDESLIGA 6 HD" tvg-logo="" group-title="ESPAÑA DAZN",DAZN BUNDESLIGA 6 HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/474686
+#EXTINF:-1 tvg-id="" tvg-name="DAZN BUNDESLIGA 5 HD" tvg-logo="" group-title="ESPAÑA DAZN",DAZN BUNDESLIGA 5 HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/474687
+#EXTINF:-1 tvg-id="" tvg-name="DAZN BUNDESLIGA 4 HD" tvg-logo="" group-title="ESPAÑA DAZN",DAZN BUNDESLIGA 4 HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/474688
+#EXTINF:-1 tvg-id="" tvg-name="DAZN BUNDESLIGA 3 HD" tvg-logo="" group-title="ESPAÑA DAZN",DAZN BUNDESLIGA 3 HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/474689
+#EXTINF:-1 tvg-id="" tvg-name="DAZN BUNDESLIGA 2 HD" tvg-logo="" group-title="ESPAÑA DAZN",DAZN BUNDESLIGA 2 HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/474690
+#EXTINF:-1 tvg-id="" tvg-name="DAZN BUNDESLIGA 1 HD" tvg-logo="" group-title="ESPAÑA DAZN",DAZN BUNDESLIGA 1 HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/474691
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga Sports TV SD" tvg-logo="https://dyncont.masmediatv.es/channel_logos/5mhgt0de04nhJyvrHbHfmXuyu1tVwsPS_viewer.png" group-title="LALIGA HYPERMOTION Y  RFEF TV",LaLiga Sports TV SD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/476401
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga Sports TV HD" tvg-logo="https://dyncont.masmediatv.es/channel_logos/5mhgt0de04nhJyvrHbHfmXuyu1tVwsPS_viewer.png" group-title="LALIGA HYPERMOTION Y  RFEF TV",LaLiga Sports TV HD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/476402
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga Sports TV 1" tvg-logo="https://www.linkpicture.com/q/zV-c0Wuq_400x400-1-ff.png" group-title="LALIGA HYPERMOTION Y  RFEF TV",LaLiga Sports TV 1
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/476403
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga Sports TV 2" tvg-logo="https://www.linkpicture.com/q/zV-c0Wuq_400x400_1.png" group-title="LALIGA HYPERMOTION Y  RFEF TV",LaLiga Sports TV 2
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/476404
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga Sports TV 3" tvg-logo="https://www.linkpicture.com/q/zV-c0Wuq_400x400-1.png" group-title="LALIGA HYPERMOTION Y  RFEF TV",LaLiga Sports TV 3
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/476405
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga Sports TV 4" tvg-logo="https://www.linkpicture.com/q/zV-c0Wuq_400x400-2.png" group-title="LALIGA HYPERMOTION Y  RFEF TV",LaLiga Sports TV 4
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/476406
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga Sports TV 5" tvg-logo="https://www.linkpicture.com/q/zV-c0Wuq_400x400-copia.png" group-title="LALIGA HYPERMOTION Y  RFEF TV",LaLiga Sports TV 5
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/476407
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga Sports TV 6" tvg-logo="https://www.linkpicture.com/q/zV-c0Wuq_400x400-1-copia_1.png" group-title="LALIGA HYPERMOTION Y  RFEF TV",LaLiga Sports TV 6
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/476408
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga Sports TV 7" tvg-logo="https://www.linkpicture.com/q/zV-c0Wuq_400x400-2-copia.png" group-title="LALIGA HYPERMOTION Y  RFEF TV",LaLiga Sports TV 7
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/476409
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga Sports TV 8" tvg-logo="https://www.linkpicture.com/q/zV-c0Wuq_400x400-3.png" group-title="LALIGA HYPERMOTION Y  RFEF TV",LaLiga Sports TV 8
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/476410
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga Sports TV 9" tvg-logo="https://www.linkpicture.com/q/zV-c0Wuq_400x400-4.png" group-title="LALIGA HYPERMOTION Y  RFEF TV",LaLiga Sports TV 9
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/476411
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga Sports TV 10" tvg-logo="https://www.linkpicture.com/q/zV-c0Wuq_400x400-5.png" group-title="LALIGA HYPERMOTION Y  RFEF TV",LaLiga Sports TV 10
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/476412
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga Sports TV 11" tvg-logo="https://www.linkpicture.com/q/zV-c0Wuq_400x400-6.png" group-title="LALIGA HYPERMOTION Y  RFEF TV",LaLiga Sports TV 11
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/476413
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga Sports TV 12" tvg-logo="https://www.linkpicture.com/q/zV-c0Wuq_400x400-7.png" group-title="LALIGA HYPERMOTION Y  RFEF TV",LaLiga Sports TV 12
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/476414
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga Sports TV 13" tvg-logo="https://www.linkpicture.com/q/13_45.png" group-title="LALIGA HYPERMOTION Y  RFEF TV",LaLiga Sports TV 13
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/476415
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga Sports TV 14" tvg-logo="https://www.linkpicture.com/q/14_55.png" group-title="LALIGA HYPERMOTION Y  RFEF TV",LaLiga Sports TV 14
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/476416
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga Sports TV 15" tvg-logo="https://www.linkpicture.com/q/15_107.png" group-title="LALIGA HYPERMOTION Y  RFEF TV",LaLiga Sports TV 15
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/476417
+#EXTINF:-1 tvg-id="" tvg-name="UFC 01" tvg-logo="" group-title="| UFC | BOX | PPV |",UFC 01
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/476418
+#EXTINF:-1 tvg-id="" tvg-name="UFC 02" tvg-logo="" group-title="| UFC | BOX | PPV |",UFC 02
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/476419
+#EXTINF:-1 tvg-id="" tvg-name="UFC 03" tvg-logo="" group-title="| UFC | BOX | PPV |",UFC 03
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/476420
+#EXTINF:-1 tvg-id="" tvg-name="UFC 04" tvg-logo="" group-title="| UFC | BOX | PPV |",UFC 04
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/476421
+#EXTINF:-1 tvg-id="" tvg-name="UFC 05" tvg-logo="" group-title="| UFC | BOX | PPV |",UFC 05
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/476422
+#EXTINF:-1 tvg-id="" tvg-name="UFC 06" tvg-logo="" group-title="| UFC | BOX | PPV |",UFC 06
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/476423
+#EXTINF:-1 tvg-id="" tvg-name="UFC 07" tvg-logo="" group-title="| UFC | BOX | PPV |",UFC 07
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/476424
+#EXTINF:-1 tvg-id="" tvg-name="UFC 08" tvg-logo="" group-title="| UFC | BOX | PPV |",UFC 08
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/476425
+#EXTINF:-1 tvg-id="" tvg-name="UFC 09" tvg-logo="" group-title="| UFC | BOX | PPV |",UFC 09
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/476426
+#EXTINF:-1 tvg-id="" tvg-name="UFC 10" tvg-logo="" group-title="| UFC | BOX | PPV |",UFC 10
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/476427
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/UFC_Logo.png" group-title="| UFC | BOX | PPV |",EVENTOS UFC 1 FHD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/476428
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/UFC_Logo.png" group-title="| UFC | BOX | PPV |",EVENTOS UFC 2 FHD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/476429
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/UFC_Logo.png" group-title="| UFC | BOX | PPV |",EVENTOS UFC 3 FHD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/476430
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/UFC_Logo.png" group-title="| UFC | BOX | PPV |",EVENTOS UFC 4 FHD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/476431
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/UFC_Logo.png" group-title="| UFC | BOX | PPV |",EVENTOS UFC 5 FHD
+http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/476432
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -8834,9 +9577,25 @@ http://feextesca.fyi:2082/series/fran1508/7zj88SWxBfdQ/474919.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El señor de los anillos: Los anillos de poder S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wPXBWFxzfKgD7clsxRxk24hzSqi.jpg" group-title="SERIES OTRAS PLATAFORMAS",El señor de los anillos: Los anillos de poder S02 E07
 http://feextesca.fyi:2082/series/fran1508/7zj88SWxBfdQ/474920.mkv
  
- 
 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

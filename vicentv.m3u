@@ -2,6 +2,17 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ Plus🏆
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=56ac8e227d526e722624675ccdd91b0cc850582f
@@ -94,6 +105,7 @@ http://127.0.0.1:6878/ace/getstream?id=2448f1d084f440eed2fbe847e24f1c02f5659a78
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,M+ LaLiga TV BAR⚽
 acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 
+
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,M+ LaLiga TV BAR⚽
 acestream://94d34491106e00394835c8cb68aa94481339b53f
 
@@ -108,6 +120,8 @@ acestream://94d34491106e00394835c8cb68aa94481339b53f
 
 
 
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LaLiga🏐
+acestream://110d441ddc9713a7452588770d2bc85504672f47
 
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LaLiga🏐
 acestream://ec29289b0b14756e686c03a501bae1efa05be70c
@@ -150,6 +164,9 @@ http://127.0.0.1:6878/ace/getstream?id=e33e666c393ef04ebe99a9b92135d2e0b48c4d10
 
 
 
+
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,M+ LaLiga TV⚽
+acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e 
 
 
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,M+ LaLiga TV⚽

@@ -41,10 +41,6 @@ http://127.0.0.1:6878/ace/getstream?id=d8c2ed470e847154a88f011137cc206319f6bed5
 
 
 
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",#Vamos Ellas🏆
-#EXTVLCOPT:network-caching=1000
-http://127.0.0.1:6878/ace/getstream?id=f41f1096862767289620be5bd85727f946a434db
-
 
 
 
@@ -444,6 +440,10 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Teledeporte🏆
 http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151700
 
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ Golf🏌️‍♀️
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=f41f1096862767289620be5bd85727f946a434db
 
 
 

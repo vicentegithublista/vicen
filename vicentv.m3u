@@ -8,14 +8,19 @@
 
 
 
-
-
-
-
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ Plus🏆
+http://gbgcyek.smart-tv.xyz:900/9319924592/6526197301/11015
 
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ Plus🏆
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=56ac8e227d526e722624675ccdd91b0cc850582f
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ Plus2🏆
+http://gbgcyek.smart-tv.xyz:900/9319924592/6526197301/11016
+
+
+
+
  
 
 
@@ -1432,11 +1437,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/63d2c140c111bc0008cb890b/master.m3u
 
 
 
-#EXTINF:-1 tvg-logo="https://lo1.in/sp/mp.png"  group-title="LISTA", ES| M+ PLUS HD [BK]
-http://gbgcyek.smart-tv.xyz:900/9319924592/6526197301/11015
 
-#EXTINF:-1 tvg-logo="https://lo1.in/sp/mp.png"  group-title="LISTA", ES| M+ 2 PLUS HD [BK]
-http://gbgcyek.smart-tv.xyz:900/9319924592/6526197301/11016
 
 
 
@@ -1897,8 +1898,7 @@ http://gbgcyek.smart-tv.xyz:900/9319924592/6526197301/11022
 #EXTINF:-1 tvg-logo="https://lo1.in/sp/m+.png"  group-title="LISTA", ES| M+ 2 PLUS HD
 http://gbgcyek.smart-tv.xyz:900/9319924592/6526197301/11017
 
-#EXTINF:-1 tvg-logo="https://lo1.in/sp/M.png"  group-title="LISTA", ES| M+ ORIGINALES HD
-http://gbgcyek.smart-tv.xyz:900/9319924592/6526197301/165951
+
 
 #EXTINF:-1 tvg-logo="https://lo1.in/sp/M+ vamos.png"  group-title="LISTA", ES| M+ #VAMOS BAR HD ( EVENT ONLY )
 http://gbgcyek.smart-tv.xyz:900/9319924592/6526197301/39847
@@ -1910,15 +1910,8 @@ http://gbgcyek.smart-tv.xyz:900/9319924592/6526197301/39847
 
 
 
-
-#EXTINF:-1 tvg-logo="https://lo1.in/sp/LA 1 FHD.png"  group-title="LISTA", ES| LA 1 HD
-http://gbgcyek.smart-tv.xyz:900/9319924592/6526197301/165922
-
-#EXTINF:-1 tvg-logo="https://lo1.in/sp/LA 2.png"  group-title="LISTA", ES| LA 2 HD
-http://gbgcyek.smart-tv.xyz:900/9319924592/6526197301/165923
-
-#EXTINF:-1 tvg-logo="https://lo1.in/sp/sextahd.png"  group-title="LISTA", ES| LA SEXTA HD
-http://gbgcyek.smart-tv.xyz:900/9319924592/6526197301/165930
+#EXTINF:-1 tvg-logo="https://lo1.in/sp/M.png"  group-title="LISTA", ES| M+ ORIGINALES HD
+http://gbgcyek.smart-tv.xyz:900/9319924592/6526197301/165951
 
 #EXTINF:-1 tvg-logo="https://lo1.in/sp/cadeesp.png"  group-title="LISTA", ES| CADENA ELITE ESPAÑA HD
 http://gbgcyek.smart-tv.xyz:900/9319924592/6526197301/5604

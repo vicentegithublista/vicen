@@ -9,44 +9,12 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",La1🏆
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_576.m3u8?marcosdos
 
 
-
-
-
-
-
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ Plus🏆
-acestream://56ac8e227d526e722624675ccdd91b0cc850582f
-
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ Plus2🏆
-http://gbgcyek.smart-tv.xyz:900/9319924592/6526197301/11016
-
-
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ Originales
+acestream://3a74d9869b13e763476800740c6625e715a39879
 
 
  
@@ -81,12 +49,6 @@ http://127.0.0.1:6878/ace/getstream?id=d8c2ed470e847154a88f011137cc206319f6bed5
 
 
 
-
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ Deportes🥎🏀
-acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ Deportes🥎🏀
-acestream://3a74d9869b13e763476800740c6625e715a39879
 
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ Deportes🥎🏀
 http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
@@ -166,14 +128,6 @@ acestream://94d34491106e00394835c8cb68aa94481339b53f
 
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LaLiga🏐
-acestream://110d441ddc9713a7452588770d2bc85504672f47
-
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LaLiga🏐
-acestream://ec29289b0b14756e686c03a501bae1efa05be70c
-
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LaLiga🏐
-acestream://6de4794cd02f88f14354b5996823413a59a1de0f
 
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LaLiga🏐
 acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
@@ -190,8 +144,7 @@ acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LaLiga 2🏐
 acestream://51dbbfb42f8091e4ea7a2186b566a40e780953d9
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LaLiga 2🏐 
-http://127.0.0.1:6878/ace/getstream?id=e33e666c393ef04ebe99a9b92135d2e0b48c4d10
+
 
 
 
@@ -219,9 +172,6 @@ http://127.0.0.1:6878/ace/getstream?id=1bc437bce57b4b0450f6d1f8d818b7e97000745e
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,M+ LaLiga TV⚽
 acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,M+ LaLiga TV⚽
-acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
-
 
 
  
@@ -238,39 +188,9 @@ acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,M+ LaLiga TV 2⚽
 acestream://83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,M+ LaLiga TV 2⚽
-acestream://f31a586422c9244196c810c84b6c85da350318a5
 
 
 
-
-
-
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,M+ LaLiga TV 2⚽
-http://127.0.0.1:6878/ace/getstream?id=26029f72a4ca831d09deefe89534818db1d105bc
-
-
-
-
-
-
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,M+ LaLiga TV 3⚽
-acestream://ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4
-
-
-
-
-
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,M+ LaLiga TV 4⚽
-#EXTVLCOPT:network-caching=1000
-http://127.0.0.1:6878/ace/getstream?id=68697ea4f261289d97bbc3418ad3cbc4180aa32f
-
-
-
-
- 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",COPA🏐
-acestream://f6beccbc4eea4bc0cda43b3e8ac14790a98b61b4
 
 
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",COPA🏐
@@ -315,8 +235,6 @@ http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,DAZN 2⚽🏎🥎🏍
-http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 
 
 
@@ -325,29 +243,6 @@ http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 
 
 
-
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,DAZN 3⚽🏎🥎🏍
-http://127.0.0.1:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-
-
-
-
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,DAZN 4⚽🏎🥎🏍
-http://127.0.0.1:6878/ace/getstream?id=4e83f23945ab3e43982045f88ec31daaa4683102
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,DAZN F1🏎️ 
-http://127.0.0.1:6878/ace/getstream?id=d6281d4e6310269b416180442a470d23a4a99dc9
 
 
 
@@ -355,17 +250,6 @@ http://127.0.0.1:6878/ace/getstream?id=d6281d4e6310269b416180442a470d23a4a99dc9
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,DAZN F1🏎️ 
 http://127.0.0.1:6878/ace/getstream?id=268289e7a3c5209960b53b4d43c8c65fab294b85
 
-
-
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,DAZN F1🏎️ 
-http://127.0.0.1:6878/ace/getstream?id=2c6e4c897661e6b0257bfe931b66d20b2ec763b6
-
-
-
-
-
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,DAZN F1🏎️ 
-http://127.0.0.1:6878/ace/getstream?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa
 
 
 
@@ -405,9 +289,6 @@ http://127.0.0.1:6878/ace/getstream?id=775abd8697715c48a357906d40734ccd2a10513c
 http://127.0.0.1:6878/ace/getstream?id=8edb264520569b2280c5e86b2dc734e120032903
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ Liga de Campeones🏆⚽
-http://127.0.0.1:6878/ace/getstream?id=0a26e20f39845e928411e09a124374fccb6e1478 
-
 
 
 
@@ -424,8 +305,6 @@ http://127.0.0.1:6878/ace/getstream?id=c070cdb701fc46bb79d17568d99fc64620443d63
 
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ Liga de Campeones 3🏆⚽ 
-http://127.0.0.1:6878/ace/getstream?id=0b348cc1ae499e810729661878764a0fab88ab69
 
 
 
@@ -521,12 +400,7 @@ http://127.0.0.1:6878/ace/getstream?id=bdfe9ebe62d690c1b13eef4346d72e618cfbe804
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,LaLiga TV Hypermotion⚽
 http://127.0.0.1:6878/ace/getstream?id=b2706a7ffbea236a3b398139a3a606ada664c0eb
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,LaLiga TV Hypermotion⚽
-http://127.0.0.1:6878/ace/getstream?id=121f719ebb94193c6086ef92865cf9b197750980
 
-
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,LaLiga TV Hypermotion2⚽
-http://127.0.0.1:6878/ace/getstream?id=0a335406bad0b658aeddb2d38f8c0614b2e5623a
 
 
 
@@ -535,16 +409,6 @@ http://127.0.0.1:6878/ace/getstream?id=0a335406bad0b658aeddb2d38f8c0614b2e5623a
 acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 
 
-
-
-
-
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,Eurosport 2🏆
-acestream://98784fa0714190de289f42eb5b84e405df7e685a
-
-
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,Eurosport 2🏆
-acestream://98784fa0714190de289f42eb5b84e405df7e685a
 
 
 
@@ -569,20 +433,8 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Teledeporte🏆
-#EXTVLCOPT:network-caching=1000
-acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
 
 
-
-
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Teledeporte🏆
-http://feextesca.fyi:2082/fran1508/7zj88SWxBfdQ/151700
-
-
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ Golf🏌️‍♀️
-#EXTVLCOPT:network-caching=1000
-http://127.0.0.1:6878/ace/getstream?id=f41f1096862767289620be5bd85727f946a434db
 
 
 
@@ -804,8 +656,6 @@ https://director.shoeshopping.top/v1/variant/VE1ZWNydW9zXzE3NDQ0M2ZhNGQ0Ni1hNDNh
 https://director.shoeshopping.top/v1/director/VE1MTc0NDQzZmE0ZDQ2LWE0M2EtNjI5NC05NDExLWUzN2NiODgy/master.m3u8
 
 
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",youtube3
-https://youtu.be/UiXLK3e76KM?si=PjCvQFdfqhF_Zj1H
 
 
 

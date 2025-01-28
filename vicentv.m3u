@@ -59,8 +59,6 @@ https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/31.m3u
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/29.m3u
 
 
-#EXTINF:-1 tvg-id="" tvg-name="M+ Suspense HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MSUSP.png" group-title="LISTA",M+ Suspense HD
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/157339.m3u
 
 
 #EXTINF:-1 tvg-id="M+ Clásicos" tvg-name="M. Clásicos HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="LISTA",M. Clásicos HD
@@ -89,8 +87,6 @@ https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/200077.m3u
 #EXTINF:-1 tvg-id="BBC Food" tvg-name="BBC Food HD" tvg-logo="http://picons.openwebsrv.eu/picons/BBC_Food.png" group-title="LISTA",BBC Food HD
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/200079.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="M. Música HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MONFIR.png" group-title="LISTA",M. Música HD
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/157337.m3u
 
 #EXTINF:-1 tvg-id="Dreamworks" tvg-name="Dreamworks HD" tvg-logo="http://135.125.105.12:25461/images/d62a00de94c10095c8382a1af0aeebd9.png" group-title="LISTA",Dreamworks HD
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/75692.m3u
@@ -139,8 +135,7 @@ https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146.m3u
 
 #EXTINF:-1 tvg-id="AMC Break" tvg-name="AMC Break" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png" group-title="LISTA",AMC Break
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/130.m3u
-#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Network" tvg-logo="http://135.125.105.12:25461/logos/PARCH.png" group-title="LISTA",Paramount Network
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/179.m3u
+
 
 #EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy central HD" tvg-logo="http://135.125.105.12:25461/logos/PCM.png" group-title="LISTA",Comedy central HD
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/136.m3u
@@ -214,10 +209,8 @@ https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/805.m3u
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/7047.m3u
 #EXTINF:-1 tvg-id="Enfamilia" tvg-name="EnFamilia" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" group-title="LISTA",EnFamilia
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/148078.m3u
-#EXTINF:-1 tvg-id="BuenViaje" tvg-name="Buenviaje" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BUENV.png" group-title="LISTA",Buenviaje
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/148079.m3u
-#EXTINF:-1 tvg-id="Horse TV" tvg-name="Horse TV" tvg-logo="http://psxbyzpicons.dedyn.io/picons/HORSE.png" group-title="LISTA",Horse TV
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/148081.m3u
+
+
 
 #EXTINF:-1 tvg-id="Caza y Pesca" tvg-name="Caza y Pesca HD" tvg-logo="http://135.125.105.12:25461/logos/CAZPES.png" group-title="LISTA",Caza y Pesca HD
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/104.m3u
@@ -227,8 +220,7 @@ https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/147103.m3u
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/147104.m3u
 #EXTINF:-1 tvg-id="Cazavisión" tvg-name="Caza Vision HD" tvg-logo="http://135.125.105.12:25461/logos/CAZPES.png" group-title="LISTA",Caza Vision HD
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/106.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Canal Toros HD 1080 (Mundotoro)" tvg-logo="http://135.125.105.12:25461/images/53e164443e5580bfa3e5422fe9f25ef6.png" group-title="LISTA",Canal Toros HD 1080 (Mundotoro)
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/101.m3u
+
 #EXTINF:-1 tvg-id="" tvg-name="Canal Toros HD (Mundotoro)" tvg-logo="http://135.125.105.12:25461/logos/CFERIA.png" group-title="LISTA",Canal Toros HD (Mundotoro)
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/102.m3u
 
@@ -239,7 +231,7 @@ https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/102.m3u
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/51.m3u
 
 
-#EXTINF:-1 tvg-id="M+ LaLigaTV UHD" tvg-name="M. La Liga TV UHD 4K (en pruebas)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGUH.png" group-title="LISTA",M. La Liga TV UHD 4K (en pruebas)
+#EXTINF:-1 tvg-id="M+ LaLigaTV UHD" tvg-name="M. La Liga TV UHD 4K (en pruebas)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGUH.png" group-title="LISTA",M. La Liga TV UHD 4K 
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/157940.m3u
 
 
@@ -265,10 +257,7 @@ https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/69613.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="M. La Liga TV 7 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG6.png" group-title="LISTA",M. La Liga TV 7 SD
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/69616.m3u
-#EXTINF:-1 tvg-id="" tvg-name="M. La Liga TV 8 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG7.png" group-title="LISTA",M. La Liga TV 8 SD
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/69617.m3u
-#EXTINF:-1 tvg-id="" tvg-name="M. La Liga TV 9 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG8.png" group-title="LISTA",M. La Liga TV 9 SD
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/69620.m3u
+
 
 
 #EXTINF:-1 tvg-id="DAZN LaLiga" tvg-name="Dazn La Liga 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="LISTA",Dazn La Liga 1 HD
@@ -279,16 +268,10 @@ https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/116971.m3u
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/116973.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Dazn La Liga 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL3.png" group-title="LISTA",Dazn La Liga 3
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/180670.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Dazn La Liga 4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL4.png" group-title="LISTA",Dazn La Liga 4
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/180668.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Dazn La Liga 5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL5.png" group-title="LISTA",Dazn La Liga 5
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/180669.m3u
 
 
 
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="M. Liga De Campeones HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="LISTA",M. Liga De Campeones HD
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/61.m3u
 
 
 
@@ -309,88 +292,53 @@ https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/202858.m3u
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/756.m3u
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 7" tvg-name="M. Liga de Campeones 7" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP6.png" group-title="LISTA",M. Liga de Campeones 7
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/202860.m3u
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 7" tvg-name="M. Liga de Campeones 7 (OR)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP6.png" group-title="LISTA",M. Liga de Campeones 7 (OR)
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/757.m3u
+
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 8" tvg-name="M. Liga de Campeones 8" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP7.png" group-title="LISTA",M. Liga de Campeones 8
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/202859.m3u
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 8" tvg-name="M. Liga de Campeones 8 (OR)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP7.png" group-title="LISTA",M. Liga de Campeones 8 (OR)
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/121399.m3u
+
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 9" tvg-name="M. Liga de Campeones 9" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP8.png" group-title="LISTA",M. Liga de Campeones 9
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/202836.m3u
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 9" tvg-name="M. Liga de Campeones 9 (OR)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP8.png" group-title="LISTA",M. Liga de Campeones 9 (OR)
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/202837.m3u
+
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 10" tvg-name="M. Liga de Campeones 10" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP9.png" group-title="LISTA",M. Liga de Campeones 10
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/202838.m3u
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 10" tvg-name="M. Liga de Campeones 10 (OR)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP9.png" group-title="LISTA",M. Liga de Campeones 10 (OR)
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/202839.m3u
+
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 11" tvg-name="M. Liga de Campeones 11" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP10.png" group-title="LISTA",M. Liga de Campeones 11
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/202840.m3u
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 11" tvg-name="M. Liga de Campeones 11 (OR)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP10.png" group-title="LISTA",M. Liga de Campeones 11 (OR)
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/202841.m3u
+
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 12" tvg-name="M. Liga de Campeones 12" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP11.png" group-title="LISTA",M. Liga de Campeones 12
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/202842.m3u
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 12" tvg-name="M. Liga de Campeones 12 (OR)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP11.png" group-title="LISTA",M. Liga de Campeones 12 (OR)
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/202843.m3u
+
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 13" tvg-name="M. Liga de Campeones 13" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP12.png" group-title="LISTA",M. Liga de Campeones 13
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/202844.m3u
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 13" tvg-name="M. Liga de Campeones 13 (OR)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP12.png" group-title="LISTA",M. Liga de Campeones 13 (OR)
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/202845.m3u
+
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 14" tvg-name="M. Liga de Campeones 14" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP13.png" group-title="LISTA",M. Liga de Campeones 14
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/202846.m3u
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 14" tvg-name="M. Liga de Campeones 14 (OR)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP13.png" group-title="LISTA",M. Liga de Campeones 14 (OR)
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/202847.m3u
+
 #EXTINF:-1 tvg-id="" tvg-name="M. Liga de Campeones 15" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP14.png" group-title="LISTA",M. Liga de Campeones 15
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/202848.m3u
-#EXTINF:-1 tvg-id="" tvg-name="M. Liga de Campeones 15 (OR)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP14.png" group-title="LISTA",M. Liga de Campeones 15 (OR)
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/202849.m3u
+
 #EXTINF:-1 tvg-id="" tvg-name="M. Liga de Campeones 16" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP15.png" group-title="LISTA",M. Liga de Campeones 16
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/202850.m3u
-#EXTINF:-1 tvg-id="" tvg-name="M. Liga de Campeones 16 (OR)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP15.png" group-title="LISTA",M. Liga de Campeones 16 (OR)
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/202851.m3u
+
 #EXTINF:-1 tvg-id="" tvg-name="M. Liga de Campeones 17" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP16.png" group-title="LISTA",M. Liga de Campeones 17
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/202852.m3u
-#EXTINF:-1 tvg-id="" tvg-name="M. Liga de Campeones 17 (OR)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP16.png" group-title="LISTA",M. Liga de Campeones 17 (OR)
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/202853.m3u
+
 #EXTINF:-1 tvg-id="" tvg-name="M. Liga de Campeones 18" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP18.png" group-title="LISTA",M. Liga de Campeones 18
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/202854.m3u
-#EXTINF:-1 tvg-id="" tvg-name="M. Liga de Campeones 18 (OR)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP18.png" group-title="LISTA",M. Liga de Campeones 18 (OR)
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/202855.m3u
+
 #EXTINF:-1 tvg-id="" tvg-name="M. Liga de Campeones 19" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP19.png" group-title="LISTA",M. Liga de Campeones 19
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/202856.m3u
-#EXTINF:-1 tvg-id="" tvg-name="M. Liga de Campeones 19 (OR)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP19.png" group-title="LISTA",M. Liga de Campeones 19 (OR)
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/202857.m3u
-#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-name="La Liga HyperMotion HD 1080" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="LISTA",La Liga HyperMotion HD 1080
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/118905.m3u
+
+
 #EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-name="La Liga HyperMotion HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="LISTA",La Liga HyperMotion HD
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/118906.m3u
-#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-name="La Liga HyperMotion SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="LISTA",La Liga HyperMotion SD
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/118907.m3u
-#EXTINF:-1 tvg-id="LaLiga SmartbankTV 2" tvg-name="La Liga HyperMotion 2 HD 1080" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="LISTA",La Liga HyperMotion 2 HD 1080
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/118908.m3u
+
+
 #EXTINF:-1 tvg-id="LaLiga SmartbankTV 2" tvg-name="La Liga HyperMotion 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="LISTA",La Liga HyperMotion 2 HD
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/118909.m3u
-#EXTINF:-1 tvg-id="LaLiga SmartbankTV 2" tvg-name="La Liga HyperMotion 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="LISTA",La Liga HyperMotion 2 SD
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/118910.m3u
-#EXTINF:-1 tvg-id="" tvg-name="La Liga HyperMotion 3 HD 1080" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" group-title="LISTA",La Liga HyperMotion 3 HD 1080
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/150949.m3u
-#EXTINF:-1 tvg-id="" tvg-name="La Liga HyperMotion 4 HD 1080" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS4.png" group-title="LISTA",La Liga HyperMotion 4 HD 1080
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/150950.m3u
-#EXTINF:-1 tvg-id="" tvg-name="La Liga HyperMotion 5 HD 1080" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS5.png" group-title="LISTA",La Liga HyperMotion 5 HD 1080
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/150951.m3u
-#EXTINF:-1 tvg-id="" tvg-name="La Liga HyperMotion 6 HD 1080" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS6.png" group-title="LISTA",La Liga HyperMotion 6 HD 1080
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/180922.m3u
-#EXTINF:-1 tvg-id="" tvg-name="La Liga HyperMotion 7 HD 1080" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL5.png" group-title="LISTA",La Liga HyperMotion 7 HD 1080
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/180923.m3u
-#EXTINF:-1 tvg-id="" tvg-name="La Liga HyperMotion 8 HD 1080" tvg-logo="" group-title="LISTA",La Liga HyperMotion 8 HD 1080
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/180924.m3u
-#EXTINF:-1 tvg-id="" tvg-name="La Liga HyperMotion 9 HD 1080" tvg-logo="" group-title="LISTA",La Liga HyperMotion 9 HD 1080
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/180925.m3u
-#EXTINF:-1 tvg-id="" tvg-name="La Liga HyperMotion 10 HD 1080" tvg-logo="" group-title="LISTA",La Liga HyperMotion 10 HD 1080
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/180926.m3u
-#EXTINF:-1 tvg-id="" tvg-name="La Liga HyperMotion 11 HD 1080" tvg-logo="" group-title="LISTA",La Liga HyperMotion 11 HD 1080
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/180927.m3u
-#EXTINF:-1 tvg-id="" tvg-name="La Liga HyperMotion 12 HD 1080" tvg-logo="" group-title="LISTA",La Liga HyperMotion 12 HD 1080
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/180928.m3u
+
+
+
 
 #EXTINF:-1 tvg-id="DAZN 1" tvg-name="M. Dazn 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="LISTA",M. Dazn 1 HD
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/67050.m3u
@@ -403,8 +351,7 @@ https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/67053.m3u
 #EXTINF:-1 tvg-id="DAZN 3" tvg-name="M. Dazn 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN3.png" group-title="LISTA",M. Dazn 3 HD
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/67683.m3u
 
-#EXTINF:-1 tvg-id="DAZN 4" tvg-name="M. Dazn 4 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN4.png" group-title="LISTA",M. Dazn 4 HD
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/67681.m3u
+
 
 #EXTINF:-1 tvg-id="GOL PLAY" tvg-name="GOL HD" tvg-logo="http://135.125.105.12:25461/logos/GOL.png" group-title="LISTA",GOL HD
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/78.m3u
@@ -429,8 +376,7 @@ https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/747.m3u
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/748.m3u
 #EXTINF:-1 tvg-id="M+ Deportes 6" tvg-name="M. Deportes 6 HD 1080" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI8.png" group-title="LISTA",M. Deportes 6 HD 1080
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/749.m3u
-#EXTINF:-1 tvg-id="M+ Deportes 7" tvg-name="M. Deportes 7 HD 1080" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI6.png" group-title="LISTA",M. Deportes 7 HD 1080
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/150948.m3u
+
 
 #EXTINF:-1 tvg-id="M+ #Vamos" tvg-name="M. #Vamos HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" group-title="LISTA",M. #Vamos HD
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/90.m3u
@@ -453,35 +399,27 @@ https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/97.m3u
 
 #EXTINF:-1 tvg-id="DAZN F1" tvg-name="Dazn F1 HD 1080 (compañías especiales)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="LISTA",Dazn F1 HD 1080 (compañías especiales)
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/179866.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Dazn LaLiga Femenina 1" tvg-logo="http://psxbyzpicons.dedyn.io/picons/Dazn_LaLiga_Fem_1N.png" group-title="LISTA",Dazn LaLiga Femenina 1
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/150952.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Dazn LaLiga Femenina 2" tvg-logo="http://psxbyzpicons.dedyn.io/picons/Dazn_LaLiga_Fem_2N.png" group-title="LISTA",Dazn LaLiga Femenina 2
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/150953.m3u
+
 #EXTINF:-1 tvg-id="" tvg-name="Dazn LaLiga Femenina 3" tvg-logo="http://psxbyzpicons.dedyn.io/picons/Dazn_LaLiga_Fem_3N.png" group-title="LISTA",Dazn LaLiga Femenina 3
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/150954.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Dazn LaLiga Femenina 4" tvg-logo="http://psxbyzpicons.dedyn.io/picons/Dazn_LaLiga_Fem_4N.png" group-title="LISTA",Dazn LaLiga Femenina 4
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/150955.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Dazn LaLiga Femenina 5" tvg-logo="http://psxbyzpicons.dedyn.io/picons/Dazn_LaLiga_Fem_5N.png" group-title="LISTA",Dazn LaLiga Femenina 5
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/150956.m3u
+
 
 #EXTINF:-1 tvg-id="M+ Golf" tvg-name="M. Golf HD" tvg-logo="http://135.125.105.12:25461/logos/GOLF.png" group-title="LISTA",M. Golf HD
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/100.m3u
 
-#EXTINF:-1 tvg-id="M+ Golf 2" tvg-name="M. Golf 2 HD 1080" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="LISTA",M. Golf 2 HD 1080
+#EXTINF:-1 tvg-id="M+ Golf 2" tvg-name="M. Golf 2 HD 1080" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="LISTA",M. Golf 2 
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146196.m3u
 #EXTINF:-1 tvg-id="Teledeporte" tvg-name="Teledeporte HD 1080" tvg-logo="http://135.125.105.12:25461/images/1f9e150e32a9578aa9d8ed7a183d8603.png" group-title="LISTA",Teledeporte HD 1080
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/22475.m3u
 
-#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="Iberalia TV HD 1080-SD" tvg-logo="http://135.125.105.12:25461/logos/IBERAL.png" group-title="LISTA",Iberalia TV HD 1080-SD
+#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="Iberalia TV HD 1080-SD" tvg-logo="http://135.125.105.12:25461/logos/IBERAL.png" group-title="LISTA",Iberalia 
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/105.m3u
-#EXTINF:-1 tvg-id="Ten" tvg-name="TEN" tvg-logo="" group-title="LISTA",TEN
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/128.m3u
+
 #EXTINF:-1 tvg-id="24 HORAS" tvg-name="24 H" tvg-logo="" group-title="LISTA",24 H
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/181.m3u
 #EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="" group-title="LISTA",MTV HD
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/233.m3u
-#EXTINF:-1 tvg-id="disney.es" tvg-name="DISNEY CHANNEL  HD 1080" tvg-logo="" group-title="LISTA",DISNEY CHANNEL  HD 1080
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/248.m3u
+
 #EXTINF:-1 tvg-id="Disney Junior" tvg-name="DISNEY JUNIOR" tvg-logo="" group-title="LISTA",DISNEY JUNIOR
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/250.m3u
 
@@ -498,10 +436,8 @@ https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/255.m3u
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/28535.m3u
 #EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BABY.png" group-title="LISTA",Baby TV
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/257.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Ibiza Global TV" tvg-logo="" group-title="LISTA",Ibiza Global TV
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/200.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TV3 HD 1080" tvg-logo="" group-title="LISTA",TV3 HD 1080
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/203.m3u
+
+
 #EXTINF:-1 tvg-id="" tvg-name="SPORT 3 .cat" tvg-logo="" group-title="LISTA",SPORT 3 .cat
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/205.m3u
 #EXTINF:-1 tvg-id="" tvg-name="3/24 .cat" tvg-logo="" group-title="LISTA",3/24 .cat
@@ -525,15 +461,11 @@ https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/222.m3u
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/223.m3u
 #EXTINF:-1 tvg-id="" tvg-name="ETB 2 HD" tvg-logo="" group-title="LISTA",ETB 2 HD
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/224.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TELE MADRID HD" tvg-logo="" group-title="LISTA",TELE MADRID HD
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/227.m3u
-#EXTINF:-1 tvg-id="13 TV" tvg-name="TRECE" tvg-logo="" group-title="LISTA",TRECE
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/145868.m3u
+
+
 #EXTINF:-1 tvg-id="" tvg-name="24h" tvg-logo="" group-title="LISTA",24h
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/145870.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="El País" tvg-logo="" group-title="LISTA",El País
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/145875.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Negocios TV" tvg-logo="" group-title="LISTA",Negocios TV
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/145876.m3u
 #EXTINF:-1 tvg-id="" tvg-name="El Confidencial" tvg-logo="" group-title="LISTA",El Confidencial
@@ -541,23 +473,18 @@ https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/145877.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Teledeporte GEO" tvg-logo="" group-title="LISTA",Teledeporte GEO
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/145878.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="ETB Deportes" tvg-logo="" group-title="LISTA",ETB Deportes
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/145882.m3u
+
 #EXTINF:-1 tvg-id="" tvg-name="Clan GEO" tvg-logo="" group-title="LISTA",Clan GEO
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/145889.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="Pequeradio TV" tvg-logo="" group-title="LISTA",Pequeradio TV
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/145891.m3u
-#EXTINF:-1 tvg-id="" tvg-name="24" tvg-logo="" group-title="LISTA",24
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/145899.m3u
-#EXTINF:-1 tvg-id="" tvg-name="24" tvg-logo="" group-title="LISTA",24
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/145900.m3u
+
 #EXTINF:-1 tvg-id="" tvg-name="24" tvg-logo="" group-title="LISTA",24
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/145901.m3u
 #EXTINF:-1 tvg-id="" tvg-name="24" tvg-logo="" group-title="LISTA",24
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/145903.m3u
-#EXTINF:-1 tvg-id="" tvg-name="¡HOLA! Play" tvg-logo="" group-title="LISTA",¡HOLA! Play
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/145910.m3u
+
 #EXTINF:-1 tvg-id="" tvg-name="Canal Parlamento" tvg-logo="" group-title="LISTA",Canal Parlamento
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/145911.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Radio Nacional" tvg-logo="" group-title="LISTA",Radio Nacional
@@ -596,8 +523,7 @@ https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/145960.m3u
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/145962.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Aragón TV" tvg-logo="" group-title="LISTA",Aragón TV
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/145981.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Canal 25 Barbastro TV" tvg-logo="" group-title="LISTA",Canal 25 Barbastro TV
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/145983.m3u
+
 #EXTINF:-1 tvg-id="" tvg-name="La 1 Canarias" tvg-logo="" group-title="LISTA",La 1 Canarias
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/145984.m3u
 #EXTINF:-1 tvg-id="" tvg-name="La 2 Canarias" tvg-logo="" group-title="LISTA",La 2 Canarias
@@ -606,8 +532,7 @@ https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/145985.m3u
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/145986.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Mírame TV" tvg-logo="" group-title="LISTA",Mírame TV
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/145987.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Canal 4 Tenerife" tvg-logo="" group-title="LISTA",Canal 4 Tenerife
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/145988.m3u
+
 #EXTINF:-1 tvg-id="" tvg-name="NORTEvisión" tvg-logo="" group-title="LISTA",NORTEvisión
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/145990.m3u
 #EXTINF:-1 tvg-id="" tvg-name="RTV Mogán" tvg-logo="" group-title="LISTA",RTV Mogán
@@ -616,136 +541,15 @@ https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/145991.m3u
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/145992.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Este Canal TV" tvg-logo="" group-title="LISTA",Este Canal TV
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/145993.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Fuerteventura TV" tvg-logo="" group-title="LISTA",Fuerteventura TV
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/145996.m3u
+
 #EXTINF:-1 tvg-id="" tvg-name="Afortunadas TV" tvg-logo="" group-title="LISTA",Afortunadas TV
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/145997.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Popular TV Cantabria" tvg-logo="" group-title="LISTA",Popular TV Cantabria
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/145998.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Guada TV Media" tvg-logo="" group-title="LISTA",Guada TV Media
 https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146001.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Imás TV" tvg-logo="" group-title="LISTA",Imás TV
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146003.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Alcarria TV" tvg-logo="" group-title="LISTA",Alcarria TV
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146004.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Alcarria TV" tvg-logo="" group-title="LISTA",Alcarria TV
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146005.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TeleToledo" tvg-logo="" group-title="LISTA",TeleToledo
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146008.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Canal 2000" tvg-logo="" group-title="LISTA",Canal 2000
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146009.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TV Aranda" tvg-logo="" group-title="LISTA",TV Aranda
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146022.m3u
-#EXTINF:-1 tvg-id="" tvg-name="La 1 Catalunya" tvg-logo="" group-title="LISTA",La 1 Catalunya
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146037.m3u
-#EXTINF:-1 tvg-id="" tvg-name="La 1 Catalunya" tvg-logo="" group-title="LISTA",La 1 Catalunya
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146038.m3u
-#EXTINF:-1 tvg-id="" tvg-name="La 2 Catalunya" tvg-logo="" group-title="LISTA",La 2 Catalunya
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146039.m3u
-#EXTINF:-1 tvg-id="" tvg-name="La 2 Catalunya" tvg-logo="" group-title="LISTA",La 2 Catalunya
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146040.m3u
-#EXTINF:-1 tvg-id="" tvg-name="24h Catalunya" tvg-logo="" group-title="LISTA",24h Catalunya
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146041.m3u
-#EXTINF:-1 tvg-id="" tvg-name="betevé" tvg-logo="" group-title="LISTA",betevé
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146043.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Canal 4 Televisió" tvg-logo="" group-title="LISTA",Canal 4 Televisió
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146044.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Canal Terrassa" tvg-logo="" group-title="LISTA",Canal Terrassa
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146052.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Canal Taronja Anoia" tvg-logo="" group-title="LISTA",Canal Taronja Anoia
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146063.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Canal Taronja Osona i Moianés" tvg-logo="" group-title="LISTA",Canal Taronja Osona i Moianés
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146066.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Piera TV" tvg-logo="" group-title="LISTA",Piera TV
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146070.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Mar TV" tvg-logo="" group-title="LISTA",Mar TV
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146076.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TV Sabadell Vallès" tvg-logo="" group-title="LISTA",TV Sabadell Vallès
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146077.m3u
-#EXTINF:-1 tvg-id="" tvg-name="RTVCE" tvg-logo="" group-title="LISTA",RTVCE
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146080.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Telemadrid" tvg-logo="" group-title="LISTA",Telemadrid
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146081.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Teleganés" tvg-logo="" group-title="LISTA",Teleganés
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146085.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Distrito TV" tvg-logo="" group-title="LISTA",Distrito TV
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146086.m3u
-#EXTINF:-1 tvg-id="" tvg-name="EsTuTele" tvg-logo="" group-title="LISTA",EsTuTele
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146088.m3u
-#EXTINF:-1 tvg-id="" tvg-name="À Punt" tvg-logo="" group-title="LISTA",À Punt
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146095.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Intercomarcal TV" tvg-logo="" group-title="LISTA",Intercomarcal TV
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146097.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Intercomarcal TV" tvg-logo="" group-title="LISTA",Intercomarcal TV
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146098.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Intercomarcal TV" tvg-logo="" group-title="LISTA",Intercomarcal TV
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146099.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TeleElx" tvg-logo="" group-title="LISTA",TeleElx
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146100.m3u
-#EXTINF:-1 tvg-id="" tvg-name="8 La Marina TV" tvg-logo="" group-title="LISTA",8 La Marina TV
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146102.m3u
-#EXTINF:-1 tvg-id="" tvg-name="La 8 Mediterráneo" tvg-logo="" group-title="LISTA",La 8 Mediterráneo
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146103.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Alacantí TV" tvg-logo="" group-title="LISTA",Alacantí TV
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146104.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TV Artequatre" tvg-logo="" group-title="LISTA",TV Artequatre
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146105.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Burriana TV" tvg-logo="" group-title="LISTA",Burriana TV
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146110.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Elche 7 TV" tvg-logo="" group-title="LISTA",Elche 7 TV
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146113.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Canal 56" tvg-logo="" group-title="LISTA",Canal 56
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146114.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Onda 15 TV" tvg-logo="" group-title="LISTA",Onda 15 TV
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146119.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Punt 3 Vall Uixó" tvg-logo="" group-title="LISTA",Punt 3 Vall Uixó
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146122.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Ciudades Del Ocio TV" tvg-logo="" group-title="LISTA",Ciudades Del Ocio TV
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146123.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Onda Valencia" tvg-logo="" group-title="LISTA",Onda Valencia
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146124.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Une Vinalopó" tvg-logo="" group-title="LISTA",Une Vinalopó
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146125.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Canal Extremadura" tvg-logo="" group-title="LISTA",Canal Extremadura
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146127.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TV Ferrol" tvg-logo="" group-title="LISTA",TV Ferrol
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146144.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TeleVigo" tvg-logo="" group-title="LISTA",TeleVigo
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146145.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Canal 4 Televisió" tvg-logo="" group-title="LISTA",Canal 4 Televisió
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146148.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Melilla TV" tvg-logo="" group-title="LISTA",Melilla TV
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146152.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Popular TV Melilla" tvg-logo="" group-title="LISTA",Popular TV Melilla
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146153.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ETB 1" tvg-logo="" group-title="LISTA",ETB 1
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146154.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ETB 2" tvg-logo="" group-title="LISTA",ETB 2
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146155.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ETB Eventos 1" tvg-logo="" group-title="LISTA",ETB Eventos 1
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146156.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ETB Eventos 2 GEO" tvg-logo="" group-title="LISTA",ETB Eventos 2 GEO
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146157.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Hamaika TV" tvg-logo="" group-title="LISTA",Hamaika TV
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146158.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Tele 7" tvg-logo="" group-title="LISTA",Tele 7
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146159.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Goiena Eus" tvg-logo="" group-title="LISTA",Goiena Eus
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146160.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Durangaldeko TV" tvg-logo="" group-title="LISTA",Durangaldeko TV
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146161.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Urola TV" tvg-logo="" group-title="LISTA",Urola TV
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146167.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Popular TV Murcia" tvg-logo="" group-title="LISTA",Popular TV Murcia
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146169.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Canal 1 Mar Menor Torre Pacheco" tvg-logo="" group-title="LISTA",Canal 1 Mar Menor Torre Pacheco
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146170.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Arabi TV" tvg-logo="" group-title="LISTA",Arabi TV
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146171.m3u
-#EXTINF:-1 tvg-id="" tvg-name="EITB Basque" tvg-logo="" group-title="LISTA",EITB Basque
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/146175.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Mezzo Live HD 1080" tvg-logo="" group-title="LISTA",Mezzo Live HD 1080
-https://au-ve.com:8443/live/MORGAN/2QrvueKVL6/832.m3u
+
+
 
 
 

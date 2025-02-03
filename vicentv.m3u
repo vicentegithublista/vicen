@@ -2,11 +2,11 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml"
 
 
-#EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M. PLUS EVENTOS 3-2-2025
+#EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M. PLUS 
 acestream://56ac8e227d526e722624675ccdd91b0cc850582f
 
 
-#EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",#VAMOS EVENTOS 3-2-2025
+#EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",#VAMOS 
 acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
 
 
@@ -14,22 +14,22 @@ acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
 
 
 
-#EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",#VAMOS EVENTOS 3-2-2025
+#EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",#VAMOS 
 acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
 
-#EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Deportes EVENTOS 3-2-2025
+#EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Deportes 
 acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
 
 
-#EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV EVENTOS 3-2-2025
+#EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV 
 http://127.0.0.1:6878/content/83d43d89061d3790c1a9938a967ce8734a0bd6ce/0.453584109459
 
 
-#EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LIGA EVENTOS 3-2-2025
+#EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LIGA 
 acestream://110d441ddc9713a7452588770d2bc85504672f47
 
 
-#EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",TV BAR EVENTOS 3-2-2025
+#EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",TV BAR 
 acestream://94d34491106e00394835c8cb68aa94481339b53f
 
 
@@ -37,57 +37,57 @@ acestream://94d34491106e00394835c8cb68aa94481339b53f
 
 
 
-#EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LIGA DE CAMPEONES 3-2-2025
+#EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LIGA DE CAMPEONES 
 acestream://bb5a8bf7752e978460ee1710e5e8950a5c9e1f99/
 
 
-#EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Hypermotion EVENTOS 3-2-2025
+#EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Hypermotion EVENTOS 
 acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
 
 
 
-#EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", DAZN1 EVENTOS 3-2-2025
+#EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", DAZN1 EVENTOS 
 acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5
 
 
 
-#EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", DAZN2 EVENTOS 3-2-2025
+#EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", DAZN2 EVENTOS 
 acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
 
 
 
-#EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", DAZN3 EVENTOS 3-2-2025
+#EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", DAZN3 EVENTOS 
 acestream://d1d9ec2361a6ac8edc0b2841866383768cc28df9
 
 
-#EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", DAZN4 EVENTOS 3-2-2025
+#EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", DAZN4 EVENTOS 
 acestream://7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 
-#EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", DAZN F1 EVENTOS 3-2-2025
+#EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", DAZN F1 EVENTOS 
 acestream://268289e7a3c5209960b53b4d43c8c65fab294b85
 
 
 
 
-#EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", SKY F1 EVENTOS 3-2-2025
+#EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", SKY F1 EVENTOS 
 acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
 
 
 
 
 
-#EXTINF:-1 group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",COPA EVENTOS 3-2-2025
+#EXTINF:-1 group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",COPA EVENTOS 
 acestream://b51f2d9a15b6956a44385b6be531bcabeb099d9d
 
 
 
-#EXTINF:-1 group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",EUROSPORT 1 EVENTOS 3-2-2025
+#EXTINF:-1 group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",EUROSPORT 1 EVENTOS 
 acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 
 
 
 
-#EXTINF:-1 group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",GOLF 1 EVENTOS 3-2-2025
+#EXTINF:-1 group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",GOLF 1 EVENTOS 
 acestream://872608e734992db636eb79426802cd08f4029afb/
 
 
@@ -152,6 +152,33 @@ acestream://872608e734992db636eb79426802cd08f4029afb/
 
 #EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",La1🏆
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_576.m3u8?marcosdos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,M.plus 🏆
 acestream://56ac8e227d526e722624675ccdd91b0cc850582f

@@ -20,12 +20,7 @@ acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
 #EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", DAZN1 EVENTOS 3-2-2025
 acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5
 
-#EXTINF:-1 group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,La Liga EVENTOS 3-2-2025
-acestream://94d34491106e00394835c8cb68aa94481339b53f
 
-
-#EXTINF:-1 group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,TV BAR EVENTOS 3-2-2025
-acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 
 #EXTINF:-1 group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,TV BAR EVENTOS 3-2-2025
 acestream://94d34491106e00394835c8cb68aa94481339b53f
@@ -35,6 +30,13 @@ acestream://94d34491106e00394835c8cb68aa94481339b53f
 acestream://b51f2d9a15b6956a44385b6be531bcabeb099d9d
 
 
+
+#EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",#Vamos EVENTOS 3-2-2025
+acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
+
+
+#EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",#Vamos EVENTOS 3-2-2025
+acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 
 
 
@@ -57,7 +59,7 @@ acestream://b51f2d9a15b6956a44385b6be531bcabeb099d9d
 #EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",La1🏆
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_576.m3u8?marcosdos
 
-EXTINF:-1 group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,M.plus 🏆
+#EXTINF:-1 group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,M.plus 🏆
 acestream://56ac8e227d526e722624675ccdd91b0cc850582f
 
  
@@ -65,13 +67,11 @@ acestream://56ac8e227d526e722624675ccdd91b0cc850582f
 
 
 #EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",#Vamos🏆
-#EXTVLCOPT:network-caching=1000
-acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 
 
 #EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",#Vamos🏆
-#EXTVLCOPT:network-caching=1000
-acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
+acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 
 
 

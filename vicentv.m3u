@@ -2,6 +2,9 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml"
 
 
+#EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M. PLUS EVENTOS 3-2-2025
+acestream://56ac8e227d526e722624675ccdd91b0cc850582f
+
 
 #EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Deportes EVENTOS 3-2-2025
 acestream://3a74d9869b13e763476800740c6625e715a39879
@@ -15,10 +18,15 @@ acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
 #EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LIGA EVENTOS 3-2-2025
 acestream://110d441ddc9713a7452588770d2bc85504672f47
 
-#EXTINF:-1 group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,TV BAR EVENTOS 3-2-2025
+
+#EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",TV BAR EVENTOS 3-2-2025
 acestream://94d34491106e00394835c8cb68aa94481339b53f
 
 
+
+
+#EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LIGA DE CAMPEONES 3-2-2025
+http://127.0.0.1:6878/ace/getstream?id=775abd8697715c48a357906d40734ccd2a10513c
 
 
 #EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Hypermotion EVENTOS 3-2-2025
@@ -130,12 +138,6 @@ acestream://56ac8e227d526e722624675ccdd91b0cc850582f
 
 
 
-#EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",#Vamos🏆
-acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-
-
-#EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",#Vamos🏆
-acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 
 
 

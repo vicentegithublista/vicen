@@ -2,11 +2,11 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml"
 
 
-#EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", EVENTOS 3-2-2025🏆
+EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", EVENTOS 3-2-2025🏆
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 
 
-#EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", EVENTOS 3-2-2025🏆
+EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", EVENTOS 3-2-2025🏆
 acestream://3a74d9869b13e763476800740c6625e715a39879
 
 
@@ -38,11 +38,11 @@ acestream://110d441ddc9713a7452588770d2bc85504672f47
 acestream://ec29289b0b14756e686c03a501bae1efa05be70c
 
 
-#EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", EVENTOS 3-2-2025🏆
+EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", EVENTOS 3-2-2025🏆
 acestream://6de4794cd02f88f14354b5996823413a59a1de0f
 
 
-#EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", EVENTOS 3-2-2025🏆
+EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", EVENTOS 3-2-2025🏆
 acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
 
 
@@ -51,7 +51,7 @@ acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
 #EXTINF:0,group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",La1🏆
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_576.m3u8?marcosdos
 
-#EXTINF:-1 group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,M.plus 🏆
+EXTINF:-1 group-title="ACESTREAM DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,M.plus 🏆
 acestream://56ac8e227d526e722624675ccdd91b0cc850582f
 
  

@@ -10,20 +10,29 @@ acestream://56ac8e227d526e722624675ccdd91b0cc850582f
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Deportes 
 acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
 
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",TV BAR 
+acestream://5570c9d0ffc8f728100e1638785908a586dd259c
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",TV BAR 
+acestream://94d34491106e00394835c8cb68aa94481339b53f
+
+
 
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV 
 http://127.0.0.1:6878/content/83d43d89061d3790c1a9938a967ce8734a0bd6ce/0.453584109459
 
 
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",TV BAR 
-acestream://94d34491106e00394835c8cb68aa94481339b53f
-
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LIGA DE CAMPEONES 
-acestream://bb5a8bf7752e978460ee1710e5e8950a5c9e1f99/
 
 
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Hypermotion 
-acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
+
+
+
+
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LIGA 
+acestream://225141726b1d9a4f979e5306c228c33516f062ff
+
+
 
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LIGA 
 acestream://110d441ddc9713a7452588770d2bc85504672f47
@@ -45,6 +54,29 @@ acestream://2792a8a5f4a3f53cd72dec377a2639cd12a6973e
 
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LIGA 5
 acestream://99e544cddbee13798e854c1009ee7d1a93fdedf7
+
+
+
+
+
+
+
+
+
+
+DAZN F1 FHD
+edfeb3fe8cc5ed6d7abdcd79d742b1cab190b975
+
+
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LIGA DE CAMPEONES 
+acestream://bb5a8bf7752e978460ee1710e5e8950a5c9e1f99/
+
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Hypermotion 
+acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
+
+
 
 
 

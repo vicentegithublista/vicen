@@ -117,6 +117,11 @@ acestream://205ffcef0d66d6d0a616ec02ab579f1a35ba0a61
 acestream://24a1a8548457d6f66de44bf1755c05f525553d01
 
 
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",#VAMOS ELLAS
+acestream://16e4bcf5714958cc9908bb548c5e2fae03e78bf6
+
+
+
 
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Deportes 
 http://127.0.0.1:6878/ace/getstream?infohash=8aba55f4f1f47def54447e845518109d797339e7
@@ -245,7 +250,8 @@ acestream://4e83f23945ab3e43982045f88ec31daaa4683102
 
 
 
-
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", DAZN F1 
+acestream://9a1f874b4a3e3ac56c38bb7b8eb78f63ccc83f60
 
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", DAZN F1 
 acestream://edfeb3fe8cc5ed6d7abdcd79d742b1cab190b975

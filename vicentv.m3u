@@ -2,13 +2,29 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml"
 
 
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",La1
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_576.m3u8?marcosdos
+
+
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M. PLUS 
 acestream://56ac8e227d526e722624675ccdd91b0cc850582f
 
 
 
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",#VAMOS
+https://digitalmania@tinyurl.com/28nyhk6y
+
+
+
+
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Deportes 
 acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Deportes 2
+acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
+
+
 
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",TV BAR 
 acestream://5570c9d0ffc8f728100e1638785908a586dd259c
@@ -54,19 +70,6 @@ acestream://2792a8a5f4a3f53cd72dec377a2639cd12a6973e
 
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LIGA 5
 acestream://99e544cddbee13798e854c1009ee7d1a93fdedf7
-
-
-
-
-
-
-
-
-
-
-DAZN F1 FHD
-edfeb3fe8cc5ed6d7abdcd79d742b1cab190b975
-
 
 
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LIGA DE CAMPEONES 
@@ -126,7 +129,8 @@ acestream://4e83f23945ab3e43982045f88ec31daaa4683102
 
 
 
-
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", DAZN F1 
+acestream://edfeb3fe8cc5ed6d7abdcd79d742b1cab190b975
 
 
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", DAZN F1 
@@ -161,8 +165,7 @@ acestream://872608e734992db636eb79426802cd08f4029afb/
 
 
 
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",La1
-https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_576.m3u8?marcosdos
+
 
 
   

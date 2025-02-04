@@ -8,9 +8,15 @@
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,LA 1 UHD
 http://sharktv.alphatx.me:80/lena/lena123/1620282
 
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LA 2 FHD
+http://ak-47scan.dyndns.tv:25461/r3str3@m/vvjGFEdj8T/45444
 
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",La1
-https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_576.m3u8?marcosdos
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",TELEMADRID
+http://ak-47scan.dyndns.tv:25461/r3str3@m/vvjGFEdj8T/293512
+
+
+
+
 
 
 
@@ -158,7 +164,8 @@ acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",COPA 
 acestream://b51f2d9a15b6956a44385b6be531bcabeb099d9d
 
-
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",EUROSPORT 1  
+http://ak-47scan.dyndns.tv:25461/r3str3@m/vvjGFEdj8T/397984
 
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",EUROSPORT 1 
 acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
@@ -182,12 +189,38 @@ http://sharktv.alphatx.me:80/lena/lena123/1471384
 http://sharktv.alphatx.me:80/lena/lena123/1471383
 
 
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,ONETORO
+http://fastream.xyz:8080/juanabril21/canale2021/236541
+
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,ONETORO
+http://fastream.xyz:8080/juanabril21/canale2021/236542
 
 
 
 
 
-  
+
+
+
+
+
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",TCM
+http://ak-47scan.dyndns.tv:25461/r3str3@m/vvjGFEdj8T/50473
+
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",NATIONAL GEOGRAPHIC
+http://ak-47scan.dyndns.tv:25461/r3str3@m/vvjGFEdj8T/50481
+
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",HISTORY
+http://ak-47scan.dyndns.tv:25461/r3str3@m/vvjGFEdj8T/50597
+
+
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Neox 
+http://ak-47scan.dyndns.tv:25461/r3str3@m/vvjGFEdj8T/289119
+
+
+
+  #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",TVE Internacional 
+http://ak-47scan.dyndns.tv:25461/r3str3@m/vvjGFEdj8T/394470
 
 
 
@@ -407,6 +440,9 @@ http://cinepulse.xyz:80/555938735/144924784/22
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",UFC Fight Pass🥊
 http://cinepulse.xyz:80/555938735/144924784/347
 
+
+EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",La1
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_576.m3u8?marcosdos
 
 
 

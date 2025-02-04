@@ -4,41 +4,7 @@
 
 
 
-Tronoss, [04/02/2025 21:47]
-1. Nombre: 10000 - DAZN LIGA FHD MULTIAUDIO por Tronoss -
-2. Nombre: 10001 - DAZN LA LIGA 2 FHD por Tronoss - 5b017680f9f1acb7bb42ea4283e825bb3a5096e0
-3. Nombre: 10002 - DAZN 1 BAR FHD por Tronoss -
-4. Nombre: 10003 - DAZN 2 BAR FHD por Tronoss -
-5. Nombre: 10004 - DAZN F1 FHD por Tronoss - 9a1f874b4a3e3ac56c38bb7b8eb78f63ccc83f60
-6. Nombre: 10005 - F1 TV 14 | Fernando Alonso | Aston Martin por Tronoss -
-7. Nombre: 10006 - F1 TV 55 | Carlos Sainz | Williams por Tronoss -
-8. Nombre: 10007 - MGPTV | Camara de a bordo 1 por Tronoss -
-9. Nombre: 10008 - MGPTV | Camara de a bordo 2 por Tronoss -
-10. Nombre: 10009 - MGPTV | Camara de a bordo 3 por Tronoss -
-11. Nombre: 10010 - MGPTV | Camara de a bordo 4 por Tronoss -
-12. Nombre: 10011 - MGPTV | Camara Carrera 360 grados en 2K ( Solo Motogp ) por Tronoss -
-13. Nombre: 10012 - #---DAZN EVENTOS---# por Tronoss -
-14. Nombre: 10013 - DAZN EVENTOS 1 por Tronoss -
-15. Nombre: 10014 - DAZN EVENTOS 2 por Tronoss -
-16. Nombre: 10015 - DAZN EVENTOS 3 por Tronoss -
-17. Nombre: 10016 - DAZN BUNDESLIGA 1 FHD por Tronoss -
-18. Nombre: 10017 - DAZN BUNDESLIGA 2 FHD por Tronoss -
-19. Nombre: 10018 - DAZN BUNDESLIGA 3 FHD por Tronoss -
-20. Nombre: 10019 - DAZN PREMIER 1 FHD por Tronoss -
-21. Nombre: 10020 - DAZN PREMIER 2 FHD por Tronoss -
-22. Nombre: 10021 - DAZN PREMIER 3 FHD por Tronoss -
-23. Nombre: 10022 - MOVISTAR GOLF FHD por Tronoss - 1859c4ebb1a64360abdeeaf716878b59f43602cf
-24. Nombre: 10023 - MOVISTAR GOLF 2 FHD por Tronoss -
-25. Nombre: 10024 - MOVISTAR SERIES FHD por Tronoss -
-26. Nombre: 10025 - MOVISTAR CLASICOS FHD por Tronoss - 537a5e2623fb5b730fe18f03a2bfb410f9a0b8eb
-27. Nombre: 10026 - M+ LIGA DE CAMPEONES UHD por Tronoss -
-28. Nombre: 10027 - M+ LIGA DE CAMPEONES FHD por Tronoss - 6523c80f56ba0d6865da06ef8e9c4f487627b0b2
-29. Nombre: 10028 - M+ LIGA DE CAMPEONES FHD (ORANGE) por Tronoss -
-30. Nombre: 10029 - M+ LIGA DE CAMPEONES 2 FHD por Tronoss - 8a55c6bd19a00da97d439edddcdf70dafae9693b
-31. Nombre: 10030 - M+ LIGA DE CAMPEONES 2 FHD (ORANGE) por Tronoss - 897c10b369f9ac26d5a15941fb6a2686ec718eaa
-32. Nombre: 10031 - M+ LIGA DE CAMPEONES 3 FHD por Tronoss -
-33. Nombre: 10032 - M+ LIGA DE CAMPEONES 4 FHD por Tronoss - 32a52adf909fe59f7fbb9588f3c7b51328e203cf
-34. Nombre: 10033 - M+ LIGA DE CAMPEONES 5 FHD por Tronoss - 6d54e749acb3326df506ecf870ff95d8369e5664
+
 35. Nombre: 10034 - M+ LIGA DE CAMPEONES 6 SD por Tronoss -
 36. Nombre: 10035 - M+ LIGA DE CAMPEONES 7 SD por Tronoss -
 37. Nombre: 10036 - M+ LIGA DE CAMPEONES 8 SD por Tronoss -
@@ -175,6 +141,11 @@ acestream://110d441ddc9713a7452588770d2bc85504672f47
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LIGA 
 acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
 
+
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LIGA 2
+acestream://5b017680f9f1acb7bb42ea4283e825bb3a5096e0
+
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LIGA 2
 acestream://97ba38d47680954be40e48bd8f43e17222fefecb
 
@@ -190,14 +161,34 @@ acestream://2792a8a5f4a3f53cd72dec377a2639cd12a6973e
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LIGA 5
 acestream://99e544cddbee13798e854c1009ee7d1a93fdedf7
 
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LIGA DE CAMPEONES 
+acestream://6523c80f56ba0d6865da06ef8e9c4f487627b0b2
 
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LIGA DE CAMPEONES
-http://127.0.0.1:6878/ace/getstream?infohash=8c1c3eae077f3a786ed2f0a426197ea93fdf7373
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LIGA DE CAMPEONES 
+acestream://8c1c3eae077f3a786ed2f0a426197ea93fdf7373
 
 
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LIGA DE CAMPEONES 
 acestream://bb5a8bf7752e978460ee1710e5e8950a5c9e1f99/
 
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LIGA DE CAMPEONES 2
+acestream://8a55c6bd19a00da97d439edddcdf70dafae9693b
+
+
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LIGA DE CAMPEONES 2
+acestream://897c10b369f9ac26d5a15941fb6a2686ec718eaa
+
+
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LIGA DE CAMPEONES 4
+acestream://32a52adf909fe59f7fbb9588f3c7b51328e203cf
+
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LIGA DE CAMPEONES 5
+acestream://6d54e749acb3326df506ecf870ff95d8369e5664
 
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Hypermotion 
 acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
@@ -280,6 +271,8 @@ http://ak-47scan.dyndns.tv:25461/r3str3@m/vvjGFEdj8T/397984
 acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 
 
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",GOLF 1  
+acestream://1859c4ebb1a64360abdeeaf716878b59f43602cf
 
 
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",GOLF 1  
@@ -328,9 +321,13 @@ http://ak-47scan.dyndns.tv:25461/r3str3@m/vvjGFEdj8T/289119
 
 
 
-  #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",TVE Internacional 
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",TVE Internacional 
 http://ak-47scan.dyndns.tv:25461/r3str3@m/vvjGFEdj8T/394470
 
+
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M. CLASICOS 
+acestream://537a5e2623fb5b730fe18f03a2bfb410f9a0b8eb
 
 
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Tennis Channel🎾 

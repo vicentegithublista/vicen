@@ -16,6 +16,8 @@ http://127.0.0.1:6878/ace/getstream?id=56ac8e227d526e722624675ccdd91b0cc850582f
 
 
 
+
+
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV
 http://127.0.0.1:6878/ace/getstream?infohash=83d43d89061d3790c1a9938a967ce8734a0bd6ce
 
@@ -37,8 +39,8 @@ http://127.0.0.1:6878/ace/getstream?id=d5feb1c3a83b7e59f85ce5e6d0573c4bf36659ff
 http://127.0.0.1:6878/ace/getstream?id=7e63c60c1b0f5e5ad1e1266011326232fb8c7e53
 
 
-
-
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",TV BAR 
+http://127.0.0.1:6878/ace/getstream?id=704d3d43e6aa360eb552501eb020793cab93175d
 
 
 
@@ -132,12 +134,14 @@ http://127.0.0.1:6878/ace/getstream?id=7802e1c784d8b5d5e1b1534ca085990c8e5e1b67
 http://127.0.0.1:6878/ace/getstream?id=f4a5545ab93ea29144debcbba87204b4f4a7ccf5
 
 
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Deportes 2
+http://127.0.0.1:6878/ace/getstream?id=b6c0f2706af6d203dbf15e3363cfbd6b8944afd3
+
+
+
 
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Deportes 2 eventos
 http://127.0.0.1:6878/ace/getstream?id=b57b181bf5e70afd78e0938186a3586408e68f4e
-
-
-
 
 
 

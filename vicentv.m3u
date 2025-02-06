@@ -116,11 +116,11 @@ http://127.0.0.1:6878/ace/getstream?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9
 
 
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LIGA DE CAMPEONES 
-http://127.0.0.1:6878/ace/getstream?id=eb47dd6510df6f6a6b4fdbb593681f2bee4bc773
+acestream://eb47dd6510df6f6a6b4fdbb593681f2bee4bc773
 
 
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LIGA DE CAMPEONES 
-http://127.0.0.1:6878/ace/getstream?id=42a27b0e6ec5cf2663dad8a1e23af73f5aaf62e7
+acestream://42a27b0e6ec5cf2663dad8a1e23af73f5aaf62e7
 
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LIGA DE CAMPEONES
 http://127.0.0.1:6878/ace/getstream?id=0a26e20f39845e928411e09a124374fccb6e1478

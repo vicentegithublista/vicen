@@ -51,8 +51,50 @@ http://127.0.0.1:6878/ace/getstream?infohash=83d43d89061d3790c1a9938a967ce8734a0
 http://127.0.0.1:6878/content/83d43d89061d3790c1a9938a967ce8734a0bd6ce/0.453584109459
 
 
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV
+acestream://94d34491106e00394835c8cb68aa94481339b53f
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV
+acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
+
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV
+acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV
+acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV 2
+acestream://83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV 2
+acestream://f31a586422c9244196c810c84b6c85da350318a5
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV 3
+acestream://ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV 3
+acestream://835639b89db00cc0d94660da3c10b6e38bfbcdc1
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV 4
+acestream://68697ea4f261289d97bbc3418ad3cbc4180aa32f
+
+
+
+
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",TV BAR 
 http://127.0.0.1:6878/ace/getstream?id=94d34491106e00394835c8cb68aa94481339b53f
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",TV BAR
+acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",TV BAR
+acestream://94d34491106e00394835c8cb68aa94481339b53f
+
+
+
+
+
 
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LIGA 
 http://127.0.0.1:6878/ace/getstream?id=25fe7c7c63b382a77f79f8f912b11dde94ea89b7
@@ -61,11 +103,36 @@ http://127.0.0.1:6878/ace/getstream?id=25fe7c7c63b382a77f79f8f912b11dde94ea89b7
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LIGA 
 http://sharktv.alphatx.me:80/lena/lena123/1471376
 
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LIGA 
+acestream://110d441ddc9713a7452588770d2bc85504672f47
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LIGA 
+acestream://ec29289b0b14756e686c03a501bae1efa05be70c
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LIGA 
+acestream://6de4794cd02f88f14354b5996823413a59a1de0f
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LIGA 
+acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
+
+
+
+
+
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LIGA 2
 http://127.0.0.1:6878/ace/getstream?id=97ba38d47680954be40e48bd8f43e17222fefecb
 
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LIGA 2
 http://127.0.0.1:6878/ace/getstream?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LIGA 2
+acestream://97ba38d47680954be40e48bd8f43e17222fefecb
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LIGA 2
+acestream://51dbbfb42f8091e4ea7a2186b566a40e780953d9
+
+
+
 
 
 
@@ -79,11 +146,7 @@ http://127.0.0.1:6878/ace/getstream?id=eb47dd6510df6f6a6b4fdbb593681f2bee4bc773
 http://127.0.0.1:6878/ace/getstream?id=42a27b0e6ec5cf2663dad8a1e23af73f5aaf62e7
 
 
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LaLiga TV Hypermotion
-acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
 
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LaLiga TV Hypermotion
-acestream://121f719ebb94193c6086ef92865cf9b197750980
 
 
 
@@ -128,8 +191,6 @@ http://127.0.0.1:6878/ace/getstream?id=4e83f23945ab3e43982045f88ec31daaa4683102
 http://127.0.0.1:6878/ace/getstream?id=b51f2d9a15b6956a44385b6be531bcabeb099d9d
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",COPA 
-acestream://938a1f2260df6cbc4a3fc2bacea323ab3ecf1788
 
 
 
@@ -138,12 +199,6 @@ acestream://938a1f2260df6cbc4a3fc2bacea323ab3ecf1788
 
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",GOLF
-http://127.0.0.1:6878/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb
-
-
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",GOLF
-acestream://e258e75e0e802afa5fcc53d46b47d8801a254ad5
 
 
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",EUROSPORT 1 
@@ -257,17 +312,6 @@ http://127.0.0.1:6878/ace/getstream?id=0745ec9349604ddf194d2b16fa3c523e92fb9b35
 
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", Sport TV 1 
-acestream://ce235921dac95e1da2dd5e54673c2fecb9e806de
-
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", Sport TV 2 
-acestream://396d82ca6f5445abcd32e6b609d67e332ee12ace
-
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", Sport TV 3 
-acestream://f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
-
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", beIN SPORTS 
-acestream://41af6926a6010b68ba2540975761436bb077748f
 
 
 

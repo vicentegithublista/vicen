@@ -73,10 +73,17 @@ http://127.0.0.1:6878/ace/getstream?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9
 http://127.0.0.1:6878/ace/getstream?id=eb47dd6510df6f6a6b4fdbb593681f2bee4bc773
 
 
+
+
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LIGA DE CAMPEONES 
 http://127.0.0.1:6878/ace/getstream?id=42a27b0e6ec5cf2663dad8a1e23af73f5aaf62e7
 
 
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LaLiga TV Hypermotion
+acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LaLiga TV Hypermotion
+acestream://121f719ebb94193c6086ef92865cf9b197750980
 
 
 
@@ -121,6 +128,8 @@ http://127.0.0.1:6878/ace/getstream?id=4e83f23945ab3e43982045f88ec31daaa4683102
 http://127.0.0.1:6878/ace/getstream?id=b51f2d9a15b6956a44385b6be531bcabeb099d9d
 
 
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",COPA 
+acestream://938a1f2260df6cbc4a3fc2bacea323ab3ecf1788
 
 
 
@@ -131,6 +140,10 @@ http://127.0.0.1:6878/ace/getstream?id=b51f2d9a15b6956a44385b6be531bcabeb099d9d
 
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",GOLF
 http://127.0.0.1:6878/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb
+
+
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",GOLF
+acestream://e258e75e0e802afa5fcc53d46b47d8801a254ad5
 
 
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",EUROSPORT 1 

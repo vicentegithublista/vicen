@@ -30,10 +30,6 @@ f8b3f3da277b6c83eb0af79b5605b2dc536280a7
 MOVISTAR GOLF 2 FHD por Tronoss
 8a971452170f5050ad262057e40e406d036fe151
 
-MOVISTAR SERIES FHD por Tronoss
-a95eec76d0833070205e55ceeb6697871f45017f
-MOVISTAR CLASICOS FHD por Tronoss
-c831e904aa4c07b51aa46c2ea8bb68ed0af1a94f
 
 
 
@@ -82,8 +78,7 @@ DEPORTES FHD por Tronoss
 3515c9dbc8334a4514e93d9d128331346c03d110
 
 
-M. ACCION FHD por Tronoss
-a5e21f79ebd21c2562019ceefd9a7e21c8e2f6a5
+
 
 
 
@@ -114,6 +109,35 @@ http://127.0.0.1:6878/ace/getstream?id=e53c497c3a56968bc11fa3771c813fc740e355e3
 
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LA SEXTA 
 http://127.0.0.1:6878/ace/getstream?id=906191eed84a42d83939fd150ee3c04834bc0533
+
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",TELEMADRID
+http://ak-47scan.dyndns.tv:25461/r3str3@m/vvjGFEdj8T/293512
+
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",TVE Internacional 
+http://ak-47scan.dyndns.tv:25461/r3str3@m/vvjGFEdj8T/394470
+
+
+
+#EXTINF:-1 tvg-id="MOVISTAR SERIES FHD por Tronoss" , MOVISTAR SERIES 
+http://127.0.0.1:6878/ace/getstream?id=a95eec76d0833070205e55ceeb6697871f45017fb
+
+#EXTINF:-1 tvg-id="MOVISTAR CLASICOS FHD por Tronoss" , MOVISTAR CLASICOS 
+http://127.0.0.1:6878/ace/getstream?id=c831e904aa4c07b51aa46c2ea8bb68ed0af1a94f
+
+
+#EXTINF:-1 tvg-id="M. ACCION FHD por Tronoss" , M. ACCION 
+http://127.0.0.1:6878/ace/getstream?id=a5e21f79ebd21c2562019ceefd9a7e21c8e2f6a5
+
+
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",TCM
+http://ak-47scan.dyndns.tv:25461/r3str3@m/vvjGFEdj8T/50473
+
+
+
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",HISTORY
+http://ak-47scan.dyndns.tv:25461/r3str3@m/vvjGFEdj8T/50597
+
+
 
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M. PLUS 
 http://127.0.0.1:6878/ace/getstream?id=bf270b6486daf3a2aa54bc027fd7cb02401a447a
@@ -440,47 +464,19 @@ http://127.0.0.1:6878/ace/getstream?id=8cfca5b5726ac30e131b85c3cc7c7501c4c8fd75
 
 
 
-#EXTINF:-1 group-title="DEPORTE"tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",LA 1 
-https://ztnr.rtve.es/ztnr/1688877.m3u8
-
-
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LA 2 
-http://ak-47scan.dyndns.tv:25461/r3str3@m/vvjGFEdj8T/45444
-
-
-
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Telecinco
-http://127.0.0.1:6878/ace/getstream?id=66a7e4727bccce8ccc04e54861b06b62d89452fa
-
-
-
-
-
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",TELEMADRID
-http://ak-47scan.dyndns.tv:25461/r3str3@m/vvjGFEdj8T/293512
 
 
 
 
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",TCM
-http://ak-47scan.dyndns.tv:25461/r3str3@m/vvjGFEdj8T/50473
-
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",NATIONAL GEOGRAPHIC
-http://ak-47scan.dyndns.tv:25461/r3str3@m/vvjGFEdj8T/50481
-
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",HISTORY
-http://ak-47scan.dyndns.tv:25461/r3str3@m/vvjGFEdj8T/50597
-
-
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Neox 
-http://ak-47scan.dyndns.tv:25461/r3str3@m/vvjGFEdj8T/289119
 
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",TVE Internacional 
-http://ak-47scan.dyndns.tv:25461/r3str3@m/vvjGFEdj8T/394470
+
+
+
+
 
 
 
@@ -497,15 +493,6 @@ http://fastream.xyz:8080/juanabril21/canale2021/236542
 
 
 
-#EXTINF:-1 tvg-id="MOVISTAR SERIES FHD por Tronoss" , MOVISTAR SERIES 
-http://127.0.0.1:6878/ace/getstream?id=2b9e1cddbb52f8f69d70b477ec36f87d707df31b
-
-#EXTINF:-1 tvg-id="MOVISTAR CLASICOS FHD por Tronoss" , MOVISTAR CLASICOS 
-http://127.0.0.1:6878/ace/getstream?id=ab79f3dbca2992aa041da92ede3d1e0c30245c8d
-
-
-#EXTINF:-1 tvg-id="M. ACCION FHD por Tronoss" , M. ACCION 
-http://127.0.0.1:6878/ace/getstream?id=0745ec9349604ddf194d2b16fa3c523e92fb9b35
 
 
 

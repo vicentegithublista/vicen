@@ -61,10 +61,7 @@ DAZN 3 FHD por Tronoss
 DAZN 4 FHD por Tronoss
 33a4463a9e45e335dc1043c4e6a54fa633482716
 
-#VAMOS FHD por Tronoss
-5d53c0eac71606aeacae0edca1fae32ad1550b07
-#VAMOS FHD 2 por Tronoss
-6bb749db4855f6b993b1d7822a1537bb72c6191e
+
 
 ELLAS #V FHD por Tronoss
 e871097e11dc05086e945bd715e854be3c3c4082
@@ -118,10 +115,10 @@ http://ak-47scan.dyndns.tv:25461/r3str3@m/vvjGFEdj8T/394470
 
 
 
-#EXTINF:-1 tvg-id="MOVISTAR SERIES FHD por Tronoss" , MOVISTAR SERIES 
+EXTINF:-1 tvg-id="MOVISTAR SERIES FHD por Tronoss" , MOVISTAR SERIES 
 http://127.0.0.1:6878/ace/getstream?id=a95eec76d0833070205e55ceeb6697871f45017fb
 
-#EXTINF:-1 tvg-id="MOVISTAR CLASICOS FHD por Tronoss" , MOVISTAR CLASICOS 
+EXTINF:-1 tvg-id="MOVISTAR CLASICOS FHD por Tronoss" , MOVISTAR CLASICOS 
 http://127.0.0.1:6878/ace/getstream?id=c831e904aa4c07b51aa46c2ea8bb68ed0af1a94f
 
 
@@ -137,6 +134,20 @@ http://ak-47scan.dyndns.tv:25461/r3str3@m/vvjGFEdj8T/50473
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",HISTORY
 http://ak-47scan.dyndns.tv:25461/r3str3@m/vvjGFEdj8T/50597
 
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",ODISEA UHD
+http://sharktv.alphatx.me:80/lena/lena123/1471383
+
+
+
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,ONETORO
+http://fastream.xyz:8080/juanabril21/canale2021/236541
+
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,ONETORO
+http://fastream.xyz:8080/juanabril21/canale2021/236542
+
+
+
+
 
 
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M. PLUS 
@@ -151,7 +162,9 @@ http://127.0.0.1:6878/ace/getstream?id=0ab6bab2334d442b68671cc86c4243f2b0bf1290
 
 
 #EXTINF:-1 tvg-id="#VAMOS FHD por Tronoss" , #VAMOS 
-http://127.0.0.1:6878/ace/getstream?id=5f593876293d0a5c3c138e904c54526cc2da3c5b
+http://127.0.0.1:6878/ace/getstream?id=5d53c0eac71606aeacae0edca1fae32ad1550b07
+
+
 
 
 
@@ -161,7 +174,7 @@ http://127.0.0.1:6878/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2
 
 
 #EXTINF:-1 tvg-id="#VAMOS FHD por Tronoss" , #VAMOS 
-http://127.0.0.1:6878/ace/getstream?id=12ba546d229bc39f01c3c18988a034b215fe6adb
+http://127.0.0.1:6878/ace/getstream?id=6bb749db4855f6b993b1d7822a1537bb72c6191e
 
 
 
@@ -480,16 +493,7 @@ http://127.0.0.1:6878/ace/getstream?id=8cfca5b5726ac30e131b85c3cc7c7501c4c8fd75
 
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",ODISEA UHD
-http://sharktv.alphatx.me:80/lena/lena123/1471383
 
-
-
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,ONETORO
-http://fastream.xyz:8080/juanabril21/canale2021/236541
-
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,ONETORO
-http://fastream.xyz:8080/juanabril21/canale2021/236542
 
 
 

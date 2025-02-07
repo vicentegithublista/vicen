@@ -35,34 +35,7 @@ a95eec76d0833070205e55ceeb6697871f45017f
 MOVISTAR CLASICOS FHD por Tronoss
 c831e904aa4c07b51aa46c2ea8bb68ed0af1a94f
 
-M+ LIGA DE CAMPEONES FHD por Tronoss
-53ddc12b16f82f778a52727ef6641ccbdad96cc0
-M+ LIGA DE CAMPEONES FHD (ORANGE) por Tronoss
-cc09808bc6978c2859aad9d6b2c987e377d6a039
-M+ LIGA DE CAMPEONES 2 FHD por Tronoss
-164a5aa16958499f26945b918126f9f7d54ac0e8
-M+ LIGA DE CAMPEONES 2 FHD (ORANGE) por Tronoss
-32814ee3ed02b5ff44f6e55391a68d435073d579
-M+ LIGA DE CAMPEONES 3 FHD por Tronoss
-8af148049510eae7e682bb37dbe79136b4dea015
-M+ LIGA DE CAMPEONES 4 FHD por Tronoss
-8677dddfbc93968a77489d62fa2fda9df574b405
-M+ LIGA DE CAMPEONES 5 FHD por Tronoss
-cac129629a3c4b4adfe22cb2d371033ceb7a0ba0
-M+ LIGA DE CAMPEONES 6 SD por Tronoss
-071568397193b7c3393b4f70e52e4ec8e1ee47d6
-M+ LIGA DE CAMPEONES 7 SD por Tronoss
-4c312c3b655836476e237cae7e66ef76114a31e7
-M+ LIGA DE CAMPEONES 8 SD por Tronoss
-b94a57f7ce865634dd95e1fb79fa31fc55c8256d
-M+ LIGA DE CAMPEONES 14 SD por Tronoss
-177595bfe2e7d53a07f16d6d029650bce672dd2f
-M+ LIGA DE CAMPEONES 15 SD por Tronoss
-d97fb6cc8309b3a56a3d1b7b1693524bdd8f481f
-M+ LIGA DE CAMPEONES 16 SD por Tronoss
-48ddcba40304470dfa69dce399854f425573d37b
-M+ LIGA DE CAMPEONES 17 SD por Tronoss
-2a783152fd4d98f4b396508140ba23d05680cd8b
+
 
 Super Copa OrangeTV por Tronoss
 64844e31c852c51b0a744ce5546511a7d4674d10
@@ -344,6 +317,47 @@ http://127.0.0.1:6878/ace/getstream?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9
 http://127.0.0.1:6878/ace/getstream?id=775abd8697715c48a357906d40734ccd2a10513c
 
 
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LIGA DE CAMPEONES
+http://127.0.0.1:6878/ace/getstream?id=53ddc12b16f82f778a52727ef6641ccbdad96cc0
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LIGA DE CAMPEONES
+http://127.0.0.1:6878/ace/getstream?id=cc09808bc6978c2859aad9d6b2c987e377d6a039
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LIGA DE CAMPEONES
+http://127.0.0.1:6878/ace/getstream?id=164a5aa16958499f26945b918126f9f7d54ac0e8
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LIGA DE CAMPEONES 2
+http://127.0.0.1:6878/ace/getstream?id=32814ee3ed02b5ff44f6e55391a68d435073d579
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LIGA DE CAMPEONES 3
+http://127.0.0.1:6878/ace/getstream?id=8af148049510eae7e682bb37dbe79136b4dea015
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LIGA DE CAMPEONES 4
+http://127.0.0.1:6878/ace/getstream?id=8677dddfbc93968a77489d62fa2fda9df574b405
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LIGA DE CAMPEONES 5
+http://127.0.0.1:6878/ace/getstream?id=cac129629a3c4b4adfe22cb2d371033ceb7a0ba0
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LIGA DE CAMPEONES 6
+http://127.0.0.1:6878/ace/getstream?id=071568397193b7c3393b4f70e52e4ec8e1ee47d6
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LIGA DE CAMPEONES 7
+http://127.0.0.1:6878/ace/getstream?id=4c312c3b655836476e237cae7e66ef76114a31e7
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LIGA DE CAMPEONES 8
+http://127.0.0.1:6878/ace/getstream?id=b94a57f7ce865634dd95e1fb79fa31fc55c8256d
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LIGA DE CAMPEONES 9
+http://127.0.0.1:6878/ace/getstream?id=177595bfe2e7d53a07f16d6d029650bce672dd2f
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LIGA DE CAMPEONES 10
+http://127.0.0.1:6878/ace/getstream?id=d97fb6cc8309b3a56a3d1b7b1693524bdd8f481f
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LIGA DE CAMPEONES 15
+http://127.0.0.1:6878/ace/getstream?id=48ddcba40304470dfa69dce399854f425573d37b
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LIGA DE CAMPEONES 17
+http://127.0.0.1:6878/ace/getstream?id=2a783152fd4d98f4b396508140ba23d05680cd8b
 
 
 

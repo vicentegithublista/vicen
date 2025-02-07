@@ -73,6 +73,26 @@ http://127.0.0.1:6878/ace/getstream?id=d80d6e2a4350bc9886fbb55a2149b3de3c057ddf
 
 
 
+
+
+
+
+#EXTINF:0,group-title="DEPORTE 2" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Deportes 
+http://127.0.0.1:6878/ace/getstream?id=b6c0f2706af6d203dbf15e3363cfbd6b8944afd3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV
 http://127.0.0.1:6878/ace/getstream?infohash=83d43d89061d3790c1a9938a967ce8734a0bd6ce
 
@@ -250,6 +270,15 @@ http://ak-47scan.dyndns.tv:25461/r3str3@m/vvjGFEdj8T/397984
 
 #EXTINF:-1 tvg-id="EUROSPORT 2 FHD por Tronoss" , EUROSPORT 2 
 http://127.0.0.1:6878/ace/getstream?id=5c1e4bc4d62bfbb2e6cc0abf98db29358aec2479
+
+
+
+
+
+ #EXTINF:-1 tvg-id="EUROSPORT 2 FHD por Tronoss" ,GOLF 2 
+http://127.0.0.1:6878/ace/getstream?id=8cfca5b5726ac30e131b85c3cc7c7501c4c8fd75
+
+
 
 
 #EXTINF:-1 group-title="DEPORTE"tvg-logo="https://live.staticflickr.com/65535/53975701359_3e64133d48_n.jpg",LA 1 

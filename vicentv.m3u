@@ -1,4 +1,5 @@
 
+
                                                                                                                                                                                                                                                                                            
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml"
 
@@ -599,6 +600,28 @@ http://127.0.0.1:6878/ace/getstream?id=e3ad553098e0c1e70cba1ea2a906dc27aa3452a2
 
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",UFC Fight Pass🥊
 http://127.0.0.1:6878/ace/getstream?id=c73e3eefe1f4a90fd7495f8be2d5f772d758713b
+
+
+
+
+
+
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",UFC Fight Pass🥊
+http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+
+
+
+
+
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",UFC Fight Pass🥊
+http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa
+
+
+
+
+
 
 
 

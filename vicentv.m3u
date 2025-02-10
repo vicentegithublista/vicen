@@ -38,17 +38,11 @@ http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
 
 
 
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Deportes Eventos
-http://127.0.0.1:6878/ace/getstream?id=b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb
-
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Deportes Eventos
-http://127.0.0.1:6878/ace/getstream?id=fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
 
 
 
 
 
-f
 
 
 
@@ -126,6 +120,12 @@ http://127.0.0.1:6878/ace/getstream?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9
 http://127.0.0.1:6878/ace/getstream?id=5834660ff7ae10f0514dc23c241c054dc0272d01
 
 
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Deportes Eventos
+http://127.0.0.1:6878/ace/getstream?id=b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Deportes Eventos
+http://127.0.0.1:6878/ace/getstream?id=fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
 
 
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",#VAMOS EVENTOS 

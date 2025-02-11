@@ -86,11 +86,9 @@ http://127.0.0.1:6878/ace/getstream?id=aeb4beec9a3639f1bed7bd56a20f3afe7186cae3
 EXTINF:-1 tvg-logo="https://i.ibb.co/BZF0xG9/liga3.png" tvg-id="M+ LaLiga TV 3 HD", M+ LaLiga 3 FHD por Tronoss
 http://127.0.0.1:6878/ace/getstream?id=bfa4d2ce53fd25488828a3a1070cd7d194b265af
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD", M+ LIGA DE CAMPEONES UHD por Tronoss
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD", M+ LIGA DE CAMPEONES UHD por Tronoss
 http://127.0.0.1:6878/ace/getstream?id=be5cf4441685df4540a34938fb3774818fa62310
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD", M+ LIGA DE CAMPEONES FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=4e3302991c482dff2e10de69795fa5aa87a61ae7
 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD", M+ LIGA DE CAMPEONES FHD (SAT) por Tronoss
 http://127.0.0.1:6878/ace/getstream?id=38d0b187d3cf396695bbb2166a09f57736276e2e
@@ -182,8 +180,6 @@ http://127.0.0.1:6878/ace/getstream?id=fb27c753c690bf21edcf527f42cd14c5c9e6b53e
 EXTINF:-1 tvg-logo="https://i.ibb.co/WDN9NN9/deportes4.png" tvg-id="M+ Deportes 4", M+ DEPORTES 4 FHD por Tronoss
 http://127.0.0.1:6878/ace/getstream?id=f36a4e0ef1fbd63757130284e9a6c3b7c212a421
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pvZ2tSB/deportes5.png" tvg-id="M+ Deportes 5", M+ DEPORTES 5 HD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=34b38986ac5e6e842f954f0dd25b2798be70b276
 
 EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD", #VAMOS FHD (SAT) por Tronoss
 http://127.0.0.1:6878/ace/getstream?id=8c1e181e99425c729cdf12c21fccaf07ea106a49
@@ -227,7 +223,7 @@ http://127.0.0.1:6878/ace/getstream?id=dfdf5353080a7e3d0f4b4c8e3cf4e0be19731652
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_mxgp.png" tvg-id="", MGPTV | Camara de a bordo 1 por Tronoss
 http://127.0.0.1:6878/ace/getstream?id=a5cf46320fe405803a6304c2ea764313351b0158
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_mxgp.png" tvg-id="", MGPTV | Camara de a bordo 2 por Tronoss
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_mxgp.png" tvg-id="", MGPTV | Camara de a bordo 2 por Tronoss
 http://127.0.0.1:6878/ace/getstream?id=2adc28203c35993aa9bccd2e1e5b0015ec0c878b
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_mxgp.png" tvg-id="", MGPTV | Camara de a bordo 3 por Tronoss
@@ -403,6 +399,8 @@ http://127.0.0.1:6878/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2
 http://127.0.0.1:6878/ace/getstream?id=911b6c35f4802fd358b78b328528af4650eca020
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pvZ2tSB/deportes5.png" tvg-id="M+ Deportes 5", M+ DEPORTES 5
+http://127.0.0.1:6878/ace/getstream?id=34b38986ac5e6e842f954f0dd25b2798be70b276
 
 
 
@@ -416,6 +414,8 @@ http://127.0.0.1:6878/ace/getstream?id=e871097e11dc05086e945bd715e854be3c3c4082
 
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD", M+ LIGA DE CAMPEONE
+http://127.0.0.1:6878/ace/getstream?id=4e3302991c482dff2e10de69795fa5aa87a61ae7
 
 
 

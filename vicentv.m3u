@@ -1199,7 +1199,7 @@ https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8
 https://tv.mywifisocial.es/live.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/1397103013646307/picture?width=200&height=200" group-title="TDT" tvg-name="TV Gran Vía Radio",TV Gran Vía Radio
 https://streamlov.alsolnet.com/granviaradiofm/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/RTVCE/picture?width=200&height=200" group-title="Ceuta" tvg-name="RTVCE",RTVCE
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/RTVCE/picture?width=200&height=200" group-title="SERIE" tvg-name="RTVCE",RTVCE
 https://cdnlive.codev8.net/rtvcelive/smil:channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="TDT" tvg-name="Telemadrid",Telemadrid
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
@@ -1293,7 +1293,7 @@ https://streamingtvi.gestec-video.com/hls/unesd.m3u8
 https://limited43.todostreaming.es/live/simbana-livestream.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cortsval/picture?width=200&height=200" group-title="TDT" tvg-name="Corts Valencianes",Corts Valencianes
 https://streamserver3.seneca.tv/cval_live/cdn_enc_3/master.m3u8
-#EXTINF:-1 tvg-id="Extremadura.TV" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200" group-title="Extremadura" tvg-name="Canal Extremadura",Canal Extremadura
+#EXTINF:-1 tvg-id="Extremadura.TV" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200" group-title="TDT" tvg-name="Canal Extremadura",Canal Extremadura
 https://cdnapisec.kaltura.com/p/5581662/sp/5581662/playManifest/entryId/1_1u7ssdy3/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-id="TVGAL.TV" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="TDT" tvg-name="TVG",TVG
 https://crtvg-europa.flumotion.cloud/playlist.m3u8

@@ -1199,7 +1199,7 @@ https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8
 https://tv.mywifisocial.es/live.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/1397103013646307/picture?width=200&height=200" group-title="TDT" tvg-name="TV Gran Vía Radio",TV Gran Vía Radio
 https://streamlov.alsolnet.com/granviaradiofm/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/RTVCE/picture?width=200&height=200" group-title="SERIE" tvg-name="RTVCE",RTVCE
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/RTVCE/picture?width=200&height=200" group-title="TDT" tvg-name="RTVCE",RTVCE
 https://cdnlive.codev8.net/rtvcelive/smil:channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="TDT" tvg-name="Telemadrid",Telemadrid
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
@@ -2603,23 +2603,23 @@ https://ex-vod.atresplayer.com/vsg/_definst_/assets3/2022/09/21/C4282352-9D29-47
 
 
 
-group-title="SERIE" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eDUcfvwEJVkweWunAw8FGwSXCpS.jpg" tvg-id="ext" ,Resumen la novia gitana
+#EXTINF:-1 group-title="SERIE" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eDUcfvwEJVkweWunAw8FGwSXCpS.jpg" tvg-id="ext" ,Resumen la novia gitana
 https://ex-vod.atresplayer.com/vsg/_definst_/assets1/2023/10/08/F93F9775-9873-4EC7-9977-050D2763CA06/hls.smil/playlist.m3u8
-group-title="SERIE" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eDUcfvwEJVkweWunAw8FGwSXCpS.jpg" tvg-id="ext" ,La red púrpura 1 (2023)
+#EXTINF:-1 group-title="SERIE" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eDUcfvwEJVkweWunAw8FGwSXCpS.jpg" tvg-id="ext" ,La red púrpura 1 (2023)
 https://ex-vod.atresplayer.com/vsg/_definst_/assets1/2023/08/29/03DC4E6C-CD83-455D-B919-5C8A683641D8/hls.smil/playlist.m3u8
-group-title="SERIE" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eDUcfvwEJVkweWunAw8FGwSXCpS.jpg" tvg-id="ext" ,La red púrpura 2 (2023)
+#EXTINF:-1 group-title="SERIE" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eDUcfvwEJVkweWunAw8FGwSXCpS.jpg" tvg-id="ext" ,La red púrpura 2 (2023)
 https://ex-vod.atresplayer.com/vsg/_definst_/assets15/2023/08/29/CE0522E9-F9F3-4141-AFE6-B54043319ABA/hls.smil/playlist.m3u8
-group-title="SERIE" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eDUcfvwEJVkweWunAw8FGwSXCpS.jpg" tvg-id="ext" ,La red púrpura 3 (2023)
+#EXTINF:-1 group-title="SERIE" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eDUcfvwEJVkweWunAw8FGwSXCpS.jpg" tvg-id="ext" ,La red púrpura 3 (2023)
 https://ex-vod.atresplayer.com/vsg/_definst_/assets15/2023/08/29/B14994C2-4223-483B-B947-47A7DCFEAADE/hls.smil/playlist.m3u8
-group-title="SERIE" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eDUcfvwEJVkweWunAw8FGwSXCpS.jpg" tvg-id="ext" ,La red púrpura 4 (2023)
+#EXTINF:-1 group-title="SERIE" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eDUcfvwEJVkweWunAw8FGwSXCpS.jpg" tvg-id="ext" ,La red púrpura 4 (2023)
 https://ex-vod.atresplayer.com/vsg/_definst_/assets4/2023/08/29/D9129124-D150-4CBC-88C3-BAD9D75236AB/hls.smil/playlist.m3u8
-group-title="SERIE" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eDUcfvwEJVkweWunAw8FGwSXCpS.jpg" tvg-id="ext" ,La red púrpura 5 (2023)
+#EXTINF:-1 group-title="SERIE" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eDUcfvwEJVkweWunAw8FGwSXCpS.jpg" tvg-id="ext" ,La red púrpura 5 (2023)
 https://ex-vod.atresplayer.com/vsg/_definst_/assets3/2023/08/29/161F3B50-9B8D-4481-BB23-62F4417CE3C9/hls.smil/playlist.m3u8
-group-title="SERIE" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eDUcfvwEJVkweWunAw8FGwSXCpS.jpg" tvg-id="ext" ,La red púrpura 6 (2023)
+#EXTINF:-1 group-title="SERIE" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eDUcfvwEJVkweWunAw8FGwSXCpS.jpg" tvg-id="ext" ,La red púrpura 6 (2023)
 https://ex-vod.atresplayer.com/vsg/_definst_/assets3/2023/08/29/54C79116-B876-429E-BC5E-7B6B9B4DF67D/hls.smil/playlist.m3u8
-group-title="SERIE" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eDUcfvwEJVkweWunAw8FGwSXCpS.jpg" tvg-id="ext" ,La red púrpura 7 (2023)
+#EXTINF:-1 group-title="SERIE" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eDUcfvwEJVkweWunAw8FGwSXCpS.jpg" tvg-id="ext" ,La red púrpura 7 (2023)
 https://ex-vod.atresplayer.com/vsg/_definst_/assets15/2023/08/29/79DCBD44-6518-4B75-AF64-18FC252C8701/hls.smil/playlist.m3u8
-group-title="SERIE" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eDUcfvwEJVkweWunAw8FGwSXCpS.jpg" tvg-id="ext" ,La red púrpura 8 (2023)
+#EXTINF:-1 group-title="SERIE" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eDUcfvwEJVkweWunAw8FGwSXCpS.jpg" tvg-id="ext" ,La red púrpura 8 (2023)
 
 
 

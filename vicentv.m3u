@@ -4,281 +4,31 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml"
 
 
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV
+http://127.0.0.1:6878/ace/getstream?infohash=83d43d89061d3790c1a9938a967ce8734a0bd6ce
 
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV 
+http://127.0.0.1:6878/content/83d43d89061d3790c1a9938a967ce8734a0bd6ce/0.453584109459
 
 
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LA LIGA TV BAR
+http://127.0.0.1:6878/ace/getstream?id=94d34491106e00394835c8cb68aa94481339b53f
 
 
-EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor1.xml.gz, https://raw.githubusercontent.com/Icastresana/lista1/main/epg.xml, https://xmltv.info/de/epg.xml, https://www.open-epg.com/files/unitedstatespremium1.xml, https://iptvx.one/EPG"
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LIGA 
+http://127.0.0.1:6878/ace/getstream?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD", DAZN LA LIGA FHD (SAT) por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=28c8115681bf6e4565cb5e987530c2f606cc561f
 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD", DAZN LIGA FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=dad36d37fa74b94e345bb014d82d820e54fb69d8
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LIGA 2
+http://127.0.0.1:6878/ace/getstream?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9
 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-2-es.png" tvg-id="DAZN LaLiga 2 HD", DAZN LA LIGA 2 FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=c79b272e20f31d1be9103f582e87209a06a63927
 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png" tvg-id="DAZN 1 HD", DAZN 1 BAR FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=0908f5dd264ded10b638636cb7479409cfee0813
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LaLiga TV Hypermotion
+http://127.0.0.1:6878/ace/getstream?id=0a335406bad0b658aeddb2d38f8c0614b2e5623a
 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20BAR.png" tvg-id="DAZN 2 HD", DAZN 2 BAR FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=17dc260a6b6c176183807e659817b647ddca465b
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN F1 HD", DAZN F1 FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=e41352c657506cfe6eecc4f17982f69275f1660b
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD", DAZN 1 FHD (SAT) por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=e253307f495a6beeda976d2363d72501f2dc1fe3
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD", DAZN 1 FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=e6121426f7d8007ae9de8e782f05d91e9b27993d
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 HD", DAZN 2 FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=b056dfc53c18de02caeff4435ddb6b36bfb7b031
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/2vkThM3/dazn3.png" tvg-id="DAZN 3 HD", DAZN 3 FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=b11dd020fc6e89b39b69c1f3bef032be72286e72
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/R4LBVWP/dazn4.png" tvg-id="DAZN 4 HD", DAZN 4 FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=ddb1d0ff24955582668c0c6e4d4fb3d58cc4b65e
-
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/2._Bundesliga_logo.svg/170px-2._Bundesliga_logo.svg.png" tvg-id="", DAZN BUNDESLIGA 1 FHD por Tronoss  
-http://127.0.0.1:6878/ace/getstream?id=4fa5fb9ab4a3213f7ffe2dfa2ca2d3740f8fd61d
-
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/180px-Bundesliga_logo_%282017%29.svg.png" tvg-id="", DAZN BUNDESLIGA 2 FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=f67f95bcb185c3d62d532425709908be86bd442c
-
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/3._Liga_logo_%282019%29.svg/200px-3._Liga_logo_%282019%29.svg.png" tvg-id="", DAZN BUNDESLIGA 3 FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=2c3e87e1aed5285c9a06d74cd29132c0f7520c09
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="", DAZN EVENTOS 1 por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=413ee8ca35110147e6644e7c3eed37eff46ba222
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="", DAZN EVENTOS 2 por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=e58b91034d2b9521de2ad91077f8dc565dcdb97b
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/2vkThM3/dazn3.png" tvg-id="", DAZN EVENTOS 3 por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=ea00d98ceb524da4ef7f2f0733661dbb31e48f7b
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD", DAZN F1 FHD (SAT) por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=37875b8c4e71b3daca16e03070968e0f6344ba4c
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="", F1 TV 14 | Fernando Alonso | Aston Martin por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=e25d7b28f6858aeda8fdc5928f186ab11f1d6b0c
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="", F1 TV 55 | Carlos Sainz | Williams por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=acf763bf9127ad753fa61227a3565e6557467354
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV UHD", M+ LaLiga UHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=63b976bbf9bbd0c37117880b8b33702b95357ef3
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD", M+ LaLiga FHD (SAT) por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=b8370220a0338f9eb4728467111a2bce1033b80b
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD", M+ LaLiga FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=f5fcacb60627d6319b89942391e441d179dbb9d9
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" tvg-id="M+ LaLiga TV 2 HD", M+ LaLiga 2 FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=aeb4beec9a3639f1bed7bd56a20f3afe7186cae3
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/BZF0xG9/liga3.png" tvg-id="M+ LaLiga TV 3 HD", M+ LaLiga 3 FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=bfa4d2ce53fd25488828a3a1070cd7d194b265af
-
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD", M+ LIGA DE CAMPEONES UHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=be5cf4441685df4540a34938fb3774818fa62310
-
-
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD", M+ LIGA DE CAMPEONES FHD (SAT) por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=38d0b187d3cf396695bbb2166a09f57736276e2e
-
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD", M+ LIGA DE CAMPEONES 2 FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=061bda6fe2e50c509afd83f63a601e139d75d3a0
-
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD", M+ LIGA DE CAMPEONES 2 UHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=8e4ab34c7fe491831734bc677b7bf91555653eb3
-
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" tvg-id="M+ Liga de Campeones 3 HD", M+ LIGA DE CAMPEONES 3 FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=e42984ac6529407462f92201af95c01db8988368
-
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" tvg-id="M+ Liga de Campeones 4", M+ LIGA DE CAMPEONES 4 FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=01152274037c5f7155489e0a977cbde71a61290c
-
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" tvg-id="M+ Liga de Campeones 5", M+ LIGA DE CAMPEONES 5 FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=cc910aee690f70190b04920d61e39da5a6d0a057
-
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png" tvg-id="M+ Liga de Campeones 6", M+ LIGA DE CAMPEONES 6 FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=a5fab130ebf491c04d8c0dcd2adce9babcd39e69
-
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%207.png" tvg-id="M+ Liga de Campeones 7", M+ LIGA DE CAMPEONES 7 FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=1987ec4c561f7e47a1d02a8de1665f71934406b3
-
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%208.png" tvg-id="M+ Liga de Campeones 8", M+ LIGA DE CAMPEONES 8 FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=834ffb208d132aeb78c4b13209af71be7ec578c6
-
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%209.png" tvg-id="M+ Liga de Campeones 9", M+ LIGA DE CAMPEONES 9 FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=6d69b67507dda888dadb5ea9df951249b73ca00c
-
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2010.png" tvg-id="M+ Liga de Campeones 10", M+ LIGA DE CAMPEONES 10 FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=64954ce664a3f68e271aee5f83094a19fac4416b
-
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2011.png" tvg-id="M+ Liga de Campeones 11", M+ LIGA DE CAMPEONES 11 FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=bb5e72b45383cb4d02e6f414f9119bb5d6386b9e
-
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2012.png" tvg-id="M+ Liga de Campeones 12", M+ LIGA DE CAMPEONES 12 FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=6739e6aa99e81f0ed1cecb88c5f1ab1dd9dd3fa8
-
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2013.png" tvg-id="M+ Liga de Campeones 13", M+ LIGA DE CAMPEONES 13 FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=30449c4944faf74a675392b292661dc4988e7798
-
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2014.png" tvg-id="M+ Liga de Campeones 14", M+ LIGA DE CAMPEONES 14 SD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=b149283faf12a9e574380c7ad1eb227261eaca85
-
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2015.png" tvg-id="M+ Liga de Campeones 15", M+ LIGA DE CAMPEONES 15 SD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=bb8506403e19f80ab66e431f2a4c74089a909d06
-
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2016.png" tvg-id="M+ Liga de Campeones 16", M+ LIGA DE CAMPEONES 16 SD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=5a412fd44a1f46f3446988ddeed658d861dd6b70
-
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2017.png" tvg-id="M+ Liga de Campeones 17", M+ LIGA DE CAMPEONES 17 SD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=be4381d1d5203fc0c4879a097277bd7683235650
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/m54QH9Gt/copa.png" tvg-id="M+ Copa del Rey", M+ Super Copa (SAT) por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=894afd347da576af7bbfc0b986485581b8df151b
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/m54QH9Gt/copa.png" tvg-id="M+ Copa del Rey", M+ Super Copa por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=6118cada4cbe7650eeb21d170e184c26a4cdc808
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/m54QH9Gt/copa.png" tvg-id="M+ Copa del Rey", M+ SuperCopa del Rey FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=d282167ec84abdb4f5ed4c4856ea4284ac00991f
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD", LALIGA HYPERMOTION TV FHD de Tronoss
-http://127.0.0.1:6878/ace/getstream?id=c0f89f060d5134c855b6e3cc707c42ed0bf92498
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/8K0VrQV/hypermotion2.png" tvg-id="LaLiga TV Hypermotion 2", LALIGA HYPERMOTION TV2 HD de Tronoss
-http://127.0.0.1:6878/ace/getstream?id=7f7eaa56f11249f7b92b6287c4cd5d58dc77a61a
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/826y2Yv/Hypermotion3.png" tvg-id="LaLiga TV Hypermotion 3", LALIGA HYPERMOTION TV 3 FHD de Tronoss
-http://127.0.0.1:6878/ace/getstream?id=f93741dc38bac456018fe9906a4689c2c6405716
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/KqGDjxS/hypermotion4.png" tvg-id="LaLiga TV Hypermotion 4", LALIGA HYPERMOTION TV4 FHD de Tronoss
-http://127.0.0.1:6878/ace/getstream?id=9bbbaec25775a0c47b07ceb547fe5e017c169729
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/XjgsTwd/hypermotion5.png" tvg-id="LaLiga TV Hypermotion 5", LALIGA HYPERMOTION TV5 FHD de Tronoss
-http://127.0.0.1:6878/ace/getstream?id=8656b8874dbb8f52911ca0ad6e1e3d177526508f
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD", M+ DEPORTES FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=ce65932b1113ec32c270050786d7702897150d74
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD", M+ DEPORTES 2 FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=43931a2672086891ce4f6d6b4128e005e8038959
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" tvg-id="M+ Deportes 3", M+ DEPORTES 3 FHD  por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=fb27c753c690bf21edcf527f42cd14c5c9e6b53e
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/WDN9NN9/deportes4.png" tvg-id="M+ Deportes 4", M+ DEPORTES 4 FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=f36a4e0ef1fbd63757130284e9a6c3b7c212a421
-
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD", #VAMOS FHD (SAT) por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=8c1e181e99425c729cdf12c21fccaf07ea106a49
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD", #VAMOS FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=7ea69506cdde10da9d85a2414310a7e5afcdba19
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/rx9hnHz/ellas.png" tvg-id="M+ Ellas Vamos HD", #VAMOS ELLAS  FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=f317a4fef0b96caabaaad25cadb5f45303544767
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD", M+ PLUS FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=682579275d24fa95964f99f3778bdd22c211c6b9
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/gL8rx1B7/plus2.png" tvg-id="Movistar Plus+ 2 HD", M+ PLUS 2 FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=70c25bf1843b81356d62ebffbba267be60066659
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD", MOVISTAR GOLF FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=e2a05b5dad62f8dd20822c08fc9fd5dc2245c512
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/BHXHhN2b/M-Golf-2.png" tvg-id="M+ Golf 2 HD", MOVISTAR GOLF 2 FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=11078aceacd1be758f4c953a437fc1ecb8eca730
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/rGVmRcSH/hits.png" tvg-id="M+ Hits HD", MOVISTAR SERIES FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=14767834db41c572ab83b80f7eadc3ba78a2ced0
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/JWpf4FcM/clasicos.png" tvg-id="M+ Clásicos HD", MOVISTAR CLASICOS FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=26c63851b7a0de9efed907571b19d342fc8d6765
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/FLSGTSc4/accion.png" tvg-id="M+ Acción HD", M+ ACCION FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=2d904318a20e89de0f6540f3e8c210e1376d5e51
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/m9zPrNc/Euro4k.png" tvg-id="Eurosport 4K", EUROSPORT UHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=4b26063cd70fc709d63e0410d7603c515da5baf7
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD", EUROSPORT 1 FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=b16eeeb12d208029eff3dcc9e73613fd8b052737
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2", EUROSPORT 2 FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=dfdf5353080a7e3d0f4b4c8e3cf4e0be19731652
-
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_mxgp.png" tvg-id="", MGPTV | Camara de a bordo 1 por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=a5cf46320fe405803a6304c2ea764313351b0158
-
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_mxgp.png" tvg-id="", MGPTV | Camara de a bordo 2 por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=2adc28203c35993aa9bccd2e1e5b0015ec0c878b
-
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_mxgp.png" tvg-id="", MGPTV | Camara de a bordo 3 por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=7a8c76faf27e39efd0535de43fb11d18e1ef043b
-
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_mxgp.png" tvg-id="", MGPTV | Camara de a bordo 4 por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=a98becd43a2e6ec6a643cb12851d31203756bba5
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/CsMjBRkR/ufc.png" tvg-id="", UFC Fight Pass por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=e3ad553098e0c1e70cba1ea2a906dc27aa3452a2
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/JWPVhS0d/nba.png" tvg-id="", NBA TV por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=7146e467aee3cb0bcdc286b39a3022c992428f01
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/JWPVhS0d/nba.png" tvg-id="", NBA NETWORK por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=8aa5c652b7e8e94c45e37eb5b60aef9dcd37839e
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD", LA 1 FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=71abebf150324106df1d9dc25e34dd8840217835
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/YFzzqWw5/la2.png" tvg-id="La 2", LA 2 FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=d27e23deffb2314a9549b00d62fade1e2e38ed60
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/qFgSG92W/antena3.png" tvg-id="Antena 3 HD", ANTENA 3 FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=a6cfb25becd96cbe9d1929e0e560016beac40887
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/C3yh66tp/cuatro.png" tvg-id="Cuatro HD", CUATRO FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=de6527833ce8e62aa0af3e64891e6e1f250726e0
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/81wJ3GH/telecinco.png" tvg-id="Telecinco HD", TELECINCO FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=e53c497c3a56968bc11fa3771c813fc740e355e3
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/SX1jhBzy/lasexta.png" tvg-id="La Sexta HD", LA SEXTA FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=906191eed84a42d83939fd150ee3c04834bc0533
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/fb9dbDW/tdp.png" tvg-id="Teledeporte", Teledeporte FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=2c5a883ed564be5ff3692705c25556613c395b11
-
-EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/2023/07/13/medium/60e1502d7d6098162828bb002e98bdb4.png" tvg-id="GOL PLAY", Gol Play FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=f5be5fe6063db01a7587c37acf57fcadabea560a
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LaLiga TV Hypermotion 2 
+http://127.0.0.1:6878/ace/getstream?id=0a335406bad0b658aeddb2d38f8c0614b2e5623a
 
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ LIGA DE CAMPEONES
 http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
@@ -287,38 +37,8 @@ http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
 http://127.0.0.1:6878/ace/getstream?id=bb5a8bf7752e978460ee1710e5e8950a5c9e1f99
 
 
-EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ LIGA DE CAMPEONES
-http://127.0.0.1:6878/ace/getstream?id=0a26e20f39845e928411e09a124374fccb6e1478
-
-
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ LIGA DE CAMPEONES
-http://127.0.0.1:6878/ace/getstream?id=4e3302991c482dff2e10de69795fa5aa87a61ae7
-
-EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ LIGA DE CAMPEONES
-http://127.0.0.1:6878/ace/getstream?id=38d0b187d3cf396695bbb2166a09f57736276e2e
-
-
-
-
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LA LIGA TV BAR
-http://127.0.0.1:6878/ace/getstream?id=94d34491106e00394835c8cb68aa94481339b53f
-
-
-
-
-
-
-
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ LIGA DE CAMPEONES 2 
 http://127.0.0.1:6878/ace/getstream?id=061bda6fe2e50c509afd83f63a601e139d75d3a0
-
-EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ LIGA DE CAMPEONES 2
-http://127.0.0.1:6878/ace/getstream?id=8e4ab34c7fe491831734bc677b7bf91555653eb3
-
-
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ LIGA DE CAMPEONES 2
-http://127.0.0.1:6878/ace/getstream?id=c070cdb701fc46bb79d17568d99fc64620443d63
-
 
 
 
@@ -326,58 +46,9 @@ http://127.0.0.1:6878/ace/getstream?id=c070cdb701fc46bb79d17568d99fc64620443d63
 http://127.0.0.1:6878/ace/getstream?id=e42984ac6529407462f92201af95c01db8988368
 
 
-EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ LIGA DE CAMPEONES 3
-http://127.0.0.1:6878/ace/getstream?id=3618edda333dad5374ac2c801f5f14483934b97d
-
-
-
-
-
-
-EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ LIGA DE CAMPEONES 4 Multichampions
-http://127.0.0.1:6878/ace/getstream?id=01152274037c5f7155489e0a977cbde71a61290c
-
-
 
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ LIGA DE CAMPEONES 4 Multichampions
 http://127.0.0.1:6878/ace/getstream?id=65a18a6bd83918a9586b673fec12405aaf4e9f7d
-
-
-
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ LIGA DE CAMPEONES 5 
-http://127.0.0.1:6878/ace/getstream?id=cc910aee690f70190b04920d61e39da5a6d0a057
-
-
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ LIGA DE CAMPEONES 6
-http://127.0.0.1:6878/ace/getstream?id=071568397193b7c3393b4f70e52e4ec8e1ee47d6
-
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ LIGA DE CAMPEONES 7
-http://127.0.0.1:6878/ace/getstream?id=4c312c3b655836476e237cae7e66ef76114a31e7
-
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ LIGA DE CAMPEONES 8
-http://127.0.0.1:6878/ace/getstream?id=b94a57f7ce865634dd95e1fb79fa31fc55c8256d
-
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ LIGA DE CAMPEONES 9
-http://127.0.0.1:6878/ace/getstream?id=177595bfe2e7d53a07f16d6d029650bce672dd2f
-
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ LIGA DE CAMPEONES 10
-http://127.0.0.1:6878/ace/getstream?id=d97fb6cc8309b3a56a3d1b7b1693524bdd8f481f
-
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ LIGA DE CAMPEONES 15
-http://127.0.0.1:6878/ace/getstream?id=48ddcba40304470dfa69dce399854f425573d37b
-
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ LIGA DE CAMPEONES 17
-http://127.0.0.1:6878/ace/getstream?id=2a783152fd4d98f4b396508140ba23d05680cd8b
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -390,16 +61,8 @@ http://127.0.0.1:6878/ace/getstream?id=682579275d24fa95964f99f3778bdd22c211c6b9
 http://127.0.0.1:6878/ace/getstream?id=56ac8e227d526e722624675ccdd91b0cc850582f
 
 
-
-
-
-
-
-
-
-
-
-
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",#VAMOS 
+http://127.0.0.1:6878/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2
 
 
 
@@ -409,165 +72,8 @@ http://127.0.0.1:6878/ace/getstream?infohash=8aba55f4f1f47def54447e845518109d797
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Deportes 
 http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV
-http://127.0.0.1:6878/ace/getstream?infohash=83d43d89061d3790c1a9938a967ce8734a0bd6ce
-
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV 
-http://127.0.0.1:6878/content/83d43d89061d3790c1a9938a967ce8734a0bd6ce/0.453584109459
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LIGA 
-http://127.0.0.1:6878/ace/getstream?id=6de4794cd02f88f14354b5996823413a59a1de0f
-
-
-
-
-
-
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LIGA 
-http://127.0.0.1:6878/ace/getstream?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
-
-
-
-
-
-
-EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LIGA 
-http://127.0.0.1:6878/ace/getstream?id=6de4794cd02f88f14354b5996823413a59a1de0f
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LIGA 2
-http://127.0.0.1:6878/ace/getstream?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9
-
-
-
-
-EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LIGA TV BAR EVENTOS 
-http://127.0.0.1:6878/ace/getstream?id=5834660ff7ae10f0514dc23c241c054dc0272d01
-
-
-
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Deportes Eventos
-http://127.0.0.1:6878/ace/getstream?id=b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb
-
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Deportes Eventos
-http://127.0.0.1:6878/ace/getstream?id=fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
-
-
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",#VAMOS EVENTOS 
-http://127.0.0.1:6878/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2
-
-
-
-
-
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DEPORTES 2 EVENTOS 
-http://127.0.0.1:6878/ace/getstream?id=911b6c35f4802fd358b78b328528af4650eca020
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pvZ2tSB/deportes5.png" tvg-id="M+ Deportes 5", M+ DEPORTES 5
 http://127.0.0.1:6878/ace/getstream?id=34b38986ac5e6e842f954f0dd25b2798be70b276
-
-
-
-#EXTINF:-1 tvg-id="VicenTV" , #ELLAS VAMOS EVENTOS 
-http://127.0.0.1:6878/ace/getstream?id=e871097e11dc05086e945bd715e854be3c3c4082
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LaLiga TV Hypermotion
-http://127.0.0.1:6878/ace/getstream?id=0a335406bad0b658aeddb2d38f8c0614b2e5623a
-
-
-
-
-
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LaLiga TV Hypermotion 2 
-http://127.0.0.1:6878/ace/getstream?id=0cfdfde1b70623b8c210b0f7301be2a87456481d
-
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LaLiga TV Hypermotion 2 
-http://127.0.0.1:6878/ace/getstream?id=0a335406bad0b658aeddb2d38f8c0614b2e5623a
-
-
-
-
-
-
 
 
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", DAZN 1  
@@ -583,6 +89,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 http://127.0.0.1:6878/ace/getstream?id=4e83f23945ab3e43982045f88ec31daaa4683102
 
 
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",COPA 
+http://127.0.0.1:6878/ace/getstream?id=b51f2d9a15b6956a44385b6be531bcabeb099d9d
 
 
 
@@ -591,27 +99,8 @@ http://127.0.0.1:6878/ace/getstream?id=e41352c657506cfe6eecc4f17982f69275f1660b
 
 
 
-
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",COPA 
-http://127.0.0.1:6878/ace/getstream?id=b51f2d9a15b6956a44385b6be531bcabeb099d9d
-
-
-
-
-
-
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", SKY F1 
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -860,6 +349,9 @@ http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
 
 
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",UK|BT Sport 1🏆
+http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",UK|BT SPORTS 2🏆
 http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
 
@@ -923,35 +415,8 @@ http://127.0.0.1:6878/ace/getstream?id=b73da828421018c98905ed05934b77ea35aa1b29
 http://127.0.0.1:6878/ace/getstream?id=9e7fe279f421b734a8af9e68320955fd16f80b4b
 
 
-
-
-
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Combate🥊
-http://cinepulse.xyz:80/555938735/144924784/22
-
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",UFC Fight Pass🥊
-http://cinepulse.xyz:80/555938735/144924784/347
-
-
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",UFC Fight Pass🥊
-http://127.0.0.1:6878/ace/getstream?id=008722562de872871b879d9d0cab4fb4b79784b2
-
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",UFC Fight Pass🥊
 http://127.0.0.1:6878/ace/getstream?id=e3ad553098e0c1e70cba1ea2a906dc27aa3452a2
-
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",UFC Fight Pass🥊
-http://127.0.0.1:6878/ace/getstream?id=c73e3eefe1f4a90fd7495f8be2d5f772d758713b
-
-
-
-
-
-
-
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",UFC Fight Pass🥊
-http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-
-
 
 
 

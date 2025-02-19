@@ -3,11 +3,22 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml"
 
 
-
-
-
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ LIGA DE CAMPEONES⚽
 http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ LIGA DE CAMPEONES⚽
+http://127.0.0.1:6878/ace/getstream?id=d15a0eaf825b5f8f94259d5209688a7e97e6acde
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ LIGA DE CAMPEONES⚽
+http://127.0.0.1:6878/ace/getstream?id=7fd55d3cfc6b8b9c3195b1c852c0a04145756247
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ LIGA DE CAMPEONES⚽
+http://127.0.0.1:6878/ace/getstream?id=10ae32928d1320eb98d4656cd1faa16ad3648e82
+
+#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ LIGA DE CAMPEONES⚽
+http://127.0.0.1:6878/ace/getstream?id=c691bfa3517ada9c7626c9c82bda7f1a1f6eeac0
+
+
 
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ LIGA DE CAMPEONES⚽
 http://127.0.0.1:6878/ace/getstream?id=bb5a8bf7752e978460ee1710e5e8950a5c9e1f99
@@ -16,6 +27,10 @@ http://127.0.0.1:6878/ace/getstream?id=bb5a8bf7752e978460ee1710e5e8950a5c9e1f99
 
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ LIGA DE CAMPEONES⚽
 http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
+
+
+
+
 
 
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ LIGA DE CAMPEONES 2⚽

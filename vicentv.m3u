@@ -13,22 +13,11 @@ acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
 http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
                                        
 
-
-
-
-
-
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ LIGA DE CAMPEONES⚽
 http://127.0.0.1:6878/ace/getstream?id=bb5a8bf7752e978460ee1710e5e8950a5c9e1f99
 
 
 
-
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD"  group-title="DEPORTE",M+ LIGA DE CAMPEONES⚽
-acestream://ee5ffa2c47cad5f00276904722e9d234def6f14a
-
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD"  group-title="DEPORTE", M.L. CAMPEONES 2
-acestream://abdf9058786a48623d0de51a3adb414ae10b6e72
 
 
 
@@ -72,7 +61,7 @@ acestream://b51f2d9a15b6956a44385b6be531bcabeb099d9d
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD"  group-title="DEPORTE", M. LaLiga 1080⚽ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD"  group-title="DEPORTE",M.LA LIGA TV⚽ 
 acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD"  group-title="DEPORTE",M.LA LIGA TV UHD⚽
@@ -105,8 +94,6 @@ acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
 
 
 
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LIGA⚽
-http://127.0.0.1:6878/ace/getstream?id=110d441ddc9713a7452588770d2bc85504672f47
 
 
 
@@ -124,27 +111,30 @@ http://127.0.0.1:6878/ace/getstream?id=0a335406bad0b658aeddb2d38f8c0614b2e5623a
 
 
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD"  group-title="DEPORTE", DAZN 1🏁🎾🏀🥊
+acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 
 
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", DAZN 1🏁🎾🏀🥊  
 http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD"  group-title="DEPORTE", DAZN 1🏁🎾🏀🥊
-acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 HD"  group-title="DEPORTE", DAZN 2🏁🎾🏀🥊
+acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 
 
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", DAZN 2🏁🎾🏀🥊  
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 HD"  group-title="DEPORTE", DAZN 2🏁🎾🏀🥊
-acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 HD"  group-title="DEPORTE", DAZN 2🏁🎾🏀🥊
 acestream://a929eeec1268d69d1556a2e3ace793b2577d8810
+
+
+
+
+
 
 
 
@@ -193,18 +183,40 @@ acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
 acestream://872608e734992db636eb79426802cd08f4029afb
 
 
+#EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="TDT" tvg-name="Teledeporte",Teledeporte
+https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="TDT" tvg-name="+tdp",+tdp
+https://ztnr.rtve.es/ztnr/6712432.m3u8
+
+
+
+#EXTINF:-1 tvg-id="E3.TV" tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200" group-title="TDT" tvg-name="Esport 3",Esport 3 GEO
+https://directes-tv-es.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
+
+
+#EXTINF:-1 tvg-id="ETBD.TV" tvg-logo="https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200" group-title="TDT" tvg-name="ETB Deportes",ETB Deportes
+https://multimedia.eitb.eus/live-content/oka3hd-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200" group-title="TDT" tvg-name="Real Madrid TV",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200" group-title="TDT" tvg-name="Real Madrid TV",Real Madrid TV EN
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/MundoNautica/picture?width=200&height=200" group-title="TDT" tvg-name="Mundo Nautica",Mundo Nautica
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12109
 
 
 
 
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Tennis Channel🎾
+acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
 
 
 
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Tennis Channel🎾
 acestream://52a526d748e26ff0827635b3932d9f49aee14a25
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Tennis Channel🎾
-acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
 
 
 
@@ -227,14 +239,6 @@ http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
 
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,NBA🏀League Pass 01 HD
-http://cinepulse.xyz:80/555938735/144924784/751284
-
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,NBA🏀League Pass 02 HD
-http://cinepulse.xyz:80/555938735/144924784/751285
-
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,NBA🏀League Pass 03 HD
-http://cinepulse.xyz:80/555938735/144924784/751286
 
 
 
@@ -253,27 +257,6 @@ http://127.0.0.1:6878/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52
 
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,FR | BEIN SPORTS 2🏆
 http://127.0.0.1:6878/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
-
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,FR | BEIN SPORTS 3🏆
-http://authxplus-2.xyz:2082/Tourobox1-aWJJNnW177/JHoqtIpDDR/903
-
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,FR | BEIN SPORTS 3🏆
-http://authxplus-2.xyz:2082/Tourobox1-aWJJNnW177/JHoqtIpDDR/901
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,FR | BEIN SPORTS 4🏆
-http://authxplus-2.xyz:2082/Tourobox1-aWJJNnW177/JHoqtIpDDR/902
-
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,FR | BEIN SPORTS 5🏆
-http://authxplus-2.xyz:2082/Tourobox1-aWJJNnW177/JHoqtIpDDR/905
-
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,FR | BEIN SPORTS 6🏆
-http://authxplus-2.xyz:2082/Tourobox1-aWJJNnW177/JHoqtIpDDR/904
-
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,FR | BEIN SPORTS 7🏆
-http://authxplus-2.xyz:2082/Tourobox1-aWJJNnW177/JHoqtIpDDR/907
-
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,FR | BEIN SPORTS 8🏆 
-http://authxplus-2.xyz:2082/Tourobox1-aWJJNnW177/JHoqtIpDDR/906
-
 
 
 
@@ -326,7 +309,7 @@ http://127.0.0.1:6878/ace/getstream?id=30447ef0ecb4410d5499eaac68026bf123a7ffa6
 
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",UK|Sky Sport main event ⚽
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",UK|Sky Sport main event⚽
 http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 
 
@@ -335,10 +318,14 @@ http://127.0.0.1:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",UK|Sky Sport football ⚽
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",UK|Sky Sport football⚽
 http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",UK|Sky Sport arena ⚽
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Football_GB_logo.png?1734015024" tvg-id="UK | Sky Sport Football"  group-title="DEPORTE",UK|Sky Sport football⚽
+acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
+
+
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",UK|Sky Sports Arena⚽
 http://127.0.0.1:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 
 
@@ -348,11 +335,9 @@ acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605139019741929472/RWr7BPxn_200x200.jpg" tvg-id="UK | Sky Sport Cricket"  group-title="DEPORTE",UK|Sky Sports Cricket⚽
 acestream://6d95e4b0893e155cc674b84e0763150c445d3ddd
 
-#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Football_GB_logo.png?1734015024" tvg-id="UK | Sky Sport Football"  group-title="DEPORTE",UK|Sky Sports Football⚽
-acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
 
-#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Main_Event_GB_logo.png?1734014539" tvg-id="UK | Sky Sport Main Event"  group-title="DEPORTE",UK|Sky Sports Main Event⚽
-acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
+
+
 
 
 
@@ -360,11 +345,6 @@ acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,UK|Premier Sports 1⚽
 http://127.0.0.1:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,UK|Premier Sports 2⚽
-http://127.0.0.1:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537
-
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,beIN SPORT Extra ñ⚽
-http://127.0.0.1:6878/ace/getstream?id=92a7dcc55392efc6dd5d012c4ff3878891eb6a6e
 
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",UK|TNT SPORTS 1🏆
 http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
@@ -455,8 +435,6 @@ http://127.0.0.1:6878/ace/getstream?id=b73da828421018c98905ed05934b77ea35aa1b29
 http://127.0.0.1:6878/ace/getstream?id=9e7fe279f421b734a8af9e68320955fd16f80b4b
 
 
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",UFC Fight Pass🥊
-http://127.0.0.1:6878/ace/getstream?id=e3ad553098e0c1e70cba1ea2a906dc27aa3452a2
 
 
 

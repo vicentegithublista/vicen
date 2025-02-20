@@ -60,10 +60,7 @@ acestream://56ac8e227d526e722624675ccdd91b0cc850582f
 #EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M. PLUS⚽
 http://127.0.0.1:6878/ace/getstream?id=56ac8e227d526e722624675ccdd91b0cc850582f
 
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",#VAMOS🏆 
-http://127.0.0.1:6878/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD"  group-title="DEPORTE", M #VAMOS
-acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD"  group-title="DEPORTE", M #VAMOS
 acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"  group-title="DEPORTE", M. Deportes HD --> NEW LOOP
@@ -258,29 +255,7 @@ acestream://872608e734992db636eb79426802cd08f4029afb
 
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",TELEMADRID
-http://ak-47scan.dyndns.tv:25461/r3str3@m/vvjGFEdj8T/293512
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",TVE Internacional 
-http://ak-47scan.dyndns.tv:25461/r3str3@m/vvjGFEdj8T/394470
-
-
-
-
-
-
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",HISTORY
-http://ak-47scan.dyndns.tv:25461/r3str3@m/vvjGFEdj8T/50597
-
-
-
-
-
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,ONETORO
-http://fastream.xyz:8080/juanabril21/canale2021/236541
-
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,ONETORO
-http://fastream.xyz:8080/juanabril21/canale2021/236542
 
 
 
@@ -601,6 +576,13 @@ http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa
 
 
 
+
+
+
+
+
+
+
 @LaQuay https://github.com/LaQuay/TDTChannels
 url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz"
 
@@ -610,8 +592,29 @@ https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="TDT" tvg-name="La 2",La 2
 https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
 
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="TDT" tvg-name="TELEMADRID",TELEMADRID
+http://ak-47scan.dyndns.tv:25461/r3str3@m/vvjGFEdj8T/293512
+
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="TDT" tvg-name="TVE",TVE
+http://ak-47scan.dyndns.tv:25461/r3str3@m/vvjGFEdj8T/394470
+
+
 #EXTINF:-1 tvg-id="13.TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="TDT" tvg-name="TRECE",TRECE
 https://live-edge-ams-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
+
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="TDT" tvg-name="HISTORIA",HISTORIA
+http://ak-47scan.dyndns.tv:25461/r3str3@m/vvjGFEdj8T/50597
+
+
+
+
+
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="TDT" tvg-name="ONETORO",ONETORO
+http://fastream.xyz:8080/juanabril21/canale2021/236541
+
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="TDT" tvg-name="ONETORO",ONETORO
+http://fastream.xyz:8080/juanabril21/canale2021/236542
+
 
 #EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="TDT" tvg-name="El Toro TV",El Toro TV
 https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8

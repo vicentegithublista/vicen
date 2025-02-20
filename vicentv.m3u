@@ -539,8 +539,7 @@ http://fastream.xyz:8080/juanabril21/canale2021/236542
 https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="TDT" tvg-name="RNE para todos",RNE para todos
-https://rtvelivestream.akamaized.net/rtvesec/rne/rne_para_todos_main.m3u8
+
 
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="TDT" tvg-name="24h",24h
 https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8
@@ -632,7 +631,8 @@ https://ztnr.rtve.es/ztnr/6924117.m3u8
 https://ztnr.rtve.es/ztnr/2472037.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="TDT" tvg-name="RNE para todos",RNE para todos
+https://rtvelivestream.akamaized.net/rtvesec/rne/rne_para_todos_main.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="TDT" tvg-name="Radio Nacional",Radio Nacional
 https://ztnr.rtve.es/ztnr/1938076.m3u8

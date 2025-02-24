@@ -544,26 +544,59 @@ http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa
 
 
 
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="TDT" tvg-name="La 1",La 1
+https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
 
+#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="TDT" tvg-name="La 2",La 2
+https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
 
-#EXTINF:0, group-title="TDT",LA 1 HD
-#EXTVLCOPT:network-caching=1000
-http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5799
-#EXTINF:0, group-title="TDT",LA 2 HD
-#EXTVLCOPT:network-caching=1000
-http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5800
-#EXTINF:0, group-title="TDT",ANTENA 3 HD
+#EXTINF:-1, group-title="TDT",ANTENA 3 HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5801
-#EXTINF:0, group-title="TDT",CUATRO HD
+#EXTINF:-1, group-title="TDT",CUATRO HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5802
-#EXTINF:0, group-title="TDT",TELECINCO HD
+#EXTINF:-1, group-title="TDT",TELECINCO HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5803
-#EXTINF:0, group-title="TDT",LA SEXTA HD
+#EXTINF:-1, group-title="TDT",LA SEXTA HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5804
+
+#EXTINF:-1 tvg-id="CMM.TV" tvg-logo="https://graph.facebook.com/CMMediaes/picture?width=200&height=200" group-title="TDT" tvg-name="Castilla-La Mancha Media",Castilla-La Mancha Media
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_sqa9madm/protocol/https/format/applehttp/a.m3u8
+
+#EXTINF:-1, group-title="TDT",CASTILLA LA MANCHA
+#EXTVLCOPT:network-caching=1000
+http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/6330
+
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="TDT" tvg-name="TELEMADRID",TELEMADRID
+http://ak-47scan.dyndns.tv:25461/r3str3@m/vvjGFEdj8T/293512
+
+
+#EXTINF:-1, group-title="TDT",CAZAyPESCA HD
+#EXTVLCOPT:network-caching=1000
+http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5845
+
+
+
+#EXTINF:-1, group-title="TDT",IBERALIA TV
+#EXTVLCOPT:network-caching=1000
+http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5861
+
+#EXTINF:-1, group-title="TDT",IBERALIACAZA
+#EXTVLCOPT:network-caching=1000
+http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/16732
+
+#EXTINF:-1, group-title="TDT",IBERALIAPESCA 
+#EXTVLCOPT:network-caching=1000
+http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/16733
+
+
+
+
+
 #EXTINF:0, group-title="TDT",MOVISTAR PLUS +
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/7575
@@ -594,9 +627,7 @@ http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/6275
 #EXTINF:0, group-title="TDT",CANAL EXTREMADURA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/1739
-#EXTINF:0, group-title="TDT",CASTILLA LA MANCHA
-#EXTVLCOPT:network-caching=1000
-http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/6330
+
 #EXTINF:0, group-title="TDT",PTV CORDOBA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/8487
@@ -906,18 +937,12 @@ http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5883
 #EXTINF:0, group-title="TDT",TOROLE
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/16737
-#EXTINF:0, group-title="TDT",CAZAyPESCA HD
-#EXTVLCOPT:network-caching=1000
-http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5845
-#EXTINF:0, group-title="TDT",IBERALIA TV
-#EXTVLCOPT:network-caching=1000
-http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5861
-#EXTINF:0, group-title="TDT",IBERALIACAZA
-#EXTVLCOPT:network-caching=1000
-http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/16732
-#EXTINF:0, group-title="TDT",IBERALIAPESCA 
-#EXTVLCOPT:network-caching=1000
-http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/16733
+
+
+
+
+
+
 #EXTINF:0, group-title="TDT",R. MADRID TV
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5881

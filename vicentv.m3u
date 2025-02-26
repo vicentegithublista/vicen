@@ -9,7 +9,7 @@ https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 
 
-#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTE" tvg-name="La 1",La 1
+#EXTINF:-1, tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTE" tvg-name="La 1",La 1
 https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
 
 
@@ -20,14 +20,14 @@ https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m54QH9Gt/copa.png" tvg-id="M+ Copa del Rey"  group-title="DEPORTE", Copa del Rey⚽
+#EXTINF:-1, tvg-logo="https://i.ibb.co/m54QH9Gt/copa.png" tvg-id="M+ Copa del Rey"  group-title="DEPORTE", Copa del Rey⚽
 acestream://b51f2d9a15b6956a44385b6be531bcabeb099d9d
 
 
 
 
 
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Movistar Plus
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Movistar Plus
 http://127.0.0.1:6878/ace/getstream?id=56ac8e227d526e722624675ccdd91b0cc850582f
 
 
@@ -39,64 +39,64 @@ http://127.0.0.1:6878/ace/getstream?id=94d34491106e00394835c8cb68aa94481339b53f
 
 
 
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV BAR⚽
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV BAR⚽
 http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD"  group-title="DEPORTE",DAZN LIGA⚽
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD"  group-title="DEPORTE",DAZN LIGA⚽
 acestream://6de4794cd02f88f14354b5996823413a59a1de0f
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD"  group-title="DEPORTE",DAZN LIGA⚽
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD"  group-title="DEPORTE",DAZN LIGA⚽
 acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD"  group-title="DEPORTE",DAZN LIGA⚽
 acestream://110d441ddc9713a7452588770d2bc85504672f47
 
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LIGA 2⚽
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LIGA 2⚽
 http://127.0.0.1:6878/ace/getstream?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9
 
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LIGA 2⚽
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LIGA 2⚽
 http://127.0.0.1:6878/ace/getstream?id=97ba38d47680954be40e48bd8f43e17222fefecb
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD"  group-title="DEPORTE",M.LA LIGA TV⚽
+#EXTINF:-1, tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD"  group-title="DEPORTE",M.LA LIGA TV⚽
 acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD"  group-title="DEPORTE",M.LA LIGA TV UHD⚽
+#EXTINF:-1, tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD"  group-title="DEPORTE",M.LA LIGA TV UHD⚽
 acestream://d15a0eaf825b5f8f94259d5209688a7e97e6acde
 
 
 
 
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV UHD⚽
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV UHD⚽
 http://127.0.0.1:6878/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b
 
 
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV UHD⚽
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV UHD⚽
 http://127.0.0.1:6878/ace/getstream?infohash=83d43d89061d3790c1a9938a967ce8734a0bd6ce
 
 
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV UHD⚽ 
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV UHD⚽ 
 http://127.0.0.1:6878/content/83d43d89061d3790c1a9938a967ce8734a0bd6ce/0.453584109459
 
 
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV UHD⚽
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV UHD⚽
 http://127.0.0.1:6878/ace/getstream?id=d15a0eaf825b5f8f94259d5209688a7e97e6acde
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8K0VrQV/hypermotion2.png" tvg-id="LaLiga TV Hypermotion 2"  group-title="DEPORTE",LaLiga TV Hypermotion⚽
+#EXTINF:-1, tvg-logo="https://i.ibb.co/8K0VrQV/hypermotion2.png" tvg-id="LaLiga TV Hypermotion 2"  group-title="DEPORTE",LaLiga TV Hypermotion⚽
 acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8K0VrQV/hypermotion2.png" tvg-id="LaLiga TV Hypermotion 2"  group-title="DEPORTE",LaLiga TV Hypermotion⚽
+#EXTINF:-1, tvg-logo="https://i.ibb.co/8K0VrQV/hypermotion2.png" tvg-id="LaLiga TV Hypermotion 2"  group-title="DEPORTE",LaLiga TV Hypermotion⚽
 acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
 
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LaLiga TV Hypermotion 2⚽
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LaLiga TV Hypermotion 2⚽
 http://127.0.0.1:6878/ace/getstream?id=0a335406bad0b658aeddb2d38f8c0614b2e5623a
 
 
@@ -105,24 +105,24 @@ http://127.0.0.1:6878/ace/getstream?id=0a335406bad0b658aeddb2d38f8c0614b2e5623a
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD"  group-title="DEPORTE",M #VAMOS🏆
+#EXTINF:-1, tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD"  group-title="DEPORTE",M #VAMOS🏆
 acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"  group-title="DEPORTE",M.DEPORTES🏆
+#EXTINF:-1, tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"  group-title="DEPORTE",M.DEPORTES🏆
 acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"  group-title="DEPORTE", M.DEPORTES🏆
+#EXTINF:-1, tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"  group-title="DEPORTE", M.DEPORTES🏆
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 
 
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.DEPORTES🏆 
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.DEPORTES🏆 
 http://127.0.0.1:6878/ace/getstream?infohash=8aba55f4f1f47def54447e845518109d797339e7
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WDN9NN9/deportes4.png" tvg-id="M+ Deportes 4"  group-title="DEPORTE", M DEPORTES 4🏆
+#EXTINF:-1, tvg-logo="https://i.ibb.co/WDN9NN9/deportes4.png" tvg-id="M+ Deportes 4"  group-title="DEPORTE", M DEPORTES 4🏆
 acestream://b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-5-por-movistar-plus-es.png" tvg-id="M+ Deportes 5"  group-title="DEPORTE", M DEPORTES 5🏆
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-5-por-movistar-plus-es.png" tvg-id="M+ Deportes 5"  group-title="DEPORTE", M DEPORTES 5🏆
 acestream://fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
 
 
@@ -140,15 +140,15 @@ acestream://fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD"  group-title="DEPORTE", M+ LIGA DE CAMPEONES⚽
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD"  group-title="DEPORTE", M+ LIGA DE CAMPEONES⚽
 acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
 
 
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ LIGA DE CAMPEONES⚽
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ LIGA DE CAMPEONES⚽
 http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
                                        
 
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ LIGA DE CAMPEONES⚽
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ LIGA DE CAMPEONES⚽
 http://127.0.0.1:6878/ace/getstream?id=bb5a8bf7752e978460ee1710e5e8950a5c9e1f99
 
 
@@ -165,24 +165,24 @@ http://127.0.0.1:6878/ace/getstream?id=bb5a8bf7752e978460ee1710e5e8950a5c9e1f99
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD"  group-title="DEPORTE", DAZN 1🏁🎾🏀🥊
+#EXTINF:-1, tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD"  group-title="DEPORTE", DAZN 1🏁🎾🏀🥊
 acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 
 
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", DAZN 1🏁🎾🏀🥊  
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", DAZN 1🏁🎾🏀🥊  
 http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 HD"  group-title="DEPORTE", DAZN 2🏁🎾🏀🥊
+#EXTINF:-1, tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 HD"  group-title="DEPORTE", DAZN 2🏁🎾🏀🥊
 acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 
 
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", DAZN 2🏁🎾🏀🥊  
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", DAZN 2🏁🎾🏀🥊  
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 HD"  group-title="DEPORTE", DAZN 2🏁🎾🏀🥊
+#EXTINF:-1, tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 HD"  group-title="DEPORTE", DAZN 2🏁🎾🏀🥊
 acestream://a929eeec1268d69d1556a2e3ace793b2577d8810
 
 
@@ -193,7 +193,7 @@ acestream://a929eeec1268d69d1556a2e3ace793b2577d8810
 
 
 
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", DAZN 3🏁🎾🏀🥊 
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", DAZN 3🏁🎾🏀🥊 
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 
 
@@ -201,89 +201,89 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 
 
 
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", DAZN 4🏁🎾🏀🥊 
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", DAZN 4🏁🎾🏀🥊 
 http://127.0.0.1:6878/ace/getstream?id=4e83f23945ab3e43982045f88ec31daaa4683102
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R4LBVWP/dazn4.png" tvg-id="DAZN 4 HD"  group-title="DEPORTE",  DAZN 4🏁🎾🏀🥊
+#EXTINF:-1, tvg-logo="https://i.ibb.co/R4LBVWP/dazn4.png" tvg-id="DAZN 4 HD"  group-title="DEPORTE",  DAZN 4🏁🎾🏀🥊
 acestream://7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 
 
 
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", DAZN F1🏁 
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", DAZN F1🏁 
 http://127.0.0.1:6878/ace/getstream?id=268289e7a3c5209960b53b4d43c8c65fab294b85
 
 
 
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", SKY F1🚗 
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", SKY F1🚗 
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 
 
 
 
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",EuroSport 1🏁🎾🏀🥊 
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",EuroSport 1🏁🎾🏀🥊 
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD"  group-title="DEPORTE",EuroSport 1🏁🎾🏀🥊
+#EXTINF:-1, tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD"  group-title="DEPORTE",EuroSport 1🏁🎾🏀🥊
 acestream://fbc82948dd7c19387a702692bc4590157b376459
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD"  group-title="DEPORTE",EuroSport 1🏁🎾🏀🥊
+#EXTINF:-1, tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD"  group-title="DEPORTE",EuroSport 1🏁🎾🏀🥊
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD"  group-title="DEPORTE", M. Golf🏆
+#EXTINF:-1, tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD"  group-title="DEPORTE", M. Golf🏆
 acestream://872608e734992db636eb79426802cd08f4029afb
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Teledeporte
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Teledeporte
 https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",+tdp
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",+tdp
 https://ztnr.rtve.es/ztnr/6712432.m3u8
 
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Esport 3 GEO
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Esport 3 GEO
 https://directes-tv-es.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",ETB Deportes
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",ETB Deportes
 https://multimedia.eitb.eus/live-content/oka3hd-hls/master.m3u8
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Real Madrid TV
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Real Madrid TV EN
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Real Madrid TV EN
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Mundo Nautica
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Mundo Nautica
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12109
 
 
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Tennis Channel🎾
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Tennis Channel🎾
 acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
 
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Tennis Channel🎾
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Tennis Channel🎾
 acestream://52a526d748e26ff0827635b3932d9f49aee14a25
 
 
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Tennis Channel🎾 
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Tennis Channel🎾 
 https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Tennis Channel 2🎾
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Tennis Channel 2🎾
 http://root:1234http://root:@127.0.0.1:6878/ace/getstream?id=51a682f0daa2e2fb61e078e48704cb1e3411a300
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,NBA🏀
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,NBA🏀
 http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
 
 
@@ -299,28 +299,28 @@ http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
 
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,DAZN 1⚽
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,DAZN 1⚽
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,DAZN 2⚽
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,DAZN 2⚽
 http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",FR | BEIN SPORTS 1🏆
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",FR | BEIN SPORTS 1🏆
 http://127.0.0.1:6878/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,FR | BEIN SPORTS 2🏆
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,FR | BEIN SPORTS 2🏆
 http://127.0.0.1:6878/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
 
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,FR | CANAL+ Sport🏆
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,FR | CANAL+ Sport🏆
 http://127.0.0.1:6878/ace/getstream?id=cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,FR | CANAL+ Sport 2🏆
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,FR | CANAL+ Sport 2🏆
 http://127.0.0.1:6878/ace/getstream?id=6390b1ab967a25777ea2dde1d41b7400cc0601d3
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,FR | CANAL+ Sport 3🏆
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,FR | CANAL+ Sport 3🏆
 http://127.0.0.1:6878/ace/getstream?id=3e87464ed8c42ed14464461ea08860a3040a8944
 
 
@@ -329,64 +329,64 @@ http://127.0.0.1:6878/ace/getstream?id=3e87464ed8c42ed14464461ea08860a3040a8944
 
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,Eleven 1🏆
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,Eleven 1🏆
 http://127.0.0.1:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,Eleven 1🏆
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,Eleven 1🏆
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,Eleven 2🏆
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,Eleven 2🏆
 http://127.0.0.1:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,Eleven 3🏆
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,Eleven 3🏆
 http://127.0.0.1:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,Eleven 3🏆
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,Eleven 3🏆
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,Eleven 4🏆
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,Eleven 4🏆
 http://127.0.0.1:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,Eleven 6🏆
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,Eleven 6🏆
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 
 
 
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,Manchester United⚽
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,Manchester United⚽
 http://127.0.0.1:6878/ace/getstream?id=30447ef0ecb4410d5499eaac68026bf123a7ffa6
 
 
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",UK|Sky Sport main event⚽
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",UK|Sky Sport main event⚽
 http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",UK|Sky Sport Premier League⚽
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",UK|Sky Sport Premier League⚽
 http://127.0.0.1:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",UK|Sky Sport football⚽
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",UK|Sky Sport football⚽
 http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
 
-#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Football_GB_logo.png?1734015024" tvg-id="UK | Sky Sport Football"  group-title="DEPORTE",UK|Sky Sport football⚽
+#EXTINF:-1, tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Football_GB_logo.png?1734015024" tvg-id="UK | Sky Sport Football"  group-title="DEPORTE",UK|Sky Sport football⚽
 acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",UK|Sky Sports Arena⚽
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",UK|Sky Sports Arena⚽
 http://127.0.0.1:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 
 
-#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Arena_GB_logo.png?1734015005" tvg-id="UK | Sky Sport Arena"  group-title="DEPORTE",UK|Sky Sports Arena⚽
+#EXTINF:-1, tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Arena_GB_logo.png?1734015005" tvg-id="UK | Sky Sport Arena"  group-title="DEPORTE",UK|Sky Sports Arena⚽
 acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605139019741929472/RWr7BPxn_200x200.jpg" tvg-id="UK | Sky Sport Cricket"  group-title="DEPORTE",UK|Sky Sports Cricket⚽
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1605139019741929472/RWr7BPxn_200x200.jpg" tvg-id="UK | Sky Sport Cricket"  group-title="DEPORTE",UK|Sky Sports Cricket⚽
 acestream://6d95e4b0893e155cc674b84e0763150c445d3ddd
 
 
@@ -396,79 +396,79 @@ acestream://6d95e4b0893e155cc674b84e0763150c445d3ddd
 
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,UK|Premier Sports 1⚽
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,UK|Premier Sports 1⚽
 http://127.0.0.1:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",UK|TNT SPORTS 1🏆
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",UK|TNT SPORTS 1🏆
 http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",UK|TNT SPORTS 3🏆
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",UK|TNT SPORTS 3🏆
 http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
 
 
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",UK|BT Sport 1🏆
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",UK|BT Sport 1🏆
 http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",UK|BT SPORTS 2🏆
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",UK|BT SPORTS 2🏆
 http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,UK|BT Sport4 🏆
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,UK|BT Sport4 🏆
 http://127.0.0.1:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",SPORT DIGITAL🏆
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",SPORT DIGITAL🏆
 http://127.0.0.1:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7   
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",CTAPT LIVE🏆
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",CTAPT LIVE🏆
 http://127.0.0.1:6878/ace/getstream?id=4b129146077c1e357e4ab341448b9fb629f939dc   
 
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",POLSAT SPORT 1🏆
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",POLSAT SPORT 1🏆
 http://127.0.0.1:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",FOX SPORTS🏆
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",FOX SPORTS🏆
 http://127.0.0.1:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",FOX SPORTS 2🏆
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",FOX SPORTS 2🏆
 http://127.0.0.1:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,ESPN🏆
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,ESPN🏆
 http://127.0.0.1:6878/ace/getstream?id=4b4907de51ec11087d4bed5876f2a0c68264f442
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",ESPN 2🏆
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",ESPN 2🏆
 http://127.0.0.1:6878/ace/getstream?id=664eb5fe460b96941aed633959a845b185cd8394
 
 
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",ESPN 5🏆
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",ESPN 5🏆
 http://127.0.0.1:6878/ace/getstream?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa
 
 
 
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Red Bull TV🏆
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Red Bull TV🏆
 http://127.0.0.1:6878/ace/getstream?id=647d19df70ee35100d0e95bc62ddebeebec1fabb
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Red Bull TV UHD🏆
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Red Bull TV UHD🏆
 http://127.0.0.1:6878/ace/getstream?id=fefd91766cef2af2bf4ded328633fb01051d6df9
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/Automotor-logo-D99B43248F-seeklogo.com.gif" tvg-id=""  group-title="DEPORTE", AutoMotorSport
+#EXTINF:-1, tvg-logo="https://seeklogo.com/images/A/Automotor-logo-D99B43248F-seeklogo.com.gif" tvg-id=""  group-title="DEPORTE", AutoMotorSport
 acestream://6791a2d1587e8c68eac10815f22aed439b0f6c9f
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3ee9eef4eb12ec1b3e26049e79a43606.webp" tvg-id=""  group-title="DEPORTE", Canal Motor
+#EXTINF:-1, tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3ee9eef4eb12ec1b3e26049e79a43606.webp" tvg-id=""  group-title="DEPORTE", Canal Motor
 acestream://31ef168d43c7cd04e672475f7ec33b99b9fe5a96
 
-#EXTINF:-1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/logo%20Motors%20TV.jpg" tvg-id=""  group-title="DEPORTE", Motors TV
+#EXTINF:-1, tvg-logo="https://www.mxgp.com/sites/default/files/news/image/logo%20Motors%20TV.jpg" tvg-id=""  group-title="DEPORTE", Motors TV
 acestream://8d475e2688519f2c602687b71be54cedbaef9e6b
 
-#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/10/14120627/Motorvision-TV.png" tvg-id=""  group-title="DEPORTE", Motorvision TV
+#EXTINF:-1, tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/10/14120627/Motorvision-TV.png" tvg-id=""  group-title="DEPORTE", Motorvision TV
 acestream://fffaa64d41e500250064181762d510d513137410
 
-#EXTINF:-1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/logo%20Motors%20TV.jpg" tvg-id=""  group-title="DEPORTE", Retrovision Motor
+#EXTINF:-1, tvg-logo="https://www.mxgp.com/sites/default/files/news/image/logo%20Motors%20TV.jpg" tvg-id=""  group-title="DEPORTE", Retrovision Motor
 acestream://b8b8c4470d3d27c75302cf49ab6c4b52a660bff3
 
 
@@ -476,16 +476,16 @@ acestream://b8b8c4470d3d27c75302cf49ab6c4b52a660bff3
 
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",FIGHTBOX🥊   
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",FIGHTBOX🥊   
 http://127.0.0.1:6878/ace/getstream?id=49b734a5a3365674480089264be00ae28fabb640
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",FIGHTKLUB🥊   
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",FIGHTKLUB🥊   
 http://127.0.0.1:6878/ace/getstream?id=b73da828421018c98905ed05934b77ea35aa1b29
 
 
 
-#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",POLSAT SPORT FIGHT🥊   
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",POLSAT SPORT FIGHT🥊   
 http://127.0.0.1:6878/ace/getstream?id=9e7fe279f421b734a8af9e68320955fd16f80b4b
 
 
@@ -493,7 +493,7 @@ http://127.0.0.1:6878/ace/getstream?id=9e7fe279f421b734a8af9e68320955fd16f80b4b
 
 
 
-#EXTINF:0,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",UFC Fight Pass🥊
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",UFC Fight Pass🥊
 http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa
 
 
@@ -503,469 +503,469 @@ http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa
 
 
 
-#EXTINF:0,LA 1 HD
+#EXTINF:-1,LA 1 HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5799
-#EXTINF:0,LA 2 HD
+#EXTINF:-1,LA 2 HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5800
-#EXTINF:0,ANTENA 3 HD
+#EXTINF:-1,ANTENA 3 HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5801
-#EXTINF:0,CUATRO HD
+#EXTINF:-1,CUATRO HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5802
-#EXTINF:0,TELECINCO HD
+#EXTINF:-1,TELECINCO HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5803
-#EXTINF:0,LA SEXTA HD
+#EXTINF:-1,LA SEXTA HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5804
-#EXTINF:0,MOVISTAR PLUS +
+#EXTINF:-1,MOVISTAR PLUS +
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/7575
-#EXTINF:0,MOVISTAR PLUS 2 HD
+#EXTINF:-1,MOVISTAR PLUS 2 HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/16474
-#EXTINF:0,M+ VAMOS
+#EXTINF:-1,M+ VAMOS
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5806
-#EXTINF:0,ELLAS #V
+#EXTINF:-1,ELLAS #V
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/12438
-#EXTINF:0,ARAGON TV 
+#EXTINF:-1,ARAGON TV 
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5807
-#EXTINF:0,CANAL SUR A.
+#EXTINF:-1,CANAL SUR A.
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5808
-#EXTINF:0,ONDA CADIZ
+#EXTINF:-1,ONDA CADIZ
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/1671
-#EXTINF:0,TELEVISION GALICIA
+#EXTINF:-1,TELEVISION GALICIA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/6670
-#EXTINF:0,EL TORO TV
+#EXTINF:-1,EL TORO TV
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/6275
-#EXTINF:0,CANAL EXTREMADURA
+#EXTINF:-1,CANAL EXTREMADURA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/1739
-#EXTINF:0,CASTILLA LA MANCHA
+#EXTINF:-1,CASTILLA LA MANCHA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/6330
-#EXTINF:0,PTV CORDOBA
+#EXTINF:-1,PTV CORDOBA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/8487
-#EXTINF:0,NEGOCIOS TV
+#EXTINF:-1,NEGOCIOS TV
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/8948
-#EXTINF:0,ANDALUCIA TV HD
+#EXTINF:-1,ANDALUCIA TV HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/8949
-#EXTINF:0,24 HORAS HD
+#EXTINF:-1,24 HORAS HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5835
-#EXTINF:0,M+ ESTRENOS
+#EXTINF:-1,M+ ESTRENOS
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5825
-#EXTINF:0,M+ HITS
+#EXTINF:-1,M+ HITS
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5809
-#EXTINF:0,M+ ORIGINALES
+#EXTINF:-1,M+ ORIGINALES
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5805
-#EXTINF:0,M+ OSCARS
+#EXTINF:-1,M+ OSCARS
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/11693
-#EXTINF:0,M+ CLASICOS
+#EXTINF:-1,M+ CLASICOS
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/7576
-#EXTINF:0,M+ ACCION
+#EXTINF:-1,M+ ACCION
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5828
-#EXTINF:0,M+ COMEDIA
+#EXTINF:-1,M+ COMEDIA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5829
-#EXTINF:0,M+ DRAMA 
+#EXTINF:-1,M+ DRAMA 
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5830
-#EXTINF:0,M+ CINE ESPAÑOL
+#EXTINF:-1,M+ CINE ESPAÑOL
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5831
-#EXTINF:0,M+ EPOCA
+#EXTINF:-1,M+ EPOCA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/7578
-#EXTINF:0,M+ INDIE HD
+#EXTINF:-1,M+ INDIE HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/11684
-#EXTINF:0,TCM HD
+#EXTINF:-1,TCM HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5832
-#EXTINF:0,HOLLYWOOD HD
+#EXTINF:-1,HOLLYWOOD HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5833
-#EXTINF:0,XTRM
+#EXTINF:-1,XTRM
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/9009
-#EXTINF:0,SUNDANCE
+#EXTINF:-1,SUNDANCE
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5885
-#EXTINF:0,DARK HD
+#EXTINF:-1,DARK HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/8317
-#EXTINF:0,SOMOS
+#EXTINF:-1,SOMOS
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/12026
-#EXTINF:0,PARAMOUNT
+#EXTINF:-1,PARAMOUNT
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5834
-#EXTINF:0,M+ DOCUMENTALES
+#EXTINF:-1,M+ DOCUMENTALES
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/6274
-#EXTINF:0,M+ LA RESISTENCIA
+#EXTINF:-1,M+ LA RESISTENCIA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/11694
-#EXTINF:0,START CHANNEL HD 
+#EXTINF:-1,START CHANNEL HD 
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5811
-#EXTINF:0,AXN HD
+#EXTINF:-1,AXN HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5812
-#EXTINF:0,WARNER HD
+#EXTINF:-1,WARNER HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5813
-#EXTINF:0,COMEDY CENTRAL HD
+#EXTINF:-1,COMEDY CENTRAL HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5814
-#EXTINF:0,CALLE 13 HD
+#EXTINF:-1,CALLE 13 HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5815
-#EXTINF:0,COSMO HD
+#EXTINF:-1,COSMO HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5816
-#EXTINF:0,AMC HD
+#EXTINF:-1,AMC HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5817
-#EXTINF:0,SYFY HD
+#EXTINF:-1,SYFY HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5820
-#EXTINF:0,TRECE
+#EXTINF:-1,TRECE
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/8486
-#EXTINF:0,ENERGY
+#EXTINF:-1,ENERGY
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5824
-#EXTINF:0,FDF
+#EXTINF:-1,FDF
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5822
-#EXTINF:0,NEOX
+#EXTINF:-1,NEOX
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5823
-#EXTINF:0,ATRESERIES HD
+#EXTINF:-1,ATRESERIES HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/9010
-#EXTINF:0,BOM CINE
+#EXTINF:-1,BOM CINE
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/11685
-#EXTINF:0,THRILLER-TERROR
+#EXTINF:-1,THRILLER-TERROR
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/14758
-#EXTINF:0,TAQUILLA VIP 1
+#EXTINF:-1,TAQUILLA VIP 1
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/934
-#EXTINF:0,TAQUILLA VIP 2
+#EXTINF:-1,TAQUILLA VIP 2
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/932
-#EXTINF:0,TAQUILLA VIP 3
+#EXTINF:-1,TAQUILLA VIP 3
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/962
-#EXTINF:0,TAQUILLA VIP 4
+#EXTINF:-1,TAQUILLA VIP 4
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/974
-#EXTINF:0,TAQUILLA VIP 5
+#EXTINF:-1,TAQUILLA VIP 5
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/1137
-#EXTINF:0,TAQUILLA VIP 6
+#EXTINF:-1,TAQUILLA VIP 6
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/1136
-#EXTINF:0,TAQUILLA VIP 7
+#EXTINF:-1,TAQUILLA VIP 7
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/1140
-#EXTINF:0,TAQUILLA VIP 8
+#EXTINF:-1,TAQUILLA VIP 8
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/1142
-#EXTINF:0,TAQUILLA VIP 9
+#EXTINF:-1,TAQUILLA VIP 9
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/3114
-#EXTINF:0,TAQUILLA VIP 10
+#EXTINF:-1,TAQUILLA VIP 10
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/3115
-#EXTINF:0,PTV SEVILLA
+#EXTINF:-1,PTV SEVILLA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/16738
-#EXTINF:0,PTV GRANADA
+#EXTINF:-1,PTV GRANADA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/16739
-#EXTINF:0,PTV MALAGA
+#EXTINF:-1,PTV MALAGA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/16740
-#EXTINF:0,M LA LIGA HD
+#EXTINF:-1,M LA LIGA HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5872
-#EXTINF:0,M+Copa del Rey HD
+#EXTINF:-1,M+Copa del Rey HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/7588
-#EXTINF:0,M+ LALIGA TV 2 HD
+#EXTINF:-1,M+ LALIGA TV 2 HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5870
-#EXTINF:0,M+ LALIGA TV 3 HD
+#EXTINF:-1,M+ LALIGA TV 3 HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/11691
-#EXTINF:0,M+ LALIGA TV 4
+#EXTINF:-1,M+ LALIGA TV 4
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/11695
-#EXTINF:0,M LIGA CAMPEONES HD
+#EXTINF:-1,M LIGA CAMPEONES HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5862
-#EXTINF:0,M LIGA CAMPEONES 2
+#EXTINF:-1,M LIGA CAMPEONES 2
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5874
-#EXTINF:0,M LIGA CAMPEONES 3
+#EXTINF:-1,M LIGA CAMPEONES 3
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/7583
-#EXTINF:0,M LIGA CAMPEONES 4
+#EXTINF:-1,M LIGA CAMPEONES 4
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/7584
-#EXTINF:0,M LIGA CAMPEONES 5
+#EXTINF:-1,M LIGA CAMPEONES 5
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/7585
-#EXTINF:0,M LIGA CAMPEONES 6
+#EXTINF:-1,M LIGA CAMPEONES 6
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/7586
-#EXTINF:0,M LIGA CAMPEONES 7
+#EXTINF:-1,M LIGA CAMPEONES 7
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/7587
-#EXTINF:0,M LIGA CAMPEONES 8
+#EXTINF:-1,M LIGA CAMPEONES 8
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/7582
-#EXTINF:0,M LIGA CAMPEONES 9
+#EXTINF:-1,M LIGA CAMPEONES 9
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/17942
-#EXTINF:0,M LIGA CAMPEONES 10
+#EXTINF:-1,M LIGA CAMPEONES 10
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/17943
-#EXTINF:0,M LIGA CAMPEONES 11
+#EXTINF:-1,M LIGA CAMPEONES 11
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/17944
-#EXTINF:0,M LIGA CAMPEONES 12
+#EXTINF:-1,M LIGA CAMPEONES 12
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/17945
-#EXTINF:0,M LIGA CAMPEONES 13
+#EXTINF:-1,M LIGA CAMPEONES 13
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/17946
-#EXTINF:0,M LIGA CAMPEONES 14
+#EXTINF:-1,M LIGA CAMPEONES 14
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/17947
-#EXTINF:0,M LIGA CAMPEONES 15
+#EXTINF:-1,M LIGA CAMPEONES 15
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/17948
-#EXTINF:0,M LIGA CAMPEONES 16
+#EXTINF:-1,M LIGA CAMPEONES 16
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/17949
-#EXTINF:0,M LIGA CAMPEONES 17
+#EXTINF:-1,M LIGA CAMPEONES 17
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/17950
-#EXTINF:0,M LIGA CAMPEONES 18
+#EXTINF:-1,M LIGA CAMPEONES 18
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/17951
-#EXTINF:0,M LIGA CAMPEONES 19
+#EXTINF:-1,M LIGA CAMPEONES 19
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/17952
-#EXTINF:0,LALIGA TV HYPERMOTION
+#EXTINF:-1,LALIGA TV HYPERMOTION
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5851
-#EXTINF:0,LALIGA TV HYPERMOTION 2
+#EXTINF:-1,LALIGA TV HYPERMOTION 2
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5852
-#EXTINF:0,LALIGA TV HYPERMOTION 3 
+#EXTINF:-1,LALIGA TV HYPERMOTION 3 
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/12030
-#EXTINF:0,LALIGA TV HYPERMOTION 4
+#EXTINF:-1,LALIGA TV HYPERMOTION 4
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/7589
-#EXTINF:0,DAZN LA LIGA HD
+#EXTINF:-1,DAZN LA LIGA HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5869
-#EXTINF:0,DAZN LA LIGA 2 HD
+#EXTINF:-1,DAZN LA LIGA 2 HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/12031
-#EXTINF:0,DAZN LIGA 3
+#EXTINF:-1,DAZN LIGA 3
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/7580
-#EXTINF:0,DAZN LIGA 4
+#EXTINF:-1,DAZN LIGA 4
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/7581
-#EXTINF:0,DAZN F1 HD
+#EXTINF:-1,DAZN F1 HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5853
-#EXTINF:0,DAZN 1 HD
+#EXTINF:-1,DAZN 1 HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5849
-#EXTINF:0,DAZN 2 HD
+#EXTINF:-1,DAZN 2 HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5850
-#EXTINF:0,DAZN 3
+#EXTINF:-1,DAZN 3
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/12923
-#EXTINF:0,DAZN 4
+#EXTINF:-1,DAZN 4
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/12924
-#EXTINF:0,M DEPORTES HD
+#EXTINF:-1,M DEPORTES HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5866
-#EXTINF:0,M DEPORTES 2 
+#EXTINF:-1,M DEPORTES 2 
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5864
-#EXTINF:0,M DEPORTES 3
+#EXTINF:-1,M DEPORTES 3
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5865
-#EXTINF:0,M DEPORTES 4
+#EXTINF:-1,M DEPORTES 4
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/13053
-#EXTINF:0,M DEPORTES 5
+#EXTINF:-1,M DEPORTES 5
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/1738
-#EXTINF:0,M DEPORTES 6
+#EXTINF:-1,M DEPORTES 6
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/12028
-#EXTINF:0,M DEPORTES 7
+#EXTINF:-1,M DEPORTES 7
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/12027
-#EXTINF:0,EUROSPORT 1 HD
+#EXTINF:-1,EUROSPORT 1 HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5858
-#EXTINF:0,EUROSPORT 2 
+#EXTINF:-1,EUROSPORT 2 
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5857
-#EXTINF:0,M. GOLF HD
+#EXTINF:-1,M. GOLF HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5867
-#EXTINF:0,GOL
+#EXTINF:-1,GOL
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5859
-#EXTINF:0,TELEDEPORTE
+#EXTINF:-1,TELEDEPORTE
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5882
-#EXTINF:0,TELEQUIVIR
+#EXTINF:-1,TELEQUIVIR
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5883
-#EXTINF:0,TOROLE
+#EXTINF:-1,TOROLE
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/16737
-#EXTINF:0,CAZAyPESCA HD
+#EXTINF:-1,CAZAyPESCA HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5845
-#EXTINF:0,IBERALIA TV
+#EXTINF:-1,IBERALIA TV
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5861
-#EXTINF:0,IBERALIACAZA
+#EXTINF:-1,IBERALIACAZA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/16732
-#EXTINF:0,IBERALIAPESCA 
+#EXTINF:-1,IBERALIAPESCA 
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/16733
-#EXTINF:0,R. MADRID TV
+#EXTINF:-1,R. MADRID TV
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5881
-#EXTINF:0,TELENOVELAS 
+#EXTINF:-1,TELENOVELAS 
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/16731
-#EXTINF:0,NAT GEO HD
+#EXTINF:-1,NAT GEO HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5876
-#EXTINF:0,NG WILD HD
+#EXTINF:-1,NG WILD HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5877
-#EXTINF:0,HISTORIA
+#EXTINF:-1,HISTORIA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5860
-#EXTINF:0,DISCOVERY
+#EXTINF:-1,DISCOVERY
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5886
-#EXTINF:0,CANAL ODISEA
+#EXTINF:-1,CANAL ODISEA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5843
-#EXTINF:0,AMC BREAK
+#EXTINF:-1,AMC BREAK
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/12139
-#EXTINF:0,AMC CRIME
+#EXTINF:-1,AMC CRIME
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/12140
-#EXTINF:0,BUEN VIAJE
+#EXTINF:-1,BUEN VIAJE
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/11698
-#EXTINF:0,DMAX
+#EXTINF:-1,DMAX
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/9012
-#EXTINF:0,CANAL COCINA
+#EXTINF:-1,CANAL COCINA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5841
-#EXTINF:0,CANAL DECASA
+#EXTINF:-1,CANAL DECASA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5842
-#EXTINF:0,DKISS
+#EXTINF:-1,DKISS
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/10197
-#EXTINF:0,DIVINITY
+#EXTINF:-1,DIVINITY
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5856
-#EXTINF:0,NOVA
+#EXTINF:-1,NOVA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5879
-#EXTINF:0,MEGA
+#EXTINF:-1,MEGA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/81
-#EXTINF:0,BE MAD HD
+#EXTINF:-1,BE MAD HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5837
-#EXTINF:0,TEN
+#EXTINF:-1,TEN
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/10198
-#EXTINF:0,EN FAMILIA
+#EXTINF:-1,EN FAMILIA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5844
-#EXTINF:0,BabyTV
+#EXTINF:-1,BabyTV
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5840
-#EXTINF:0,DISNEY JR
+#EXTINF:-1,DISNEY JR
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5855
-#EXTINF:0,NICK JR
+#EXTINF:-1,NICK JR
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5887
-#EXTINF:0,NICKELODEONHD
+#EXTINF:-1,NICKELODEONHD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5878
-#EXTINF:0,DREAMWORKS HD
+#EXTINF:-1,DREAMWORKS HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/7579
-#EXTINF:0,DISNEY CH HD
+#EXTINF:-1,DISNEY CH HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5854
-#EXTINF:0,BOING
+#EXTINF:-1,BOING
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5839
-#EXTINF:0,CLAN  HD
+#EXTINF:-1,CLAN  HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5846
-#EXTINF:0,MTV ESPA¹A
+#EXTINF:-1,MTV ESPA¹A
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/5821
-#EXTINF:0,MTV 00S
+#EXTINF:-1,MTV 00S
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/11692
-#EXTINF:0,Cadena Elite España
+#EXTINF:-1,Cadena Elite España
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/6279
 
@@ -977,469 +977,469 @@ http://qwert.odin55.xyz:8080/falequecasa2/zHGnUDhxBJ/6279
 
 
 
-#EXTINF:-1,LA 1 HD
+#EXTINF:-1,,LA 1 HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5799
-#EXTINF:0,LA 2 HD
+#EXTINF:-1,LA 2 HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5800
-#EXTINF:0,ANTENA 3 HD
+#EXTINF:-1,ANTENA 3 HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5801
-#EXTINF:0,CUATRO HD
+#EXTINF:-1,CUATRO HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5802
-#EXTINF:0,TELECINCO HD
+#EXTINF:-1,TELECINCO HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5803
-#EXTINF:0,LA SEXTA HD
+#EXTINF:-1,LA SEXTA HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5804
-#EXTINF:0,MOVISTAR PLUS +
+#EXTINF:-1,MOVISTAR PLUS +
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/7575
-#EXTINF:0,MOVISTAR PLUS 2 HD
+#EXTINF:-1,MOVISTAR PLUS 2 HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/16474
-#EXTINF:0,M+ VAMOS
+#EXTINF:-1,M+ VAMOS
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5806
-#EXTINF:0,ELLAS #V
+#EXTINF:-1,ELLAS #V
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/12438
-#EXTINF:0,ARAGON TV 
+#EXTINF:-1,ARAGON TV 
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5807
-#EXTINF:0,CANAL SUR A.
+#EXTINF:-1,CANAL SUR A.
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5808
-#EXTINF:0,ONDA CADIZ
+#EXTINF:-1,ONDA CADIZ
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/1671
-#EXTINF:0,TELEVISION GALICIA
+#EXTINF:-1,TELEVISION GALICIA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/6670
-#EXTINF:0,EL TORO TV
+#EXTINF:-1,EL TORO TV
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/6275
-#EXTINF:0,CANAL EXTREMADURA
+#EXTINF:-1,CANAL EXTREMADURA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/1739
-#EXTINF:0,CASTILLA LA MANCHA
+#EXTINF:-1,CASTILLA LA MANCHA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/6330
-#EXTINF:0,PTV CORDOBA
+#EXTINF:-1,PTV CORDOBA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/8487
-#EXTINF:0,NEGOCIOS TV
+#EXTINF:-1,NEGOCIOS TV
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/8948
-#EXTINF:0,ANDALUCIA TV HD
+#EXTINF:-1,ANDALUCIA TV HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/8949
-#EXTINF:0,24 HORAS HD
+#EXTINF:-1,24 HORAS HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5835
-#EXTINF:0,M+ ESTRENOS
+#EXTINF:-1,M+ ESTRENOS
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5825
-#EXTINF:0,M+ HITS
+#EXTINF:-1,M+ HITS
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5809
-#EXTINF:0,M+ ORIGINALES
+#EXTINF:-1,M+ ORIGINALES
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5805
-#EXTINF:0,M+ OSCARS
+#EXTINF:-1,M+ OSCARS
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/11693
-#EXTINF:0,M+ CLASICOS
+#EXTINF:-1,M+ CLASICOS
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/7576
-#EXTINF:0,M+ ACCION
+#EXTINF:-1,M+ ACCION
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5828
-#EXTINF:0,M+ COMEDIA
+#EXTINF:-1,M+ COMEDIA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5829
-#EXTINF:0,M+ DRAMA 
+#EXTINF:-1,M+ DRAMA 
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5830
-#EXTINF:0,M+ CINE ESPAÑOL
+#EXTINF:-1,M+ CINE ESPAÑOL
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5831
-#EXTINF:0,M+ EPOCA
+#EXTINF:-1,M+ EPOCA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/7578
-#EXTINF:0,M+ INDIE HD
+#EXTINF:-1,M+ INDIE HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/11684
-#EXTINF:0,TCM HD
+#EXTINF:-1,TCM HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5832
-#EXTINF:0,HOLLYWOOD HD
+#EXTINF:-1,HOLLYWOOD HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5833
-#EXTINF:0,XTRM
+#EXTINF:-1,XTRM
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/9009
-#EXTINF:0,SUNDANCE
+#EXTINF:-1,SUNDANCE
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5885
-#EXTINF:0,DARK HD
+#EXTINF:-1,DARK HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/8317
-#EXTINF:0,SOMOS
+#EXTINF:-1,SOMOS
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/12026
-#EXTINF:0,PARAMOUNT
+#EXTINF:-1,PARAMOUNT
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5834
-#EXTINF:0,M+ DOCUMENTALES
+#EXTINF:-1,M+ DOCUMENTALES
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/6274
-#EXTINF:0,M+ LA RESISTENCIA
+#EXTINF:-1,M+ LA RESISTENCIA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/11694
-#EXTINF:0,START CHANNEL HD 
+#EXTINF:-1,START CHANNEL HD 
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5811
-#EXTINF:0,AXN HD
+#EXTINF:-1,AXN HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5812
-#EXTINF:0,WARNER HD
+#EXTINF:-1,WARNER HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5813
-#EXTINF:0,COMEDY CENTRAL HD
+#EXTINF:-1,COMEDY CENTRAL HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5814
-#EXTINF:0,CALLE 13 HD
+#EXTINF:-1,CALLE 13 HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5815
-#EXTINF:0,COSMO HD
+#EXTINF:-1,COSMO HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5816
-#EXTINF:0,AMC HD
+#EXTINF:-1,AMC HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5817
-#EXTINF:0,SYFY HD
+#EXTINF:-1,SYFY HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5820
-#EXTINF:0,TRECE
+#EXTINF:-1,TRECE
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/8486
-#EXTINF:0,ENERGY
+#EXTINF:-1,ENERGY
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5824
-#EXTINF:0,FDF
+#EXTINF:-1,FDF
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5822
-#EXTINF:0,NEOX
+#EXTINF:-1,NEOX
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5823
-#EXTINF:0,ATRESERIES HD
+#EXTINF:-1,ATRESERIES HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/9010
-#EXTINF:0,BOM CINE
+#EXTINF:-1,BOM CINE
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/11685
-#EXTINF:0,THRILLER-TERROR
+#EXTINF:-1,THRILLER-TERROR
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/14758
-#EXTINF:0,TAQUILLA VIP 1
+#EXTINF:-1,TAQUILLA VIP 1
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/934
-#EXTINF:0,TAQUILLA VIP 2
+#EXTINF:-1,TAQUILLA VIP 2
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/932
-#EXTINF:0,TAQUILLA VIP 3
+#EXTINF:-1,TAQUILLA VIP 3
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/962
-#EXTINF:0,TAQUILLA VIP 4
+#EXTINF:-1,TAQUILLA VIP 4
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/974
-#EXTINF:0,TAQUILLA VIP 5
+#EXTINF:-1,TAQUILLA VIP 5
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/1137
-#EXTINF:0,TAQUILLA VIP 6
+#EXTINF:-1,TAQUILLA VIP 6
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/1136
-#EXTINF:0,TAQUILLA VIP 7
+#EXTINF:-1,TAQUILLA VIP 7
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/1140
-#EXTINF:0,TAQUILLA VIP 8
+#EXTINF:-1,TAQUILLA VIP 8
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/1142
-#EXTINF:0,TAQUILLA VIP 9
+#EXTINF:-1,TAQUILLA VIP 9
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/3114
-#EXTINF:0,TAQUILLA VIP 10
+#EXTINF:-1,TAQUILLA VIP 10
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/3115
-#EXTINF:0,PTV SEVILLA
+#EXTINF:-1,PTV SEVILLA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/16738
-#EXTINF:0,PTV GRANADA
+#EXTINF:-1,PTV GRANADA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/16739
-#EXTINF:0,PTV MALAGA
+#EXTINF:-1,PTV MALAGA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/16740
-#EXTINF:0,M LA LIGA HD
+#EXTINF:-1,M LA LIGA HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5872
-#EXTINF:0,M+Copa del Rey HD
+#EXTINF:-1,M+Copa del Rey HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/7588
-#EXTINF:0,M+ LALIGA TV 2 HD
+#EXTINF:-1,M+ LALIGA TV 2 HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5870
-#EXTINF:0,M+ LALIGA TV 3 HD
+#EXTINF:-1,M+ LALIGA TV 3 HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/11691
-#EXTINF:0,M+ LALIGA TV 4
+#EXTINF:-1,M+ LALIGA TV 4
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/11695
-#EXTINF:0,M LIGA CAMPEONES HD
+#EXTINF:-1,M LIGA CAMPEONES HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5862
-#EXTINF:0,M LIGA CAMPEONES 2
+#EXTINF:-1,M LIGA CAMPEONES 2
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5874
-#EXTINF:0,M LIGA CAMPEONES 3
+#EXTINF:-1,M LIGA CAMPEONES 3
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/7583
-#EXTINF:0,M LIGA CAMPEONES 4
+#EXTINF:-1,M LIGA CAMPEONES 4
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/7584
-#EXTINF:0,M LIGA CAMPEONES 5
+#EXTINF:-1,M LIGA CAMPEONES 5
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/7585
-#EXTINF:0,M LIGA CAMPEONES 6
+#EXTINF:-1,M LIGA CAMPEONES 6
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/7586
-#EXTINF:0,M LIGA CAMPEONES 7
+#EXTINF:-1,M LIGA CAMPEONES 7
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/7587
-#EXTINF:0,M LIGA CAMPEONES 8
+#EXTINF:-1,M LIGA CAMPEONES 8
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/7582
-#EXTINF:0,M LIGA CAMPEONES 9
+#EXTINF:-1,M LIGA CAMPEONES 9
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/17942
-#EXTINF:0,M LIGA CAMPEONES 10
+#EXTINF:-1,M LIGA CAMPEONES 10
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/17943
-#EXTINF:0,M LIGA CAMPEONES 11
+#EXTINF:-1,M LIGA CAMPEONES 11
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/17944
-#EXTINF:0,M LIGA CAMPEONES 12
+#EXTINF:-1,M LIGA CAMPEONES 12
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/17945
-#EXTINF:0,M LIGA CAMPEONES 13
+#EXTINF:-1,M LIGA CAMPEONES 13
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/17946
-#EXTINF:0,M LIGA CAMPEONES 14
+#EXTINF:-1,M LIGA CAMPEONES 14
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/17947
-#EXTINF:0,M LIGA CAMPEONES 15
+#EXTINF:-1,M LIGA CAMPEONES 15
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/17948
-#EXTINF:0,M LIGA CAMPEONES 16
+#EXTINF:-1,M LIGA CAMPEONES 16
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/17949
-#EXTINF:0,M LIGA CAMPEONES 17
+#EXTINF:-1,M LIGA CAMPEONES 17
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/17950
-#EXTINF:0,M LIGA CAMPEONES 18
+#EXTINF:-1,M LIGA CAMPEONES 18
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/17951
-#EXTINF:0,M LIGA CAMPEONES 19
+#EXTINF:-1,M LIGA CAMPEONES 19
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/17952
-#EXTINF:0,LALIGA TV HYPERMOTION
+#EXTINF:-1,LALIGA TV HYPERMOTION
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5851
-#EXTINF:0,LALIGA TV HYPERMOTION 2
+#EXTINF:-1,LALIGA TV HYPERMOTION 2
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5852
-#EXTINF:0,LALIGA TV HYPERMOTION 3 
+#EXTINF:-1,LALIGA TV HYPERMOTION 3 
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/12030
-#EXTINF:0,LALIGA TV HYPERMOTION 4
+#EXTINF:-1,LALIGA TV HYPERMOTION 4
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/7589
-#EXTINF:0,DAZN LA LIGA HD
+#EXTINF:-1,DAZN LA LIGA HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5869
-#EXTINF:0,DAZN LA LIGA 2 HD
+#EXTINF:-1,DAZN LA LIGA 2 HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/12031
-#EXTINF:0,DAZN LIGA 3
+#EXTINF:-1,DAZN LIGA 3
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/7580
-#EXTINF:0,DAZN LIGA 4
+#EXTINF:-1,DAZN LIGA 4
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/7581
-#EXTINF:0,DAZN F1 HD
+#EXTINF:-1,DAZN F1 HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5853
-#EXTINF:0,DAZN 1 HD
+#EXTINF:-1,DAZN 1 HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5849
-#EXTINF:0,DAZN 2 HD
+#EXTINF:-1,DAZN 2 HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5850
-#EXTINF:0,DAZN 3
+#EXTINF:-1,DAZN 3
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/12923
-#EXTINF:0,DAZN 4
+#EXTINF:-1,DAZN 4
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/12924
-#EXTINF:0,M DEPORTES HD
+#EXTINF:-1,M DEPORTES HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5866
-#EXTINF:0,M DEPORTES 2 
+#EXTINF:-1,M DEPORTES 2 
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5864
-#EXTINF:0,M DEPORTES 3
+#EXTINF:-1,M DEPORTES 3
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5865
-#EXTINF:0,M DEPORTES 4
+#EXTINF:-1,M DEPORTES 4
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/13053
-#EXTINF:0,M DEPORTES 5
+#EXTINF:-1,M DEPORTES 5
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/1738
-#EXTINF:0,M DEPORTES 6
+#EXTINF:-1,M DEPORTES 6
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/12028
-#EXTINF:0,M DEPORTES 7
+#EXTINF:-1,M DEPORTES 7
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/12027
-#EXTINF:0,EUROSPORT 1 HD
+#EXTINF:-1,EUROSPORT 1 HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5858
-#EXTINF:0,EUROSPORT 2 
+#EXTINF:-1,EUROSPORT 2 
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5857
-#EXTINF:0,M. GOLF HD
+#EXTINF:-1,M. GOLF HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5867
-#EXTINF:0,GOL
+#EXTINF:-1,GOL
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5859
-#EXTINF:0,TELEDEPORTE
+#EXTINF:-1,TELEDEPORTE
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5882
-#EXTINF:0,TELEQUIVIR
+#EXTINF:-1,TELEQUIVIR
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5883
-#EXTINF:0,TOROLE
+#EXTINF:-1,TOROLE
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/16737
-#EXTINF:0,CAZAyPESCA HD
+#EXTINF:-1,CAZAyPESCA HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5845
-#EXTINF:0,IBERALIA TV
+#EXTINF:-1,IBERALIA TV
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5861
-#EXTINF:0,IBERALIACAZA
+#EXTINF:-1,IBERALIACAZA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/16732
-#EXTINF:0,IBERALIAPESCA 
+#EXTINF:-1,IBERALIAPESCA 
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/16733
-#EXTINF:0,R. MADRID TV
+#EXTINF:-1,R. MADRID TV
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5881
-#EXTINF:0,TELENOVELAS 
+#EXTINF:-1,TELENOVELAS 
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/16731
-#EXTINF:0,NAT GEO HD
+#EXTINF:-1,NAT GEO HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5876
-#EXTINF:0,NG WILD HD
+#EXTINF:-1,NG WILD HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5877
-#EXTINF:0,HISTORIA
+#EXTINF:-1,HISTORIA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5860
-#EXTINF:0,DISCOVERY
+#EXTINF:-1,DISCOVERY
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5886
-#EXTINF:0,CANAL ODISEA
+#EXTINF:-1,CANAL ODISEA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5843
-#EXTINF:0,AMC BREAK
+#EXTINF:-1,AMC BREAK
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/12139
-#EXTINF:0,AMC CRIME
+#EXTINF:-1,AMC CRIME
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/12140
-#EXTINF:0,BUEN VIAJE
+#EXTINF:-1,BUEN VIAJE
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/11698
-#EXTINF:0,DMAX
+#EXTINF:-1,DMAX
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/9012
-#EXTINF:0,CANAL COCINA
+#EXTINF:-1,CANAL COCINA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5841
-#EXTINF:0,CANAL DECASA
+#EXTINF:-1,CANAL DECASA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5842
-#EXTINF:0,DKISS
+#EXTINF:-1,DKISS
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/10197
-#EXTINF:0,DIVINITY
+#EXTINF:-1,DIVINITY
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5856
-#EXTINF:0,NOVA
+#EXTINF:-1,NOVA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5879
-#EXTINF:0,MEGA
+#EXTINF:-1,MEGA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/81
-#EXTINF:0,BE MAD HD
+#EXTINF:-1,BE MAD HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5837
-#EXTINF:0,TEN
+#EXTINF:-1,TEN
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/10198
-#EXTINF:0,EN FAMILIA
+#EXTINF:-1,EN FAMILIA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5844
-#EXTINF:0,BabyTV
+#EXTINF:-1,BabyTV
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5840
-#EXTINF:0,DISNEY JR
+#EXTINF:-1,DISNEY JR
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5855
-#EXTINF:0,NICK JR
+#EXTINF:-1,NICK JR
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5887
-#EXTINF:0,NICKELODEONHD
+#EXTINF:-1,NICKELODEONHD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5878
-#EXTINF:0,DREAMWORKS HD
+#EXTINF:-1,DREAMWORKS HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/7579
-#EXTINF:0,DISNEY CH HD
+#EXTINF:-1,DISNEY CH HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5854
-#EXTINF:0,BOING
+#EXTINF:-1,BOING
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5839
-#EXTINF:0,CLAN  HD
+#EXTINF:-1,CLAN  HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5846
-#EXTINF:0,MTV ESPA¹A
+#EXTINF:-1,MTV ESPA¹A
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/5821
-#EXTINF:0,MTV 00S
+#EXTINF:-1,MTV 00S
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/puertojamon/RgB80eedbm/11692
-#EXTINF:0,Cadena Elite España
+#EXTINF:-1,Cadena Elite España
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/6279
 
@@ -1461,469 +1461,469 @@ http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/6279
 
 
 
-#EXTINF:-1,LA 1 HD
+#EXTINF:-1,,LA 1 HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5799
-#EXTINF:0,LA 2 HD
+#EXTINF:-1,LA 2 HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5800
-#EXTINF:0,ANTENA 3 HD
+#EXTINF:-1,ANTENA 3 HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5801
-#EXTINF:0,CUATRO HD
+#EXTINF:-1,CUATRO HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5802
-#EXTINF:0,TELECINCO HD
+#EXTINF:-1,TELECINCO HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5803
-#EXTINF:0,LA SEXTA HD
+#EXTINF:-1,LA SEXTA HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5804
-#EXTINF:0,MOVISTAR PLUS +
+#EXTINF:-1,MOVISTAR PLUS +
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/7575
-#EXTINF:0,MOVISTAR PLUS 2 HD
+#EXTINF:-1,MOVISTAR PLUS 2 HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/16474
-#EXTINF:0,M+ VAMOS
+#EXTINF:-1,M+ VAMOS
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5806
-#EXTINF:0,ELLAS #V
+#EXTINF:-1,ELLAS #V
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/12438
-#EXTINF:0,ARAGON TV 
+#EXTINF:-1,ARAGON TV 
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5807
-#EXTINF:0,CANAL SUR A.
+#EXTINF:-1,CANAL SUR A.
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5808
-#EXTINF:0,ONDA CADIZ
+#EXTINF:-1,ONDA CADIZ
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/1671
-#EXTINF:0,TELEVISION GALICIA
+#EXTINF:-1,TELEVISION GALICIA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/6670
-#EXTINF:0,EL TORO TV
+#EXTINF:-1,EL TORO TV
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/6275
-#EXTINF:0,CANAL EXTREMADURA
+#EXTINF:-1,CANAL EXTREMADURA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/1739
-#EXTINF:0,CASTILLA LA MANCHA
+#EXTINF:-1,CASTILLA LA MANCHA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/6330
-#EXTINF:0,PTV CORDOBA
+#EXTINF:-1,PTV CORDOBA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/8487
-#EXTINF:0,NEGOCIOS TV
+#EXTINF:-1,NEGOCIOS TV
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/8948
-#EXTINF:0,ANDALUCIA TV HD
+#EXTINF:-1,ANDALUCIA TV HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/8949
-#EXTINF:0,24 HORAS HD
+#EXTINF:-1,24 HORAS HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5835
-#EXTINF:0,M+ ESTRENOS
+#EXTINF:-1,M+ ESTRENOS
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5825
-#EXTINF:0,M+ HITS
+#EXTINF:-1,M+ HITS
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5809
-#EXTINF:0,M+ ORIGINALES
+#EXTINF:-1,M+ ORIGINALES
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5805
-#EXTINF:0,M+ OSCARS
+#EXTINF:-1,M+ OSCARS
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/11693
-#EXTINF:0,M+ CLASICOS
+#EXTINF:-1,M+ CLASICOS
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/7576
-#EXTINF:0,M+ ACCION
+#EXTINF:-1,M+ ACCION
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5828
-#EXTINF:0,M+ COMEDIA
+#EXTINF:-1,M+ COMEDIA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5829
-#EXTINF:0,M+ DRAMA 
+#EXTINF:-1,M+ DRAMA 
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5830
-#EXTINF:0,M+ CINE ESPAÑOL
+#EXTINF:-1,M+ CINE ESPAÑOL
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5831
-#EXTINF:0,M+ EPOCA
+#EXTINF:-1,M+ EPOCA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/7578
-#EXTINF:0,M+ INDIE HD
+#EXTINF:-1,M+ INDIE HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/11684
-#EXTINF:0,TCM HD
+#EXTINF:-1,TCM HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5832
-#EXTINF:0,HOLLYWOOD HD
+#EXTINF:-1,HOLLYWOOD HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5833
-#EXTINF:0,XTRM
+#EXTINF:-1,XTRM
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/9009
-#EXTINF:0,SUNDANCE
+#EXTINF:-1,SUNDANCE
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5885
-#EXTINF:0,DARK HD
+#EXTINF:-1,DARK HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/8317
-#EXTINF:0,SOMOS
+#EXTINF:-1,SOMOS
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/12026
-#EXTINF:0,PARAMOUNT
+#EXTINF:-1,PARAMOUNT
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5834
-#EXTINF:0,M+ DOCUMENTALES
+#EXTINF:-1,M+ DOCUMENTALES
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/6274
-#EXTINF:0,M+ LA RESISTENCIA
+#EXTINF:-1,M+ LA RESISTENCIA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/11694
-#EXTINF:0,START CHANNEL HD 
+#EXTINF:-1,START CHANNEL HD 
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5811
-#EXTINF:0,AXN HD
+#EXTINF:-1,AXN HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5812
-#EXTINF:0,WARNER HD
+#EXTINF:-1,WARNER HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5813
-#EXTINF:0,COMEDY CENTRAL HD
+#EXTINF:-1,COMEDY CENTRAL HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5814
-#EXTINF:0,CALLE 13 HD
+#EXTINF:-1,CALLE 13 HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5815
-#EXTINF:0,COSMO HD
+#EXTINF:-1,COSMO HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5816
-#EXTINF:0,AMC HD
+#EXTINF:-1,AMC HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5817
-#EXTINF:0,SYFY HD
+#EXTINF:-1,SYFY HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5820
-#EXTINF:0,TRECE
+#EXTINF:-1,TRECE
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/8486
-#EXTINF:0,ENERGY
+#EXTINF:-1,ENERGY
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5824
-#EXTINF:0,FDF
+#EXTINF:-1,FDF
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5822
-#EXTINF:0,NEOX
+#EXTINF:-1,NEOX
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5823
-#EXTINF:0,ATRESERIES HD
+#EXTINF:-1,ATRESERIES HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/9010
-#EXTINF:0,BOM CINE
+#EXTINF:-1,BOM CINE
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/11685
-#EXTINF:0,THRILLER-TERROR
+#EXTINF:-1,THRILLER-TERROR
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/14758
-#EXTINF:0,TAQUILLA VIP 1
+#EXTINF:-1,TAQUILLA VIP 1
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/934
-#EXTINF:0,TAQUILLA VIP 2
+#EXTINF:-1,TAQUILLA VIP 2
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/932
-#EXTINF:0,TAQUILLA VIP 3
+#EXTINF:-1,TAQUILLA VIP 3
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/962
-#EXTINF:0,TAQUILLA VIP 4
+#EXTINF:-1,TAQUILLA VIP 4
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/974
-#EXTINF:0,TAQUILLA VIP 5
+#EXTINF:-1,TAQUILLA VIP 5
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/1137
-#EXTINF:0,TAQUILLA VIP 6
+#EXTINF:-1,TAQUILLA VIP 6
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/1136
-#EXTINF:0,TAQUILLA VIP 7
+#EXTINF:-1,TAQUILLA VIP 7
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/1140
-#EXTINF:0,TAQUILLA VIP 8
+#EXTINF:-1,TAQUILLA VIP 8
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/1142
-#EXTINF:0,TAQUILLA VIP 9
+#EXTINF:-1,TAQUILLA VIP 9
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/3114
-#EXTINF:0,TAQUILLA VIP 10
+#EXTINF:-1,TAQUILLA VIP 10
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/3115
-#EXTINF:0,PTV SEVILLA
+#EXTINF:-1,PTV SEVILLA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/16738
-#EXTINF:0,PTV GRANADA
+#EXTINF:-1,PTV GRANADA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/16739
-#EXTINF:0,PTV MALAGA
+#EXTINF:-1,PTV MALAGA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/16740
-#EXTINF:0,M LA LIGA HD
+#EXTINF:-1,M LA LIGA HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5872
-#EXTINF:0,M+Copa del Rey HD
+#EXTINF:-1,M+Copa del Rey HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/7588
-#EXTINF:0,M+ LALIGA TV 2 HD
+#EXTINF:-1,M+ LALIGA TV 2 HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5870
-#EXTINF:0,M+ LALIGA TV 3 HD
+#EXTINF:-1,M+ LALIGA TV 3 HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/11691
-#EXTINF:0,M+ LALIGA TV 4
+#EXTINF:-1,M+ LALIGA TV 4
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/11695
-#EXTINF:0,M LIGA CAMPEONES HD
+#EXTINF:-1,M LIGA CAMPEONES HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5862
-#EXTINF:0,M LIGA CAMPEONES 2
+#EXTINF:-1,M LIGA CAMPEONES 2
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5874
-#EXTINF:0,M LIGA CAMPEONES 3
+#EXTINF:-1,M LIGA CAMPEONES 3
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/7583
-#EXTINF:0,M LIGA CAMPEONES 4
+#EXTINF:-1,M LIGA CAMPEONES 4
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/7584
-#EXTINF:0,M LIGA CAMPEONES 5
+#EXTINF:-1,M LIGA CAMPEONES 5
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/7585
-#EXTINF:0,M LIGA CAMPEONES 6
+#EXTINF:-1,M LIGA CAMPEONES 6
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/7586
-#EXTINF:0,M LIGA CAMPEONES 7
+#EXTINF:-1,M LIGA CAMPEONES 7
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/7587
-#EXTINF:0,M LIGA CAMPEONES 8
+#EXTINF:-1,M LIGA CAMPEONES 8
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/7582
-#EXTINF:0,M LIGA CAMPEONES 9
+#EXTINF:-1,M LIGA CAMPEONES 9
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/17942
-#EXTINF:0,M LIGA CAMPEONES 10
+#EXTINF:-1,M LIGA CAMPEONES 10
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/17943
-#EXTINF:0,M LIGA CAMPEONES 11
+#EXTINF:-1,M LIGA CAMPEONES 11
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/17944
-#EXTINF:0,M LIGA CAMPEONES 12
+#EXTINF:-1,M LIGA CAMPEONES 12
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/17945
-#EXTINF:0,M LIGA CAMPEONES 13
+#EXTINF:-1,M LIGA CAMPEONES 13
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/17946
-#EXTINF:0,M LIGA CAMPEONES 14
+#EXTINF:-1,M LIGA CAMPEONES 14
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/17947
-#EXTINF:0,M LIGA CAMPEONES 15
+#EXTINF:-1,M LIGA CAMPEONES 15
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/17948
-#EXTINF:0,M LIGA CAMPEONES 16
+#EXTINF:-1,M LIGA CAMPEONES 16
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/17949
-#EXTINF:0,M LIGA CAMPEONES 17
+#EXTINF:-1,M LIGA CAMPEONES 17
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/17950
-#EXTINF:0,M LIGA CAMPEONES 18
+#EXTINF:-1,M LIGA CAMPEONES 18
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/17951
-#EXTINF:0,M LIGA CAMPEONES 19
+#EXTINF:-1,M LIGA CAMPEONES 19
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/17952
-#EXTINF:0,LALIGA TV HYPERMOTION
+#EXTINF:-1,LALIGA TV HYPERMOTION
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5851
-#EXTINF:0,LALIGA TV HYPERMOTION 2
+#EXTINF:-1,LALIGA TV HYPERMOTION 2
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5852
-#EXTINF:0,LALIGA TV HYPERMOTION 3 
+#EXTINF:-1,LALIGA TV HYPERMOTION 3 
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/12030
-#EXTINF:0,LALIGA TV HYPERMOTION 4
+#EXTINF:-1,LALIGA TV HYPERMOTION 4
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/7589
-#EXTINF:0,DAZN LA LIGA HD
+#EXTINF:-1,DAZN LA LIGA HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5869
-#EXTINF:0,DAZN LA LIGA 2 HD
+#EXTINF:-1,DAZN LA LIGA 2 HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/12031
-#EXTINF:0,DAZN LIGA 3
+#EXTINF:-1,DAZN LIGA 3
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/7580
-#EXTINF:0,DAZN LIGA 4
+#EXTINF:-1,DAZN LIGA 4
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/7581
-#EXTINF:0,DAZN F1 HD
+#EXTINF:-1,DAZN F1 HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5853
-#EXTINF:0,DAZN 1 HD
+#EXTINF:-1,DAZN 1 HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5849
-#EXTINF:0,DAZN 2 HD
+#EXTINF:-1,DAZN 2 HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5850
-#EXTINF:0,DAZN 3
+#EXTINF:-1,DAZN 3
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/12923
-#EXTINF:0,DAZN 4
+#EXTINF:-1,DAZN 4
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/12924
-#EXTINF:0,M DEPORTES HD
+#EXTINF:-1,M DEPORTES HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5866
-#EXTINF:0,M DEPORTES 2 
+#EXTINF:-1,M DEPORTES 2 
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5864
-#EXTINF:0,M DEPORTES 3
+#EXTINF:-1,M DEPORTES 3
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5865
-#EXTINF:0,M DEPORTES 4
+#EXTINF:-1,M DEPORTES 4
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/13053
-#EXTINF:0,M DEPORTES 5
+#EXTINF:-1,M DEPORTES 5
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/1738
-#EXTINF:0,M DEPORTES 6
+#EXTINF:-1,M DEPORTES 6
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/12028
-#EXTINF:0,M DEPORTES 7
+#EXTINF:-1,M DEPORTES 7
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/12027
-#EXTINF:0,EUROSPORT 1 HD
+#EXTINF:-1,EUROSPORT 1 HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5858
-#EXTINF:0,EUROSPORT 2 
+#EXTINF:-1,EUROSPORT 2 
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5857
-#EXTINF:0,M. GOLF HD
+#EXTINF:-1,M. GOLF HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5867
-#EXTINF:0,GOL
+#EXTINF:-1,GOL
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5859
-#EXTINF:0,TELEDEPORTE
+#EXTINF:-1,TELEDEPORTE
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5882
-#EXTINF:0,TELEQUIVIR
+#EXTINF:-1,TELEQUIVIR
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5883
-#EXTINF:0,TOROLE
+#EXTINF:-1,TOROLE
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/16737
-#EXTINF:0,CAZAyPESCA HD
+#EXTINF:-1,CAZAyPESCA HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5845
-#EXTINF:0,IBERALIA TV
+#EXTINF:-1,IBERALIA TV
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5861
-#EXTINF:0,IBERALIACAZA
+#EXTINF:-1,IBERALIACAZA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/16732
-#EXTINF:0,IBERALIAPESCA 
+#EXTINF:-1,IBERALIAPESCA 
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/16733
-#EXTINF:0,R. MADRID TV
+#EXTINF:-1,R. MADRID TV
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5881
-#EXTINF:0,TELENOVELAS 
+#EXTINF:-1,TELENOVELAS 
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/16731
-#EXTINF:0,NAT GEO HD
+#EXTINF:-1,NAT GEO HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5876
-#EXTINF:0,NG WILD HD
+#EXTINF:-1,NG WILD HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5877
-#EXTINF:0,HISTORIA
+#EXTINF:-1,HISTORIA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5860
-#EXTINF:0,DISCOVERY
+#EXTINF:-1,DISCOVERY
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5886
-#EXTINF:0,CANAL ODISEA
+#EXTINF:-1,CANAL ODISEA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5843
-#EXTINF:0,AMC BREAK
+#EXTINF:-1,AMC BREAK
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/12139
-#EXTINF:0,AMC CRIME
+#EXTINF:-1,AMC CRIME
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/12140
-#EXTINF:0,BUEN VIAJE
+#EXTINF:-1,BUEN VIAJE
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/11698
-#EXTINF:0,DMAX
+#EXTINF:-1,DMAX
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/9012
-#EXTINF:0,CANAL COCINA
+#EXTINF:-1,CANAL COCINA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5841
-#EXTINF:0,CANAL DECASA
+#EXTINF:-1,CANAL DECASA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5842
-#EXTINF:0,DKISS
+#EXTINF:-1,DKISS
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/10197
-#EXTINF:0,DIVINITY
+#EXTINF:-1,DIVINITY
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5856
-#EXTINF:0,NOVA
+#EXTINF:-1,NOVA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5879
-#EXTINF:0,MEGA
+#EXTINF:-1,MEGA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/81
-#EXTINF:0,BE MAD HD
+#EXTINF:-1,BE MAD HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5837
-#EXTINF:0,TEN
+#EXTINF:-1,TEN
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/10198
-#EXTINF:0,EN FAMILIA
+#EXTINF:-1,EN FAMILIA
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5844
-#EXTINF:0,BabyTV
+#EXTINF:-1,BabyTV
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5840
-#EXTINF:0,DISNEY JR
+#EXTINF:-1,DISNEY JR
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5855
-#EXTINF:0,NICK JR
+#EXTINF:-1,NICK JR
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5887
-#EXTINF:0,NICKELODEONHD
+#EXTINF:-1,NICKELODEONHD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5878
-#EXTINF:0,DREAMWORKS HD
+#EXTINF:-1,DREAMWORKS HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/7579
-#EXTINF:0,DISNEY CH HD
+#EXTINF:-1,DISNEY CH HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5854
-#EXTINF:0,BOING
+#EXTINF:-1,BOING
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5839
-#EXTINF:0,CLAN  HD
+#EXTINF:-1,CLAN  HD
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5846
-#EXTINF:0,MTV ESPA¹A
+#EXTINF:-1,MTV ESPA¹A
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/5821
-#EXTINF:0,MTV 00S
+#EXTINF:-1,MTV 00S
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/11692
-#EXTINF:0,Cadena Elite España
+#EXTINF:-1,Cadena Elite España
 #EXTVLCOPT:network-caching=1000
 http://qwert.odin55.xyz:8080/faleseco/KPNQ8U5cDL/6279
 

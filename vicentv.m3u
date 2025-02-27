@@ -251,20 +251,17 @@ http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 #EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",EuroSport 1🏁🎾🏀🥊 
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 
-
-
-#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",EuroSport 1🏁🎾🏀🥊 
-http://127.0.0.1:6878/ace/getstream?id=d23a8e8d30e8c7492618f2b634a86c4ad202cc13
-
 #EXTINF:-1, tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD"  group-title="DEPORTE",EuroSport 1🏁🎾🏀🥊
 acestream://fbc82948dd7c19387a702692bc4590157b376459
 
-#EXTINF:-1, tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD"  group-title="DEPORTE",EuroSport 2🏁🎾🏀🥊
-acestream://b1797c899abe3cbf7a075d2814bfbb0375832c7d
 
 
-#EXTINF:-1, tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD"  group-title="DEPORTE",EuroSport 2🏁🎾🏀🥊
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
+
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",EuroSport 2🏁🎾🏀🥊 
+http://127.0.0.1:6878/ace/getstream?id=d23a8e8d30e8c7492618f2b634a86c4ad202cc13
+
+
+
 
 
 

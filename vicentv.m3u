@@ -51,6 +51,55 @@ acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
 
 
 
+#EXTINF:-1, tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD"  group-title="DEPORTE",M #VAMOS🏆
+http://127.0.0.1:6878/ace/getstream?id=62662d67c3c616acceb09d88600dcddb4d59af4a
+
+
+#EXTINF:-1, tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD"  group-title="DEPORTE",M #VAMOS🏆
+http://127.0.0.1:6878/ace/getstream?id=a432081ef17e77c3accf74aa1c4e5009b9f5047e
+
+#EXTINF:-1, tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD"  group-title="DEPORTE",M #VAMOS🏆
+http://127.0.0.1:6878/ace/getstream?id=535b56ba59c01069ed4c87235504ecfd84162e0e
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:0,
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=f317a4fef0b96caabaaad25cadb5f45303544767
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1, tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"  group-title="DEPORTE",M.DEPORTES🏆
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
@@ -186,8 +235,41 @@ http://127.0.0.1:6878/ace/getstream?id=bb5a8bf7752e978460ee1710e5e8950a5c9e1f99
 acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 
 
-#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", DAZN 1🏁🎾🏀🥊  
-http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
+
+
+
+
+#EXTINF:-1, tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD"  group-title="DEPORTE", DAZN 1🏁ONBOARD1
+http://127.0.0.1:6878/ace/getstream?id=d59e1e43684d27f24348ccd21754b7a438826b42
+
+
+
+#EXTINF:-1, tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD"  group-title="DEPORTE", DAZN 1🏁ONBOARD2
+http://127.0.0.1:6878/ace/getstream?id=11278b69a588c83592ecbf054cfca1fc45542b64
+
+#EXTINF:-1, tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD"  group-title="DEPORTE", DAZN 1🏁ONBOARD3
+http://127.0.0.1:6878/ace/getstream?id=fc9a5087ba3749d67de63607f3b29a42446b5fba
+
+
+
+
+
+
+
+#EXTINF:-1, tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD"  group-title="DEPORTE", DAZN 1🏁ONBOARD4
+http://127.0.0.1:6878/ace/getstream?id=cf6f689178b73bea2dc0f6e206ffa40894ceafe9
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

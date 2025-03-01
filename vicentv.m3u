@@ -43,23 +43,6 @@ http://127.0.0.1:6878/ace/getstream?id=d15a0eaf825b5f8f94259d5209688a7e97e6acde
 acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
 
 
-#EXTINF:-1, tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD"  group-title="DEPORTE",M #VAMOS🏆
-acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
-
-
-
-
-
-
-#EXTINF:-1, tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD"  group-title="DEPORTE",M #VAMOS🏆
-http://127.0.0.1:6878/ace/getstream?id=62662d67c3c616acceb09d88600dcddb4d59af4a
-
-
-#EXTINF:-1, tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD"  group-title="DEPORTE",M #VAMOS🏆
-http://127.0.0.1:6878/ace/getstream?id=a432081ef17e77c3accf74aa1c4e5009b9f5047e
-
-#EXTINF:-1, tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD"  group-title="DEPORTE",M #VAMOS🏆
-http://127.0.0.1:6878/ace/getstream?id=535b56ba59c01069ed4c87235504ecfd84162e0e
 
 
 
@@ -68,14 +51,6 @@ http://127.0.0.1:6878/ace/getstream?id=535b56ba59c01069ed4c87235504ecfd84162e0e
 
 
 
-
-
-
-
-#EXTM3U
-#EXTINF:0,
-#EXTVLCOPT:network-caching=1000
-http://127.0.0.1:6878/ace/getstream?id=f317a4fef0b96caabaaad25cadb5f45303544767
 
 
 

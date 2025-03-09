@@ -457,12 +457,6 @@ https://ztnr.rtve.es/ztnr/6712432.m3u8
 
 
 
-#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Esport 3 GEO
-https://directes-tv-es.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
-
-
-#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",ETB Deportes
-https://multimedia.eitb.eus/live-content/oka3hd-hls/master.m3u8
 
 #EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
@@ -486,9 +480,6 @@ acestream://52a526d748e26ff0827635b3932d9f49aee14a25
 
 
 
-#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Tennis Channel🎾 
-https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8
-
 
 
 #EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Tennis Channel 2🎾
@@ -510,13 +501,6 @@ http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
 
 
 
-
-#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,DAZN 1⚽
-http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
-
-
-#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,DAZN 2⚽
-http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
 
 #EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",FR | BEIN SPORTS 1🏆
 http://127.0.0.1:6878/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52 

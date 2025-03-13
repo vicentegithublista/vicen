@@ -21,8 +21,25 @@ http://127.0.0.1:6878/ace/getstream?id=840f68a0dc6e27c2927a16b4d42b9401ac50270b
 
 
 
-#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ LIGA DE CAMPEONES 2⚽
-http://127.0.0.1:6878/ace/getstream?id=bd6fa847d9eb4e6fa44b68da1304bf8684ef8acb
+
+
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ LIGA DE CAMPEONES⚽
+http://127.0.0.1:6878/ace/getstream?id=94d34491106e00394835c8cb68aa94481339b53f
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -35,10 +52,25 @@ http://127.0.0.1:6878/ace/getstream?id=c070cdb701fc46bb79d17568d99fc64620443d63
 
 
 
+
+
+
+
+
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ LIGA DE CAMPEONES 2⚽
+http://127.0.0.1:6878/ace/getstream?id=0adc3b525508b4a74ce65685870894a77401afb7
+
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ LIGA DE CAMPEONES 2⚽
+http://127.0.0.1:6878/ace/getstream?id=94d34491106e00394835c8cb68aa94481339b53f
+
+
+
+
 #EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ LIGA DE CAMPEONES 3⚽
 http://127.0.0.1:6878/ace/getstream?id=3618edda333dad5374ac2c801f5f14483934b97d
 
-
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ LIGA DE CAMPEONES 3⚽
+http://127.0.0.1:6878/ace/getstream?id=4d754e0b6b583d01668de8544c43cad6a1b253da
 
 
 
@@ -49,7 +81,8 @@ http://127.0.0.1:6878/ace/getstream?id=3618edda333dad5374ac2c801f5f14483934b97d
 http://127.0.0.1:6878/ace/getstream?id=65a18a6bd83918a9586b673fec12405aaf4e9f7d
 
 
-
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ LIGA DE CAMPEONES 4⚽
+http://127.0.0.1:6878/ace/getstream?id=7a5512d101742eb418dd0e3ffbd2bf6c43c73452
 
 
 
@@ -146,8 +179,17 @@ http://127.0.0.1:6878/ace/getstream?id=f31a586422c9244196c810c84b6c85da350318a5
 http://127.0.0.1:6878/ace/getstream?id=56ac8e227d526e722624675ccdd91b0cc850582f
 
 
+
+
+
+
 #EXTINF:-1, tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD"  group-title="DEPORTE",M #VAMOS🏆
 acestream://a1660d711184fa701bf1c88395e3b2d43ddca83f
+
+
+#EXTINF:-1, tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD"  group-title="DEPORTE",M #VAMOS🏆
+acestream://47403b07582b05c2a1eadaf6d1fb6454eda03a77
+
 
 
 #EXTINF:-1, tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD"  group-title="DEPORTE",ELLAS#VAMOS🏆
@@ -162,7 +204,8 @@ acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 
 
 #EXTINF:-1, tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"  group-title="DEPORTE", M.DEPORTES🏆
-acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
+
 
 
 

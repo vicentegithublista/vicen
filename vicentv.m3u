@@ -444,17 +444,8 @@ http://127.0.0.1:6878/ace/getstream?id=b51f2d9a15b6956a44385b6be531bcabeb099d9d
 
 
 
-#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", 1🏁🎾🏀🥊 
-http://127.0.0.1:6878/ace/getstream?id=3a2bbdbe4cc775c5c75ccb7d2408363d69c94b5d
 
-#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", 2🏁🎾🏀🥊 
-http://127.0.0.1:6878/ace/getstream?id=8e9390c1647da151a7bc0e1b37c4b4d21d83049d
 
-#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", 2🏁🎾🏀🥊 
-http://127.0.0.1:6878/ace/getstream?id=62b6cdc347e9b5f5aff089055365805e4d20d41e
-
-#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", 4🏁🎾🏀🥊 
-http://127.0.0.1:6878/ace/getstream?id=916888d956caf960cc8456eb46a12775a858124c
 
 
 
@@ -480,8 +471,8 @@ http://127.0.0.1:6878/ace/getstream?id=95120cee8223e9af839994ecc2b96aef05f8a151&
 acestream://fbc82948dd7c19387a702692bc4590157b376459
 
 
-#EXTINF:-1, tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD"  group-title="DEPORTE",EuroSport 2🏁🎾🏀🥊
-acestream://ca4860d9998d63029dcf08c6f5dfc2102c01be4e
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",EUROSPORT 2🏁🎾🏀🥊 
+http://127.0.0.1:6878/ace/getstream?id=8e9390c1647da151a7bc0e1b37c4b4d21d83049d
 
 
 
@@ -550,6 +541,10 @@ https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",+tdp
 https://ztnr.rtve.es/ztnr/6712432.m3u8
+
+
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",GOL PLAY 
+http://127.0.0.1:6878/ace/getstream?id=3a2bbdbe4cc775c5c75ccb7d2408363d69c94b5d
 
 
 
@@ -797,7 +792,8 @@ http://127.0.0.1:6878/ace/getstream?id=b73da828421018c98905ed05934b77ea35aa1b29
 http://127.0.0.1:6878/ace/getstream?id=9e7fe279f421b734a8af9e68320955fd16f80b4b
 
 
-
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",UFC 1🥊 
+http://127.0.0.1:6878/ace/getstream?id=916888d956caf960cc8456eb46a12775a858124c
 
 
 
@@ -805,18 +801,17 @@ http://127.0.0.1:6878/ace/getstream?id=9e7fe279f421b734a8af9e68320955fd16f80b4b
 http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa
 
 
-INF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",UFC Fight Pass🥊
-http://127.0.0.1:6878/ace/getstream?id=f74dcf44f57fc71cb4b0719b3342e569eba50c51
-
--1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",UFC Fight PPV🥊
-http://127.0.0.1:6878/ace/getstream?id=405f4975c759816fbc6606eeb990666f1853dfe2
-
-F:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",UFC Fight PPV🥊
-http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801‌‌
 
 
-TINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",UFC Fight PPV🥊
-http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa
+
+
+
+
+
+
+
+
+
 
 
 
@@ -912,6 +907,12 @@ http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/42653
 
 #EXTINF:-1,group-title="TV" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M. ACCION
 http://127.0.0.1:6878/ace/getstream?id=de88ed8716612d9c548df63a168fbdd96843dd20
+
+
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M. CLASICOS 
+http://127.0.0.1:6878/ace/getstream?id=62b6cdc347e9b5f5aff089055365805e4d20d41e
+
+
 
 
 

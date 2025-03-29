@@ -1,4 +1,4 @@
-no                                                                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                     
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml"
 
 
@@ -182,6 +182,18 @@ http://127.0.0.1:6878/ace/getstream?id=7a5512d101742eb418dd0e3ffbd2bf6c43c73452
 
 
 
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LIGA TV BAR⚽
+http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
+
+
+
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LIGA TV BAR⚽
+http://127.0.0.1:6878/ace/getstream?id=94d34491106e00394835c8cb68aa94481339b53f
+
+
+
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LIGA TV BAR⚽
+http://127.0.0.1:6878/ace/getstream?id=edbd01a232af0eff375c6a174e68f28002e7c090
 
 
 

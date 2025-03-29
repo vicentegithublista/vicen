@@ -1,5 +1,4 @@
-
-                                                                                                                                                                                                                                                                                           
+                                                                                                                                                                                                                                     
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml"
 
 
@@ -21,8 +20,6 @@ http://127.0.0.1:6878/ace/getstream?id=7225e4b281975f1a36d61dfd9724b669d7747b70
 
 
 
-#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Movistar Plus
-http://norrskp.top:8080/551712742094004/695c474c9b6d/57285
 
 #EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Movistar Plus
 http://127.0.0.1:6878/ace/getstream?id=335646e7394ea4eda343c95e57852bb70fc4178f
@@ -188,12 +185,6 @@ http://127.0.0.1:6878/ace/getstream?id=7a5512d101742eb418dd0e3ffbd2bf6c43c73452
 
 
 
-
-
-
-
-
-
 #EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LIGA⚽
 http://127.0.0.1:6878/ace/getstream?id=110d441ddc9713a7452588770d2bc85504672f47
 
@@ -202,7 +193,13 @@ http://127.0.0.1:6878/ace/getstream?id=110d441ddc9713a7452588770d2bc85504672f47
 
 
 #EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LIGA⚽
-http://127.0.0.1:6878/ace/getstream?id=110d441ddc9713a7452588770d2bc85504672f47
+http://127.0.0.1:6878/ace/getstream?id=ec10963a4408f96d2089a29af8b7a8ac4b23dd3c
+
+
+
+
+
+
 
 
 
@@ -231,6 +228,10 @@ http://127.0.0.1:6878/ace/getstream?id=d3de78aebe544611a2347f54d5796bd87f16c92d
 http://127.0.0.1:6878/ace/getstream?id=6d05b31e5e8fdae312fbd57897363a7b10ddb163
 
 
+
+
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV⚽
+http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 
 
 
@@ -1020,7 +1021,10 @@ http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="" group-title="LIVE",LA 1
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="" group-title="LIVE" ,LA 1
 http://kero50.ddnsking.com:8080/mIo4NOVnPM/vPyaDLeyaw/875
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: LA 2" tvg-logo="" group-title="LIVE",LA 2
@@ -1079,9 +1083,6 @@ http://norrskp.top:8080/551712742094004/695c474c9b6d/5741
 
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="ES: la sexta HD_local" tvg-logo="" group-title="LIVE",MOVISTAR PLUS+
-http://norrskp.top:8080/551712742094004/695c474c9b6d/57285
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: #0 HD" tvg-logo="" group-title="LIVE",M. ORIGINALES
@@ -1223,8 +1224,6 @@ http://kero50.ddnsking.com:8080/mIo4NOVnPM/vPyaDLeyaw/851
 
 
 
-
-
 #EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Deportes 1 HD" tvg-logo="" group-title="LIVE",M.Deportes
 http://kero50.ddnsking.com:8080/mIo4NOVnPM/vPyaDLeyaw/856
 
@@ -1323,6 +1322,250 @@ http://kero50.ddnsking.com:8080/mIo4NOVnPM/vPyaDLeyaw/911
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: la sexta HD_local" tvg-logo="" group-title="LIVE",RALLY TV
 http://norrskp.top:8080/551712742094004/695c474c9b6d/58325
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,group-title="EVENTOS" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",2025_01_formula1_Australia
+http://127.0.0.1:6878/content/bf663d1b1e5961a0e00bf5db8949bc5ea3c89c03/0.399228694806
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,group-title="EVENTOS" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",2025_01_formula1_China
+magnet:?xt=urn:btih:E4CF5149E8FBA5ADCAFDFB5D750C55F364552639&dn=Formula.1.2025x02.China.Race.SkyF1HD.1080p&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2780%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2730%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,group-title="PELICULAS" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Oppenheimer
+http://127.0.0.1:6878/content/b183986ca29f4a45262013edf83320daf004a2dd/0.183370434695
+
+
+#EXTINF:-1,group-title="PELICULAS" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Gladiator-II
+http://127.0.0.1:6878/content/bef553a9e8e7392530256e9445a48ac368c9ad19/0.298705756897
+
+
+
+#EXTINF:-1,group-title="PELICULAS" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",The-Equalizer-3
+http://127.0.0.1:6878/content/11aea084412f7e240e2c09aa0d60553e8a4a1b7d/0.36390959064
+
+
+#EXTINF:-1,group-title="PELICULAS" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Mision_imposible_Sentencia_mortal_Parte_1
+http://127.0.0.1:6878/content/2399e970173728758d7f668ce50525ca2fc1dcf7/0.616359141185
+
+
+#EXTINF:-1,group-title="PELICULAS" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Aquaman-Y-El-Reino-Perdido
+http://127.0.0.1:6878/content/8cd5cf362f8bb55a8b357d532042cc13399f62af/0.796177313447
+
+
+
+
+#EXTINF:-1,group-title="PELICULAS" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Campeonex
+http://127.0.0.1:6878/content/004b2069c8d826b1a799024bb46f636b55c88077/0.814714136426
+
+#EXTINF:-1,group-title="PELICULAS" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Apocalipsis-Z_-el-principio-del-fin
+http://127.0.0.1:6878/content/93653e3d8869c761eda922ad1e6b33e5682402d7/0.984986170845
+
+#EXTINF:-1,group-title="PELICULAS" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Cazafantasmas_-Imperio-helado
+http://127.0.0.1:6878/content/98e15d2bb965077095cc97c55376b7e911e5cc40/0.282468404974
+
+
+#EXTINF:-1,group-title="PELICULAS" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Deadpool-y-Lobezno
+http://127.0.0.1:6878/content/c245d368d6a39328a80d9a2526e060d1c8a8c884/0.290889042391
+
+#EXTINF:-1,group-title="PELICULAS" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Culpa-tuya
+http://127.0.0.1:6878/content/0ea68afb6a9b976f3a232a5c945de749e5efdf3e/0.148999641362
+
+
+#EXTINF:-1,group-title="PELICULAS" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Dune_-Parte-dos
+http://127.0.0.1:6878/content/91a03eca498916a4351a7611255140ba4e751e51/0.414866061256
+
+
+
+
+
+
+#EXTINF:-1,group-title="PELICULAS" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",El-reino-del-planeta-de-los-simios
+http://127.0.0.1:6878/content/5f88bd05601550c2c99bac5ef11b7708b8e84f44/0.145311579506
+
+
+
+
+#EXTINF:-1,group-title="PELICULAS" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Equipaje-de-mano
+http://127.0.0.1:6878/content/4cdc067854526d9583b4000ab712dd8c56575d66/0.447178334908
+
+
+#EXTINF:-1,group-title="PELICULAS" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Godzilla-y-Kong_-El-nuevo-imperio
+http://127.0.0.1:6878/content/45ea47516412a086c1654ecaba12edd0aafbdcd3/0.324545257515
+
+#EXTINF:-1,group-title="PELICULAS" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Gran-Turismo
+http://127.0.0.1:6878/content/9ee59b26021ef0d6aed0836ef59927be66394b5f/0.4750771601
+
+#EXTINF:-1,group-title="PELICULAS" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",La-habitacion-de-al-lado
+http://127.0.0.1:6878/content/15d2c04c15b6d630fa6dfb2025773e13c03397f9/0.982895539983
+
+#EXTINF:-1,group-title="PELICULAS" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Megalodon-2_-La-fosa
+http://127.0.0.1:6878/content/48e150934a3317b32e205e7a249363aaa5816285/0.286885039966
+
+
+#EXTINF:-1,group-title="PELICULAS" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Robot-salvaje
+http://127.0.0.1:6878/content/3426e64fd1d48985eaa08c8ac963c95fa9575f08/0.928058026596
+
+
+
+#EXTINF:-1,group-title="PELICULAS" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Abominable
+http://127.0.0.1:6878/content/e40fdecd06b28ab4661f4f10b247c7afdfa39115/0.00404049317019
+
+
+#EXTINF:-1,group-title="PELICULAS" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Air-Force-One
+http://127.0.0.1:6878/content/54ee6820eae738d6f4d7d26e2cdf423f7a165c52/0.334077698254
+
+
+#EXTINF:-1,group-title="PELICULAS" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Batman_y_Superman_La_Batalla_de_los_Super_hijos
+http://127.0.0.1:6878/content/d6cc73870885b58a52a989d7a9fb71ee2c84ee7c/0.969546256041
+
+#EXTINF:-1,group-title="PELICULAS" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Black-Adam
+http://127.0.0.1:6878/content/ae8af78c7527535c4ab88e8d52dc32d3395676d0/0.353533091027
+
+
+
+#EXTINF:-1,group-title="PELICULAS" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Bob_Esponja_Un_Heroe_Al_Rescate
+http://127.0.0.1:6878/content/b08568bec55de4c57d4916ea98a5f3fdde56e856/0.224372310603
+
+#EXTINF:-1,group-title="PELICULAS" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Creed-III
+http://127.0.0.1:6878/content/13a0db8f67336c229e46a2f39d50ab4bca9ce839/0.884651166208
+
+#EXTINF:-1,group-title="PELICULAS" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Cuerpo-escombro
+http://127.0.0.1:6878/content/aaadfdcd45841cafe5131087d70b9495f9dc4db1/0.0899613312431
+
+
+#EXTINF:-1,group-title="PELICULAS" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Del revés
+http://127.0.0.1:6878/content/ed9152211d082fb8458b52b400222f8f725b5931/0.96295789452
+
+
+
+#EXTINF:-1,group-title="PELICULAS" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Frozen_II
+http://127.0.0.1:6878/content/f07fde9021d0b62fd05dc7401927730f8b80abe3/0.0381803149801
+
+
+#EXTINF:-1,group-title="PELICULAS" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Hotel-Transilvania-Transformania
+http://127.0.0.1:6878/content/ec0c39897c36043f1a87cdf7af7889516fa93a19/0.837869082957
+
+
+#EXTINF:-1,group-title="PELICULAS" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Ice-Age_-Las-aventuras-de-Buck
+http://127.0.0.1:6878/content/08a81c277a5b40197b4622ca63568468f5a45d03/0.967716483117
+
+
+
+#EXTINF:-1,group-title="PELICULAS" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",John_Wick_Otro_da_para_matar
+http://127.0.0.1:6878/content/57bffcb31901f36a30d5b189d3fe51184e0b6a0e/0.384115722986
+
+
+#EXTINF:-1,group-title="PELICULAS" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Predator_-La-presa
+http://127.0.0.1:6878/content/2c82292b9a24c53562325f2a4cb9e9f2d4eb9c91/0.662751624815
+
+
+
+#EXTINF:-1,group-title="PELICULAS" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Rocky.Balboa
+http://127.0.0.1:6878/content/a605f2dd3ac24978c023a8a97efd0b9a84df04d9/0.170085006349
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

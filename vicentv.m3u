@@ -200,7 +200,8 @@ http://127.0.0.1:6878/ace/getstream?id=7a5512d101742eb418dd0e3ffbd2bf6c43c73452
 
 
 
-
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ LALIGA TV BAR
+http://norrskp.top:8080/551712742094004/695c474c9b6d/5661
 
 
 
@@ -1164,6 +1165,9 @@ http://kero50.ddnsking.com:8080/mIo4NOVnPM/vPyaDLeyaw/884
 #EXTINF:-1 tvg-id="" tvg-name="ES: la sexta HD_local" tvg-logo="" group-title="LIVE",La sexta
 http://kero50.ddnsking.com:8080/mIo4NOVnPM/vPyaDLeyaw/877
 
+#EXTINF:0 tvg-id="ext" "group-title="LIVE",CMT 
+http://norrskp.top:8080/551712742094004/695c474c9b6d/58329
+
 
 #EXTINF:0 tvg-id="ext" "group-title="LIVE",CMT 
 http://daqtsjx.smart-tv.xyz:80/1983538823/5543806106/401357971
@@ -1360,7 +1364,8 @@ http://kero50.ddnsking.com:8080/mIo4NOVnPM/vPyaDLeyaw/851
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Deportes 1 HD" tvg-logo="" group-title="LIVE", ESPN DEPORTES
+http://norrskp.top:8080/551712742094004/695c474c9b6d/5605
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Deportes 1 HD" tvg-logo="" group-title="LIVE",M.Deportes
 http://kero50.ddnsking.com:8080/mIo4NOVnPM/vPyaDLeyaw/856
@@ -1378,7 +1383,8 @@ http://kero50.ddnsking.com:8080/mIo4NOVnPM/vPyaDLeyaw/917
 http://norrskp.top:8080/551712742094004/695c474c9b6d/29333
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LaLiga" tvg-logo="" group-title="LIVE",M+ LALIGA TV BAR
+http://norrskp.top:8080/551712742094004/695c474c9b6d/5661
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LaLiga" tvg-logo="" group-title="LIVE",DAZN LIGA 
 http://kero50.ddnsking.com:8080/mIo4NOVnPM/vPyaDLeyaw/848

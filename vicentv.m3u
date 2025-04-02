@@ -2,13 +2,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml"
 
 
- 
-#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M. COPA DEL REY
-http://127.0.0.1:6878/ace/getstream?id=2dcc9fa21935872130029206395a12cd10533a75
-
-
-#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M. COPA DEL REY
-http://127.0.0.1:6878/ace/getstream?id=f6beccbc4eea4bc0cda43b3e8ac14790a98b61b4
 
 
 

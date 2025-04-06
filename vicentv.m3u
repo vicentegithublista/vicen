@@ -2,17 +2,19 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml"
 
 
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M. PLUS🏆
+http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4
+
 
 #EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M #VAMOS🏆
-http://127.0.0.1:6878/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2
+http://127.0.0.1:6878/ace/getstream?id=3b2a8b41e7097c16b0468b42d7de0320886fa933
 
-#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M #VAMOS🏆
-http://127.0.0.1:6878/ace/getstream?id=12ba546d229bc39f01c3c18988a034b215fe6adb
+
 
 
 
 #EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",ELLAS#VAMOS🏆
-http://127.0.0.1:6878/ace/getstream?id=d8c2ed470e847154a88f011137cc206319f6bed5
+http://127.0.0.1:6878/ace/getstream?id=9b84af74b2fa3690c519199326fc2f181b025cdd
 
 
 
@@ -1490,17 +1492,17 @@ http://norrskp.top:8080/551712742094004/695c474c9b6d/58325
 
 
 
-#EXTINF:-1,group-title="EVENTOS" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",JAPON F1
+#EXTINF:-1,group-title="EVENTOS" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",JAPON F1 03
 http://127.0.0.1:6878/content/a5e79ee555a2b79fef1a3736d16b8cd1326b3c46/0.732033929106
 
 
 
-#EXTINF:-1,group-title="EVENTOS" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",2025_01_formula1_China
+#EXTINF:-1,group-title="EVENTOS" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",CHINA F1 02
 magnet:?xt=urn:btih:E4CF5149E8FBA5ADCAFDFB5D750C55F364552639&dn=Formula.1.2025x02.China.Race.SkyF1HD.1080p&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2780%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2730%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce
 
 
 
-#EXTINF:-1,group-title="EVENTOS" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",2025_01_formula1_Australia
+#EXTINF:-1,group-title="EVENTOS" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",AUSTRALIA F1 01
 http://127.0.0.1:6878/content/bf663d1b1e5961a0e00bf5db8949bc5ea3c89c03/0.399228694806
 
 

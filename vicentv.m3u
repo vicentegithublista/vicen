@@ -26,8 +26,6 @@ http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
 
 
 
-#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.DEPORTES 2🏆
-http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c
 
 
 #EXTINF:-1, tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"  group-title="DEPORTE", M.DEPORTES 5🏆
@@ -563,7 +561,7 @@ https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 #EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Super Tennis🎾
-http://root:1234http://root:@127.0.0.1:6878/ace/getstream?id=492d3f2b1deee87242c902f1cf2245fc
+acestream://492d3f2b1deee87242c902f1cf2245fc
 
 
 

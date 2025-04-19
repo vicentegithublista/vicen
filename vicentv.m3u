@@ -196,7 +196,8 @@ http://127.0.0.1:6878/ace/getstream?id=97f8a84212fe6b3d2ab15aadc83c7b5e6af656c9
 #EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LIGA⚽
 http://127.0.0.1:6878/ace/getstream?id=110d441ddc9713a7452588770d2bc85504672f47
 
-INF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LIGA⚽
+
+INF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LIGA⚽
 http://127.0.0.1:6878/ace/getstream?id=ec29289b0b14756e686c03a501bae1efa05be70c
 
 
@@ -1167,33 +1168,18 @@ http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1027112
 #EXTINF:-1 tvg-id="DAZN 1" tvg-name="Dazn1 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/zGvbp2m2/red-bull-tv-4.png" group-title="DAZN ESPAÑA▶️",Dazn 1
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/78811
 
+
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="Dazn1 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/zGvbp2m2/red-bull-tv-4.png" group-title="DAZN ESPAÑA▶️",Dazn 1
+http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1029290
+
 #EXTINF:-1 tvg-id="33" tvg-name="Dazn2 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/vZK1K7bY/red-bull-tv-1.png" group-title="DAZN ESPAÑA▶️",Dazn 2 
-http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/78812
+http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1029292
 
 #EXTINF:-1 tvg-id="33" tvg-name="Dazn3 ᴴᴰ" tvg-logo="https://i.postimg.cc/0j9rScdf/red-bull-tv-2.png" group-title="DAZN ESPAÑA▶️",Dazn 3
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/78813
 
 #EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="Dazn 4 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/pX6XV27k/red-bull-tv-3.png" group-title="DAZN ESPAÑA▶️",Dazn 4 
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/323
-
-
-
-#EXTINF:-1 tvg-id="DAZN 1" tvg-name="Dazn1 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/zGvbp2m2/red-bull-tv-4.png" group-title="DAZN ESPAÑA▶️",DAZN 1 BAR 
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1029290
-
-
-#EXTINF:-1 tvg-id="DAZN 1" tvg-name="Dazn1 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/zGvbp2m2/red-bull-tv-4.png" group-title="DAZN ESPAÑA▶️",DAZN 2 BAR 
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1029292
-
-
-#EXTINF:-1 tvg-id="DAZN 1" tvg-name="Dazn1 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/zGvbp2m2/red-bull-tv-4.png" group-title="DAZN ESPAÑA▶️",DAZN MOTO GP
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/427479
-
-#EXTINF:-1 tvg-id="DAZN 1" tvg-name="Dazn1 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/zGvbp2m2/red-bull-tv-4.png" group-title="DAZN ESPAÑA▶️",DAZN [PREMIERELEAGUE]
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1026835
-
-#EXTINF:-1 tvg-id="DAZN 1" tvg-name="Dazn1 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/zGvbp2m2/red-bull-tv-4.png" group-title="DAZN ESPAÑA▶️",DAZN [LIVEEVENT]
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1026836
 
 
 
@@ -1407,55 +1393,55 @@ http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/73283
 
 
 
-#EXTINF:-1 tvg-id="Movistar Plus+" tvg-name="Movistar Plus + ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/SR4gxN3g/red-bull-tv-9.png" group-title="M+ CINE▶️",Movistar Plus +
+#EXTINF:-1 tvg-id="Movistar Plus+" tvg-name="Movistar Plus + ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/SR4gxN3g/red-bull-tv-9.png" group-title="M+ CINE Y SERIES▶️",Movistar Plus +
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/756
 
-#EXTINF:-1 tvg-id="M+ Originales HD" tvg-name="M+ Originales" tvg-logo="https://i.postimg.cc/RFJ0ZvKJ/red-bull-tv-6.png" group-title="M+ CINE▶️",M+ Originales
+#EXTINF:-1 tvg-id="M+ Originales HD" tvg-name="M+ Originales" tvg-logo="https://i.postimg.cc/RFJ0ZvKJ/red-bull-tv-6.png" group-title="M+ CINE Y SERIES▶️",M+ Originales
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/46485
 
-#EXTINF:-1 tvg-id="M+ Indie HD" tvg-name="M+ INDIE HD" tvg-logo="https://i.postimg.cc/pLrqTScM/red-bull-tv-10.png" group-title="M+ CINE▶️",M+ INDIE
+#EXTINF:-1 tvg-id="M+ Indie HD" tvg-name="M+ INDIE HD" tvg-logo="https://i.postimg.cc/pLrqTScM/red-bull-tv-10.png" group-title="M+ CINE Y SERIES▶️",M+ INDIE
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/41510
 
-#EXTINF:-1 tvg-id="M+ CLÁSICOS HD" tvg-name="Clásicos por M+ ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/tgWXKBjF/red-bull-tv-15.png" group-title="M+ CINE▶️",Clásicos por M+
+#EXTINF:-1 tvg-id="M+ CLÁSICOS HD" tvg-name="Clásicos por M+ ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/tgWXKBjF/red-bull-tv-15.png" group-title="M+ CINE Y SERIES▶️",Clásicos por M+
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/78796
 
-#EXTINF:-1 tvg-id="M+Cine Español" tvg-name="Cine Español por M+  ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/ZK55WP8h/red-bull-tv-13.png" group-title="M+ CINE▶️",Cine Español Por M+
+#EXTINF:-1 tvg-id="M+Cine Español" tvg-name="Cine Español por M+  ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/ZK55WP8h/red-bull-tv-13.png" group-title="M+ CINE Y SERIES▶️",Cine Español Por M+
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/78795
 
-#EXTINF:-1 tvg-id="M+ ACCIÓN HD" tvg-name="Acción por M+ ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/dVSksHpX/red-bull-tv-1.png" group-title="M+ CINE▶️",Acción por M+
+#EXTINF:-1 tvg-id="M+ ACCIÓN HD" tvg-name="Acción por M+ ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/dVSksHpX/red-bull-tv-1.png" group-title="M+ CINE Y SERIES▶️",Acción por M+
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/78792
 
-#EXTINF:-1 tvg-id="M+COMEDIA HD" tvg-name="Comedia por M+ ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/0NBp429z/red-bull-tv-38.png" group-title="M+ CINE▶️",Comedia por M+
+#EXTINF:-1 tvg-id="M+COMEDIA HD" tvg-name="Comedia por M+ ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/0NBp429z/red-bull-tv-38.png" group-title="M+ CINE Y SERIES▶️",Comedia por M+
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/78790
 
-#EXTINF:-1 tvg-id="M+ DRAMA HD" tvg-name="M+ DRAMA" tvg-logo="https://i.postimg.cc/yNXPrzk9/red-bull-tv-2.png" group-title="M+ CINE▶️",M+ DRAMA
+#EXTINF:-1 tvg-id="M+ DRAMA HD" tvg-name="M+ DRAMA" tvg-logo="https://i.postimg.cc/yNXPrzk9/red-bull-tv-2.png" group-title="M+ CINE Y SERIES▶️",M+ DRAMA
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/78789
 
-#EXTINF:-1 tvg-id="BuenViaje" tvg-name="STAR CHANEL FHD" tvg-logo="https://i.postimg.cc/QCtZdbR4/red-bull-tv-11.png" group-title="M+ CINE▶️",STAR CHANEL
+#EXTINF:-1 tvg-id="BuenViaje" tvg-name="STAR CHANEL FHD" tvg-logo="https://i.postimg.cc/QCtZdbR4/red-bull-tv-11.png" group-title="M+ CINE Y SERIES▶️",STAR CHANEL
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/78895
 
-#EXTINF:-1 tvg-id="Somos" tvg-name="SOMOS" tvg-logo="https://i.postimg.cc/wvYBMSVW/red-bull-tv-5.png" group-title="M+ CINE▶️",SOMOS
+#EXTINF:-1 tvg-id="Somos" tvg-name="SOMOS" tvg-logo="https://i.postimg.cc/wvYBMSVW/red-bull-tv-5.png" group-title="M+ CINE Y SERIES▶️",SOMOS
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/78793
 
-#EXTINF:-1 tvg-id="HOLLYWOOD" tvg-name="Hollywood ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/TPr7MDHK/red-bull-tv-37.png" group-title="M+ CINE▶️",Hollywood 
+#EXTINF:-1 tvg-id="HOLLYWOOD" tvg-name="Hollywood ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/TPr7MDHK/red-bull-tv-37.png" group-title="M+ CINE Y SERIES▶️",Hollywood 
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/78788
 
-#EXTINF:-1 tvg-id="TCM" tvg-name="TCM ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/59qVqH4N/red-bull-tv-7.png" group-title="M+ CINE▶️",TCM
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/59qVqH4N/red-bull-tv-7.png" group-title="M+ CINE Y SERIES▶️",TCM
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/78787
 
-#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/SK24WDsw/red-bull-tv-19.png" group-title="M+ CINE▶️",XTRM
+#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/SK24WDsw/red-bull-tv-19.png" group-title="M+ CINE Y SERIES▶️",XTRM
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/78785
 
-#EXTINF:-1 tvg-id="SUNDANCE TV" tvg-name="SUNDANCE ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/nrYpXrzr/red-bull-tv-4.png" group-title="M+ CINE▶️",SUNDANCE
+#EXTINF:-1 tvg-id="SUNDANCE TV" tvg-name="SUNDANCE ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/nrYpXrzr/red-bull-tv-4.png" group-title="M+ CINE Y SERIES▶️",SUNDANCE
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/78784
 
-#EXTINF:-1 tvg-id="PARAMOUNT NETWORK" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://i.postimg.cc/zfVzxqd2/red-bull-tv-3.png" group-title="M+ CINE▶️",PARAMOUNT CHANNEL
+#EXTINF:-1 tvg-id="PARAMOUNT NETWORK" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://i.postimg.cc/zfVzxqd2/red-bull-tv-3.png" group-title="M+ CINE Y SERIES▶️",PARAMOUNT CHANNEL
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/78783
 
-#EXTINF:-1 tvg-id="WARNERTV HD" tvg-name="WARNER BROS FHD" tvg-logo="https://i.postimg.cc/Prt6GJmx/red-bull-tv-18.png" group-title="M+ CINE▶️",WARNER BROS
+#EXTINF:-1 tvg-id="WARNERTV HD" tvg-name="WARNER BROS FHD" tvg-logo="https://i.postimg.cc/Prt6GJmx/red-bull-tv-18.png" group-title="M+ CINE Y SERIES▶️",WARNER BROS
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/22631
 
-#EXTINF:-1 tvg-id="DARK" tvg-name="DARK ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/CMDyMRBs/red-bull-tv-14.png" group-title="M+ CINE▶️",DARK
+#EXTINF:-1 tvg-id="DARK" tvg-name="DARK ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/CMDyMRBs/red-bull-tv-14.png" group-title="M+ CINE Y SERIES▶️",DARK
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/624
 
 
@@ -1471,43 +1457,43 @@ http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/624
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="MAX AVANCES" tvg-logo="https://i.postimg.cc/Hk3NrKhr/red-bull-tv-9.png" group-title="M+ SERIES▶️",MAX AVANCES
+#EXTINF:-1 tvg-id="" tvg-name="MAX AVANCES" tvg-logo="https://i.postimg.cc/Hk3NrKhr/red-bull-tv-9.png" group-title="M+ CINE Y SERIES▶️",MAX AVANCES
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/134268
 
-#EXTINF:-1 tvg-id="33" tvg-name="Skyshowtime por M+" tvg-logo="https://i.postimg.cc/152yCkqv/red-bull-tv-24.png" group-title="M+ SERIES▶️",Skyshowtime por M+
+#EXTINF:-1 tvg-id="33" tvg-name="Skyshowtime por M+" tvg-logo="https://i.postimg.cc/152yCkqv/red-bull-tv-24.png" group-title="M+ CINE Y SERIES▶️",Skyshowtime por M+
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/78794
 
-#EXTINF:-1 tvg-id="BuenViaje" tvg-name="BUEN VIAJE! ᴴᴰ" tvg-logo="https://i.postimg.cc/6q1BNS15/red-bull-tv-26.png" group-title="M+ SERIES▶️",BUEN VIAJE!
+#EXTINF:-1 tvg-id="BuenViaje" tvg-name="BUEN VIAJE! ᴴᴰ" tvg-logo="https://i.postimg.cc/6q1BNS15/red-bull-tv-26.png" group-title="M+ CINE Y SERIES▶️",BUEN VIAJE!
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/25719
 
-#EXTINF:-1 tvg-id="AMC CRIME" tvg-name="AMC CRIME  ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/RVF0b1bZ/red-bull-tv-27.png" group-title="M+ SERIES▶️",AMC CRIME
+#EXTINF:-1 tvg-id="AMC CRIME" tvg-name="AMC CRIME  ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/RVF0b1bZ/red-bull-tv-27.png" group-title="M+ CINE Y SERIES▶️",AMC CRIME
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/24945
 
-#EXTINF:-1 tvg-id="AMC BREAK" tvg-name="AMC BREAK HD" tvg-logo="https://i.postimg.cc/m2XPbpF9/red-bull-tv-32.png" group-title="M+ SERIES▶️",AMC BREAK
+#EXTINF:-1 tvg-id="AMC BREAK" tvg-name="AMC BREAK HD" tvg-logo="https://i.postimg.cc/m2XPbpF9/red-bull-tv-32.png" group-title="M+ CINE Y SERIES▶️",AMC BREAK
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/23973
 
-#EXTINF:-1 tvg-id="TRECE" tvg-name="TRECE ᴴᴰ" tvg-logo="https://i.postimg.cc/9f4Z558z/red-bull-tv-22.png" group-title="M+ SERIES▶️",TRECE
+#EXTINF:-1 tvg-id="TRECE" tvg-name="TRECE ᴴᴰ" tvg-logo="https://i.postimg.cc/9f4Z558z/red-bull-tv-22.png" group-title="M+ CINE Y SERIES▶️",TRECE
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/2850
 
-#EXTINF:-1 tvg-id="Atreseries HD" tvg-name="A3Series ᴴᴰ" tvg-logo="https://i.postimg.cc/L8tGtwBY/red-bull-tv-36.png" group-title="M+ SERIES▶️",A3Series
+#EXTINF:-1 tvg-id="Atreseries HD" tvg-name="A3Series ᴴᴰ" tvg-logo="https://i.postimg.cc/L8tGtwBY/red-bull-tv-36.png" group-title="M+ CINE Y SERIES▶️",A3Series
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/2847
 
-#EXTINF:-1 tvg-id="SYFY HD" tvg-name="SYFY ᴴᴰ" tvg-logo="https://i.postimg.cc/7623780j/red-bull-tv-21.png" group-title="M+ SERIES▶️",SYFY
+#EXTINF:-1 tvg-id="SYFY HD" tvg-name="SYFY ᴴᴰ" tvg-logo="https://i.postimg.cc/7623780j/red-bull-tv-21.png" group-title="M+ CINE Y SERIES▶️",SYFY
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/2835
 
-#EXTINF:-1 tvg-id="NICKELODEONHD" tvg-name="AMC ᴴᴰ" tvg-logo="https://i.postimg.cc/Cxhs22pf/red-bull-tv-20.png" group-title="M+ SERIES▶️",AMC
+#EXTINF:-1 tvg-id="NICKELODEONHD" tvg-name="AMC ᴴᴰ" tvg-logo="https://i.postimg.cc/Cxhs22pf/red-bull-tv-20.png" group-title="M+ CINE Y SERIES▶️",AMC
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/2832
 
-#EXTINF:-1 tvg-id="CALLE 13 HD" tvg-name="CALLE 13 ᴴᴰ" tvg-logo="https://i.postimg.cc/5y8mcdt8/red-bull-tv-30.png" group-title="M+ SERIES▶️",CALLE 13
+#EXTINF:-1 tvg-id="CALLE 13 HD" tvg-name="CALLE 13 ᴴᴰ" tvg-logo="https://i.postimg.cc/5y8mcdt8/red-bull-tv-30.png" group-title="M+ CINE Y SERIES▶️",CALLE 13
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/2826
 
-#EXTINF:-1 tvg-id="M+COMEDIA HD" tvg-name="COMEDY CENTRAL ᴴᴰ" tvg-logo="https://i.postimg.cc/JnDqqBV6/red-bull-tv-28.png" group-title="M+ SERIES▶️",COMEDY CENTRAL
+#EXTINF:-1 tvg-id="M+COMEDIA HD" tvg-name="COMEDY CENTRAL ᴴᴰ" tvg-logo="https://i.postimg.cc/JnDqqBV6/red-bull-tv-28.png" group-title="M+ CINE Y SERIES▶️",COMEDY CENTRAL
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/2821
 
-#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN ᴴᴰ" tvg-logo="https://i.postimg.cc/wTKWwFBh/red-bull-tv-31.png" group-title="M+ SERIES▶️",AXN
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN ᴴᴰ" tvg-logo="https://i.postimg.cc/wTKWwFBh/red-bull-tv-31.png" group-title="M+ CINE Y SERIES▶️",AXN
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/2815
 
-#EXTINF:-1 tvg-id="M+ SERIES" tvg-name="Series por M+ ᴴᴰ" tvg-logo="https://i.postimg.cc/RFsR1QDn/red-bull-tv-23.png" group-title="M+ SERIES▶️",Series por M+
+#EXTINF:-1 tvg-id="M+ SERIES" tvg-name="Series por M+ ᴴᴰ" tvg-logo="https://i.postimg.cc/RFsR1QDn/red-bull-tv-23.png" group-title="M+ CINE Y SERIES▶️",Series por M+
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/2807
 
 
@@ -1529,59 +1515,59 @@ http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/2807
 
 
 
-#EXTINF:-1 tvg-id="NICKELODEONHD" tvg-name="ONETORO HD" tvg-logo="https://i.postimg.cc/kgdmjBtV/red-bull-tv-1.png" group-title="M+ DOCUMENTALES ▶️",ONETORO
+#EXTINF:-1 tvg-id="NICKELODEONHD" tvg-name="ONETORO HD" tvg-logo="https://i.postimg.cc/kgdmjBtV/red-bull-tv-1.png" group-title="M+ TEMATICOS ▶️",ONETORO
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/21468
 
 
-#EXTINF:-1 tvg-id="NICKELODEONHD" tvg-name="ONETORO HD" tvg-logo="https://i.postimg.cc/kgdmjBtV/red-bull-tv-1.png" group-title="M+ DOCUMENTALES ▶️",ONETORO
+#EXTINF:-1 tvg-id="NICKELODEONHD" tvg-name="ONETORO HD" tvg-logo="https://i.postimg.cc/kgdmjBtV/red-bull-tv-1.png" group-title="M+ TEMATICOS ▶️",ONETORO
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/757752
 
 
-#EXTINF:-1 tvg-id="NICKELODEONHD" tvg-name="ONETORO HD" tvg-logo="https://i.postimg.cc/kgdmjBtV/red-bull-tv-1.png" group-title="M+ DOCUMENTALES ▶️",ONETORO
+#EXTINF:-1 tvg-id="NICKELODEONHD" tvg-name="ONETORO HD" tvg-logo="https://i.postimg.cc/kgdmjBtV/red-bull-tv-1.png" group-title="M+ TEMATICOS ▶️",ONETORO
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1061263
 
 
 
-#EXTINF:-1 tvg-id="El Toro TV" tvg-name="EL TORO TV" tvg-logo="https://i.postimg.cc/zfz1r678/red-bull-tv-2.png" group-title="M+ DOCUMENTALES ▶️",EL TORO TV
+#EXTINF:-1 tvg-id="El Toro TV" tvg-name="EL TORO TV" tvg-logo="https://i.postimg.cc/zfz1r678/red-bull-tv-2.png" group-title="M+ TEMATICOS ▶️",EL TORO TV
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/26599
 
-#EXTINF:-1 tvg-id="CAZA Y PESCA" tvg-name="CAZA Y PESCA ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/bNTkm2Zr/red-bull-tv-11.png" group-title="M+ DOCUMENTALES ▶️",CAZA Y PESCA
+#EXTINF:-1 tvg-id="CAZA Y PESCA" tvg-name="CAZA Y PESCA ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/bNTkm2Zr/red-bull-tv-11.png" group-title="M+ TEMATICOS ▶️",CAZA Y PESCA
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/78842
 
-#EXTINF:-1 tvg-id="IB3" tvg-name="IBERALIA 100% PESCA ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/t4qtbNKF/red-bull-tv-7.png" group-title="M+ DOCUMENTALES ▶️",IBERALIA 100% PESCA
+#EXTINF:-1 tvg-id="IB3" tvg-name="IBERALIA 100% PESCA ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/t4qtbNKF/red-bull-tv-7.png" group-title="M+ TEMATICOS ▶️",IBERALIA 100% PESCA
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/78841
 
-#EXTINF:-1 tvg-id="33" tvg-name="IBERALIA 100% CAZA" tvg-logo="https://i.postimg.cc/LXKpY5BB/red-bull-tv-8.png" group-title="M+ DOCUMENTALES ▶️",IBERALIA 100% CAZA
+#EXTINF:-1 tvg-id="33" tvg-name="IBERALIA 100% CAZA" tvg-logo="https://i.postimg.cc/LXKpY5BB/red-bull-tv-8.png" group-title="M+ TEMATICOS ▶️",IBERALIA 100% CAZA
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/31803
 
-#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="IBERALIA TV" tvg-logo="https://i.postimg.cc/VNPGXCp6/red-bull-tv-9.png" group-title="M+ DOCUMENTALES ▶️",IBERALIA TV
+#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="IBERALIA TV" tvg-logo="https://i.postimg.cc/VNPGXCp6/red-bull-tv-9.png" group-title="M+ TEMATICOS ▶️",IBERALIA TV
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/78833
 
-#EXTINF:-1 tvg-id="33" tvg-name="CAZAVISION" tvg-logo="https://i.postimg.cc/YqnBNbzS/red-bull-tv-1.png" group-title="M+ DOCUMENTALES ▶️",CAZAVISION
+#EXTINF:-1 tvg-id="33" tvg-name="CAZAVISION" tvg-logo="https://i.postimg.cc/YqnBNbzS/red-bull-tv-1.png" group-title="M+ TEMATICOS ▶️",CAZAVISION
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/46733
 
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="M+ DOCUMENTALES ▶️",HISTORIA
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="M+ TEMATICOS ▶️",HISTORIA
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/139342
 
-#EXTINF:-1 tvg-id="Ubeat" tvg-name="UBEAT FHD" tvg-logo="https://i.postimg.cc/YqwznH8n/red-bull-tv-14.png" group-title="M+ DOCUMENTALES ▶️",UBEAT
+#EXTINF:-1 tvg-id="Ubeat" tvg-name="UBEAT FHD" tvg-logo="https://i.postimg.cc/YqwznH8n/red-bull-tv-14.png" group-title="M+ TEMATICOS ▶️",UBEAT
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/78840
 
-#EXTINF:-1 tvg-id="Canal Cocina" tvg-name="CANAL COCINA ESPAÑA FHD" tvg-logo="https://i.postimg.cc/G3Djx2PT/red-bull-tv-4.png" group-title="M+ DOCUMENTALES ▶️",CANAL COCINA
+#EXTINF:-1 tvg-id="Canal Cocina" tvg-name="CANAL COCINA ESPAÑA FHD" tvg-logo="https://i.postimg.cc/G3Djx2PT/red-bull-tv-4.png" group-title="M+ TEMATICOS ▶️",CANAL COCINA
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/78839
 
-#EXTINF:-1 tvg-id="Discovery" tvg-name="DISCOVERY ESPAÑA FHD" tvg-logo="https://i.postimg.cc/5tkmnQkL/red-bull-tv-34.png" group-title="M+ DOCUMENTALES ▶️",DISCOVERY
+#EXTINF:-1 tvg-id="Discovery" tvg-name="DISCOVERY ESPAÑA FHD" tvg-logo="https://i.postimg.cc/5tkmnQkL/red-bull-tv-34.png" group-title="M+ TEMATICOS ▶️",DISCOVERY
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/78838
 
-#EXTINF:-1 tvg-id="Odisea" tvg-name="ODISEA ESPAÑA FHD" tvg-logo="https://i.postimg.cc/VNFRMHXG/red-bull-tv-3.png" group-title="M+ DOCUMENTALES ▶️",ODISEA
+#EXTINF:-1 tvg-id="Odisea" tvg-name="ODISEA ESPAÑA FHD" tvg-logo="https://i.postimg.cc/VNFRMHXG/red-bull-tv-3.png" group-title="M+ TEMATICOS ▶️",ODISEA
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/78835
 
-#EXTINF:-1 tvg-id="Canal Decasa" tvg-name="Canal de Casa" tvg-logo="https://i.postimg.cc/d1vfcyjX/red-bull-tv-5.png" group-title="M+ DOCUMENTALES ▶️",Canal de Casa
+#EXTINF:-1 tvg-id="Canal Decasa" tvg-name="Canal de Casa" tvg-logo="https://i.postimg.cc/d1vfcyjX/red-bull-tv-5.png" group-title="M+ TEMATICOS ▶️",Canal de Casa
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/78832
 
-#EXTINF:-1 tvg-id="M+Documentales HD" tvg-name="M+ DOCUMENTALES" tvg-logo="https://i.postimg.cc/FRQMFqNT/red-bull-tv-6.png" group-title="M+ DOCUMENTALES ▶️",M+ DOCUMENTALES
+#EXTINF:-1 tvg-id="M+Documentales HD" tvg-name="M+ DOCUMENTALES" tvg-logo="https://i.postimg.cc/FRQMFqNT/red-bull-tv-6.png" group-title="M+ TEMATICOS ▶️",M+ DOCUMENTALES
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/62966
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="M+ DOCUMENTALES ▶️",MTV
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="M+ TEMATICOS ▶️",MTV
 http://misurisakura.uk:2086/R89uPpc9cf/WQhjdzEjuy/139343
 
 
@@ -2732,25 +2718,25 @@ http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/160411.mkv
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/160412.mkv
 #EXTINF:-1 tvg-name="High Fidelity S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xo8EnX4vXJItBCm8uJFUQ8eyTqK.jpg"  group-title="SERIES",High Fidelity S01E10
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/160413.mkv
-#EXTINF:-1 tvg-name="AJ and the Queen S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jgK2R70cyfjK6yCRKzApZBktFlw.jpg" group-title="ATRESPLAYER",AJ and the Queen S01E01
+#EXTINF:-1 tvg-name="AJ and the Queen S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jgK2R70cyfjK6yCRKzApZBktFlw.jpg"  group-title="SERIES",AJ and the Queen S01E01
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/160376.mkv
-#EXTINF:-1 tvg-name="AJ and the Queen S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2NGyMX7MX55PD3pELo7SvG1rZd.jpg" group-title="ATRESPLAYER",AJ and the Queen S01E02
+#EXTINF:-1 tvg-name="AJ and the Queen S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2NGyMX7MX55PD3pELo7SvG1rZd.jpg"  group-title="SERIES",AJ and the Queen S01E02
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/160377.mkv
-#EXTINF:-1 tvg-name="AJ and the Queen S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yA865vLtOl1otlw4kg4DpBV3Rpu.jpg" group-title="ATRESPLAYER",AJ and the Queen S01E03
+#EXTINF:-1 tvg-name="AJ and the Queen S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yA865vLtOl1otlw4kg4DpBV3Rpu.jpg"  group-title="SERIES",AJ and the Queen S01E03
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/160378.mkv
-#EXTINF:-1 tvg-name="AJ and the Queen S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkpOxp60F7Mg08vsjsfXpDqg7to.jpg" group-title="ATRESPLAYER",AJ and the Queen S01E04
+#EXTINF:-1 tvg-name="AJ and the Queen S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkpOxp60F7Mg08vsjsfXpDqg7to.jpg"  group-title="SERIES",AJ and the Queen S01E04
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/160379.mkv
-#EXTINF:-1 tvg-name="AJ and the Queen S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tjbsgCb93NcnNmLi7InXkFPPdSy.jpg" group-title="ATRESPLAYER",AJ and the Queen S01E05
+#EXTINF:-1 tvg-name="AJ and the Queen S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tjbsgCb93NcnNmLi7InXkFPPdSy.jpg"  group-title="SERIES",AJ and the Queen S01E05
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/160380.mkv
-#EXTINF:-1 tvg-name="AJ and the Queen S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lD8htxll2P7sd7sOrU235CxzSDm.jpg" group-title="ATRESPLAYER",AJ and the Queen S01E06
+#EXTINF:-1 tvg-name="AJ and the Queen S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lD8htxll2P7sd7sOrU235CxzSDm.jpg"  group-title="SERIES",AJ and the Queen S01E06
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/160381.mkv
-#EXTINF:-1 tvg-name="AJ and the Queen S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8dvtHOA39zr0ojpx4zAetkhDa7.jpg" group-title="ATRESPLAYER",AJ and the Queen S01E07
+#EXTINF:-1 tvg-name="AJ and the Queen S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8dvtHOA39zr0ojpx4zAetkhDa7.jpg"  group-title="SERIES",AJ and the Queen S01E07
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/160382.mkv
-#EXTINF:-1 tvg-name="AJ and the Queen S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpRSw8Va9Ms14rhrR39Q6KhRFEz.jpg" group-title="ATRESPLAYER",AJ and the Queen S01E08
+#EXTINF:-1 tvg-name="AJ and the Queen S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpRSw8Va9Ms14rhrR39Q6KhRFEz.jpg"  group-title="SERIES",AJ and the Queen S01E08
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/160383.mkv
-#EXTINF:-1 tvg-name="AJ and the Queen S01E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jjq9hqMXqjAv4Am0doNBRK6knJi.jpg" group-title="ATRESPLAYER",AJ and the Queen S01E09
+#EXTINF:-1 tvg-name="AJ and the Queen S01E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jjq9hqMXqjAv4Am0doNBRK6knJi.jpg"  group-title="SERIES",AJ and the Queen S01E09
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/160384.mkv
-#EXTINF:-1 tvg-name="AJ and the Queen S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoGReqc6IvBFQvQnYQ2r8UNZydu.jpg" group-title="ATRESPLAYER",AJ and the Queen S01E10
+#EXTINF:-1 tvg-name="AJ and the Queen S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoGReqc6IvBFQvQnYQ2r8UNZydu.jpg"  group-title="SERIES",AJ and the Queen S01E10
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/160385.mkv
 #EXTINF:-1 tvg-name="Reinas del Soho S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/49BCvT6J7BBASFoap8K18hhGa4S.jpg"  group-title="SERIES",Reinas del Soho S01E01
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/160343.mkv
@@ -3409,55 +3395,55 @@ http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159790.mkv
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159791.mkv
 #EXTINF:-1 tvg-name="La Maestra (A Teacher) S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tPo8C66n3eYC8PZHjXIUAdj0YAC.jpg"  group-title="SERIES",La Maestra (A Teacher) S01E10
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159792.mkv
-#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2A8AROxpCrL77UTV7eHY0X6jHdr.jpg" group-title="PARAMOUNT +",Una serie de catastróficas desdichas S01E01
+#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2A8AROxpCrL77UTV7eHY0X6jHdr.jpg" group-title="SERIES",Una serie de catastróficas desdichas S01E01
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159758.mkv
-#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooScSf7LyrNMGBTehDwR0DFZOSC.jpg" group-title="PARAMOUNT +",Una serie de catastróficas desdichas S01E02
+#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooScSf7LyrNMGBTehDwR0DFZOSC.jpg" group-title="SERIES",Una serie de catastróficas desdichas S01E02
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159759.mkv
-#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wNpQcGOxrPodT9sOTej9rivkxep.jpg" group-title="PARAMOUNT +",Una serie de catastróficas desdichas S01E03
+#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wNpQcGOxrPodT9sOTej9rivkxep.jpg" group-title="SERIES",Una serie de catastróficas desdichas S01E03
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159760.mkv
-#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kULVTfnza48x7tr2c6kOvQQBSjL.jpg" group-title="PARAMOUNT +",Una serie de catastróficas desdichas S01E04
+#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kULVTfnza48x7tr2c6kOvQQBSjL.jpg" group-title="SERIES",Una serie de catastróficas desdichas S01E04
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159761.mkv
-#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gN8rA3GrhArPo5FxLXR7TVKzLcK.jpg" group-title="PARAMOUNT +",Una serie de catastróficas desdichas S01E05
+#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gN8rA3GrhArPo5FxLXR7TVKzLcK.jpg" group-title="SERIES",Una serie de catastróficas desdichas S01E05
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159762.mkv
-#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3dHfFASjHR7pC0p7T1VcIqMClB5.jpg" group-title="PARAMOUNT +",Una serie de catastróficas desdichas S01E06
+#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3dHfFASjHR7pC0p7T1VcIqMClB5.jpg" group-title="SERIES",Una serie de catastróficas desdichas S01E06
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159763.mkv
-#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l2lowLzJOaRyhrjax9tjX0AMotM.jpg" group-title="PARAMOUNT +",Una serie de catastróficas desdichas S01E07
+#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l2lowLzJOaRyhrjax9tjX0AMotM.jpg" group-title="SERIES",Una serie de catastróficas desdichas S01E07
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159764.mkv
-#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2AjtzeeJtSf5CN8EQa4Iltz2AWo.jpg" group-title="PARAMOUNT +",Una serie de catastróficas desdichas S01E08
+#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2AjtzeeJtSf5CN8EQa4Iltz2AWo.jpg" group-title="SERIES",Una serie de catastróficas desdichas S01E08
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159765.mkv
-#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S02E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjMSk6KhIVeN5jm1wfKbm4I5WBK.jpg" group-title="PARAMOUNT +",Una serie de catastróficas desdichas S02E01
+#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S02E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjMSk6KhIVeN5jm1wfKbm4I5WBK.jpg" group-title="SERIES",Una serie de catastróficas desdichas S02E01
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159766.mkv
-#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S02E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8rqnef3iUmkkmTf7d3aHZTVkBGy.jpg" group-title="PARAMOUNT +",Una serie de catastróficas desdichas S02E02
+#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S02E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8rqnef3iUmkkmTf7d3aHZTVkBGy.jpg" group-title="SERIES",Una serie de catastróficas desdichas S02E02
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159767.mkv
-#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S02E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWuPgqveuObNqRxY9r7T5tX0PM6.jpg" group-title="PARAMOUNT +",Una serie de catastróficas desdichas S02E03
+#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S02E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWuPgqveuObNqRxY9r7T5tX0PM6.jpg" group-title="SERIES",Una serie de catastróficas desdichas S02E03
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159768.mkv
-#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S02E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lEHsYfGFYQpB70pMT66BH068rG5.jpg" group-title="PARAMOUNT +",Una serie de catastróficas desdichas S02E04
+#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S02E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lEHsYfGFYQpB70pMT66BH068rG5.jpg" group-title="SERIES",Una serie de catastróficas desdichas S02E04
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159769.mkv
-#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S02E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2b9oXHLjLXSoEI0qME7H6qD3q0e.jpg" group-title="PARAMOUNT +",Una serie de catastróficas desdichas S02E05
+#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S02E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2b9oXHLjLXSoEI0qME7H6qD3q0e.jpg" group-title="SERIES",Una serie de catastróficas desdichas S02E05
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159770.mkv
-#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S02E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ElOpWeUfu8KQRjjeejsKwf81Ja.jpg" group-title="PARAMOUNT +",Una serie de catastróficas desdichas S02E06
+#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S02E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ElOpWeUfu8KQRjjeejsKwf81Ja.jpg" group-title="SERIES",Una serie de catastróficas desdichas S02E06
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159771.mkv
-#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S02E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uerAziXgswKluy4ngG4xDQoWQrT.jpg" group-title="PARAMOUNT +",Una serie de catastróficas desdichas S02E07
+#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S02E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uerAziXgswKluy4ngG4xDQoWQrT.jpg" group-title="SERIES",Una serie de catastróficas desdichas S02E07
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159772.mkv
-#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S02E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z25i6bd5hZSBgMyO1Rxo1h51l5S.jpg" group-title="PARAMOUNT +",Una serie de catastróficas desdichas S02E08
+#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S02E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z25i6bd5hZSBgMyO1Rxo1h51l5S.jpg" group-title="SERIES",Una serie de catastróficas desdichas S02E08
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159773.mkv
-#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S02E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/etoFmQm4Pk3bGKYOFDXuLo1208i.jpg" group-title="PARAMOUNT +",Una serie de catastróficas desdichas S02E09
+#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S02E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/etoFmQm4Pk3bGKYOFDXuLo1208i.jpg" group-title="SERIES",Una serie de catastróficas desdichas S02E09
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159774.mkv
-#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S02E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95sQ6YuvNjxqCMuIQYQZzszt3gh.jpg" group-title="PARAMOUNT +",Una serie de catastróficas desdichas S02E10
+#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S02E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95sQ6YuvNjxqCMuIQYQZzszt3gh.jpg" group-title="SERIES",Una serie de catastróficas desdichas S02E10
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159775.mkv
-#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S03E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbDcsOE3q70WFnXdHq2deEZczQb.jpg" group-title="PARAMOUNT +",Una serie de catastróficas desdichas S03E01
+#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S03E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbDcsOE3q70WFnXdHq2deEZczQb.jpg" group-title="SERIES",Una serie de catastróficas desdichas S03E01
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159776.mkv
-#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S03E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9e5HmqQ66QQSgalkxD8JEl7C0mr.jpg" group-title="PARAMOUNT +",Una serie de catastróficas desdichas S03E02
+#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S03E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9e5HmqQ66QQSgalkxD8JEl7C0mr.jpg" group-title="SERIES",Una serie de catastróficas desdichas S03E02
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159777.mkv
-#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S03E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kO80PQY1wnQgEWdsGpyRiZVKyLL.jpg" group-title="PARAMOUNT +",Una serie de catastróficas desdichas S03E03
+#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S03E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kO80PQY1wnQgEWdsGpyRiZVKyLL.jpg" group-title="SERIES",Una serie de catastróficas desdichas S03E03
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159778.mkv
-#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S03E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rlSZwo8er5sgAkahpQfsfvLj8bL.jpg" group-title="PARAMOUNT +",Una serie de catastróficas desdichas S03E04
+#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S03E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rlSZwo8er5sgAkahpQfsfvLj8bL.jpg" group-title="SERIES",Una serie de catastróficas desdichas S03E04
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159779.mkv
-#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S03E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oRILVxRUPNE3PM4RrGFYvtxiGwI.jpg" group-title="PARAMOUNT +",Una serie de catastróficas desdichas S03E05
+#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S03E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oRILVxRUPNE3PM4RrGFYvtxiGwI.jpg" group-title="SERIES",Una serie de catastróficas desdichas S03E05
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159780.mkv
-#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S03E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j4l1uWN90LuzArZ2GvKXBiY1FpB.jpg" group-title="PARAMOUNT +",Una serie de catastróficas desdichas S03E06
+#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S03E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j4l1uWN90LuzArZ2GvKXBiY1FpB.jpg" group-title="SERIES",Una serie de catastróficas desdichas S03E06
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159781.mkv
-#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S03E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ivzLVNFmKAQ8n7B1UBz2vGxuhSu.jpg" group-title="PARAMOUNT +",Una serie de catastróficas desdichas S03E07
+#EXTINF:-1 tvg-name="Una serie de catastróficas desdichas S03E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ivzLVNFmKAQ8n7B1UBz2vGxuhSu.jpg" group-title="SERIES",Una serie de catastróficas desdichas S03E07
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159782.mkv
 #EXTINF:-1 tvg-name="A la caza del amor S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v1BHgPyfBMlHCQKzHMDlVDZ8HvY.jpg"  group-title="SERIES",A la caza del amor S01E01
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159755.mkv
@@ -3681,95 +3667,95 @@ http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159411.mkv
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159412.mkv
 #EXTINF:-1 tvg-name="42 días en la oscuridad S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQVIANuHwFipcHasEnmpWQ6RJsi.jpg"  group-title="SERIES",42 días en la oscuridad S01E06
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159413.mkv
-#EXTINF:-1 tvg-name="4 estrellas S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdj4zhQszQmlnQ2UKgnS1dw6zYx.jpg" group-title="ATRESPLAYER",4 estrellas S01E01
+#EXTINF:-1 tvg-name="4 estrellas S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdj4zhQszQmlnQ2UKgnS1dw6zYx.jpg"  group-title="SERIES",4 estrellas S01E01
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159381.mp4
-#EXTINF:-1 tvg-name="4 estrellas S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdj4zhQszQmlnQ2UKgnS1dw6zYx.jpg" group-title="ATRESPLAYER",4 estrellas S01E01
+#EXTINF:-1 tvg-name="4 estrellas S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdj4zhQszQmlnQ2UKgnS1dw6zYx.jpg"  group-title="SERIES",4 estrellas S01E01
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159382.mp4
-#EXTINF:-1 tvg-name="4 estrellas S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hh4yri0XCW4IF8qtWa3pLgFujxc.jpg" group-title="ATRESPLAYER",4 estrellas S01E02
+#EXTINF:-1 tvg-name="4 estrellas S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hh4yri0XCW4IF8qtWa3pLgFujxc.jpg"  group-title="SERIES",4 estrellas S01E02
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159383.mp4
-#EXTINF:-1 tvg-name="4 estrellas S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4E4b5wg2RC5rzctNPs0M4LQLej6.jpg" group-title="ATRESPLAYER",4 estrellas S01E03
+#EXTINF:-1 tvg-name="4 estrellas S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4E4b5wg2RC5rzctNPs0M4LQLej6.jpg"  group-title="SERIES",4 estrellas S01E03
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159384.mp4
-#EXTINF:-1 tvg-name="4 estrellas S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zBuHGJZgLEBgllskwnGUoik1LLq.jpg" group-title="ATRESPLAYER",4 estrellas S01E04
+#EXTINF:-1 tvg-name="4 estrellas S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zBuHGJZgLEBgllskwnGUoik1LLq.jpg"  group-title="SERIES",4 estrellas S01E04
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159385.mp4
-#EXTINF:-1 tvg-name="4 estrellas S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9sgLuaqjxNH3bJPtGtDFzy9DOsm.jpg" group-title="ATRESPLAYER",4 estrellas S01E05
+#EXTINF:-1 tvg-name="4 estrellas S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9sgLuaqjxNH3bJPtGtDFzy9DOsm.jpg"  group-title="SERIES",4 estrellas S01E05
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159386.mp4
-#EXTINF:-1 tvg-name="4 estrellas S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sitR2LhTCrw6nbxS8wFmigq5TEM.jpg" group-title="ATRESPLAYER",4 estrellas S01E06
+#EXTINF:-1 tvg-name="4 estrellas S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sitR2LhTCrw6nbxS8wFmigq5TEM.jpg"  group-title="SERIES",4 estrellas S01E06
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159387.mp4
-#EXTINF:-1 tvg-name="4 estrellas S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJZxRSfATEXg9bRyJ7Q9sqeUlxI.jpg" group-title="ATRESPLAYER",4 estrellas S01E07
+#EXTINF:-1 tvg-name="4 estrellas S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJZxRSfATEXg9bRyJ7Q9sqeUlxI.jpg"  group-title="SERIES",4 estrellas S01E07
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159388.mp4
-#EXTINF:-1 tvg-name="4 estrellas S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dDksQUJRxFqyONrhrL3uvgpeDmz.jpg" group-title="ATRESPLAYER",4 estrellas S01E08
+#EXTINF:-1 tvg-name="4 estrellas S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dDksQUJRxFqyONrhrL3uvgpeDmz.jpg"  group-title="SERIES",4 estrellas S01E08
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159389.mp4
-#EXTINF:-1 tvg-name="4 estrellas S01E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v60yNoSRhSqrMa5EMmALdSNlkfz.jpg" group-title="ATRESPLAYER",4 estrellas S01E09
+#EXTINF:-1 tvg-name="4 estrellas S01E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v60yNoSRhSqrMa5EMmALdSNlkfz.jpg"  group-title="SERIES",4 estrellas S01E09
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159390.mp4
-#EXTINF:-1 tvg-name="4 estrellas S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l3IouZ4iIivc3oJuDcmE5RQZWXk.jpg" group-title="ATRESPLAYER",4 estrellas S01E10
+#EXTINF:-1 tvg-name="4 estrellas S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l3IouZ4iIivc3oJuDcmE5RQZWXk.jpg"  group-title="SERIES",4 estrellas S01E10
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159363.mp4
-#EXTINF:-1 tvg-name="4 estrellas S01E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ulYOj7r2AErvUgxXkEMjLjZomLp.jpg" group-title="ATRESPLAYER",4 estrellas S01E11
+#EXTINF:-1 tvg-name="4 estrellas S01E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ulYOj7r2AErvUgxXkEMjLjZomLp.jpg"  group-title="SERIES",4 estrellas S01E11
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159364.mp4
-#EXTINF:-1 tvg-name="4 estrellas S01E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vbPeAp5gmbXuyXs2SICovvTeL9R.jpg" group-title="ATRESPLAYER",4 estrellas S01E12
+#EXTINF:-1 tvg-name="4 estrellas S01E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vbPeAp5gmbXuyXs2SICovvTeL9R.jpg"  group-title="SERIES",4 estrellas S01E12
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159365.mp4
-#EXTINF:-1 tvg-name="4 estrellas S01E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dFapcfqiphCO1cyy28Y91qkmS4B.jpg" group-title="ATRESPLAYER",4 estrellas S01E13
+#EXTINF:-1 tvg-name="4 estrellas S01E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dFapcfqiphCO1cyy28Y91qkmS4B.jpg"  group-title="SERIES",4 estrellas S01E13
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159366.mp4
-#EXTINF:-1 tvg-name="4 estrellas S01E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Nfiyi7th1HVjLFE6a59FRe0CgZ.jpg" group-title="ATRESPLAYER",4 estrellas S01E14
+#EXTINF:-1 tvg-name="4 estrellas S01E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Nfiyi7th1HVjLFE6a59FRe0CgZ.jpg"  group-title="SERIES",4 estrellas S01E14
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159367.mp4
-#EXTINF:-1 tvg-name="4 estrellas S01E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSFKNzoHVs6rnuYUdnnP0sEvE9v.jpg" group-title="ATRESPLAYER",4 estrellas S01E15
+#EXTINF:-1 tvg-name="4 estrellas S01E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSFKNzoHVs6rnuYUdnnP0sEvE9v.jpg"  group-title="SERIES",4 estrellas S01E15
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159368.mp4
-#EXTINF:-1 tvg-name="4 estrellas S01E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ixgM9VeIk94NEh4PYVR5nPlZ02l.jpg" group-title="ATRESPLAYER",4 estrellas S01E16
+#EXTINF:-1 tvg-name="4 estrellas S01E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ixgM9VeIk94NEh4PYVR5nPlZ02l.jpg"  group-title="SERIES",4 estrellas S01E16
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159369.mp4
-#EXTINF:-1 tvg-name="4 estrellas S01E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7jXgKMaiDLJvG518FBrBDx4IWCS.jpg" group-title="ATRESPLAYER",4 estrellas S01E17
+#EXTINF:-1 tvg-name="4 estrellas S01E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7jXgKMaiDLJvG518FBrBDx4IWCS.jpg"  group-title="SERIES",4 estrellas S01E17
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159370.mp4
-#EXTINF:-1 tvg-name="4 estrellas S01E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Ry2vBnqOWCRg3TWIkZZvgGb29N.jpg" group-title="ATRESPLAYER",4 estrellas S01E18
+#EXTINF:-1 tvg-name="4 estrellas S01E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Ry2vBnqOWCRg3TWIkZZvgGb29N.jpg"  group-title="SERIES",4 estrellas S01E18
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159371.mp4
-#EXTINF:-1 tvg-name="4 estrellas S01E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q76wtzuHsO89oxW4RFMIVYPCYR5.jpg" group-title="ATRESPLAYER",4 estrellas S01E19
+#EXTINF:-1 tvg-name="4 estrellas S01E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q76wtzuHsO89oxW4RFMIVYPCYR5.jpg"  group-title="SERIES",4 estrellas S01E19
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159372.mp4
-#EXTINF:-1 tvg-name="4 estrellas S01E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1zJA0qSB4gLqf7GpechTAMU0zNW.jpg" group-title="ATRESPLAYER",4 estrellas S01E20
+#EXTINF:-1 tvg-name="4 estrellas S01E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1zJA0qSB4gLqf7GpechTAMU0zNW.jpg"  group-title="SERIES",4 estrellas S01E20
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159373.mp4
-#EXTINF:-1 tvg-name="4 estrellas S01E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sC2uBJmU44v0LZ3ezpukivdjEnz.jpg" group-title="ATRESPLAYER",4 estrellas S01E21
+#EXTINF:-1 tvg-name="4 estrellas S01E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sC2uBJmU44v0LZ3ezpukivdjEnz.jpg"  group-title="SERIES",4 estrellas S01E21
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159374.mp4
-#EXTINF:-1 tvg-name="4 estrellas S01E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lj3Z5y1wLlaoliTG3fuokFcxWNP.jpg" group-title="ATRESPLAYER",4 estrellas S01E22
+#EXTINF:-1 tvg-name="4 estrellas S01E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lj3Z5y1wLlaoliTG3fuokFcxWNP.jpg"  group-title="SERIES",4 estrellas S01E22
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159375.mp4
-#EXTINF:-1 tvg-name="4 estrellas S01E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uhtDt349RegMXlJL36rXKcmhn9t.jpg" group-title="ATRESPLAYER",4 estrellas S01E23
+#EXTINF:-1 tvg-name="4 estrellas S01E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uhtDt349RegMXlJL36rXKcmhn9t.jpg"  group-title="SERIES",4 estrellas S01E23
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159376.mp4
-#EXTINF:-1 tvg-name="4 estrellas S01E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYP8MLYHh4LK9ENIQQO8v7SaRFm.jpg" group-title="ATRESPLAYER",4 estrellas S01E24
+#EXTINF:-1 tvg-name="4 estrellas S01E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYP8MLYHh4LK9ENIQQO8v7SaRFm.jpg"  group-title="SERIES",4 estrellas S01E24
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159377.mp4
-#EXTINF:-1 tvg-name="4 estrellas S01E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qfi4b1WbXxhC6zF1QqmfMrBe7j.jpg" group-title="ATRESPLAYER",4 estrellas S01E25
+#EXTINF:-1 tvg-name="4 estrellas S01E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qfi4b1WbXxhC6zF1QqmfMrBe7j.jpg"  group-title="SERIES",4 estrellas S01E25
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159378.mp4
-#EXTINF:-1 tvg-name="4 estrellas S01E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Js05nTGmf7SkWPU8HVHL05ELjw.jpg" group-title="ATRESPLAYER",4 estrellas S01E26
+#EXTINF:-1 tvg-name="4 estrellas S01E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Js05nTGmf7SkWPU8HVHL05ELjw.jpg"  group-title="SERIES",4 estrellas S01E26
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159379.mp4
-#EXTINF:-1 tvg-name="4 estrellas S01E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eHVfVDwP5uezcUsWNiRlsWBL6ib.jpg" group-title="ATRESPLAYER",4 estrellas S01E27
+#EXTINF:-1 tvg-name="4 estrellas S01E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eHVfVDwP5uezcUsWNiRlsWBL6ib.jpg"  group-title="SERIES",4 estrellas S01E27
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159380.mp4
-#EXTINF:-1 tvg-name="4 estrellas S01E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1sJXm42wuNaiRlMDsC6yWrxxmCr.jpg" group-title="ATRESPLAYER",4 estrellas S01E28
+#EXTINF:-1 tvg-name="4 estrellas S01E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1sJXm42wuNaiRlMDsC6yWrxxmCr.jpg"  group-title="SERIES",4 estrellas S01E28
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159391.mp4
-#EXTINF:-1 tvg-name="4 estrellas S01E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecMHQvZX1nkuY5ql2ZNqexe2Cor.jpg" group-title="ATRESPLAYER",4 estrellas S01E29
+#EXTINF:-1 tvg-name="4 estrellas S01E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecMHQvZX1nkuY5ql2ZNqexe2Cor.jpg"  group-title="SERIES",4 estrellas S01E29
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159392.mp4
-#EXTINF:-1 tvg-name="4 estrellas S01E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dbihgDk4rCa4WsQbA4eN5nliBgG.jpg" group-title="ATRESPLAYER",4 estrellas S01E30
+#EXTINF:-1 tvg-name="4 estrellas S01E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dbihgDk4rCa4WsQbA4eN5nliBgG.jpg"  group-title="SERIES",4 estrellas S01E30
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159393.mp4
-#EXTINF:-1 tvg-name="4 estrellas S01E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcFMk8PtrVSqNNA5k6TEtcmhQAI.jpg" group-title="ATRESPLAYER",4 estrellas S01E31
+#EXTINF:-1 tvg-name="4 estrellas S01E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcFMk8PtrVSqNNA5k6TEtcmhQAI.jpg"  group-title="SERIES",4 estrellas S01E31
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159394.mp4
-#EXTINF:-1 tvg-name="4 estrellas S01E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4nAhsLmgwT5xWbZYZarm9MCL7q.jpg" group-title="ATRESPLAYER",4 estrellas S01E32
+#EXTINF:-1 tvg-name="4 estrellas S01E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4nAhsLmgwT5xWbZYZarm9MCL7q.jpg"  group-title="SERIES",4 estrellas S01E32
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159395.mp4
-#EXTINF:-1 tvg-name="4 estrellas S01E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q9ScF8EUiEoiC7oZyUySznRk3su.jpg" group-title="ATRESPLAYER",4 estrellas S01E33
+#EXTINF:-1 tvg-name="4 estrellas S01E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q9ScF8EUiEoiC7oZyUySznRk3su.jpg"  group-title="SERIES",4 estrellas S01E33
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159396.mp4
-#EXTINF:-1 tvg-name="4 estrellas S01E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWIK1z99yzGP8W9RENKd6amdB11.jpg" group-title="ATRESPLAYER",4 estrellas S01E34
+#EXTINF:-1 tvg-name="4 estrellas S01E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWIK1z99yzGP8W9RENKd6amdB11.jpg"  group-title="SERIES",4 estrellas S01E34
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159397.mp4
-#EXTINF:-1 tvg-name="4 estrellas S01E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/84ScZLfA2JYqe1aNx7UWHzK0f3f.jpg" group-title="ATRESPLAYER",4 estrellas S01E35
+#EXTINF:-1 tvg-name="4 estrellas S01E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/84ScZLfA2JYqe1aNx7UWHzK0f3f.jpg"  group-title="SERIES",4 estrellas S01E35
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159398.mp4
-#EXTINF:-1 tvg-name="4 estrellas S01E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xLBjuwo9Fw1aO9ONIwRKFCsBFU.jpg" group-title="ATRESPLAYER",4 estrellas S01E36
+#EXTINF:-1 tvg-name="4 estrellas S01E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xLBjuwo9Fw1aO9ONIwRKFCsBFU.jpg"  group-title="SERIES",4 estrellas S01E36
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159399.mp4
-#EXTINF:-1 tvg-name="4 estrellas S01E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fByr5vLuyzAwKd4uSW5uVSsJcD.jpg" group-title="ATRESPLAYER",4 estrellas S01E37
+#EXTINF:-1 tvg-name="4 estrellas S01E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fByr5vLuyzAwKd4uSW5uVSsJcD.jpg"  group-title="SERIES",4 estrellas S01E37
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159400.mp4
-#EXTINF:-1 tvg-name="4 estrellas S01E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mtMHrpYrjlqV55BdAcrp6aq6miy.jpg" group-title="ATRESPLAYER",4 estrellas S01E38
+#EXTINF:-1 tvg-name="4 estrellas S01E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mtMHrpYrjlqV55BdAcrp6aq6miy.jpg"  group-title="SERIES",4 estrellas S01E38
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159401.mp4
-#EXTINF:-1 tvg-name="4 estrellas S01E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ntwXxylYxn0HbCXo2MXAYzXGZIZ.jpg" group-title="ATRESPLAYER",4 estrellas S01E39
+#EXTINF:-1 tvg-name="4 estrellas S01E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ntwXxylYxn0HbCXo2MXAYzXGZIZ.jpg"  group-title="SERIES",4 estrellas S01E39
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159402.mp4
-#EXTINF:-1 tvg-name="4 estrellas S01E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/unphnr8QQdDwCEdmm7m7XRkuWT2.jpg" group-title="ATRESPLAYER",4 estrellas S01E40
+#EXTINF:-1 tvg-name="4 estrellas S01E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/unphnr8QQdDwCEdmm7m7XRkuWT2.jpg"  group-title="SERIES",4 estrellas S01E40
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159403.mp4
-#EXTINF:-1 tvg-name="4 estrellas S01E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUXhweWWftVHQPXI0BVEqgMhUE1.jpg" group-title="ATRESPLAYER",4 estrellas S01E41
+#EXTINF:-1 tvg-name="4 estrellas S01E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUXhweWWftVHQPXI0BVEqgMhUE1.jpg"  group-title="SERIES",4 estrellas S01E41
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159404.mp4
-#EXTINF:-1 tvg-name="4 estrellas S01E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fUuflVCrmois9we6pNeaUtQqA52.jpg" group-title="ATRESPLAYER",4 estrellas S01E42
+#EXTINF:-1 tvg-name="4 estrellas S01E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fUuflVCrmois9we6pNeaUtQqA52.jpg"  group-title="SERIES",4 estrellas S01E42
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159405.mp4
-#EXTINF:-1 tvg-name="4 estrellas S01E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9lBI49edYRuj75wzhjL6VuMM7C.jpg" group-title="ATRESPLAYER",4 estrellas S01E43
+#EXTINF:-1 tvg-name="4 estrellas S01E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9lBI49edYRuj75wzhjL6VuMM7C.jpg"  group-title="SERIES",4 estrellas S01E43
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159406.mp4
-#EXTINF:-1 tvg-name="4 estrellas S01E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tI8EcEsKlgmbheQ0qqdGvhkwQYe.jpg" group-title="ATRESPLAYER",4 estrellas S01E44
+#EXTINF:-1 tvg-name="4 estrellas S01E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tI8EcEsKlgmbheQ0qqdGvhkwQYe.jpg"  group-title="SERIES",4 estrellas S01E44
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159407.mp4
 #EXTINF:-1 tvg-name="4 Blocks S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCYQdKKzwmmptjtbmHrgnp9AdD7.jpg"  group-title="SERIES",4 Blocks S01E01
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159344.mkv
@@ -4005,11 +3991,11 @@ http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159315.mkv
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159316.mkv
 #EXTINF:-1 tvg-name="24 S03E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gcR17Cesesxyltm7hh1b3aV9Uo0.jpg"  group-title="SERIES",24 S03E24
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159317.mkv
-#EXTINF:-1 tvg-name="2 años y un día S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/apMdbn4PqwK4dPqhYHP3E5PyZ33.jpg" group-title="ATRESPLAYER",2 años y un día S01E01
+#EXTINF:-1 tvg-name="2 años y un día S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/apMdbn4PqwK4dPqhYHP3E5PyZ33.jpg"  group-title="SERIES",2 años y un día S01E01
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159243.mkv
-#EXTINF:-1 tvg-name="2 años y un día S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTCUOSzQ58Ps3PNg0aaSrdZoDfn.jpg" group-title="ATRESPLAYER",2 años y un día S01E02
+#EXTINF:-1 tvg-name="2 años y un día S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTCUOSzQ58Ps3PNg0aaSrdZoDfn.jpg"  group-title="SERIES",2 años y un día S01E02
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159244.mkv
-#EXTINF:-1 tvg-name="2 años y un día S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrAJQM4FiCP7yqsHk73SROXVU4J.jpg" group-title="ATRESPLAYER",2 años y un día S01E03
+#EXTINF:-1 tvg-name="2 años y un día S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrAJQM4FiCP7yqsHk73SROXVU4J.jpg"  group-title="SERIES",2 años y un día S01E03
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159245.mp4
 #EXTINF:-1 tvg-name="Dos chicas sin blanca S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1r8BiwANhurcRb9EC7frjziEai.jpg"  group-title="SERIES",Dos chicas sin blanca S01E01
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/159108.mkv
@@ -4767,13 +4753,13 @@ http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/160018.mp4
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/160019.mp4
 #EXTINF:-1 tvg-name="Love is Blind: Suecia S02E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9awzECA6m9o0ybzG9xp29pjf2L.jpg"  group-title="SERIES",Love is Blind: Suecia S02E07
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/160020.mp4
-#EXTINF:-1 tvg-name="La mujer del asesino S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpL6lJNmoCz6gjvZ8o3FEqlNXM6.jpg" group-title="ATRESPLAYER",La mujer del asesino S01E01
+#EXTINF:-1 tvg-name="La mujer del asesino S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpL6lJNmoCz6gjvZ8o3FEqlNXM6.jpg"  group-title="SERIES",La mujer del asesino S01E01
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/158706.mkv
-#EXTINF:-1 tvg-name="La mujer del asesino S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7C7yB9pp4qEZxDudczgUd4W80f.jpg" group-title="ATRESPLAYER",La mujer del asesino S01E02
+#EXTINF:-1 tvg-name="La mujer del asesino S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7C7yB9pp4qEZxDudczgUd4W80f.jpg"  group-title="SERIES",La mujer del asesino S01E02
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/158707.mkv
-#EXTINF:-1 tvg-name="La mujer del asesino S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oa2g8DTbeEakv6zy6WeBzkDCUKB.jpg" group-title="ATRESPLAYER",La mujer del asesino S01E03
+#EXTINF:-1 tvg-name="La mujer del asesino S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oa2g8DTbeEakv6zy6WeBzkDCUKB.jpg"  group-title="SERIES",La mujer del asesino S01E03
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/158708.mkv
-#EXTINF:-1 tvg-name="La mujer del asesino S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n5ipEYMyAUZsXIF0HTPduTxJDuc.jpg" group-title="ATRESPLAYER",La mujer del asesino S01E04
+#EXTINF:-1 tvg-name="La mujer del asesino S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n5ipEYMyAUZsXIF0HTPduTxJDuc.jpg"  group-title="SERIES",La mujer del asesino S01E04
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/158709.mkv
 #EXTINF:-1 tvg-name="Rompehielos S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n5ipEYMyAUZsXIF0HTPduTxJDuc.jpg"  group-title="SERIES",Rompehielos S01E01
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/158682.mkv
@@ -4953,31 +4939,31 @@ http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/157269.mkv
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/157270.mkv
 #EXTINF:-1 tvg-name="¿Te da miedo la oscuridad? S02E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yM3y5VfBkiLSjv3vx0ZkTEiaBY8.jpg"  group-title="SERIES",¿Te da miedo la oscuridad? S02E06
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/157271.mkv
-#EXTINF:-1 tvg-name="¿Se Puede? S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yM3y5VfBkiLSjv3vx0ZkTEiaBY8.jpg" group-title="ATRESPLAYER",¿Se Puede? S01E01
+#EXTINF:-1 tvg-name="¿Se Puede? S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yM3y5VfBkiLSjv3vx0ZkTEiaBY8.jpg"  group-title="SERIES",¿Se Puede? S01E01
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/157250.mp4
-#EXTINF:-1 tvg-name="¿Se Puede? S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yM3y5VfBkiLSjv3vx0ZkTEiaBY8.jpg" group-title="ATRESPLAYER",¿Se Puede? S01E02
+#EXTINF:-1 tvg-name="¿Se Puede? S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yM3y5VfBkiLSjv3vx0ZkTEiaBY8.jpg"  group-title="SERIES",¿Se Puede? S01E02
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/157251.mp4
-#EXTINF:-1 tvg-name="¿Se Puede? S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yM3y5VfBkiLSjv3vx0ZkTEiaBY8.jpg" group-title="ATRESPLAYER",¿Se Puede? S01E03
+#EXTINF:-1 tvg-name="¿Se Puede? S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yM3y5VfBkiLSjv3vx0ZkTEiaBY8.jpg"  group-title="SERIES",¿Se Puede? S01E03
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/157252.mp4
-#EXTINF:-1 tvg-name="¿Se Puede? S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yM3y5VfBkiLSjv3vx0ZkTEiaBY8.jpg" group-title="ATRESPLAYER",¿Se Puede? S01E04
+#EXTINF:-1 tvg-name="¿Se Puede? S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yM3y5VfBkiLSjv3vx0ZkTEiaBY8.jpg"  group-title="SERIES",¿Se Puede? S01E04
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/157253.mp4
-#EXTINF:-1 tvg-name="¿Se Puede? S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yM3y5VfBkiLSjv3vx0ZkTEiaBY8.jpg" group-title="ATRESPLAYER",¿Se Puede? S01E05
+#EXTINF:-1 tvg-name="¿Se Puede? S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yM3y5VfBkiLSjv3vx0ZkTEiaBY8.jpg"  group-title="SERIES",¿Se Puede? S01E05
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/157254.mp4
-#EXTINF:-1 tvg-name="¿Se Puede? S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yM3y5VfBkiLSjv3vx0ZkTEiaBY8.jpg" group-title="ATRESPLAYER",¿Se Puede? S01E06
+#EXTINF:-1 tvg-name="¿Se Puede? S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yM3y5VfBkiLSjv3vx0ZkTEiaBY8.jpg"  group-title="SERIES",¿Se Puede? S01E06
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/157255.mp4
-#EXTINF:-1 tvg-name="¿Se Puede? S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yM3y5VfBkiLSjv3vx0ZkTEiaBY8.jpg" group-title="ATRESPLAYER",¿Se Puede? S01E07
+#EXTINF:-1 tvg-name="¿Se Puede? S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yM3y5VfBkiLSjv3vx0ZkTEiaBY8.jpg"  group-title="SERIES",¿Se Puede? S01E07
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/157256.mp4
-#EXTINF:-1 tvg-name="¿Se Puede? S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yM3y5VfBkiLSjv3vx0ZkTEiaBY8.jpg" group-title="ATRESPLAYER",¿Se Puede? S01E08
+#EXTINF:-1 tvg-name="¿Se Puede? S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yM3y5VfBkiLSjv3vx0ZkTEiaBY8.jpg"  group-title="SERIES",¿Se Puede? S01E08
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/157257.mp4
-#EXTINF:-1 tvg-name="¿Se Puede? S01E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yM3y5VfBkiLSjv3vx0ZkTEiaBY8.jpg" group-title="ATRESPLAYER",¿Se Puede? S01E09
+#EXTINF:-1 tvg-name="¿Se Puede? S01E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yM3y5VfBkiLSjv3vx0ZkTEiaBY8.jpg"  group-title="SERIES",¿Se Puede? S01E09
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/157258.mp4
-#EXTINF:-1 tvg-name="¿Se Puede? S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yM3y5VfBkiLSjv3vx0ZkTEiaBY8.jpg" group-title="ATRESPLAYER",¿Se Puede? S01E10
+#EXTINF:-1 tvg-name="¿Se Puede? S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yM3y5VfBkiLSjv3vx0ZkTEiaBY8.jpg"  group-title="SERIES",¿Se Puede? S01E10
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/157259.mp4
-#EXTINF:-1 tvg-name="¿Se Puede? S01E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yM3y5VfBkiLSjv3vx0ZkTEiaBY8.jpg" group-title="ATRESPLAYER",¿Se Puede? S01E11
+#EXTINF:-1 tvg-name="¿Se Puede? S01E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yM3y5VfBkiLSjv3vx0ZkTEiaBY8.jpg"  group-title="SERIES",¿Se Puede? S01E11
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/157260.mp4
-#EXTINF:-1 tvg-name="¿Se Puede? S01E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yM3y5VfBkiLSjv3vx0ZkTEiaBY8.jpg" group-title="ATRESPLAYER",¿Se Puede? S01E12
+#EXTINF:-1 tvg-name="¿Se Puede? S01E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yM3y5VfBkiLSjv3vx0ZkTEiaBY8.jpg"  group-title="SERIES",¿Se Puede? S01E12
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/157261.mp4
-#EXTINF:-1 tvg-name="¿Se Puede? S01E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yM3y5VfBkiLSjv3vx0ZkTEiaBY8.jpg" group-title="ATRESPLAYER",¿Se Puede? S01E13
+#EXTINF:-1 tvg-name="¿Se Puede? S01E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yM3y5VfBkiLSjv3vx0ZkTEiaBY8.jpg"  group-title="SERIES",¿Se Puede? S01E13
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/157262.mp4
 #EXTINF:-1 tvg-name="¿Sabes quién es? S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hc7IRiX5iGJvSq7aGhlECE4Ivqw.jpg"  group-title="SERIES",¿Sabes quién es? S01E01
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/157242.mkv
@@ -5250,21 +5236,21 @@ http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/160760.mkv
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/160761.mkv
 #EXTINF:-1 tvg-name="La Jefa S01E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jjUcUJjgUVPPmczobq2WY2pYOWd.jpg"  group-title="SERIES",La Jefa S01E34
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/160762.mkv
-#EXTINF:-1 tvg-name="Física o química: La nueva generación S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1mFjh4a2WW15ybj5dIS9ESKWAMo.jpg" group-title="ATRESPLAYER",Física o química: La nueva generación S01E01
+#EXTINF:-1 tvg-name="Física o química: La nueva generación S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1mFjh4a2WW15ybj5dIS9ESKWAMo.jpg"  group-title="SERIES",Física o química: La nueva generación S01E01
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/157077.mkv
-#EXTINF:-1 tvg-name="Física o química: La nueva generación S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJWuhvK7VTNMRqVRIUCoNmYSbQ4.jpg" group-title="ATRESPLAYER",Física o química: La nueva generación S01E02
+#EXTINF:-1 tvg-name="Física o química: La nueva generación S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJWuhvK7VTNMRqVRIUCoNmYSbQ4.jpg"  group-title="SERIES",Física o química: La nueva generación S01E02
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/157078.mkv
-#EXTINF:-1 tvg-name="Física o química: La nueva generación S01E03" tvg-logo="https://image.tmdb.org/t/p/w1280/4TpjYj3IKqdSu740XD4GygNtYqx.jpg" group-title="ATRESPLAYER",Física o química: La nueva generación S01E03
+#EXTINF:-1 tvg-name="Física o química: La nueva generación S01E03" tvg-logo="https://image.tmdb.org/t/p/w1280/4TpjYj3IKqdSu740XD4GygNtYqx.jpg"  group-title="SERIES",Física o química: La nueva generación S01E03
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/157094.mkv
-#EXTINF:-1 tvg-name="Física o química: La nueva generación S01E04" tvg-logo="https://image.tmdb.org/t/p/w1280/hnKgtrqhz1Xl2dtF0HvDpwOWmx7.jpg" group-title="ATRESPLAYER",Física o química: La nueva generación S01E04
+#EXTINF:-1 tvg-name="Física o química: La nueva generación S01E04" tvg-logo="https://image.tmdb.org/t/p/w1280/hnKgtrqhz1Xl2dtF0HvDpwOWmx7.jpg"  group-title="SERIES",Física o química: La nueva generación S01E04
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/160005.mkv
-#EXTINF:-1 tvg-name="Física o química: La nueva generación S01E05" tvg-logo="https://image.tmdb.org/t/p/w1280/yg3ZB3FOI0ka4QlCjtyM4u6lb5d.jpg" group-title="ATRESPLAYER",Física o química: La nueva generación S01E05
+#EXTINF:-1 tvg-name="Física o química: La nueva generación S01E05" tvg-logo="https://image.tmdb.org/t/p/w1280/yg3ZB3FOI0ka4QlCjtyM4u6lb5d.jpg"  group-title="SERIES",Física o química: La nueva generación S01E05
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/160006.mkv
-#EXTINF:-1 tvg-name="Física o química: La nueva generación S01E06" tvg-logo="https://image.tmdb.org/t/p/w1280/oCFjx45kaOudhrQE2m6Wri0R3PG.jpg" group-title="ATRESPLAYER",Física o química: La nueva generación S01E06
+#EXTINF:-1 tvg-name="Física o química: La nueva generación S01E06" tvg-logo="https://image.tmdb.org/t/p/w1280/oCFjx45kaOudhrQE2m6Wri0R3PG.jpg"  group-title="SERIES",Física o química: La nueva generación S01E06
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/160334.mkv
-#EXTINF:-1 tvg-name="Física o química: La nueva generación S01E07" tvg-logo="https://image.tmdb.org/t/p/w1280/rmhjFZNbrAbdb3PKZB6uJ2Tb0Ij.jpg" group-title="ATRESPLAYER",Física o química: La nueva generación S01E07
+#EXTINF:-1 tvg-name="Física o química: La nueva generación S01E07" tvg-logo="https://image.tmdb.org/t/p/w1280/rmhjFZNbrAbdb3PKZB6uJ2Tb0Ij.jpg"  group-title="SERIES",Física o química: La nueva generación S01E07
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/160335.mkv
-#EXTINF:-1 tvg-name="Física o química: La nueva generación S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9VUuBiH9XqpftJUsifSHIrbzt8.jpg" group-title="ATRESPLAYER",Física o química: La nueva generación S01E08
+#EXTINF:-1 tvg-name="Física o química: La nueva generación S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9VUuBiH9XqpftJUsifSHIrbzt8.jpg"  group-title="SERIES",Física o química: La nueva generación S01E08
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/160763.mkv
 
 
@@ -6847,37 +6833,37 @@ http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/155520.mkv
 
 
 
-#EXTINF:-1 tvg-name="Renascer S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aUZgCWFJaIn8TTjIrlY1h9xawpY.jpg" group-title="ATRESPLAYER",Renascer S01E01
+#EXTINF:-1 tvg-name="Renascer S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aUZgCWFJaIn8TTjIrlY1h9xawpY.jpg"  group-title="SERIES",Renascer S01E01
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/155496.mkv
-#EXTINF:-1 tvg-name="Renascer S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zu191W9M6xqN7J81jIw6ZhNfPhe.jpg" group-title="ATRESPLAYER",Renascer S01E02
+#EXTINF:-1 tvg-name="Renascer S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zu191W9M6xqN7J81jIw6ZhNfPhe.jpg"  group-title="SERIES",Renascer S01E02
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/155497.mkv
-#EXTINF:-1 tvg-name="Renascer S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgB2goAFXtjDHdKOuKRR4Jaegi4.jpg" group-title="ATRESPLAYER",Renascer S01E03
+#EXTINF:-1 tvg-name="Renascer S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgB2goAFXtjDHdKOuKRR4Jaegi4.jpg"  group-title="SERIES",Renascer S01E03
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/155498.mkv
-#EXTINF:-1 tvg-name="Renascer S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ocWlPnSf0P2mBNTWcRPuJReapyD.jpg" group-title="ATRESPLAYER",Renascer S01E04
+#EXTINF:-1 tvg-name="Renascer S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ocWlPnSf0P2mBNTWcRPuJReapyD.jpg"  group-title="SERIES",Renascer S01E04
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/155499.mkv
-#EXTINF:-1 tvg-name="Renascer S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3vJavgpUQ8FqgAnoTRSvEdZ2Xa.jpg" group-title="ATRESPLAYER",Renascer S01E05
+#EXTINF:-1 tvg-name="Renascer S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3vJavgpUQ8FqgAnoTRSvEdZ2Xa.jpg"  group-title="SERIES",Renascer S01E05
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/155500.mkv
-#EXTINF:-1 tvg-name="Renascer S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjKMA22R2I7grZqcdLTdCeezsxG.jpg" group-title="ATRESPLAYER",Renascer S01E06
+#EXTINF:-1 tvg-name="Renascer S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjKMA22R2I7grZqcdLTdCeezsxG.jpg"  group-title="SERIES",Renascer S01E06
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/155501.mkv
-#EXTINF:-1 tvg-name="Renascer S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vbS6uRWDKgKm9wRqghxaswwAbgf.jpg" group-title="ATRESPLAYER",Renascer S01E07
+#EXTINF:-1 tvg-name="Renascer S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vbS6uRWDKgKm9wRqghxaswwAbgf.jpg"  group-title="SERIES",Renascer S01E07
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/155502.mkv
-#EXTINF:-1 tvg-name="Renascer S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zX5n1mYcfdxRBHAjHaUSmsnrGpi.jpg" group-title="ATRESPLAYER",Renascer S01E08
+#EXTINF:-1 tvg-name="Renascer S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zX5n1mYcfdxRBHAjHaUSmsnrGpi.jpg"  group-title="SERIES",Renascer S01E08
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/155503.mkv
-#EXTINF:-1 tvg-name="Renascer S01E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4TxTQG8gGQeidNQUim9b2rWgQa8.jpg" group-title="ATRESPLAYER",Renascer S01E09
+#EXTINF:-1 tvg-name="Renascer S01E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4TxTQG8gGQeidNQUim9b2rWgQa8.jpg"  group-title="SERIES",Renascer S01E09
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/155504.mkv
-#EXTINF:-1 tvg-name="Renascer S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r0zZm8qOHu1pXLvt9fecMQ78Z02.jpg" group-title="ATRESPLAYER",Renascer S01E10
+#EXTINF:-1 tvg-name="Renascer S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r0zZm8qOHu1pXLvt9fecMQ78Z02.jpg"  group-title="SERIES",Renascer S01E10
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/155505.mkv
-#EXTINF:-1 tvg-name="Renascer S01E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ieVJz8UBDKOzGlW4YDEhMmzmPF0.jpg" group-title="ATRESPLAYER",Renascer S01E11
+#EXTINF:-1 tvg-name="Renascer S01E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ieVJz8UBDKOzGlW4YDEhMmzmPF0.jpg"  group-title="SERIES",Renascer S01E11
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/155506.mkv
-#EXTINF:-1 tvg-name="Renascer S01E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLt3MZP8STCqs2itcmHM80Lv5pU.jpg" group-title="ATRESPLAYER",Renascer S01E12
+#EXTINF:-1 tvg-name="Renascer S01E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLt3MZP8STCqs2itcmHM80Lv5pU.jpg"  group-title="SERIES",Renascer S01E12
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/155507.mkv
-#EXTINF:-1 tvg-name="Renascer S01E13" tvg-logo="https://image.tmdb.org/t/p/w1280/2UKMycpuAdUfuZQ2inSqqUjzG7L.jpg" group-title="ATRESPLAYER",Renascer S01E13
+#EXTINF:-1 tvg-name="Renascer S01E13" tvg-logo="https://image.tmdb.org/t/p/w1280/2UKMycpuAdUfuZQ2inSqqUjzG7L.jpg"  group-title="SERIES",Renascer S01E13
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/156096.mkv
-#EXTINF:-1 tvg-name="Renascer S01E14" tvg-logo="https://image.tmdb.org/t/p/w1280/36oatNtR0K357S50rjkTxlZclez.jpg" group-title="ATRESPLAYER",Renascer S01E14
+#EXTINF:-1 tvg-name="Renascer S01E14" tvg-logo="https://image.tmdb.org/t/p/w1280/36oatNtR0K357S50rjkTxlZclez.jpg"  group-title="SERIES",Renascer S01E14
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/156418.mkv
-#EXTINF:-1 tvg-name="Renascer S01E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kevKiUUW6vKM9mPWM1gesYnAPcA.jpg" group-title="ATRESPLAYER",Renascer S01E15
+#EXTINF:-1 tvg-name="Renascer S01E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kevKiUUW6vKM9mPWM1gesYnAPcA.jpg"  group-title="SERIES",Renascer S01E15
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/157081.mkv
-#EXTINF:-1 tvg-name="Renascer S01E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l2kORnSOakGoKBjnoqKRXe3tgq8.jpg" group-title="ATRESPLAYER",Renascer S01E16
+#EXTINF:-1 tvg-name="Renascer S01E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l2kORnSOakGoKBjnoqKRXe3tgq8.jpg"  group-title="SERIES",Renascer S01E16
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/157082.mkv
 
 #EXTINF:-1 tvg-name="House of Cards S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/84y60T8qT6xnLUW1M73Zy1c3Pne.jpg"  group-title="SERIES",House of Cards S01E01
@@ -8137,71 +8123,71 @@ http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/154254.mkv
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/154255.mkv
 #EXTINF:-1 tvg-name="ZOMBIE DETECTIVE S01E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pev0NkahZU72QCeJZU457duQRPj.jpg"  group-title="SERIES",ZOMBIE DETECTIVE S01E12
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/154256.mkv
-#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtylBlccGhnEkRehLaxlfVbZwHW.jpg" group-title="ATRESPLAYER",ACI: Alta Capacidad Intelectual S01E01
+#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtylBlccGhnEkRehLaxlfVbZwHW.jpg"  group-title="SERIES",ACI: Alta Capacidad Intelectual S01E01
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/154219.mkv
-#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVZrKZPJ9rLyyFsgmoMeLUArOUB.jpg" group-title="ATRESPLAYER",ACI: Alta Capacidad Intelectual S01E02
+#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVZrKZPJ9rLyyFsgmoMeLUArOUB.jpg"  group-title="SERIES",ACI: Alta Capacidad Intelectual S01E02
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/154220.mkv
-#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8rdgQLdQgj13BePMokJ2ehbZSv.jpg" group-title="ATRESPLAYER",ACI: Alta Capacidad Intelectual S01E03
+#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8rdgQLdQgj13BePMokJ2ehbZSv.jpg"  group-title="SERIES",ACI: Alta Capacidad Intelectual S01E03
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/154221.mkv
-#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9hQtDCHdQLoWBAls0gqJhM99X8e.jpg" group-title="ATRESPLAYER",ACI: Alta Capacidad Intelectual S01E04
+#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9hQtDCHdQLoWBAls0gqJhM99X8e.jpg"  group-title="SERIES",ACI: Alta Capacidad Intelectual S01E04
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/154222.mkv
-#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRhWpjjkXb3kbZQ15r6Z2I6coKq.jpg" group-title="ATRESPLAYER",ACI: Alta Capacidad Intelectual S01E05
+#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRhWpjjkXb3kbZQ15r6Z2I6coKq.jpg"  group-title="SERIES",ACI: Alta Capacidad Intelectual S01E05
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/154223.mkv
-#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j6fbUcuwxoDUEkl8c0J1LIRBi6P.jpg" group-title="ATRESPLAYER",ACI: Alta Capacidad Intelectual S01E06
+#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j6fbUcuwxoDUEkl8c0J1LIRBi6P.jpg"  group-title="SERIES",ACI: Alta Capacidad Intelectual S01E06
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/154224.mkv
-#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2ANpqUZdnHjmzACuXuytu2pfK7.jpg" group-title="ATRESPLAYER",ACI: Alta Capacidad Intelectual S01E07
+#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2ANpqUZdnHjmzACuXuytu2pfK7.jpg"  group-title="SERIES",ACI: Alta Capacidad Intelectual S01E07
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/154225.mkv
-#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fAenJF6q5DarBmAGg8uDUTQYW1s.jpg" group-title="ATRESPLAYER",ACI: Alta Capacidad Intelectual S01E08
+#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fAenJF6q5DarBmAGg8uDUTQYW1s.jpg"  group-title="SERIES",ACI: Alta Capacidad Intelectual S01E08
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/154226.mkv
-#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S02E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1u4C7bGZBea8ZLmkOERxRYpVBx9.jpg" group-title="ATRESPLAYER",ACI: Alta Capacidad Intelectual S02E01
+#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S02E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1u4C7bGZBea8ZLmkOERxRYpVBx9.jpg"  group-title="SERIES",ACI: Alta Capacidad Intelectual S02E01
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/154227.mkv
-#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S02E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aHx0aNmGGOiFwzaYTlaoWvYq03P.jpg" group-title="ATRESPLAYER",ACI: Alta Capacidad Intelectual S02E02
+#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S02E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aHx0aNmGGOiFwzaYTlaoWvYq03P.jpg"  group-title="SERIES",ACI: Alta Capacidad Intelectual S02E02
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/154228.mkv
-#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S02E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hLGDb42A062OdJ3XZx5kfRLiMUS.jpg" group-title="ATRESPLAYER",ACI: Alta Capacidad Intelectual S02E03
+#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S02E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hLGDb42A062OdJ3XZx5kfRLiMUS.jpg"  group-title="SERIES",ACI: Alta Capacidad Intelectual S02E03
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/154229.mkv
-#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S02E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQ6q8FozyKOkzoWm4temWA1m6ka.jpg" group-title="ATRESPLAYER",ACI: Alta Capacidad Intelectual S02E04
+#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S02E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQ6q8FozyKOkzoWm4temWA1m6ka.jpg"  group-title="SERIES",ACI: Alta Capacidad Intelectual S02E04
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/154230.mkv
-#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S02E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mcnebqW03BKyggCJlxIYETsrfJv.jpg" group-title="ATRESPLAYER",ACI: Alta Capacidad Intelectual S02E05
+#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S02E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mcnebqW03BKyggCJlxIYETsrfJv.jpg"  group-title="SERIES",ACI: Alta Capacidad Intelectual S02E05
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/154231.mkv
-#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S02E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1k3kgpoveFAcRBj2r5FMRDQmSTD.jpg" group-title="ATRESPLAYER",ACI: Alta Capacidad Intelectual S02E06
+#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S02E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1k3kgpoveFAcRBj2r5FMRDQmSTD.jpg"  group-title="SERIES",ACI: Alta Capacidad Intelectual S02E06
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/154232.mkv
-#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S02E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9eW4WGgTrEBlPUuvUi20PEljofk.jpg" group-title="ATRESPLAYER",ACI: Alta Capacidad Intelectual S02E07
+#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S02E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9eW4WGgTrEBlPUuvUi20PEljofk.jpg"  group-title="SERIES",ACI: Alta Capacidad Intelectual S02E07
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/154233.mkv
-#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S02E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnjowu94OTr97sqfRzMuVC3Torx.jpg" group-title="ATRESPLAYER",ACI: Alta Capacidad Intelectual S02E08
+#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S02E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnjowu94OTr97sqfRzMuVC3Torx.jpg"  group-title="SERIES",ACI: Alta Capacidad Intelectual S02E08
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/154234.mkv
-#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S03E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hpgzTwPppEl8xcJiVhowiYc6Ah6.jpg" group-title="ATRESPLAYER",ACI: Alta Capacidad Intelectual S03E01
+#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S03E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hpgzTwPppEl8xcJiVhowiYc6Ah6.jpg"  group-title="SERIES",ACI: Alta Capacidad Intelectual S03E01
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/154235.mkv
-#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S03E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ir2TLRB2t1DthhAa4XggsV5YF1.jpg" group-title="ATRESPLAYER",ACI: Alta Capacidad Intelectual S03E02
+#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S03E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ir2TLRB2t1DthhAa4XggsV5YF1.jpg"  group-title="SERIES",ACI: Alta Capacidad Intelectual S03E02
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/154236.mkv
-#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S03E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5QqekIdY3iYT4I0ZAPa1ea1prs3.jpg" group-title="ATRESPLAYER",ACI: Alta Capacidad Intelectual S03E03
+#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S03E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5QqekIdY3iYT4I0ZAPa1ea1prs3.jpg"  group-title="SERIES",ACI: Alta Capacidad Intelectual S03E03
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/154237.mkv
-#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S03E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oKDqpJnOL8lQuoauoPVTnvHhoSJ.jpg" group-title="ATRESPLAYER",ACI: Alta Capacidad Intelectual S03E04
+#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S03E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oKDqpJnOL8lQuoauoPVTnvHhoSJ.jpg"  group-title="SERIES",ACI: Alta Capacidad Intelectual S03E04
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/154238.mkv
-#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S03E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjuGfcch8ySJGKJBJjq8sQKCJyF.jpg" group-title="ATRESPLAYER",ACI: Alta Capacidad Intelectual S03E05
+#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S03E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjuGfcch8ySJGKJBJjq8sQKCJyF.jpg"  group-title="SERIES",ACI: Alta Capacidad Intelectual S03E05
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/154239.mkv
-#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S03E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCIDKrJOePFq8EnBipGiIpTLjyw.jpg" group-title="ATRESPLAYER",ACI: Alta Capacidad Intelectual S03E06
+#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S03E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCIDKrJOePFq8EnBipGiIpTLjyw.jpg"  group-title="SERIES",ACI: Alta Capacidad Intelectual S03E06
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/154240.mkv
-#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S03E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIQ3dyNRG0YzRa9IqLE9Eje7f2C.jpg" group-title="ATRESPLAYER",ACI: Alta Capacidad Intelectual S03E07
+#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S03E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIQ3dyNRG0YzRa9IqLE9Eje7f2C.jpg"  group-title="SERIES",ACI: Alta Capacidad Intelectual S03E07
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/154241.mkv
-#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S03E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/66CqiicaxtwOyYsdEcUHPkYCxYp.jpg" group-title="ATRESPLAYER",ACI: Alta Capacidad Intelectual S03E08
+#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S03E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/66CqiicaxtwOyYsdEcUHPkYCxYp.jpg"  group-title="SERIES",ACI: Alta Capacidad Intelectual S03E08
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/154242.mkv
-#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S04E01" tvg-logo="https://image.tmdb.org/t/p/w1280/brP3t2cZwpQ02pAbBZW8uO6kS0E.jpg" group-title="ATRESPLAYER",ACI: Alta Capacidad Intelectual S04E01
+#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S04E01" tvg-logo="https://image.tmdb.org/t/p/w1280/brP3t2cZwpQ02pAbBZW8uO6kS0E.jpg"  group-title="SERIES",ACI: Alta Capacidad Intelectual S04E01
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/154243.mkv
-#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S04E02" tvg-logo="https://image.tmdb.org/t/p/w1280/4cdNh7q0bEfhAQlmdcimod6IWxG.jpg" group-title="ATRESPLAYER",ACI: Alta Capacidad Intelectual S04E02
+#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S04E02" tvg-logo="https://image.tmdb.org/t/p/w1280/4cdNh7q0bEfhAQlmdcimod6IWxG.jpg"  group-title="SERIES",ACI: Alta Capacidad Intelectual S04E02
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/155070.mkv
-#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S04E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzbJRH88R7kBIBWDc8MHd6cr0gN.jpg" group-title="ATRESPLAYER",ACI: Alta Capacidad Intelectual S04E03
+#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S04E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzbJRH88R7kBIBWDc8MHd6cr0gN.jpg"  group-title="SERIES",ACI: Alta Capacidad Intelectual S04E03
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/156525.mkv
-#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S04E04" tvg-logo="https://image.tmdb.org/t/p/w1280/9qu2bwIBONLLcWOImyWvjima00D.jpg" group-title="ATRESPLAYER",ACI: Alta Capacidad Intelectual S04E04
+#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S04E04" tvg-logo="https://image.tmdb.org/t/p/w1280/9qu2bwIBONLLcWOImyWvjima00D.jpg"  group-title="SERIES",ACI: Alta Capacidad Intelectual S04E04
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/156527.mkv
-#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S04E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/moiqF0JgcRYjwxqBlMgjbNmFoNz.jpg" group-title="ATRESPLAYER",ACI: Alta Capacidad Intelectual S04E05
+#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S04E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/moiqF0JgcRYjwxqBlMgjbNmFoNz.jpg"  group-title="SERIES",ACI: Alta Capacidad Intelectual S04E05
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/156526.mkv
-#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S04E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/moiqF0JgcRYjwxqBlMgjbNmFoNz.jpg" group-title="ATRESPLAYER",ACI: Alta Capacidad Intelectual S04E05
+#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S04E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/moiqF0JgcRYjwxqBlMgjbNmFoNz.jpg"  group-title="SERIES",ACI: Alta Capacidad Intelectual S04E05
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/157112.mkv
-#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S04E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6S8mTpiWf0aKmwTu517SzL71G9b.jpg" group-title="ATRESPLAYER",ACI: Alta Capacidad Intelectual S04E06
+#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S04E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6S8mTpiWf0aKmwTu517SzL71G9b.jpg"  group-title="SERIES",ACI: Alta Capacidad Intelectual S04E06
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/157113.mkv
-#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S04E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsAEWMbZAZLwTRjp0Xx7WPszwnP.jpg" group-title="ATRESPLAYER",ACI: Alta Capacidad Intelectual S04E07
+#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S04E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsAEWMbZAZLwTRjp0Xx7WPszwnP.jpg"  group-title="SERIES",ACI: Alta Capacidad Intelectual S04E07
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/157114.mkv
-#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S04E08" tvg-logo="https://image.tmdb.org/t/p/w1280/tGarKD4vmt34uME6hOHu67mJJtZ.jpg" group-title="ATRESPLAYER",ACI: Alta Capacidad Intelectual S04E08
+#EXTINF:-1 tvg-name="ACI: Alta Capacidad Intelectual S04E08" tvg-logo="https://image.tmdb.org/t/p/w1280/tGarKD4vmt34uME6hOHu67mJJtZ.jpg"  group-title="SERIES",ACI: Alta Capacidad Intelectual S04E08
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/158921.mkv
 #EXTINF:-1 tvg-name="Veep S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4O6o0NDd4OOXCYh4d9debf6PPXa.jpg"  group-title="SERIES",Veep S01E01
 http://misurisakura.uk:2086/series/R89uPpc9cf/WQhjdzEjuy/154146.mkv

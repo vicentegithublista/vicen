@@ -54,14 +54,19 @@ http://127.0.0.1:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
 
 
 
-
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M #VAMOS🏆
+http://127.0.0.1:6878/ace/getstream?id=12ba546d229bc39f01c3c18988a034b215fe6adb
 
 
 #EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M #VAMOS🏆
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/151588
+http://127.0.0.1:6878/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2
+
 
 #EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M #VAMOS🏆
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/309439
+http://127.0.0.1:6878/ace/getstream?id=3b2a8b41e7097c16b0468b42d7de0320886fa933
+
+
+
 
 
 
@@ -113,18 +118,17 @@ http://127.0.0.1:6878/ace/getstream?id=cc5782d37ae6b6e0bab396dd64074982d08790460
 
 
 
+
+
+
 #EXTINF:-1, tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"  group-title="DEPORTE", TELEDEPORTE🏆
-http://127.0.0.1:6878/ace/getstream?id=3977c21113c3b89d1ee1a2da7ea5d41769b133f9
-
+https://ztnr.rtve.es/ztnr/1712295.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"  group-title="DEPORTE", TELEDEPORTE🏆
-http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
+https://rtvelivestream-clnx.rtve.es/rtvesec/tdp/tdp_main.m3u8
 
-
-
-
-
-
+#EXTINF:-1, tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"  group-title="DEPORTE", TELEDEPORTE🏆
+https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
 
 
 

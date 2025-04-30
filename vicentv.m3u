@@ -115,13 +115,6 @@ acestream://26029f72a4ca831d09deefe89534818db1d105bc
 
 
 
-EXTINF:-1,LaLiga Tv Bar [1080]
-acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
-EXTINF:-1,LaLiga Tv Bar [1080]
-acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-EXTINF:-1,LaLiga Tv Bar[1080]
-acestream://94d34491106e00394835c8cb68aa94481339b53f
-
 
 
 
@@ -228,6 +221,10 @@ acestream://e3ad553098e0c1e70cba1ea2a906dc27aa3452a2
 #EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LA 1🏆
 https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
 
+
+
+
+
 #EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ LIGA DE CAMPEONES⚽
 acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
 
@@ -246,6 +243,15 @@ http://127.0.0.1:6878/ace/getstream?id=c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc
 
 
 
+
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LaLiga Tv Bar⚽
+acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
+
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LaLiga Tv Bar⚽
+acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
+
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LaLiga Tv Bar⚽
+acestream://94d34491106e00394835c8cb68aa94481339b53f
 
 
 

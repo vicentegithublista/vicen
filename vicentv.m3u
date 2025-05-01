@@ -32,86 +32,15 @@
 
 
 
-EXTINF:-1,M.Plus 1080
-acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
-EXTINF:-1,M.Plus 1080
-acestream://56ac8e227d526e722624675ccdd91b0cc850582f
-
-
-EXTINF:-1,M #Vamos [1080]
-acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-EXTINF:-1,M #Vamos [1080]
-acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
-EXTINF:-1,M #Vamos
-acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0 
-EXTINF:-1,M #Vamos
-acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
-EXTINF:-1,M #Vamos
-acestream://8c1e181e99425c729cdf12c21fccaf07ea106a49
-
-
-EXTINF:-1,Ellas 1080
-acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
-EXTINF:-1,Ellas 1080
-acestream://d8c2ed470e847154a88f011137cc206319f6bed5
-
-
-
-EXTINF:-1,M. Deportes 1080
-acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-EXTINF:-1,M. Deportes 720
-acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa
-EXTINF:-1,M. Deportes 720
-acestream://3a74d9869b13e763476800740c6625e715a39879
-
-
-EXTINF:-1,M. Deportes 2
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-EXTINF:-1,M. Deportes 2
-acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
 
 
 
 
-EXTINF:-1,M. Golf 
-acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
-EXTINF:-1,M. Golf 2
-acestream://9a4f3ae6563668b7709dac509dedc709441b3fd9
-EXTINF:-1,M. Golf 
-acestream://f41f1096862767289620be5bd85727f946a434db
-EXTINF:-1,M. Golf 2
-acestream://e258e75e0e802afa5fcc53d46b47d8801a254ad5
 
 
 
-EXTINF:-1,EuroSport 1 [FDH]
-acestream://b16eeeb12d208029eff3dcc9e73613fd8b052737
-EXTINF:-1,EuroSport 1 [1080]
-acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-EXTINF:-1,EuroSport 1 [1080]
-acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-EXTINF:-1,EuroSport 2 [1080]
-acestream://98784fa0714190de289f42eb5b84e405df7e685a
-EXTINF:-1,EuroSport 2 [1080]
-acestream://c373da9e901d414b7384e671112e64d5a2310c29
-EXTINF:-1,EuroSport 2 [FDH]
-acestream://dfdf5353080a7e3d0f4b4c8e3cf4e0be19731652
 
 
-EXTINF:-1,GOL TV [1080p]
-acestream://d4627f7b6b237a8556819445b3283d866caceca2
-
-
-EXTINF:-1,Tdp 1080
-acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-EXTINF:-1,Tdp 1080
-acestream://61b9b271c16f970aab43cb753c5f8be181dceece
-
-
-EXTINF:-1,Red Bull TV HD
-acestream://647d19df70ee35100d0e95bc62ddebeebec1fabb
-EXTINF:-1,Red Bull TV UHD
-acestream://fefd91766cef2af2bf4ded328633fb01051d6df9
 
 
 
@@ -255,6 +184,10 @@ http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4
 #EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",MOVISTAR PLUS🏆
 http://127.0.0.1:6878/ace/getstream?id=56ac8e227d526e722624675ccdd91b0cc850582f
 
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",MOVISTAR PLUS🏆
+acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
+
+
 
 
 
@@ -283,7 +216,19 @@ http://127.0.0.1:6878/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2
 http://127.0.0.1:6878/ace/getstream?id=3b2a8b41e7097c16b0468b42d7de0320886fa933
 
 
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M #VAMOS🏆
+acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 
+
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M #VAMOS🏆
+acestream://8c1e181e99425c729cdf12c21fccaf07ea106a49
+
+
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M #ELLAS VAMOS🏆
+acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
+
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M #ELLAS VAMOS🏆
+acestream://d8c2ed470e847154a88f011137cc206319f6bed5
 
 
 
@@ -297,9 +242,42 @@ http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
 
 
 
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.DEPORTES🏆
+acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.DEPORTES🏆
+acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa
+
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.DEPORTES🏆
+acestream://3a74d9869b13e763476800740c6625e715a39879
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.DEPORTES 2🏆
 http://127.0.0.1:6878/content/eebed46bb5743f5477328f3fb50d23b6cb545a5b/0.161604356663
+
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.DEPORTES 2🏆
+acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
+
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.DEPORTES 2🏆
+acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
+
+
 
 
 
@@ -339,11 +317,23 @@ http://127.0.0.1:6878/ace/getstream?id=cc5782d37ae6b6e0bab396dd64074982d08790460
 
 
 
-#EXTINF:-1, tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"  group-title="DEPORTE", TELEDEPORTE🏆
+
+
+
+#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Teledeporte🏆
 https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
 
 
 
+#EXTINF:-1, tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"  group-title="DEPORTE", TELEDEPORTE🏆
+https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
+
+#EXTINF:-1, tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"  group-title="DEPORTE", TELEDEPORTE🏆
+acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+
+
+#EXTINF:-1, tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"  group-title="DEPORTE", TELEDEPORTE🏆
+acestream://61b9b271c16f970aab43cb753c5f8be181dceece
 
 
 
@@ -352,7 +342,8 @@ https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 
-
+#EXTINF:-1, tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"  group-title="DEPORTE", GOL TV🏆
+acestream://d4627f7b6b237a8556819445b3283d866caceca2
 
 
 
@@ -912,9 +903,49 @@ http://127.0.0.1:6878/ace/getstream?id=1d04e3b27c2ac3ff52dc949e76f36207fbb235c4
 #EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",EUROSPORT 1🏁🎾🏀🥊 
 http://127.0.0.1:6878/ace/getstream?id=fbc82948dd7c19387a702692bc4590157b376459
 
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",EUROSPORT 1🏁🎾🏀🥊 
+acestream://b16eeeb12d208029eff3dcc9e73613fd8b052737
+
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",EUROSPORT 1🏁🎾🏀🥊 
+acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",EUROSPORT 1🏁🎾🏀🥊 
+acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",EUROSPORT 2🏁🎾🏀🥊 
 http://127.0.0.1:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
+
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",EuroSport 2🏁🎾🏀🥊
+acestream://98784fa0714190de289f42eb5b84e405df7e685a
+
+
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",EuroSport 2🏁🎾🏀🥊
+acestream://c373da9e901d414b7384e671112e64d5a2310c29
+
+
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",EuroSport 2🏁🎾🏀🥊
+acestream://dfdf5353080a7e3d0f4b4c8e3cf4e0be19731652
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -925,8 +956,37 @@ http://127.0.0.1:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
 http://127.0.0.1:6878/ace/getstream?id=22df9a5fae8cae52fec925c2bb44b74f96a4200c&pid=35261
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",(DE)EuroSport 2🏁🎾🏀🥊
 http://127.0.0.1:6878/ace/getstream?id=57f95543ac41656d473b1a27123fc413388a728c&pid=22385
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -978,14 +1038,24 @@ http://127.0.0.1:6878/ace/getstream?id=7993cecc31917793e2bfa2fe98faa9fe1ab62d47&
 #EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", M. Golf🏆
 http://127.0.0.1:6878/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb
 
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", M. Golf🏆
+acestream://9a4f3ae6563668b7709dac509dedc709441b3fd9
+
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", M. Golf🏆
+acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
+
+
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", M. Golf 2🏆
+acestream://f41f1096862767289620be5bd85727f946a434db
+
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", M. Golf 2🏆
+acestream://e258e75e0e802afa5fcc53d46b47d8801a254ad5
 
 
 
 
 
 
-#EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Teledeporte
-https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
 
 
 
@@ -1403,6 +1473,13 @@ http://127.0.0.1:6878/ace/getstream?id=647d19df70ee35100d0e95bc62ddebeebec1fabb
 
 #EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Red Bull TV UHD🏆
 http://127.0.0.1:6878/ace/getstream?id=fefd91766cef2af2bf4ded328633fb01051d6df9
+
+
+
+
+
+
+
 
 #EXTINF:-1, tvg-logo="https://seeklogo.com/images/A/Automotor-logo-D99B43248F-seeklogo.com.gif" tvg-id=""  group-title="DEPORTE", AutoMotorSport
 acestream://6791a2d1587e8c68eac10815f22aed439b0f6c9f

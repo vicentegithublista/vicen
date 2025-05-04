@@ -1308,8 +1308,8 @@ http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/757752
 #EXTINF:-1 tvg-id="NICKELODEONHD" tvg-name="ONETORO HD" tvg-logo="https://i.postimg.cc/kgdmjBtV/red-bull-tv-1.png" group-title="M+ TEMATICOS ▶️",ONETORO
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1061263
 
-
-
+#EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="M+ TEMATICOS ▶️",Telemadrid
+https://fidel@telemadrid-23-secure2.akamaized.net/master.m3u8
 
 #EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="M+ TEMATICOS ▶️",Telemadrid
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
@@ -1337,8 +1337,8 @@ https://d35x6iaiw8f75z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
 https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
 
-
-
+#EXTINF:-1 group-title="M+ TEMATICOS ▶️",Castilla-La Mancha Media
+https://fidel@cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_sqa9madm/protocol/https/format/applehttp/a.m3u8
 
 #EXTINF:-1 group-title="M+ TEMATICOS ▶️",Castilla-La Mancha Media
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160

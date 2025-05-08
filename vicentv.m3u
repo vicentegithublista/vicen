@@ -1327,55 +1327,27 @@ http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1140873
 #EXTINF:-1 group-title="M+ TEMATICOS ▶️",ONETORO
 http://tv.masterplaytv.club:8080/MaferCandia2022/c6e6b6f08f5e/8217
 
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="M+ TEMATICOS ▶️",Telemadrid
 https://fidel@telemadrid-23-secure2.akamaized.net/master.m3u8
-
-#EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="M+ TEMATICOS ▶️",Telemadrid
-https://telemadrid-23-secure2.akamaized.net/master.m3u8
-
-#EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="M+ TEMATICOS ▶️",Telemadrid
-https://eventos-23-secure2.akamaized.net/eventos_1-hls/master.m3u8
 
 
 #EXTINF:-1 group-title="M+ TEMATICOS ▶️",La Otra
 https://laotra-1-23-secure2.akamaized.net/master.m3u8
-
- 
 
 
 #EXTINF:-1 group-title="M+ TEMATICOS ▶️",Canal Sur Andalucía
 https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
 
 
-#EXTINF:-1 group-title="M+ TEMATICOS ▶️",Canal Sur Andalucía
-https://d35x6iaiw8f75z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbwsl0jk1bvoo/canal_sur_andalucia_es.m3u8
-
-
-
 #EXTINF:-1 group-title="M+ TEMATICOS ▶️",Andalucía Cocina
 #EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
 https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
 
-#EXTINF:-1 group-title="M+ TEMATICOS ▶️",Castilla-La Mancha Media
-https://fidel@cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_sqa9madm/protocol/https/format/applehttp/a.m3u8
 
 #EXTINF:-1 group-title="M+ TEMATICOS ▶️",Castilla-La Mancha Media
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_sqa9madm/protocol/https/format/applehttp/a.m3u8
 
-
-
-
-
-
-#EXTINF:-1 group-title="M+ TEMATICOS ▶️",Canal 4 Mancha Centro
-https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
 
 #EXTINF:-1 group-title="M+ TEMATICOS ▶️",TeleToledo
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12688&live=1
@@ -1427,41 +1399,41 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 
 
 
-#EXTINF:-1 tvg-id="NICKELODEONHD" tvg-name="ONETORO HD" tvg-logo="https://i.postimg.cc/kgdmjBtV/red-bull-tv-1.png" group-title="M+ TEMATICOS ▶️", CALLE 13 
+#EXTINF:-1  group-title="M+ TEMATICOS ▶️", CALLE 13 
 http://tv.masterplaytv.club:8080/MaferCandia2022/c6e6b6f08f5e/8156
 
 
-#EXTINF:-1 tvg-id="NICKELODEONHD" tvg-name="ONETORO HD" tvg-logo="https://i.postimg.cc/kgdmjBtV/red-bull-tv-1.png" group-title="M+ TEMATICOS ▶️", CANAL DECASA 
+#EXTINF:-1  group-title="M+ TEMATICOS ▶️", CANAL DECASA 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/662014
 
 
-#EXTINF:-1 tvg-id="NICKELODEONHD" tvg-name="ONETORO HD" tvg-logo="https://i.postimg.cc/kgdmjBtV/red-bull-tv-1.png" group-title="M+ TEMATICOS ▶️", CANAL COCINA 
+#EXTINF:-1  group-title="M+ TEMATICOS ▶️", CANAL COCINA 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/662012
 
 
-#EXTINF:-1 tvg-id="NICKELODEONHD" tvg-name="ONETORO HD" tvg-logo="https://i.postimg.cc/kgdmjBtV/red-bull-tv-1.png" group-title="M+ TEMATICOS ▶️", DARK
+#EXTINF:-1  group-title="M+ TEMATICOS ▶️", DARK
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1054194
 
-#EXTINF:-1 tvg-id="NICKELODEONHD" tvg-name="ONETORO HD" tvg-logo="https://i.postimg.cc/kgdmjBtV/red-bull-tv-1.png" group-title="M+ TEMATICOS ▶️", AMC BREAK 
+#EXTINF:-1  group-title="M+ TEMATICOS ▶️", AMC BREAK 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1084110
 
-#EXTINF:-1 tvg-id="NICKELODEONHD" tvg-name="ONETORO HD" tvg-logo="https://i.postimg.cc/kgdmjBtV/red-bull-tv-1.png" group-title="M+ TEMATICOS ▶️", AMC CRIME 
+#EXTINF:-1  group-title="M+ TEMATICOS ▶️", AMC CRIME 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1029289
 
-#EXTINF:-1 tvg-id="NICKELODEONHD" tvg-name="ONETORO HD" tvg-logo="https://i.postimg.cc/kgdmjBtV/red-bull-tv-1.png" group-title="M+ TEMATICOS ▶️", AMC 
+#EXTINF:-1  group-title="M+ TEMATICOS ▶️", AMC 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/21340
 
 
 
-#EXTINF:-1 tvg-id="NICKELODEONHD" tvg-name="ONETORO HD" tvg-logo="https://i.postimg.cc/kgdmjBtV/red-bull-tv-1.png" group-title="M+ TEMATICOS ▶️", ENFAMILIA TV
+#EXTINF:-1  group-title="M+ TEMATICOS ▶️", ENFAMILIA TV
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1029280
 
-#EXTINF:-1 tvg-id="NICKELODEONHD" tvg-name="ONETORO HD" tvg-logo="https://i.postimg.cc/kgdmjBtV/red-bull-tv-1.png" group-title="M+ TEMATICOS ▶️", MEGA 
+#EXTINF:-1  group-title="M+ TEMATICOS ▶️", MEGA 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1061364
 
 
 
-#EXTINF:-1 tvg-id="NICKELODEONHD" tvg-name="ONETORO HD" tvg-logo="https://i.postimg.cc/kgdmjBtV/red-bull-tv-1.png" group-title="M+ TEMATICOS ▶️", TEN 
+#EXTINF:-1  group-title="M+ TEMATICOS ▶️", TEN 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/975893
 
 #EXTINF:-1 group-title="M+ TEMATICOS ▶️",Nat Geo Wild 

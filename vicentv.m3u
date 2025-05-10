@@ -1303,22 +1303,36 @@ http://tv.masterplaytv.club:8080/MaferCandia2022/c6e6b6f08f5e/8217
 https://fidel@telemadrid-23-secure2.akamaized.net/master.m3u8
 
 
-#EXTINF:-1 group-title="M+ TEMATICOS ▶️",La Otra
-https://laotra-1-23-secure2.akamaized.net/master.m3u8
+#EXTINF:-1 tvg-id="AragonTV.TV" tvg-logo="https://graph.facebook.com/AragonTV/picture?width=200&height=200"  group-title="M+ TEMATICOS ▶️",Aragón TV
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
 
 #EXTINF:-1 group-title="M+ TEMATICOS ▶️",Canal Sur Andalucía
 https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
 
 
+#EXTINF:-1 group-title="M+ TEMATICOS ▶️",Castilla-La Mancha Media
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_sqa9madm/protocol/https/format/applehttp/a.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="AragonTV.TV" tvg-logo="https://graph.facebook.com/AragonTV/picture?width=200&height=200"  group-title="M+ TEMATICOS ▶️",Aragón TV Noticias
+https://cartv-streaming.aranova.es/hls/live/anoticias_canal3.m3u8
+
+
+
+#EXTINF:-1 group-title="M+ TEMATICOS ▶️",La Otra
+https://laotra-1-23-secure2.akamaized.net/master.m3u8
+
+
+
+
 #EXTINF:-1 group-title="M+ TEMATICOS ▶️",Andalucía Cocina
 #EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
 https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
 
-
-#EXTINF:-1 group-title="M+ TEMATICOS ▶️",Castilla-La Mancha Media
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_sqa9madm/protocol/https/format/applehttp/a.m3u8
 
 
 #EXTINF:-1 group-title="M+ TEMATICOS ▶️",TeleToledo

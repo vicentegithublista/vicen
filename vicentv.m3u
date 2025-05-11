@@ -227,17 +227,17 @@ acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 
 
 
-#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",F.C Barcelona - Real Madrid⚽
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV⚽
 https://edge11.454917.ir.cdn.ir/hls2/laligatv.m3u8
 
-#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",F.C Barcelona - Real Madrid⚽
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",ESPN DEPORTES⚽
 http://190.92.10.66:4000/play/a003/index.m3u8
 
-#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",F.C Barcelona - Real Madrid⚽
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",VIM DEPORTES⚽
 http://45.68.35.218:4001/play/a01s/index.m3u8
 
 
-#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",F.C Barcelona - Real Madrid⚽
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",NOW SPORTS 2⚽
 https://x4-cdnnew.newkso.ru/x4-cdn/mono9/mono.m3u8
 
 
@@ -347,13 +347,8 @@ http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 
 
 
-#EXTINF:-1 tvg-id="DAZN 1" tvg-name="Dazn1 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/zGvbp2m2/red-bull-tv-4.png" group-title="DEPORTE",Dazn 1
+#EXTINF:-1, tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD"  group-title="DEPORTE",DAZN 1🏁🏍⚽
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/141393
-
-
-
-
-
 
 
 #EXTINF:-1, tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD"  group-title="DEPORTE",DAZN 1🏁🏍⚽
@@ -1108,20 +1103,24 @@ http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1052773
 
 
 
-#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="LA LIGA SATELITE" tvg-logo="https://i.postimg.cc/sDX70g7J/red-bull-tv-1.png" group-title="LA LIGA EA SPORT▶️",F.C Barcelona - Real Madrid⚽
+
+
+
+
+#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="LA LIGA SATELITE" tvg-logo="https://i.postimg.cc/sDX70g7J/red-bull-tv-1.png" group-title="LA LIGA EA SPORT▶️",M.LA LIGA TV⚽
 https://edge11.454917.ir.cdn.ir/hls2/laligatv.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="LA LIGA SATELITE" tvg-logo="https://i.postimg.cc/sDX70g7J/red-bull-tv-1.png" group-title="LA LIGA EA SPORT▶️",F.C Barcelona - Real Madrid⚽
+#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="LA LIGA SATELITE" tvg-logo="https://i.postimg.cc/sDX70g7J/red-bull-tv-1.png" group-title="LA LIGA EA SPORT▶️",ESPN DEPORTES⚽
 http://190.92.10.66:4000/play/a003/index.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="LA LIGA SATELITE" tvg-logo="https://i.postimg.cc/sDX70g7J/red-bull-tv-1.png" group-title="LA LIGA EA SPORT▶️",F.C Barcelona - Real Madrid⚽
+#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="LA LIGA SATELITE" tvg-logo="https://i.postimg.cc/sDX70g7J/red-bull-tv-1.png" group-title="LA LIGA EA SPORT▶️",VIM DEPORTES⚽
 http://45.68.35.218:4001/play/a01s/index.m3u8
 
 
@@ -1129,7 +1128,7 @@ http://45.68.35.218:4001/play/a01s/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="LA LIGA SATELITE" tvg-logo="https://i.postimg.cc/sDX70g7J/red-bull-tv-1.png" group-title="LA LIGA EA SPORT▶️",F.C Barcelona - Real Madrid⚽
+#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="LA LIGA SATELITE" tvg-logo="https://i.postimg.cc/sDX70g7J/red-bull-tv-1.png" group-title="LA LIGA EA SPORT▶️",NOW SPORTS 2⚽
 https://x4-cdnnew.newkso.ru/x4-cdn/mono9/mono.m3u8
 
 

@@ -185,9 +185,6 @@ acestream://51dbbfb42f8091e4ea7a2186b566a40e780953d9
 
 
 #EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV⚽
-acestream://94d34491106e00394835c8cb68aa94481339b53f
-
-#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV⚽
 http://127.0.0.1:6878/ace/getstream?id=d3de78aebe544611a2347f54d5796bd87f16c92d
 
 #EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV⚽
@@ -195,6 +192,9 @@ acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
 
 
 
+
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV⚽
+https://edge11.454917.ir.cdn.ir/hls2/laligatv.m3u8
 
 
 
@@ -224,14 +224,7 @@ http://127.0.0.1:6878/ace/getstream?id=d15a0eaf825b5f8f94259d5209688a7e97e6acde
 
 
 
-#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV⚽
-https://edge11.454917.ir.cdn.ir/hls2/laligatv.m3u8
 
-#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",ESPN DEPORTES⚽
-http://190.92.10.66:4000/play/a003/index.m3u8
-
-#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",VIX PREMIUM⚽
-http://45.68.35.218:4001/play/a01s/index.m3u8
 
 
 #EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",NOW SPORTS 2⚽
@@ -944,6 +937,40 @@ http://127.0.0.1:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",VIX PREMIUM⚽
+http://45.68.35.218:4001/play/a01s/index.m3u8
+
+
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",ESPN DEPORTES⚽
+http://190.92.10.66:4000/play/a003/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,ESPN🏆
 http://127.0.0.1:6878/ace/getstream?id=4b4907de51ec11087d4bed5876f2a0c68264f442
 
@@ -1104,30 +1131,6 @@ http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1052773
 
 
 
-#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="LA LIGA SATELITE" tvg-logo="https://i.postimg.cc/sDX70g7J/red-bull-tv-1.png" group-title="LA LIGA EA SPORT▶️",M.LA LIGA TV⚽
-https://edge11.454917.ir.cdn.ir/hls2/laligatv.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="LA LIGA SATELITE" tvg-logo="https://i.postimg.cc/sDX70g7J/red-bull-tv-1.png" group-title="LA LIGA EA SPORT▶️",ESPN DEPORTES⚽
-http://190.92.10.66:4000/play/a003/index.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="LA LIGA SATELITE" tvg-logo="https://i.postimg.cc/sDX70g7J/red-bull-tv-1.png" group-title="LA LIGA EA SPORT▶️",VIX PREMIUM ⚽
-http://45.68.35.218:4001/play/a01s/index.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="LA LIGA SATELITE" tvg-logo="https://i.postimg.cc/sDX70g7J/red-bull-tv-1.png" group-title="LA LIGA EA SPORT▶️",NOW SPORTS 2⚽
-https://x4-cdnnew.newkso.ru/x4-cdn/mono9/mono.m3u8
-
 
 
 
@@ -1143,6 +1146,33 @@ http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1027110
 
 #EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="LA LIGA SAT 2" tvg-logo="https://i.postimg.cc/sDX70g7J/red-bull-tv-1.png" group-title="LA LIGA EA SPORT▶️",LA LIGA TV
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1027111
+
+
+
+#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="LA LIGA SATELITE" tvg-logo="https://i.postimg.cc/sDX70g7J/red-bull-tv-1.png" group-title="LA LIGA EA SPORT▶️",M.LA LIGA TV
+https://edge11.454917.ir.cdn.ir/hls2/laligatv.m3u8
+
+
+
+#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="LA LIGA SATELITE" tvg-logo="https://i.postimg.cc/sDX70g7J/red-bull-tv-1.png" group-title="LA LIGA EA SPORT▶️",ESPN DEPORTES
+http://190.92.10.66:4000/play/a003/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="LA LIGA SATELITE" tvg-logo="https://i.postimg.cc/sDX70g7J/red-bull-tv-1.png" group-title="LA LIGA EA SPORT▶️",VIX PREMIUM 
+http://45.68.35.218:4001/play/a01s/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="LA LIGA SATELITE" tvg-logo="https://i.postimg.cc/sDX70g7J/red-bull-tv-1.png" group-title="LA LIGA EA SPORT▶️",NOW SPORTS 2
+https://x4-cdnnew.newkso.ru/x4-cdn/mono9/mono.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="LA LIGA SATELITE" tvg-logo="https://i.postimg.cc/sDX70g7J/red-bull-tv-1.png" group-title="LA LIGA EA SPORT▶️",LALIGA REPLAY 1 UHD

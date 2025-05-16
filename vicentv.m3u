@@ -363,9 +363,8 @@ http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 
 
 
-
-
-
+#EXTINF:-1, tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD"  group-title="DEPORTE",DAZN 1🏁🏍⚽
+http://167.114.169.230:8081/app/org3/playlist.m3u8
 
 
 #EXTINF:-1, tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD"  group-title="DEPORTE",DAZN 1🏁🏍⚽
@@ -569,8 +568,8 @@ http://127.0.0.1:6878/ace/getstream?id=7993cecc31917793e2bfa2fe98faa9fe1ab62d47&
 
 
 
-
-
+#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",ONE Golf🏆
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
 
 

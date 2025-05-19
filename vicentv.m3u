@@ -1387,15 +1387,10 @@ https://fidel@rtv-murcia-live.globalmest.com/principal/smil:principal.smil/chunk
 #EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="TEMATICOS ▶️",Telemadrid
 https://fidel@telemadrid-23-secure2.akamaized.net/master.m3u8
 
-#EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="TEMATICOS ▶️",Telemadrid
+
+
+#EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="TEMATICOS ▶️",ARAGON TV
 https://fidel@cartv-streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-
-
-#EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="TEMATICOS ▶️",Telemadrid
-https://fidel@cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_sqa9madm/protocol/https/format/applehttp/a.m3u8
-
-
-
 
 
 
@@ -1406,6 +1401,13 @@ https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af54
 #EXTINF:-1 group-title="TEMATICOS ▶️",Castilla-La Mancha Media
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_sqa9madm/protocol/https/format/applehttp/a.m3u8
+
+
+#EXTINF:-1 group-title="TEMATICOS ▶️",Castilla-La Mancha Media
+https://fidel@cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_sqa9madm/protocol/https/format/applehttp/a.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="APUNT.TV" tvg-logo="https://graph.facebook.com/apuntmedia/picture?width=200&height=200" group-title="TEMATICOS ▶️",À Punt
 https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/playlist_dvr.m3u8

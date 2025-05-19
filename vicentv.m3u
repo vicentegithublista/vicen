@@ -1381,8 +1381,7 @@ https://fidel@telemadrid-23-secure2.akamaized.net/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="TEMATICOS ▶️",Telemadrid
-https://fidel@rtv-murcia-live.globalmest.com/principal/smil:principal.smil/chunklist_w598518571_b3300000.m3u8
+
 
 #EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="TEMATICOS ▶️",Telemadrid
 https://fidel@telemadrid-23-secure2.akamaized.net/master.m3u8
@@ -1406,7 +1405,8 @@ https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_sqa9
 #EXTINF:-1 group-title="TEMATICOS ▶️",Castilla-La Mancha Media
 https://fidel@cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_sqa9madm/protocol/https/format/applehttp/a.m3u8
 
-
+#EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="TEMATICOS ▶️",LA 7
+https://fidel@rtv-murcia-live.globalmest.com/principal/smil:principal.smil/chunklist_w598518571_b3300000.m3u8
 
 
 #EXTINF:-1 tvg-id="APUNT.TV" tvg-logo="https://graph.facebook.com/apuntmedia/picture?width=200&height=200" group-title="TEMATICOS ▶️",À Punt

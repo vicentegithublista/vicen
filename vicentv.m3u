@@ -1368,15 +1368,15 @@ http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1140873
 
 
 
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20241030T140445SQUARE.png"  group-title="TEMATICOS ▶️", La 1
+https://jmp2.uk/sam-ESBC4100001NZ.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100002AG_20241022T050543SQUARE.png"  group-title="TEMATICOS ▶️", La 2
+https://jmp2.uk/sam-ESBC4100002AG.m3u8
 
 
 #EXTINF:-1 group-title="TEMATICOS ▶️",ONETORO
 http://tv.masterplaytv.club:8080/MaferCandia2022/c6e6b6f08f5e/8217
-
-
 
 #EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="TEMATICOS ▶️",Telemadrid
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
@@ -1384,17 +1384,14 @@ https://telemadrid-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="TEMATICOS ▶️",Telemadrid
 https://fidel@telemadrid-23-secure2.akamaized.net/master.m3u8
 
-
-
-
-
 #EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="TEMATICOS ▶️",Telemadrid
 https://fidel@telemadrid-23-secure2.akamaized.net/master.m3u8
 
-
-
 #EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="TEMATICOS ▶️",ARAGON TV
 https://fidel@cartv-streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3000002GP_20241022T050505SQUARE.png"  group-title="TEMATICOS ▶️", Canal Sur Andalucía
+https://jmp2.uk/sam-ESBD3000002GP.m3u8
 
 
 
@@ -1406,45 +1403,28 @@ https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af54
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_sqa9madm/protocol/https/format/applehttp/a.m3u8
 
-
 #EXTINF:-1 group-title="TEMATICOS ▶️",Castilla-La Mancha Media
 https://fidel@cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_sqa9madm/protocol/https/format/applehttp/a.m3u8
 
 #EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="TEMATICOS ▶️",LA 7
 https://fidel@rtv-murcia-live.globalmest.com/principal/smil:principal.smil/chunklist_w598518571_b3300000.m3u8
 
-
 #EXTINF:-1 tvg-id="APUNT.TV" tvg-logo="https://graph.facebook.com/apuntmedia/picture?width=200&height=200" group-title="TEMATICOS ▶️",À Punt
 https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/playlist_dvr.m3u8
-
-
-
-
 
 #EXTINF:-1 group-title="TEMATICOS ▶️",Andalucía Cocina
 #EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
 https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
 
-
-
 #EXTINF:-1 group-title="TEMATICOS ▶️",TeleToledo
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12688&live=1
-
-
-
 
 #EXTINF:-1 group-title="TEMATICOS ▶️",PTV Linares
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://streamer.zapitv.com/ptv-linarez/index.m3u8
 
-
-
-
 #EXTINF:-1 group-title="TEMATICOS ▶️",Marbella TV
 https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8
-
-
-
 
 #EXTINF:-1 group-title="TEMATICOS ▶️",Exitosa Noticias Perú
 https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/index.fmp4.m3u8
@@ -1473,21 +1453,14 @@ https://media.streambrothers.com:19360/8158/8158.m3u8
 #EXTINF:-1 group-title="TEMATICOS ▶️",TV5Monde Francia FR
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 
-
-
-
-
 #EXTINF:-1  group-title="TEMATICOS ▶️", CALLE 13 
 http://tv.masterplaytv.club:8080/MaferCandia2022/c6e6b6f08f5e/8156
-
 
 #EXTINF:-1  group-title="TEMATICOS ▶️", CANAL DECASA 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/662014
 
-
 #EXTINF:-1  group-title="TEMATICOS ▶️", CANAL COCINA 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/662012
-
 
 #EXTINF:-1  group-title="TEMATICOS ▶️", DARK
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1054194
@@ -1501,15 +1474,11 @@ http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1029289
 #EXTINF:-1  group-title="TEMATICOS ▶️", AMC 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/21340
 
-
-
 #EXTINF:-1  group-title="TEMATICOS ▶️", ENFAMILIA TV
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1029280
 
 #EXTINF:-1  group-title="TEMATICOS ▶️", MEGA 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1061364
-
-
 
 #EXTINF:-1  group-title="TEMATICOS ▶️", TEN 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/975893
@@ -1519,461 +1488,562 @@ http://tv.masterplaytv.club:8080/MaferCandia2022/c6e6b6f08f5e/8218
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="619b7db4872c650008eb8b6a" tvg-name="  Pluto TV Star Trek" tvg-logo="https://images.pluto.tv/channels/619b7db4872c650008eb8b6a/colorLogoPNG.png" group-title="PLUTO TV▶️",  Pluto TV Star Trek
+#EXTINF:-1 tvg-id="619b7db4872c650008eb8b6a" tvg-name="  Pluto TV Star Trek" tvg-logo="https://images.pluto.tv/channels/619b7db4872c650008eb8b6a/colorLogoPNG.png" group-title="TEMATICOS ▶️",  Pluto TV Star Trek
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363630
-#EXTINF:-1 tvg-id="60d3574e97f10800078455de" tvg-name="  Doctor Who" tvg-logo="https://images.pluto.tv/channels/60d3574e97f10800078455de/colorLogoPNG.png" group-title="PLUTO TV▶️",  Doctor Who
+
+#EXTINF:-1 tvg-id="60d3574e97f10800078455de" tvg-name="  Doctor Who" tvg-logo="https://images.pluto.tv/channels/60d3574e97f10800078455de/colorLogoPNG.png" group-title="TEMATICOS ▶️",  Doctor Who
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363631
-#EXTINF:-1 tvg-id="60b4c06717da110007ee1af6" tvg-name="  Pluto TV Telenovelas" tvg-logo="https://images.pluto.tv/channels/60b4c06717da110007ee1af6/colorLogoPNG.png" group-title="PLUTO TV▶️",  Pluto TV Telenovelas
+
+#EXTINF:-1 tvg-id="60b4c06717da110007ee1af6" tvg-name="  Pluto TV Telenovelas" tvg-logo="https://images.pluto.tv/channels/60b4c06717da110007ee1af6/colorLogoPNG.png" group-title="TEMATICOS ▶️",  Pluto TV Telenovelas
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363636
-#EXTINF:-1 tvg-id="60dafb9a0df1ba000758d37b" tvg-name="  BBC Drama" tvg-logo="https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/colorLogoPNG.png" group-title="PLUTO TV▶️",  BBC Drama
+
+#EXTINF:-1 tvg-id="60dafb9a0df1ba000758d37b" tvg-name="  BBC Drama" tvg-logo="https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/colorLogoPNG.png" group-title="TEMATICOS ▶️",  BBC Drama
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363637
-#EXTINF:-1 tvg-id="5f1acc3e061597000768d4ea" tvg-name="  Andrómeda" tvg-logo="https://images.pluto.tv/channels/5f1acc3e061597000768d4ea/colorLogoPNG.png" group-title="PLUTO TV▶️",  Andrómeda
+
+#EXTINF:-1 tvg-id="5f1acc3e061597000768d4ea" tvg-name="  Andrómeda" tvg-logo="https://images.pluto.tv/channels/5f1acc3e061597000768d4ea/colorLogoPNG.png" group-title="TEMATICOS ▶️",  Andrómeda
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363638
-#EXTINF:-1 tvg-id="5f9853138d19af0007104a8d" tvg-name="  Pluto TV Series Comedia" tvg-logo="https://images.pluto.tv/channels/5f9853138d19af0007104a8d/colorLogoPNG.png" group-title="PLUTO TV▶️",  Pluto TV Series Comedia
+
+#EXTINF:-1 tvg-id="5f9853138d19af0007104a8d" tvg-name="  Pluto TV Series Comedia" tvg-logo="https://images.pluto.tv/channels/5f9853138d19af0007104a8d/colorLogoPNG.png" group-title="TEMATICOS ▶️",  Pluto TV Series Comedia
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363640
-#EXTINF:-1 tvg-id="5f1ac8f49205650007bc15f1" tvg-name="  Pluto TV Series" tvg-logo="https://images.pluto.tv/channels/5f1ac8f49205650007bc15f1/colorLogoPNG.png" group-title="PLUTO TV▶️",  Pluto TV Series
+
+#EXTINF:-1 tvg-id="5f1ac8f49205650007bc15f1" tvg-name="  Pluto TV Series" tvg-logo="https://images.pluto.tv/channels/5f1ac8f49205650007bc15f1/colorLogoPNG.png" group-title="TEMATICOS ▶️",  Pluto TV Series
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363642
-#EXTINF:-1 tvg-id="5f1acb4eebe0f0000767b40f" tvg-name="  Las reglas del juego" tvg-logo="https://images.pluto.tv/channels/5f1acb4eebe0f0000767b40f/colorLogoPNG.png" group-title="PLUTO TV▶️",  Las reglas del juego
+
+#EXTINF:-1 tvg-id="5f1acb4eebe0f0000767b40f" tvg-name="  Las reglas del juego" tvg-logo="https://images.pluto.tv/channels/5f1acb4eebe0f0000767b40f/colorLogoPNG.png" group-title="TEMATICOS ▶️",  Las reglas del juego
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363643
-#EXTINF:-1 tvg-id="5f1ac2591dd8880007bb7d6d" tvg-name="  Pluto TV Cine Acción" tvg-logo="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG.png" group-title="PLUTO TV▶️",  Pluto TV Cine Acción
+
+#EXTINF:-1 tvg-id="5f1ac2591dd8880007bb7d6d" tvg-name="  Pluto TV Cine Acción" tvg-logo="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG.png" group-title="TEMATICOS ▶️",  Pluto TV Cine Acción
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363645
-#EXTINF:-1 tvg-id="6267d4d1fb694f0007a6af0e" tvg-name="  Pluto TV Horror" tvg-logo="https://images.pluto.tv/channels/6267d4d1fb694f0007a6af0e/colorLogoPNG.png" group-title="PLUTO TV▶️",  Pluto TV Horror
+
+#EXTINF:-1 tvg-id="6267d4d1fb694f0007a6af0e" tvg-name="  Pluto TV Horror" tvg-logo="https://images.pluto.tv/channels/6267d4d1fb694f0007a6af0e/colorLogoPNG.png" group-title="TEMATICOS ▶️",  Pluto TV Horror
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363646
-#EXTINF:-1 tvg-id="5f6a38eaa5b68b0007a00e7a" tvg-name="  Pluto TV Sci-Fi" tvg-logo="https://images.pluto.tv/channels/5f6a38eaa5b68b0007a00e7a/colorLogoPNG.png" group-title="PLUTO TV▶️",  Pluto TV Sci-Fi
+
+#EXTINF:-1 tvg-id="5f6a38eaa5b68b0007a00e7a" tvg-name="  Pluto TV Sci-Fi" tvg-logo="https://images.pluto.tv/channels/5f6a38eaa5b68b0007a00e7a/colorLogoPNG.png" group-title="TEMATICOS ▶️",  Pluto TV Sci-Fi
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363647
-#EXTINF:-1 tvg-id="5f1ac8099c49f600076579b2" tvg-name="  Pluto TV Cine Comedia" tvg-logo="https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/colorLogoPNG.png" group-title="PLUTO TV▶️",  Pluto TV Cine Comedia
+
+#EXTINF:-1 tvg-id="5f1ac8099c49f600076579b2" tvg-name="  Pluto TV Cine Comedia" tvg-logo="https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/colorLogoPNG.png" group-title="TEMATICOS ▶️",  Pluto TV Cine Comedia
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363648
-#EXTINF:-1 tvg-id="5f1ac9a2d3611d0007a844bb" tvg-name="  Pluto TV Cine Romántico" tvg-logo="https://images.pluto.tv/channels/5f1ac9a2d3611d0007a844bb/colorLogoPNG.png" group-title="PLUTO TV▶️",  Pluto TV Cine Romántico
+
+#EXTINF:-1 tvg-id="5f1ac9a2d3611d0007a844bb" tvg-name="  Pluto TV Cine Romántico" tvg-logo="https://images.pluto.tv/channels/5f1ac9a2d3611d0007a844bb/colorLogoPNG.png" group-title="TEMATICOS ▶️",  Pluto TV Cine Romántico
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363650
-#EXTINF:-1 tvg-id="5f1ac8a87cd38d000745d7cf" tvg-name="  Pluto TV Thrillers" tvg-logo="https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png" group-title="PLUTO TV▶️",  Pluto TV Thrillers
+
+#EXTINF:-1 tvg-id="5f1ac8a87cd38d000745d7cf" tvg-name="  Pluto TV Thrillers" tvg-logo="https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png" group-title="TEMATICOS ▶️",  Pluto TV Thrillers
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363651
-#EXTINF:-1 tvg-id="5f1ac947dcd00d0007937c08" tvg-name="  Pluto TV Cine Drama" tvg-logo="https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/colorLogoPNG.png" group-title="PLUTO TV▶️",  Pluto TV Cine Drama
+
+#EXTINF:-1 tvg-id="5f1ac947dcd00d0007937c08" tvg-name="  Pluto TV Cine Drama" tvg-logo="https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/colorLogoPNG.png" group-title="TEMATICOS ▶️",  Pluto TV Cine Drama
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363652
-#EXTINF:-1 tvg-id="61373bb45168fe000773eecd" tvg-name="  Pluto TV Cine Clásico" tvg-logo="https://images.pluto.tv/channels/61373bb45168fe000773eecd/colorLogoPNG.png" group-title="PLUTO TV▶️",  Pluto TV Cine Clásico
+
+#EXTINF:-1 tvg-id="61373bb45168fe000773eecd" tvg-name="  Pluto TV Cine Clásico" tvg-logo="https://images.pluto.tv/channels/61373bb45168fe000773eecd/colorLogoPNG.png" group-title="TEMATICOS ▶️",  Pluto TV Cine Clásico
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363654
-#EXTINF:-1 tvg-id="6086d3f420fc8500075f8dbf" tvg-name="  Runtime" tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="PLUTO TV▶️",  Runtime
+
+#EXTINF:-1 tvg-id="6086d3f420fc8500075f8dbf" tvg-name="  Runtime" tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="TEMATICOS ▶️",  Runtime
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363656
-#EXTINF:-1 tvg-id="5f984f4a09e92d0007d74647" tvg-name="  Archivos Forenses" tvg-logo="https://images.pluto.tv/channels/5f984f4a09e92d0007d74647/colorLogoPNG.png" group-title="PLUTO TV▶️",  Archivos Forenses
+
+#EXTINF:-1 tvg-id="5f984f4a09e92d0007d74647" tvg-name="  Archivos Forenses" tvg-logo="https://images.pluto.tv/channels/5f984f4a09e92d0007d74647/colorLogoPNG.png" group-title="TEMATICOS ▶️",  Archivos Forenses
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363657
-#EXTINF:-1 tvg-id="5f1acba0d1f6340007db8843" tvg-name="  Los nuevos detectives" tvg-logo="https://images.pluto.tv/channels/5f1acba0d1f6340007db8843/colorLogoPNG.png" group-title="PLUTO TV▶️",  Los nuevos detectives
+
+#EXTINF:-1 tvg-id="5f1acba0d1f6340007db8843" tvg-name="  Los nuevos detectives" tvg-logo="https://images.pluto.tv/channels/5f1acba0d1f6340007db8843/colorLogoPNG.png" group-title="TEMATICOS ▶️",  Los nuevos detectives
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363660
-#EXTINF:-1 tvg-id="5f1acbed25948a0007ffbe65" tvg-name="  Los archivos del FBI" tvg-logo="https://images.pluto.tv/channels/5f1acbed25948a0007ffbe65/colorLogoPNG.png" group-title="PLUTO TV▶️",  Los archivos del FBI
+
+#EXTINF:-1 tvg-id="5f1acbed25948a0007ffbe65" tvg-name="  Los archivos del FBI" tvg-logo="https://images.pluto.tv/channels/5f1acbed25948a0007ffbe65/colorLogoPNG.png" group-title="TEMATICOS ▶️",  Los archivos del FBI
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363661
-#EXTINF:-1 tvg-id="612ce5214bb5790007ad3016" tvg-name="  Pluto TV Paranormal" tvg-logo="https://images.pluto.tv/channels/612ce5214bb5790007ad3016/colorLogoPNG.png" group-title="PLUTO TV▶️",  Pluto TV Paranormal
+
+#EXTINF:-1 tvg-id="612ce5214bb5790007ad3016" tvg-name="  Pluto TV Paranormal" tvg-logo="https://images.pluto.tv/channels/612ce5214bb5790007ad3016/colorLogoPNG.png" group-title="TEMATICOS ▶️",  Pluto TV Paranormal
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363662
-#EXTINF:-1 tvg-id="60c343007bcabe0007242aa6" tvg-name="  El Comisario" tvg-logo="https://images.pluto.tv/channels/60c343007bcabe0007242aa6/colorLogoPNG.png" group-title="PLUTO TV▶️",  El Comisario
+
+#EXTINF:-1 tvg-id="60c343007bcabe0007242aa6" tvg-name="  El Comisario" tvg-logo="https://images.pluto.tv/channels/60c343007bcabe0007242aa6/colorLogoPNG.png" group-title="TEMATICOS ▶️",  El Comisario
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363666
-#EXTINF:-1 tvg-id="5f1acce7f17797000718f9be" tvg-name="  Ana y los 7" tvg-logo="https://images.pluto.tv/channels/5f1acce7f17797000718f9be/colorLogoPNG.png" group-title="PLUTO TV▶️",  Ana y los 7
+
+#EXTINF:-1 tvg-id="5f1acce7f17797000718f9be" tvg-name="  Ana y los 7" tvg-logo="https://images.pluto.tv/channels/5f1acce7f17797000718f9be/colorLogoPNG.png" group-title="TEMATICOS ▶️",  Ana y los 7
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363668
-#EXTINF:-1 tvg-id="5f1acd36779de70007a680d1" tvg-name="  Curro Jiménez" tvg-logo="https://images.pluto.tv/channels/5f1acd36779de70007a680d1/colorLogoPNG.png" group-title="PLUTO TV▶️",  Curro Jiménez
+
+#EXTINF:-1 tvg-id="5f1acd36779de70007a680d1" tvg-name="  Curro Jiménez" tvg-logo="https://images.pluto.tv/channels/5f1acd36779de70007a680d1/colorLogoPNG.png" group-title="TEMATICOS ▶️",  Curro Jiménez
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363670
-#EXTINF:-1 tvg-id="5f28009b150b2500077766b8" tvg-name="  Vaya semanita" tvg-logo="https://images.pluto.tv/channels/5f28009b150b2500077766b8/colorLogoPNG.png" group-title="PLUTO TV▶️",  Vaya semanita
+
+#EXTINF:-1 tvg-id="5f28009b150b2500077766b8" tvg-name="  Vaya semanita" tvg-logo="https://images.pluto.tv/channels/5f28009b150b2500077766b8/colorLogoPNG.png" group-title="TEMATICOS ▶️",  Vaya semanita
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363671
-#EXTINF:-1 tvg-id="622f42b831233300078658cc" tvg-name="  Ciudadanos por el mundo" tvg-logo="https://images.pluto.tv/channels/622f42b831233300078658cc/colorLogoPNG.png" group-title="PLUTO TV▶️",  Ciudadanos por el mundo
+
+#EXTINF:-1 tvg-id="622f42b831233300078658cc" tvg-name="  Ciudadanos por el mundo" tvg-logo="https://images.pluto.tv/channels/622f42b831233300078658cc/colorLogoPNG.png" group-title="TEMATICOS ▶️",  Ciudadanos por el mundo
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363673
-#EXTINF:-1 tvg-id="61922be835f3910007fc58f6" tvg-name="  En el punto de mira" tvg-logo="https://images.pluto.tv/channels/61922be835f3910007fc58f6/colorLogoPNG.png" group-title="PLUTO TV▶️",  En el punto de mira
+
+#EXTINF:-1 tvg-id="61922be835f3910007fc58f6" tvg-name="  En el punto de mira" tvg-logo="https://images.pluto.tv/channels/61922be835f3910007fc58f6/colorLogoPNG.png" group-title="TEMATICOS ▶️",  En el punto de mira
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363674
-#EXTINF:-1 tvg-id="60218baa464ef900073168c1" tvg-name="  Empeños a lo bestia" tvg-logo="https://images.pluto.tv/channels/60218baa464ef900073168c1/colorLogoPNG.png" group-title="PLUTO TV▶️",  Empeños a lo bestia
+
+#EXTINF:-1 tvg-id="60218baa464ef900073168c1" tvg-name="  Empeños a lo bestia" tvg-logo="https://images.pluto.tv/channels/60218baa464ef900073168c1/colorLogoPNG.png" group-title="TEMATICOS ▶️",  Empeños a lo bestia
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363675
-#EXTINF:-1 tvg-id="61b9edc4a4ca6100070bb407" tvg-name="  Ice Pilots" tvg-logo="https://images.pluto.tv/channels/61b9edc4a4ca6100070bb407/colorLogoPNG.png" group-title="PLUTO TV▶️",  Ice Pilots
+
+#EXTINF:-1 tvg-id="61b9edc4a4ca6100070bb407" tvg-name="  Ice Pilots" tvg-logo="https://images.pluto.tv/channels/61b9edc4a4ca6100070bb407/colorLogoPNG.png" group-title="TEMATICOS ▶️",  Ice Pilots
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363676
-#EXTINF:-1 tvg-id="60e45687313c5f0007bc8e94" tvg-name="  El encantador de perros" tvg-logo="https://images.pluto.tv/channels/60e45687313c5f0007bc8e94/colorLogoPNG.png" group-title="PLUTO TV▶️",  El encantador de perros
+
+#EXTINF:-1 tvg-id="60e45687313c5f0007bc8e94" tvg-name="  El encantador de perros" tvg-logo="https://images.pluto.tv/channels/60e45687313c5f0007bc8e94/colorLogoPNG.png" group-title="TEMATICOS ▶️",  El encantador de perros
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363679
-#EXTINF:-1 tvg-id="5f1acdaa8ba90f0007d5e760" tvg-name="  Pluto TV Cocina" tvg-logo="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png" group-title="PLUTO TV▶️",  Pluto TV Cocina
+
+#EXTINF:-1 tvg-id="5f1acdaa8ba90f0007d5e760" tvg-name="  Pluto TV Cocina" tvg-logo="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png" group-title="TEMATICOS ▶️",  Pluto TV Cocina
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363680
-#EXTINF:-1 tvg-id="600ae6a78d801e0007117d21" tvg-name="  Pluto TV Animales" tvg-logo="https://images.pluto.tv/channels/600ae6a78d801e0007117d21/colorLogoPNG.png" group-title="PLUTO TV▶️",  Pluto TV Animales
+
+#EXTINF:-1 tvg-id="600ae6a78d801e0007117d21" tvg-name="  Pluto TV Animales" tvg-logo="https://images.pluto.tv/channels/600ae6a78d801e0007117d21/colorLogoPNG.png" group-title="TEMATICOS ▶️",  Pluto TV Animales
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363687
-#EXTINF:-1 tvg-id="60d356a534f63f000850cdd7" tvg-name="  Top Gear" tvg-logo="https://images.pluto.tv/channels/60d356a534f63f000850cdd7/colorLogoPNG.png" group-title="PLUTO TV▶️",  Top Gear
+
+#EXTINF:-1 tvg-id="60d356a534f63f000850cdd7" tvg-name="  Top Gear" tvg-logo="https://images.pluto.tv/channels/60d356a534f63f000850cdd7/colorLogoPNG.png" group-title="TEMATICOS ▶️",  Top Gear
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363688
-#EXTINF:-1 tvg-id="6080345ebb49b90007ce0baf" tvg-name="  Pluto TV Motor" tvg-logo="https://images.pluto.tv/channels/6080345ebb49b90007ce0baf/colorLogoPNG.png" group-title="PLUTO TV▶️",  Pluto TV Motor
+
+#EXTINF:-1 tvg-id="6080345ebb49b90007ce0baf" tvg-name="  Pluto TV Motor" tvg-logo="https://images.pluto.tv/channels/6080345ebb49b90007ce0baf/colorLogoPNG.png" group-title="TEMATICOS ▶️",  Pluto TV Motor
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363689
-#EXTINF:-1 tvg-id="6076c74daa05ac0007d0eb07" tvg-name="  Tuning" tvg-logo="https://images.pluto.tv/channels/6076c74daa05ac0007d0eb07/colorLogoPNG.png" group-title="PLUTO TV▶️",  Tuning
+
+#EXTINF:-1 tvg-id="6076c74daa05ac0007d0eb07" tvg-name="  Tuning" tvg-logo="https://images.pluto.tv/channels/6076c74daa05ac0007d0eb07/colorLogoPNG.png" group-title="TEMATICOS ▶️",  Tuning
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363690
-#EXTINF:-1 tvg-name="  FUEL TV" tvg-logo="https://images.pluto.tv/channels/60f1673d0e4370000784dc61/colorLogoPNG.png" group-title="PLUTO TV▶️",  FUEL TV
+#EXTINF:-1 tvg-name="  FUEL TV" tvg-logo="https://images.pluto.tv/channels/60f1673d0e4370000784dc61/colorLogoPNG.png" group-title="TEMATICOS ▶️",  FUEL TV
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363691
-#EXTINF:-1 tvg-id="6080381ab7c9ea00074ec64c" tvg-name="  World Poker Tour" tvg-logo="https://images.pluto.tv/channels/6080381ab7c9ea00074ec64c/colorLogoPNG.png" group-title="PLUTO TV▶️",  World Poker Tour
+
+#EXTINF:-1 tvg-id="6080381ab7c9ea00074ec64c" tvg-name="  World Poker Tour" tvg-logo="https://images.pluto.tv/channels/6080381ab7c9ea00074ec64c/colorLogoPNG.png" group-title="TEMATICOS ▶️",  World Poker Tour
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363695
-#EXTINF:-1 tvg-id="5f1ab3c7778230000735cf41" tvg-name="  MTV Catfish TV Show" tvg-logo="https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png" group-title="PLUTO TV▶️",  MTV Catfish TV Show
+
+#EXTINF:-1 tvg-id="5f1ab3c7778230000735cf41" tvg-name="  MTV Catfish TV Show" tvg-logo="https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png" group-title="TEMATICOS ▶️",  MTV Catfish TV Show
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363697
-#EXTINF:-1 tvg-id="6130d8dc943001000708548d" tvg-name="  MTV Realities" tvg-logo="https://images.pluto.tv/channels/6130d8dc943001000708548d/colorLogoPNG.png" group-title="PLUTO TV▶️",  MTV Realities
+
+#EXTINF:-1 tvg-id="6130d8dc943001000708548d" tvg-name="  MTV Realities" tvg-logo="https://images.pluto.tv/channels/6130d8dc943001000708548d/colorLogoPNG.png" group-title="TEMATICOS ▶️",  MTV Realities
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363700
-#EXTINF:-1 tvg-id="5f1aadf373bed3000794d1d7" tvg-name="  MTV Originals" tvg-logo="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png" group-title="PLUTO TV▶️",  MTV Originals
+
+#EXTINF:-1 tvg-id="5f1aadf373bed3000794d1d7" tvg-name="  MTV Originals" tvg-logo="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png" group-title="TEMATICOS ▶️",  MTV Originals
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363701
-#EXTINF:-1 tvg-id="604f81a49ef73300070e554f" tvg-name="  MTV Teen Mom" tvg-logo="https://images.pluto.tv/channels/604f81a49ef73300070e554f/colorLogoPNG.png" group-title="PLUTO TV▶️",  MTV Teen Mom
+
+#EXTINF:-1 tvg-id="604f81a49ef73300070e554f" tvg-name="  MTV Teen Mom" tvg-logo="https://images.pluto.tv/channels/604f81a49ef73300070e554f/colorLogoPNG.png" group-title="TEMATICOS ▶️",  MTV Teen Mom
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363702
-#EXTINF:-1 tvg-id="5f98537a5a4341000733aefe" tvg-name="  MTV Embarazada a los 16" tvg-logo="https://images.pluto.tv/channels/5f98537a5a4341000733aefe/colorLogoPNG.png" group-title="PLUTO TV▶️",  MTV Embarazada a los 16
+
+#EXTINF:-1 tvg-id="5f98537a5a4341000733aefe" tvg-name="  MTV Embarazada a los 16" tvg-logo="https://images.pluto.tv/channels/5f98537a5a4341000733aefe/colorLogoPNG.png" group-title="TEMATICOS ▶️",  MTV Embarazada a los 16
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363703
-#EXTINF:-1 tvg-id="611b87946b7f420007c22361" tvg-name="  MTV Tattoo a dos" tvg-logo="https://images.pluto.tv/channels/611b87946b7f420007c22361/colorLogoPNG.png" group-title="PLUTO TV▶️",  MTV Tattoo a dos
+
+#EXTINF:-1 tvg-id="611b87946b7f420007c22361" tvg-name="  MTV Tattoo a dos" tvg-logo="https://images.pluto.tv/channels/611b87946b7f420007c22361/colorLogoPNG.png" group-title="TEMATICOS ▶️",  MTV Tattoo a dos
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363704
-#EXTINF:-1 tvg-id="6076cd1df8576d0007c82193" tvg-name="  VH1 Classics" tvg-logo="https://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" group-title="PLUTO TV▶️",  VH1 Classics
+
+#EXTINF:-1 tvg-id="6076cd1df8576d0007c82193" tvg-name="  VH1 Classics" tvg-logo="https://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" group-title="TEMATICOS ▶️",  VH1 Classics
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363706
-#EXTINF:-1 tvg-id="60a26a056d55b30007918d5a" tvg-name="  MTV Music Made in Spain" tvg-logo="https://images.pluto.tv/channels/60a26a056d55b30007918d5a/colorLogoPNG.png" group-title="PLUTO TV▶️",  MTV Music Made in Spain
+
+#EXTINF:-1 tvg-id="60a26a056d55b30007918d5a" tvg-name="  MTV Music Made in Spain" tvg-logo="https://images.pluto.tv/channels/60a26a056d55b30007918d5a/colorLogoPNG.png" group-title="TEMATICOS ▶️",  MTV Music Made in Spain
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363707
-#EXTINF:-1 tvg-id="61ea759737679900078ff559" tvg-name="  MTV Party Music" tvg-logo="https://images.pluto.tv/channels/61ea759737679900078ff559/colorLogoPNG.png" group-title="PLUTO TV▶️",  MTV Party Music
+
+#EXTINF:-1 tvg-id="61ea759737679900078ff559" tvg-name="  MTV Party Music" tvg-logo="https://images.pluto.tv/channels/61ea759737679900078ff559/colorLogoPNG.png" group-title="TEMATICOS ▶️",  MTV Party Music
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363708
-#EXTINF:-1 tvg-id="60d3583ef310610007fb02b1" tvg-name="  Euronews" tvg-logo="https://images.pluto.tv/channels/60d3583ef310610007fb02b1/colorLogoPNG.png" group-title="PLUTO TV▶️",  Euronews
+
+#EXTINF:-1 tvg-id="60d3583ef310610007fb02b1" tvg-name="  Euronews" tvg-logo="https://images.pluto.tv/channels/60d3583ef310610007fb02b1/colorLogoPNG.png" group-title="TEMATICOS ▶️",  Euronews
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363715
-#EXTINF:-1 tvg-id="6231ede1be5b460007f91bc1" tvg-name="  CBS News" tvg-logo="https://images.pluto.tv/channels/6231ede1be5b460007f91bc1/colorLogoPNG.png" group-title="PLUTO TV▶️",  CBS News
+
+#EXTINF:-1 tvg-id="6231ede1be5b460007f91bc1" tvg-name="  CBS News" tvg-logo="https://images.pluto.tv/channels/6231ede1be5b460007f91bc1/colorLogoPNG.png" group-title="TEMATICOS ▶️",  CBS News
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363716
-#EXTINF:-1 tvg-id="5f1abf5fafb5ee0007d4d0ca" tvg-name="  FailArmy" tvg-logo="https://images.pluto.tv/channels/5f1abf5fafb5ee0007d4d0ca/colorLogoPNG.png" group-title="PLUTO TV▶️",  FailArmy
+
+#EXTINF:-1 tvg-id="5f1abf5fafb5ee0007d4d0ca" tvg-name="  FailArmy" tvg-logo="https://images.pluto.tv/channels/5f1abf5fafb5ee0007d4d0ca/colorLogoPNG.png" group-title="TEMATICOS ▶️",  FailArmy
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363719
-#EXTINF:-1 tvg-id="604f8125c6669b00077f7699" tvg-name="  Wipeout" tvg-logo="https://images.pluto.tv/channels/604f8125c6669b00077f7699/colorLogoPNG.png" group-title="PLUTO TV▶️",  Wipeout
+
+#EXTINF:-1 tvg-id="604f8125c6669b00077f7699" tvg-name="  Wipeout" tvg-logo="https://images.pluto.tv/channels/604f8125c6669b00077f7699/colorLogoPNG.png" group-title="TEMATICOS ▶️",  Wipeout
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363720
-#EXTINF:-1 tvg-id="608035b8d8705f0007260287" tvg-name="  Pluto TV Anime" tvg-logo="https://images.pluto.tv/channels/608035b8d8705f0007260287/colorLogoPNG.png" group-title="PLUTO TV▶️",  Pluto TV Anime
+
+#EXTINF:-1 tvg-id="608035b8d8705f0007260287" tvg-name="  Pluto TV Anime" tvg-logo="https://images.pluto.tv/channels/608035b8d8705f0007260287/colorLogoPNG.png" group-title="TEMATICOS ▶️",  Pluto TV Anime
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363728
-#EXTINF:-1 tvg-id="61373f1a12dd9f00077dcd6f" tvg-name="  Las Tortugas Ninja" tvg-logo="https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png" group-title="PLUTO TV▶️",  Las Tortugas Ninja
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363729
-#EXTINF:-1 tvg-id="5f1aca0b4e448e00075e7c5e" tvg-name="  Bob Esponja" tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="PLUTO TV▶️",  Bob Esponja
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363731
-#EXTINF:-1 tvg-id="610c09219fc0430007a3fce6" tvg-name="  Rugrats" tvg-logo="https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png" group-title="PLUTO TV▶️",  Rugrats
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363733
-#EXTINF:-1 tvg-id="609e7e423e9173000706a681" tvg-name="  Pluto TV Toons Clásico" tvg-logo="https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG.png" group-title="PLUTO TV▶️",  Pluto TV Toons Clásico
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363735
-#EXTINF:-1 tvg-id="6228b6a38717420007375848" tvg-name="  PLUTO TV KIDS UKRAINE" tvg-logo="https://images.pluto.tv/channels/6228b6a38717420007375848/colorLogoPNG.png" group-title="PLUTO TV▶️",  PLUTO TV KIDS UKRAINE
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363738
-#EXTINF:-1 tvg-id="624466b26ab25e0007dd7cfb" tvg-name="  DORA LA EXPLARADORA" tvg-logo="https://images.pluto.tv/channels/624466b26ab25e0007dd7cfb/colorLogoPNG.png" group-title="PLUTO TV▶️",  DORA LA EXPLARADORA
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363740
-#EXTINF:-1 tvg-id="5f1aab1d29b39600073e243f" tvg-name="  PLUTO TV KIDS" tvg-logo="https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG.png" group-title="PLUTO TV▶️",  PLUTO TV KIDS
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363741
-#EXTINF:-1 tvg-id="5f1aa7aab66c76000790ee7e" tvg-name="  BIG TIME RISH" tvg-logo="https://images.pluto.tv/channels/5f1aa7aab66c76000790ee7e/colorLogoPNG.png" group-title="PLUTO TV▶️",  BIG TIME RISH
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363743
-#EXTINF:-1 tvg-id="6181404ef48321000797bc41" tvg-name="  ICARLY" tvg-logo="https://images.pluto.tv/channels/6181404ef48321000797bc41/colorLogoPNG.png" group-title="PLUTO TV▶️",  ICARLY
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363745
-#EXTINF:-1 tvg-name="   PLUTO TV ANA Y LOS 7 HD" tvg-logo="http://go4.pw/SPAIN/LOS.png" group-title="PLUTO TV▶️",   PLUTO TV ANA Y LOS 7 HD
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1089364
-#EXTINF:-1 tvg-id="5f1ac2591dd8880007bb7d6d" tvg-name="   PLUTO TV CINE ACCIÓN SD" tvg-logo="http://go4.pw/SPAIN/ACCIÓN.png" group-title="PLUTO TV▶️",   PLUTO TV CINE ACCIÓN SD
+
+
+#EXTINF:-1 tvg-id="5f1ac2591dd8880007bb7d6d" tvg-name="   PLUTO TV CINE ACCIÓN SD" tvg-logo="http://go4.pw/SPAIN/ACCIÓN.png" group-title="TEMATICOS ▶️",   PLUTO TV CINE ACCIÓN SD
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1089366
-#EXTINF:-1 tvg-id="5f1ac1f1b66c76000790ef27" tvg-name="   PLUTO TV CINE ESTELAR SD" tvg-logo="http://go4.pw/SPAIN/ESTELAR.png" group-title="PLUTO TV▶️",   PLUTO TV CINE ESTELAR SD
+
+#EXTINF:-1 tvg-id="5f1ac1f1b66c76000790ef27" tvg-name="   PLUTO TV CINE ESTELAR SD" tvg-logo="http://go4.pw/SPAIN/ESTELAR.png" group-title="TEMATICOS ▶️",   PLUTO TV CINE ESTELAR SD
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1089367
-#EXTINF:-1 tvg-id="5f1acdaa8ba90f0007d5e760" tvg-name="   PLUTO TV COCINA SD" tvg-logo="http://go4.pw/SPAIN/COCINA.png" group-title="PLUTO TV▶️",   PLUTO TV COCINA SD
+
+#EXTINF:-1 tvg-id="5f1acdaa8ba90f0007d5e760" tvg-name="   PLUTO TV COCINA SD" tvg-logo="http://go4.pw/SPAIN/COCINA.png" group-title="TEMATICOS ▶️",   PLUTO TV COCINA SD
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1089368
-#EXTINF:-1 tvg-id="5f1abce155a03d0007718834" tvg-name="   PLUTO TV COMEDIA (MADE IN SPAIN) HD [NOT 24/7]" tvg-logo="http://go4.pw/SPAIN/COMEDIA.png" group-title="PLUTO TV▶️",   PLUTO TV COMEDIA (MADE IN SPAIN) HD [NOT 24/7]
+
+#EXTINF:-1 tvg-id="5f1abce155a03d0007718834" tvg-name="   PLUTO TV COMEDIA (MADE IN SPAIN) HD [NOT 24/7]" tvg-logo="http://go4.pw/SPAIN/COMEDIA.png" group-title="TEMATICOS ▶️",   PLUTO TV COMEDIA (MADE IN SPAIN) HD [NOT 24/7]
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1089369
-#EXTINF:-1 tvg-name="   PLUTO TV FORENSIC FILES EN ESP HD" tvg-logo="http://go4.pw/SPAIN/FORENSIC.png" group-title="PLUTO TV▶️",   PLUTO TV FORENSIC FILES EN ESP HD
+
+#EXTINF:-1 tvg-name="   PLUTO TV FORENSIC FILES EN ESP HD" tvg-logo="http://go4.pw/SPAIN/FORENSIC.png" group-title="TEMATICOS ▶️",   PLUTO TV FORENSIC FILES EN ESP HD
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1089370
-#EXTINF:-1 tvg-id="5f1ab3c7778230000735cf41" tvg-name="   PLUTO TV MTV CATFISH (SPAIN) HD [NOT 24/7]" tvg-logo="https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png" group-title="PLUTO TV▶️",   PLUTO TV MTV CATFISH (SPAIN) HD [NOT 24/7]
+
+#EXTINF:-1 tvg-id="5f1ab3c7778230000735cf41" tvg-name="   PLUTO TV MTV CATFISH (SPAIN) HD [NOT 24/7]" tvg-logo="https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png" group-title="TEMATICOS ▶️",   PLUTO TV MTV CATFISH (SPAIN) HD [NOT 24/7]
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1089371
-#EXTINF:-1 tvg-name="   PLUTO TV MTV MUSIC MADE IN SPAIN HD [NOT 24/7]" tvg-logo="https://images.pluto.tv/channels/60a26a056d55b30007918d5a/colorLogoPNG.png" group-title="PLUTO TV▶️",   PLUTO TV MTV MUSIC MADE IN SPAIN HD [NOT 24/7]
+
+#EXTINF:-1 tvg-name="   PLUTO TV MTV MUSIC MADE IN SPAIN HD [NOT 24/7]" tvg-logo="https://images.pluto.tv/channels/60a26a056d55b30007918d5a/colorLogoPNG.png" group-title="TEMATICOS ▶️",   PLUTO TV MTV MUSIC MADE IN SPAIN HD [NOT 24/7]
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1089372
-#EXTINF:-1 tvg-id="5f1aadf373bed3000794d1d7" tvg-name="   PLUTO TV MTV ORIGINALS (SPAIN) SD" tvg-logo="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png" group-title="PLUTO TV▶️",   PLUTO TV MTV ORIGINALS (SPAIN) SD
+
+#EXTINF:-1 tvg-id="5f1aadf373bed3000794d1d7" tvg-name="   PLUTO TV MTV ORIGINALS (SPAIN) SD" tvg-logo="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png" group-title="TEMATICOS ▶️",   PLUTO TV MTV ORIGINALS (SPAIN) SD
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1089373
-#EXTINF:-1 tvg-name="  PLUTO TV THE WALKING DEAD ESP HD" tvg-logo="https://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png" group-title="PLUTO TV▶️",  PLUTO TV THE WALKING DEAD ESP HD
+
+#EXTINF:-1 tvg-name="  PLUTO TV THE WALKING DEAD ESP HD" tvg-logo="https://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png" group-title="TEMATICOS ▶️",  PLUTO TV THE WALKING DEAD ESP HD
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1089375
 
 
 
 
- url-tvg="https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz"
-#EXTINF:-1 tvg-id="ES26000068D" tvg-name="ES26000068D" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES26000068D_20241126T043113SQUARE.png"  group-title="Samsung▶️" , Estilo y Vida – Rakuten TV
-https://jmp2.uk/sam-ES26000068D.m3u8
-#EXTINF:-1 tvg-id="ESBC4100001NZ" tvg-name="ESBC4100001NZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20241030T140445SQUARE.png"  group-title="Samsung▶️" , La 1
-https://jmp2.uk/sam-ESBC4100001NZ.m3u8
-#EXTINF:-1 tvg-id="ESBD3000002GP" tvg-name="ESBD3000002GP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3000002GP_20241022T050505SQUARE.png"  group-title="Samsung▶️" , Canal Sur Andalucía
-https://jmp2.uk/sam-ESBD3000002GP.m3u8
-#EXTINF:-1 tvg-id="ESBC4100002AG" tvg-name="ESBC4100002AG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100002AG_20241022T050543SQUARE.png"  group-title="Samsung▶️" , La 2
-https://jmp2.uk/sam-ESBC4100002AG.m3u8
-#EXTINF:-1 tvg-id="ES300004C9" tvg-name="ES300004C9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300004C9_20241106T142325SQUARE.png"  group-title="Samsung▶️" , Sony One Shark Tank
+
+url-tvg="https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz"
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="ES300004C9" tvg-name="ES300004C9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300004C9_20241106T142325SQUARE.png"  group-title="TEMATICOS ▶️", Sony One Shark Tank
 https://jmp2.uk/sam-ES300004C9.m3u8
-#EXTINF:-1 tvg-id="ESAJ3800006TT" tvg-name="ESAJ3800006TT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800006TT_20241106T142236SQUARE.png"  group-title="Samsung▶️" , MTV Cribs
+
+#EXTINF:-1 tvg-id="ESAJ3800006TT" tvg-name="ESAJ3800006TT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800006TT_20241106T142236SQUARE.png"  group-title="TEMATICOS ▶️", MTV Cribs
 https://jmp2.uk/sam-ESAJ3800006TT.m3u8
-#EXTINF:-1 tvg-id="ESAJ380000226" tvg-name="ESAJ380000226" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ380000226_20241022T050331SQUARE.png"  group-title="Samsung▶️" , MTV Originals
+
+#EXTINF:-1 tvg-id="ESAJ380000226" tvg-name="ESAJ380000226" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ380000226_20241022T050331SQUARE.png"  group-title="TEMATICOS ▶️", MTV Originals
 https://jmp2.uk/sam-ESAJ380000226.m3u8
-#EXTINF:-1 tvg-id="ES3300004P0" tvg-name="ES3300004P0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300004P0_20250408T021807SQUARE.png"  group-title="Samsung▶️" , RTVE Saber y Ganar
+
+#EXTINF:-1 tvg-id="ES3300004P0" tvg-name="ES3300004P0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300004P0_20250408T021807SQUARE.png"  group-title="TEMATICOS ▶️", RTVE Saber y Ganar
 https://jmp2.uk/sam-ES3300004P0.m3u8
-#EXTINF:-1 tvg-id="ES7000056Z" tvg-name="ES7000056Z" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES7000056Z_20250408T021823SQUARE.png"  group-title="Samsung▶️" , Yu-Gi-Oh!
+
+#EXTINF:-1 tvg-id="ES7000056Z" tvg-name="ES7000056Z" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES7000056Z_20250408T021823SQUARE.png"  group-title="TEMATICOS ▶️", Yu-Gi-Oh!
 https://jmp2.uk/sam-ES7000056Z.m3u8
-#EXTINF:-1 tvg-id="ES1400001T8" tvg-name="ES1400001T8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1400001T8_20241106T142204SQUARE.png"  group-title="Samsung▶️" , Beyblade
+
+#EXTINF:-1 tvg-id="ES1400001T8" tvg-name="ES1400001T8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1400001T8_20241106T142204SQUARE.png"  group-title="TEMATICOS ▶️", Beyblade
 https://jmp2.uk/sam-ES1400001T8.m3u8
-#EXTINF:-1 tvg-id="ES300029LP" tvg-name="ES300029LP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300029LP_20250326T013525SQUARE.png"  group-title="Samsung▶️" , Anime Visión
+
+#EXTINF:-1 tvg-id="ES300029LP" tvg-name="ES300029LP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300029LP_20250326T013525SQUARE.png"  group-title="TEMATICOS ▶️", Anime Visión
 https://jmp2.uk/sam-ES300029LP.m3u8
-#EXTINF:-1 tvg-id="ES3000288I" tvg-name="ES3000288I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000288I_20250326T013528SQUARE.png"  group-title="Samsung▶️" , Anime Visión Classics
+
+#EXTINF:-1 tvg-id="ES3000288I" tvg-name="ES3000288I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000288I_20250326T013528SQUARE.png"  group-title="TEMATICOS ▶️", Anime Visión Classics
 https://jmp2.uk/sam-ES3000288I.m3u8
-#EXTINF:-1 tvg-id="ES26000025M" tvg-name="ES26000025M" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES26000025M_20241210T052650SQUARE.png"  group-title="Samsung▶️" , ¡Hola! Play
+
+#EXTINF:-1 tvg-id="ES26000025M" tvg-name="ES26000025M" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES26000025M_20241210T052650SQUARE.png"  group-title="TEMATICOS ▶️", ¡Hola! Play
 https://jmp2.uk/sam-ES26000025M.m3u8
-#EXTINF:-1 tvg-id="ESBC3500002PW" tvg-name="ESBC3500002PW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500002PW_20241022T051025SQUARE.png"  group-title="Samsung▶️" , Ideas en 5 Minutos
+
+#EXTINF:-1 tvg-id="ESBC3500002PW" tvg-name="ESBC3500002PW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500002PW_20241022T051025SQUARE.png"  group-title="TEMATICOS ▶️", Ideas en 5 Minutos
 https://jmp2.uk/sam-ESBC3500002PW.m3u8
-#EXTINF:-1 tvg-id="ESAJ4500017Y1" tvg-name="ESAJ4500017Y1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500017Y1_20241022T050724SQUARE.png"  group-title="Samsung▶️" , Fashion TV
+
+#EXTINF:-1 tvg-id="ESAJ4500017Y1" tvg-name="ESAJ4500017Y1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500017Y1_20241022T050724SQUARE.png"  group-title="TEMATICOS ▶️", Fashion TV
 https://jmp2.uk/sam-ESAJ4500017Y1.m3u8
-#EXTINF:-1 tvg-id="ESBD1300004IG" tvg-name="ESBD1300004IG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300004IG_20241022T050448SQUARE.png"  group-title="Samsung▶️" , Azteca Internacional
+
+#EXTINF:-1 tvg-id="ESBD1300004IG" tvg-name="ESBD1300004IG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300004IG_20241022T050448SQUARE.png"  group-title="TEMATICOS ▶️", Azteca Internacional
 https://jmp2.uk/sam-ESBD1300004IG.m3u8
-#EXTINF:-1 tvg-id="ESBA3300033PL" tvg-name="ESBA3300033PL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300033PL_20241022T050532SQUARE.png"  group-title="Samsung▶️" , Encantador de Perros
+
+#EXTINF:-1 tvg-id="ESBA3300033PL" tvg-name="ESBA3300033PL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300033PL_20241022T050532SQUARE.png"  group-title="TEMATICOS ▶️", Encantador de Perros
 https://jmp2.uk/sam-ESBA3300033PL.m3u8
-#EXTINF:-1 tvg-id="ESBC4700003RJ" tvg-name="ESBC4700003RJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700003RJ_20241106T142207SQUARE.png"  group-title="Samsung▶️" , Teen Vee
+
+#EXTINF:-1 tvg-id="ESBC4700003RJ" tvg-name="ESBC4700003RJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700003RJ_20241106T142207SQUARE.png"  group-title="TEMATICOS ▶️", Teen Vee
 https://jmp2.uk/sam-ESBC4700003RJ.m3u8
-#EXTINF:-1 tvg-id="ES500002NY" tvg-name="ES500002NY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500002NY_20250408T021758SQUARE.png"  group-title="Samsung▶️" , H2O & Friends
+
+#EXTINF:-1 tvg-id="ES500002NY" tvg-name="ES500002NY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500002NY_20250408T021758SQUARE.png"  group-title="TEMATICOS ▶️", H2O & Friends
 https://jmp2.uk/sam-ES500002NY.m3u8
-#EXTINF:-1 tvg-id="ES4700001VS" tvg-name="ES4700001VS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4700001VS_20250218T035951SQUARE.png"  group-title="Samsung▶️" , 2M
+
+#EXTINF:-1 tvg-id="ES4700001VS" tvg-name="ES4700001VS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4700001VS_20250218T035951SQUARE.png"  group-title="TEMATICOS ▶️", 2M
 https://jmp2.uk/sam-ES4700001VS.m3u8
-#EXTINF:-1 tvg-id="ESBD1500001SD" tvg-name="ESBD1500001SD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1500001SD_20250218T035942SQUARE.png"  group-title="Samsung▶️" , Hoguera
+
+#EXTINF:-1 tvg-id="ESBD1500001SD" tvg-name="ESBD1500001SD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1500001SD_20250218T035942SQUARE.png"  group-title="TEMATICOS ▶️", Hoguera
 https://jmp2.uk/sam-ESBD1500001SD.m3u8
-#EXTINF:-1 tvg-id="ES300032LR" tvg-name="ES300032LR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300032LR_20250307T152159SQUARE.png"  group-title="Samsung▶️" , Gaming Central League of Legends
+
+#EXTINF:-1 tvg-id="ES300032LR" tvg-name="ES300032LR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300032LR_20250307T152159SQUARE.png"  group-title="TEMATICOS ▶️", Gaming Central League of Legends
 https://jmp2.uk/sam-ES300032LR.m3u8
-#EXTINF:-1 tvg-id="ES400002P5" tvg-name="ES400002P5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES400002P5_20250513T005442SQUARE.png"  group-title="Samsung▶️" , Cuéntame cómo pasó
+
+#EXTINF:-1 tvg-id="ES400002P5" tvg-name="ES400002P5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES400002P5_20250513T005442SQUARE.png"  group-title="TEMATICOS ▶️", Cuéntame cómo pasó
 https://jmp2.uk/sam-ES400002P5.m3u8
-#EXTINF:-1 tvg-id="ES3300006QL" tvg-name="ES3300006QL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300006QL_20250408T021813SQUARE.png"  group-title="Samsung▶️" , RTVE Época
+
+#EXTINF:-1 tvg-id="ES3300006QL" tvg-name="ES3300006QL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300006QL_20250408T021813SQUARE.png"  group-title="TEMATICOS ▶️", RTVE Época
 https://jmp2.uk/sam-ES3300006QL.m3u8
-#EXTINF:-1 tvg-id="ESBD1300001EP" tvg-name="ESBD1300001EP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300001EP_20241106T142319SQUARE.png"  group-title="Samsung▶️" , Baywatch – Los Vigilantes de la Playa
+
+#EXTINF:-1 tvg-id="ESBD1300001EP" tvg-name="ESBD1300001EP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300001EP_20241106T142319SQUARE.png"  group-title="TEMATICOS ▶️", Baywatch – Los Vigilantes de la Playa
 https://jmp2.uk/sam-ESBD1300001EP.m3u8
-#EXTINF:-1 tvg-id="ESBA3300039ZX" tvg-name="ESBA3300039ZX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300039ZX_20241022T050312SQUARE.png"  group-title="Samsung▶️" , FreeTV Estelar
+
+#EXTINF:-1 tvg-id="ESBA3300039ZX" tvg-name="ESBA3300039ZX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300039ZX_20241022T050312SQUARE.png"  group-title="TEMATICOS ▶️", FreeTV Estelar
 https://jmp2.uk/sam-ESBA3300039ZX.m3u8
-#EXTINF:-1 tvg-id="ES500005BP" tvg-name="ES500005BP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500005BP_20250408T021749SQUARE.png"  group-title="Samsung▶️" , Águila Roja
+
+#EXTINF:-1 tvg-id="ES500005BP" tvg-name="ES500005BP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500005BP_20250408T021749SQUARE.png"  group-title="TEMATICOS ▶️", Águila Roja
 https://jmp2.uk/sam-ES500005BP.m3u8
-#EXTINF:-1 tvg-id="ESBD1300003VN" tvg-name="ESBD1300003VN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300003VN_20241022T050520SQUARE.png"  group-title="Samsung▶️" , Corazón
+
+#EXTINF:-1 tvg-id="ESBD1300003VN" tvg-name="ESBD1300003VN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300003VN_20241022T050520SQUARE.png"  group-title="TEMATICOS ▶️", Corazón
 https://jmp2.uk/sam-ESBD1300003VN.m3u8
-#EXTINF:-1 tvg-id="ES2700001G5" tvg-name="ES2700001G5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2700001G5_20241106T142247SQUARE.png"  group-title="Samsung▶️" , Doctor Who
+
+#EXTINF:-1 tvg-id="ES2700001G5" tvg-name="ES2700001G5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2700001G5_20241106T142247SQUARE.png"  group-title="TEMATICOS ▶️", Doctor Who
 https://jmp2.uk/sam-ES2700001G5.m3u8
-#EXTINF:-1 tvg-id="ES2900001DQ" tvg-name="ES2900001DQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2900001DQ_20241106T142333SQUARE.png"  group-title="Samsung▶️" , BBC Drama
+
+#EXTINF:-1 tvg-id="ES2900001DQ" tvg-name="ES2900001DQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2900001DQ_20241106T142333SQUARE.png"  group-title="TEMATICOS ▶️", BBC Drama
 https://jmp2.uk/sam-ES2900001DQ.m3u8
-#EXTINF:-1 tvg-id="ESBC1700001QI" tvg-name="ESBC1700001QI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700001QI_20241022T051151SQUARE.png"  group-title="Samsung▶️" , Vive Kanal D Drama
+
+#EXTINF:-1 tvg-id="ESBC1700001QI" tvg-name="ESBC1700001QI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700001QI_20241022T051151SQUARE.png"  group-title="TEMATICOS ▶️", Vive Kanal D Drama
 https://jmp2.uk/sam-ESBC1700001QI.m3u8
-#EXTINF:-1 tvg-id="ES300002Y6" tvg-name="ES300002Y6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300002Y6_20241106T142251SQUARE.png"  group-title="Samsung▶️" , Sony One Series Thriller
+
+#EXTINF:-1 tvg-id="ES300002Y6" tvg-name="ES300002Y6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300002Y6_20241106T142251SQUARE.png"  group-title="TEMATICOS ▶️", Sony One Series Thriller
 https://jmp2.uk/sam-ES300002Y6.m3u8
-#EXTINF:-1 tvg-id="ES300003D4" tvg-name="ES300003D4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300003D4_20241022T051059SQUARE.png"  group-title="Samsung▶️" , Sony One Éxitos
+
+#EXTINF:-1 tvg-id="ES300003D4" tvg-name="ES300003D4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300003D4_20241022T051059SQUARE.png"  group-title="TEMATICOS ▶️", Sony One Éxitos
 https://jmp2.uk/sam-ES300003D4.m3u8
-#EXTINF:-1 tvg-id="ES300005EL" tvg-name="ES300005EL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300005EL_20241022T115805SQUARE.png"  group-title="Samsung▶️" , Sony One The Blacklist
+
+#EXTINF:-1 tvg-id="ES300005EL" tvg-name="ES300005EL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300005EL_20241022T115805SQUARE.png"  group-title="TEMATICOS ▶️", Sony One The Blacklist
 https://jmp2.uk/sam-ES300005EL.m3u8
-#EXTINF:-1 tvg-id="ES30000145" tvg-name="ES30000145" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES30000145_20241106T142322SQUARE.png"  group-title="Samsung▶️" , Sony One Series Comedia
+
+#EXTINF:-1 tvg-id="ES30000145" tvg-name="ES30000145" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES30000145_20241106T142322SQUARE.png"  group-title="TEMATICOS ▶️", Sony One Series Comedia
 https://jmp2.uk/sam-ES30000145.m3u8
-#EXTINF:-1 tvg-id="ES260000968" tvg-name="ES260000968" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260000968_20250415T021754SQUARE.png"  group-title="Samsung▶️" , Euronews EN DIRECTO
+
+#EXTINF:-1 tvg-id="ES260000968" tvg-name="ES260000968" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260000968_20250415T021754SQUARE.png"  group-title="TEMATICOS ▶️", Euronews EN DIRECTO
 https://jmp2.uk/sam-ES260000968.m3u8
-#EXTINF:-1 tvg-id="ESBC4100004J1" tvg-name="ESBC4100004J1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100004J1_20241022T050444SQUARE.png"  group-title="Samsung▶️" , 24H
+
+#EXTINF:-1 tvg-id="ESBC4100004J1" tvg-name="ESBC4100004J1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100004J1_20241022T050444SQUARE.png"  group-title="TEMATICOS ▶️", 24H
 https://jmp2.uk/sam-ESBC4100004J1.m3u8
-#EXTINF:-1 tvg-id="ES300034BT" tvg-name="ES300034BT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300034BT_20250307T152150SQUARE.png"  group-title="Samsung▶️" , Actualidad 360
+
+#EXTINF:-1 tvg-id="ES300034BT" tvg-name="ES300034BT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300034BT_20250307T152150SQUARE.png"  group-title="TEMATICOS ▶️", Actualidad 360
 https://jmp2.uk/sam-ES300034BT.m3u8
-#EXTINF:-1 tvg-id="ESBD3400001AA" tvg-name="ESBD3400001AA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3400001AA_20241022T050601SQUARE.png"  group-title="Samsung▶️" , Negocios TV
+
+#EXTINF:-1 tvg-id="ESBD3400001AA" tvg-name="ESBD3400001AA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3400001AA_20241022T050601SQUARE.png"  group-title="TEMATICOS ▶️", Negocios TV
 https://jmp2.uk/sam-ESBD3400001AA.m3u8
-#EXTINF:-1 tvg-id="ESBC39000033J" tvg-name="ESBC39000033J" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC39000033J_20241106T142306SQUARE.png"  group-title="Samsung▶️" , El País
+
+#EXTINF:-1 tvg-id="ESBC39000033J" tvg-name="ESBC39000033J" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC39000033J_20241106T142306SQUARE.png"  group-title="TEMATICOS ▶️", El País
 https://jmp2.uk/sam-ESBC39000033J.m3u8
-#EXTINF:-1 tvg-id="ESBC1400001L8" tvg-name="ESBC1400001L8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1400001L8_20241022T050529SQUARE.png"  group-title="Samsung▶️" , El Confidencial
+
+#EXTINF:-1 tvg-id="ESBC1400001L8" tvg-name="ESBC1400001L8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1400001L8_20241022T050529SQUARE.png"  group-title="TEMATICOS ▶️", El Confidencial
 https://jmp2.uk/sam-ESBC1400001L8.m3u8
-#EXTINF:-1 tvg-id="ESBD190000137" tvg-name="ESBD190000137" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD190000137_20250422T043326SQUARE.png"  group-title="Samsung▶️" , CNN Headlines
+
+#EXTINF:-1 tvg-id="ESBD190000137" tvg-name="ESBD190000137" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD190000137_20250422T043326SQUARE.png"  group-title="TEMATICOS ▶️", CNN Headlines
 https://jmp2.uk/sam-ESBD190000137.m3u8
-#EXTINF:-1 tvg-id="ESBD36000026Z" tvg-name="ESBD36000026Z" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD36000026Z_20241106T142258SQUARE.png"  group-title="Samsung▶️" , CNBC
+
+#EXTINF:-1 tvg-id="ESBD36000026Z" tvg-name="ESBD36000026Z" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD36000026Z_20241106T142258SQUARE.png"  group-title="TEMATICOS ▶️", CNBC
 https://jmp2.uk/sam-ESBD36000026Z.m3u8
-#EXTINF:-1 tvg-id="ESBC400003YM" tvg-name="ESBC400003YM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC400003YM_20241106T142315SQUARE.png"  group-title="Samsung▶️" , NBC News NOW
+
+#EXTINF:-1 tvg-id="ESBC400003YM" tvg-name="ESBC400003YM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC400003YM_20241106T142315SQUARE.png"  group-title="TEMATICOS ▶️", NBC News NOW
 https://jmp2.uk/sam-ESBC400003YM.m3u8
-#EXTINF:-1 tvg-id="ES34000039I" tvg-name="ES34000039I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES34000039I_20241022T050503SQUARE.png"  group-title="Samsung▶️" , CNN en Español
+
+#EXTINF:-1 tvg-id="ES34000039I" tvg-name="ES34000039I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES34000039I_20241022T050503SQUARE.png"  group-title="TEMATICOS ▶️", CNN en Español
 https://jmp2.uk/sam-ES34000039I.m3u8
-#EXTINF:-1 tvg-id="ESBD1100001PQ" tvg-name="ESBD1100001PQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1100001PQ_20241106T142311SQUARE.png"  group-title="Samsung▶️" , FRANCE 24 FAST
+
+#EXTINF:-1 tvg-id="ESBD1100001PQ" tvg-name="ESBD1100001PQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1100001PQ_20241106T142311SQUARE.png"  group-title="TEMATICOS ▶️", FRANCE 24 FAST
 https://jmp2.uk/sam-ESBD1100001PQ.m3u8
-#EXTINF:-1 tvg-id="ES1300001QC" tvg-name="ES1300001QC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1300001QC_20241022T050524SQUARE.png"  group-title="Samsung▶️" , DW
+
+#EXTINF:-1 tvg-id="ES1300001QC" tvg-name="ES1300001QC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1300001QC_20241022T050524SQUARE.png"  group-title="TEMATICOS ▶️", DW
 https://jmp2.uk/sam-ES1300001QC.m3u8
-#EXTINF:-1 tvg-id="ESBA3300024AJ" tvg-name="ESBA3300024AJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300024AJ_20241106T142255SQUARE.png"  group-title="Samsung▶️" , Bloomberg TV+
+
+#EXTINF:-1 tvg-id="ESBA3300024AJ" tvg-name="ESBA3300024AJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300024AJ_20241106T142255SQUARE.png"  group-title="TEMATICOS ▶️", Bloomberg TV+
 https://jmp2.uk/sam-ESBA3300024AJ.m3u8
-#EXTINF:-1 tvg-id="ES33000079W" tvg-name="ES33000079W" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000079W_20250408T021801SQUARE.png"  group-title="Samsung▶️" , RTVE Crimen
+
+#EXTINF:-1 tvg-id="ES33000079W" tvg-name="ES33000079W" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000079W_20250408T021801SQUARE.png"  group-title="TEMATICOS ▶️", RTVE Crimen
 https://jmp2.uk/sam-ES33000079W.m3u8
-#EXTINF:-1 tvg-id="ESBA3300029UG" tvg-name="ESBA3300029UG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300029UG_20241022T051014SQUARE.png"  group-title="Samsung▶️" , El Comisario
+
+#EXTINF:-1 tvg-id="ESBA3300029UG" tvg-name="ESBA3300029UG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300029UG_20241022T051014SQUARE.png"  group-title="TEMATICOS ▶️", El Comisario
 https://jmp2.uk/sam-ESBA3300029UG.m3u8
-#EXTINF:-1 tvg-id="ESBA3300025WZ" tvg-name="ESBA3300025WZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300025WZ_20241022T050739SQUARE.png"  group-title="Samsung▶️" , Los Asesinatos de Midsomer
+
+#EXTINF:-1 tvg-id="ESBA3300025WZ" tvg-name="ESBA3300025WZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300025WZ_20241022T050739SQUARE.png"  group-title="TEMATICOS ▶️", Los Asesinatos de Midsomer
 https://jmp2.uk/sam-ESBA3300025WZ.m3u8
-#EXTINF:-1 tvg-id="ES2600001MC" tvg-name="ES2600001MC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600001MC_20241106T142233SQUARE.png"  group-title="Samsung▶️" , Forensic Files
+
+#EXTINF:-1 tvg-id="ES2600001MC" tvg-name="ES2600001MC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600001MC_20241106T142233SQUARE.png"  group-title="TEMATICOS ▶️", Forensic Files
 https://jmp2.uk/sam-ES2600001MC.m3u8
-#EXTINF:-1 tvg-id="ES33000025N" tvg-name="ES33000025N" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000025N_20241126T043056SQUARE.png"  group-title="Samsung▶️" , Crimen & Historia
+
+#EXTINF:-1 tvg-id="ES33000025N" tvg-name="ES33000025N" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000025N_20241126T043056SQUARE.png"  group-title="TEMATICOS ▶️", Crimen & Historia
 https://jmp2.uk/sam-ES33000025N.m3u8
-#EXTINF:-1 tvg-id="ESBD3700001S0" tvg-name="ESBD3700001S0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3700001S0_20241022T051012SQUARE.png"  group-title="Samsung▶️" , DATELINE 24/7
+
+#EXTINF:-1 tvg-id="ESBD3700001S0" tvg-name="ESBD3700001S0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3700001S0_20241022T051012SQUARE.png"  group-title="TEMATICOS ▶️", DATELINE 24/7
 https://jmp2.uk/sam-ESBD3700001S0.m3u8
-#EXTINF:-1 tvg-id="ES3300001MC" tvg-name="ES3300001MC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300001MC_20241210T052636SQUARE.png"  group-title="Samsung▶️" , Crimenes Reales
+
+#EXTINF:-1 tvg-id="ES3300001MC" tvg-name="ES3300001MC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300001MC_20241210T052636SQUARE.png"  group-title="TEMATICOS ▶️", Crimenes Reales
 https://jmp2.uk/sam-ES3300001MC.m3u8
-#EXTINF:-1 tvg-id="ES2600005G9" tvg-name="ES2600005G9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600005G9_20241126T043110SQUARE.png"  group-title="Samsung▶️" , Crimen - Rakuten TV
+
+#EXTINF:-1 tvg-id="ES2600005G9" tvg-name="ES2600005G9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600005G9_20241126T043110SQUARE.png"  group-title="TEMATICOS ▶️", Crimen - Rakuten TV
 https://jmp2.uk/sam-ES2600005G9.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="ES2700002YP" tvg-name="ES2700002YP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2700002YP_20250513T005456SQUARE.png"  group-title="Samsung▶️" , Top Gear
+#EXTINF:-1 tvg-id="ES2700002YP" tvg-name="ES2700002YP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2700002YP_20250513T005456SQUARE.png"  group-title="TEMATICOS ▶️", Top Gear
 https://jmp2.uk/sam-ES2700002YP.m3u8
-#EXTINF:-1 tvg-id="ESBD2600001ME" tvg-name="ESBD2600001ME" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2600001ME_20241022T051122SQUARE.png"  group-title="Samsung▶️" , Tennis Channel
-https://jmp2.uk/sam-ESBD2600001ME.m3u8
-#EXTINF:-1 tvg-id="ES30000091V" tvg-name="ES30000091V" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES30000091V_20241022T050555SQUARE.png"  group-title="Samsung▶️" , MyPadel TV
-https://jmp2.uk/sam-ES30000091V.m3u8
-#EXTINF:-1 tvg-id="ESBC410000577" tvg-name="ESBC410000577" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20241022T051118SQUARE.png"  group-title="Samsung▶️" , Teledeporte
-https://jmp2.uk/sam-ESBC410000577.m3u8
-#EXTINF:-1 tvg-id="ESBD3600001Q1" tvg-name="ESBD3600001Q1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20241022T050545SQUARE.png"  group-title="Samsung▶️" , La Liga Inside
-https://jmp2.uk/sam-ESBD3600001Q1.m3u8
-#EXTINF:-1 tvg-id="ES3200003OC" tvg-name="ES3200003OC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200003OC_20250318T040657SQUARE.png"  group-title="Samsung▶️" , DFB Play TV
-https://jmp2.uk/sam-ES3200003OC.m3u8
-#EXTINF:-1 tvg-id="ES300031A5" tvg-name="ES300031A5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300031A5_20250307T152156SQUARE.png"  group-title="Samsung▶️" , GOL CLASSICS
-https://jmp2.uk/sam-ES300031A5.m3u8
-#EXTINF:-1 tvg-id="ESBC2700009B4" tvg-name="ESBC2700009B4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20250513T005437SQUARE.png"  group-title="Samsung▶️" , FIFA+
-https://jmp2.uk/sam-ESBC2700009B4.m3u8
-#EXTINF:-1 tvg-id="ESBD3200001EG" tvg-name="ESBD3200001EG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3200001EG_20241022T051031SQUARE.png"  group-title="Samsung▶️" , Motorvision
-https://jmp2.uk/sam-ESBD3200001EG.m3u8
-#EXTINF:-1 tvg-id="ES3400002PY" tvg-name="ES3400002PY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3400002PY_20250121T012834SQUARE.png"  group-title="Samsung▶️" , Surf Channel
+
+
+
+#EXTINF:-1 tvg-id="ES3400002PY" tvg-name="ES3400002PY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3400002PY_20250121T012834SQUARE.png"  group-title="TEMATICOS ▶️", Surf Channel
 https://jmp2.uk/sam-ES3400002PY.m3u8
-#EXTINF:-1 tvg-id="ESBD2900001P9" tvg-name="ESBD2900001P9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2900001P9_20241022T051205SQUARE.png"  group-title="Samsung▶️" , World Poker Tour
+
+#EXTINF:-1 tvg-id="ESBD2900001P9" tvg-name="ESBD2900001P9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2900001P9_20241022T051205SQUARE.png"  group-title="TEMATICOS ▶️", World Poker Tour
 https://jmp2.uk/sam-ESBD2900001P9.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-id="ESBC1700002IM" tvg-name="ESBC1700002IM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700002IM_20241022T051120SQUARE.png"  group-title="Samsung▶️" , Televisión Consciente
+#EXTINF:-1 tvg-id="ESBC1700002IM" tvg-name="ESBC1700002IM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700002IM_20241022T051120SQUARE.png"  group-title="TEMATICOS ▶️", Televisión Consciente
 https://jmp2.uk/sam-ESBC1700002IM.m3u8
-#EXTINF:-1 tvg-id="ESBC4100003WE" tvg-name="ESBC4100003WE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100003WE_20241022T050516SQUARE.png" group-title="Samsung▶️" , Clan
-https://jmp2.uk/sam-ESBC4100003WE.m3u8
-#EXTINF:-1 tvg-id="ES5000001CS" tvg-name="ES5000001CS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES5000001CS_20250218T035957SQUARE.png" group-title="Samsung▶️" , LooLoo Kids
-https://jmp2.uk/sam-ES5000001CS.m3u8
-#EXTINF:-1 tvg-id="ESBD130000205" tvg-name="ESBD130000205" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD130000205_20241022T050609SQUARE.png" group-title="Samsung▶️" , Pitufo TV
-https://jmp2.uk/sam-ESBD130000205.m3u8
-#EXTINF:-1 tvg-id="ES4800002OZ" tvg-name="ES4800002OZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4800002OZ_20250121T012820SQUARE.png" group-title="Samsung▶️" , Caillou
-https://jmp2.uk/sam-ES4800002OZ.m3u8
-#EXTINF:-1 tvg-id="ESBC3900004ED" tvg-name="ESBC3900004ED" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900004ED_20250211T014050SQUARE.png" group-title="Samsung▶️" , Pocoyó
-https://jmp2.uk/sam-ESBC3900004ED.m3u8
-#EXTINF:-1 tvg-id="ESBC4700001GR" tvg-name="ESBC4700001GR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700001GR_20241022T050629SQUARE.png" group-title="Samsung▶️" , duckTV
-https://jmp2.uk/sam-ESBC4700001GR.m3u8
-#EXTINF:-1 tvg-id="ESBD5100001G0" tvg-name="ESBD5100001G0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD5100001G0_20241106T142201SQUARE.png" group-title="Samsung▶️" , SuperToons TV
-https://jmp2.uk/sam-ESBD5100001G0.m3u8
-#EXTINF:-1 tvg-id="ES900001SH" tvg-name="ES900001SH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES900001SH_20241022T050553SQUARE.png" group-title="Samsung▶️" , Mr Bean Animated
-https://jmp2.uk/sam-ES900001SH.m3u8
-#EXTINF:-1 tvg-id="ESBD3200002V5" tvg-name="ESBD3200002V5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3200002V5_20250307T152147SQUARE.png" group-title="Samsung▶️" , La Abeja Maya
-https://jmp2.uk/sam-ESBD3200002V5.m3u8
-#EXTINF:-1 tvg-id="ES340000152" tvg-name="ES340000152" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES340000152_20250326T013206SQUARE.png" group-title="Samsung▶️" , Video Game Heroes
-https://jmp2.uk/sam-ES340000152.m3u8
-#EXTINF:-1 tvg-id="ESBD2300003S5" tvg-name="ESBD2300003S5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300003S5_20241106T142156SQUARE.png" group-title="Samsung▶️" , Rabbids : La invasion
-https://jmp2.uk/sam-ESBD2300003S5.m3u8
-#EXTINF:-1 tvg-id="ESBA33000324U" tvg-name="ESBA33000324U" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000324U_20241022T050615SQUARE.png" group-title="Samsung▶️" , Rugrats
-https://jmp2.uk/sam-ESBA33000324U.m3u8
-#EXTINF:-1 tvg-id="ESBA33000262Z" tvg-name="ESBA33000262Z" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000262Z_20250307T152119SQUARE.png" group-title="Samsung▶️" , Bob Esponja
-https://jmp2.uk/sam-ESBA33000262Z.m3u8
-#EXTINF:-1 tvg-id="ESAJ3800009VJ" tvg-name="ESAJ3800009VJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800009VJ_20241022T050359SQUARE.png" group-title="Samsung▶️" , Pluto TV Animakids
-https://jmp2.uk/sam-ESAJ3800009VJ.m3u8
-#EXTINF:-1 tvg-id="ES2600008NX" tvg-name="ES2600008NX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600008NX_20241210T052643SQUARE.png" group-title="Samsung▶️" , Rantaró, El Ninja Boy
-https://jmp2.uk/sam-ES2600008NX.m3u8
-#EXTINF:-1 tvg-id="ESAJ38000046O" tvg-name="ESAJ38000046O" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ38000046O_20241022T050405SQUARE.png" group-title="Samsung▶️" , Pluto TV Kids
-https://jmp2.uk/sam-ESAJ38000046O.m3u8
-#EXTINF:-1 tvg-id="ESBA3300028OE" tvg-name="ESBA3300028OE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300028OE_20241022T050631SQUARE.png" group-title="Samsung▶️" , iCarly
-https://jmp2.uk/sam-ESBA3300028OE.m3u8
-#EXTINF:-1 tvg-id="ES260001081" tvg-name="ES260001081" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260001081_20250107T024924SQUARE.png" group-title="Samsung▶️" , En Familia - Rakuten TV
-https://jmp2.uk/sam-ES260001081.m3u8
-#EXTINF:-1 tvg-id="ES700004C8" tvg-name="ES700004C8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES700004C8_20250211T014052SQUARE.png"  group-title="Samsung▶️" , Runtime Familia
-https://jmp2.uk/sam-ES700004C8.m3u8
-#EXTINF:-1 tvg-id="ES33000058B" tvg-name="ES33000058B" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000058B_20250408T021810SQUARE.png"  group-title="Samsung▶️" , RTVE Somos Cine
+
+
+
+
+
+#EXTINF:-1 tvg-id="ES33000058B" tvg-name="ES33000058B" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000058B_20250408T021810SQUARE.png"  group-title="TEMATICOS ▶️", RTVE Somos Cine
 https://jmp2.uk/sam-ES33000058B.m3u8
-#EXTINF:-1 tvg-id="ESBC1700004PX" tvg-name="ESBC1700004PX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700004PX_20241022T051134SQUARE.png"  group-title="Samsung▶️" , Trailers
+
+#EXTINF:-1 tvg-id="ESBC1700004PX" tvg-name="ESBC1700004PX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700004PX_20241022T051134SQUARE.png"  group-title="TEMATICOS ▶️", Trailers
 https://jmp2.uk/sam-ESBC1700004PX.m3u8
-#EXTINF:-1 tvg-id="ESBA2200004G5" tvg-name="ESBA2200004G5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA2200004G5_20250307T152125SQUARE.png"  group-title="Samsung▶️" , MyTime Movie Network
+
+#EXTINF:-1 tvg-id="ESBA2200004G5" tvg-name="ESBA2200004G5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA2200004G5_20250307T152125SQUARE.png"  group-title="TEMATICOS ▶️", MyTime Movie Network
 https://jmp2.uk/sam-ESBA2200004G5.m3u8
-#EXTINF:-1 tvg-id="ESBC2700011AZ" tvg-name="ESBC2700011AZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700011AZ_20241022T050514SQUARE.png"  group-title="Samsung▶️" , Cines Verdi TV
+
+#EXTINF:-1 tvg-id="ESBC2700011AZ" tvg-name="ESBC2700011AZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700011AZ_20241022T050514SQUARE.png"  group-title="TEMATICOS ▶️", Cines Verdi TV
 https://jmp2.uk/sam-ESBC2700011AZ.m3u8
-#EXTINF:-1 tvg-id="ESAJ3800001KT" tvg-name="ESAJ3800001KT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800001KT_20241022T050403SQUARE.png"  group-title="Samsung▶️" , Pluto TV Cine Estelar
+
+#EXTINF:-1 tvg-id="ESAJ3800001KT" tvg-name="ESAJ3800001KT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800001KT_20241022T050403SQUARE.png"  group-title="TEMATICOS ▶️", Pluto TV Cine Estelar
 https://jmp2.uk/sam-ESAJ3800001KT.m3u8
-#EXTINF:-1 tvg-id="ESBC400001QQ" tvg-name="ESBC400001QQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC400001QQ_20241022T050617SQUARE.png"  group-title="Samsung▶️" , Runtime
+
+#EXTINF:-1 tvg-id="ESBC400001QQ" tvg-name="ESBC400001QQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC400001QQ_20241022T050617SQUARE.png"  group-title="TEMATICOS ▶️", Runtime
 https://jmp2.uk/sam-ESBC400001QQ.m3u8
-#EXTINF:-1 tvg-id="ES2600013H4" tvg-name="ES2600013H4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600013H4_20241022T050605SQUARE.png"  group-title="Samsung▶️" , Películas Top - Rakuten TV
+
+#EXTINF:-1 tvg-id="ES2600013H4" tvg-name="ES2600013H4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600013H4_20241022T050605SQUARE.png"  group-title="TEMATICOS ▶️", Películas Top - Rakuten TV
 https://jmp2.uk/sam-ES2600013H4.m3u8
-#EXTINF:-1 tvg-id="ESBD800004KU" tvg-name="ESBD800004KU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800004KU_20250307T152211SQUARE.png"  group-title="Samsung▶️" , Runtime Romance
+
+#EXTINF:-1 tvg-id="ESBD800004KU" tvg-name="ESBD800004KU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800004KU_20250307T152211SQUARE.png"  group-title="TEMATICOS ▶️", Runtime Romance
 https://jmp2.uk/sam-ESBD800004KU.m3u8
-#EXTINF:-1 tvg-id="ES2600012C9" tvg-name="ES2600012C9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600012C9_20241022T050603SQUARE.png"  group-title="Samsung▶️" , Películas Románticas - Rakuten TV
+
+#EXTINF:-1 tvg-id="ES2600012C9" tvg-name="ES2600012C9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600012C9_20241022T050603SQUARE.png"  group-title="TEMATICOS ▶️", Películas Románticas - Rakuten TV
 https://jmp2.uk/sam-ES2600012C9.m3u8
-#EXTINF:-1 tvg-id="ES900002ZD" tvg-name="ES900002ZD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES900002ZD_20250422T103210SQUARE.png"  group-title="Samsung▶️" , Todo Pasión
+
+#EXTINF:-1 tvg-id="ES900002ZD" tvg-name="ES900002ZD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES900002ZD_20250422T103210SQUARE.png"  group-title="TEMATICOS ▶️", Todo Pasión
 https://jmp2.uk/sam-ES900002ZD.m3u8
-#EXTINF:-1 tvg-id="ESBC2700012RP" tvg-name="ESBC2700012RP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700012RP_20241022T050510SQUARE.png"  group-title="Samsung▶️" , Cine Feel Good – Verdi TV
+
+#EXTINF:-1 tvg-id="ESBC2700012RP" tvg-name="ESBC2700012RP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700012RP_20241022T050510SQUARE.png"  group-title="TEMATICOS ▶️", Cine Feel Good – Verdi TV
 https://jmp2.uk/sam-ESBC2700012RP.m3u8
-#EXTINF:-1 tvg-id="ESBD8000033W" tvg-name="ESBD8000033W" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD8000033W_20241022T050622SQUARE.png"  group-title="Samsung▶️" , Runtime Comedia
+
+#EXTINF:-1 tvg-id="ESBD8000033W" tvg-name="ESBD8000033W" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD8000033W_20241022T050622SQUARE.png"  group-title="TEMATICOS ▶️", Runtime Comedia
 https://jmp2.uk/sam-ESBD8000033W.m3u8
-#EXTINF:-1 tvg-id="ES260000700" tvg-name="ES260000700" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260000700_20241022T051222SQUARE.png"  group-title="Samsung▶️" , Comedia - Rakuten TV
+
+#EXTINF:-1 tvg-id="ES260000700" tvg-name="ES260000700" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260000700_20241022T051222SQUARE.png"  group-title="TEMATICOS ▶️", Comedia - Rakuten TV
 https://jmp2.uk/sam-ES260000700.m3u8
-#EXTINF:-1 tvg-id="ES300007KS" tvg-name="ES300007KS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300007KS_20250114T063439SQUARE.png"  group-title="Samsung▶️" , Sony One Hits Comedia
+
+#EXTINF:-1 tvg-id="ES300007KS" tvg-name="ES300007KS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300007KS_20250114T063439SQUARE.png"  group-title="TEMATICOS ▶️", Sony One Hits Comedia
 https://jmp2.uk/sam-ES300007KS.m3u8
-#EXTINF:-1 tvg-id="ESBC2700002LO" tvg-name="ESBC2700002LO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700002LO_20250513T005448SQUARE.png"  group-title="Samsung▶️" , Grjngo - Películas Del Oeste
+
+#EXTINF:-1 tvg-id="ESBC2700002LO" tvg-name="ESBC2700002LO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700002LO_20250513T005448SQUARE.png"  group-title="TEMATICOS ▶️", Grjngo - Películas Del Oeste
 https://jmp2.uk/sam-ESBC2700002LO.m3u8
-#EXTINF:-1 tvg-id="ESBC2700003T8" tvg-name="ESBC2700003T8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700003T8_20241022T050457SQUARE.png"  group-title="Samsung▶️" , Bigtime - Películas Gratis
+
+#EXTINF:-1 tvg-id="ESBC2700003T8" tvg-name="ESBC2700003T8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700003T8_20241022T050457SQUARE.png"  group-title="TEMATICOS ▶️", Bigtime - Películas Gratis
 https://jmp2.uk/sam-ESBC2700003T8.m3u8
-#EXTINF:-1 tvg-id="ESBD230000143" tvg-name="ESBD230000143" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000143_20241106T142216SQUARE.png"  group-title="Samsung▶️" , FreeTV Clásico
+
+#EXTINF:-1 tvg-id="ESBD230000143" tvg-name="ESBD230000143" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000143_20241106T142216SQUARE.png"  group-title="TEMATICOS ▶️", FreeTV Clásico
 https://jmp2.uk/sam-ESBD230000143.m3u8
-#EXTINF:-1 tvg-id="ES2800001G7" tvg-name="ES2800001G7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2800001G7_20241210T052641SQUARE.png"  group-title="Samsung▶️" , Planeta de Cine
+
+#EXTINF:-1 tvg-id="ES2800001G7" tvg-name="ES2800001G7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2800001G7_20241210T052641SQUARE.png"  group-title="TEMATICOS ▶️", Planeta de Cine
 https://jmp2.uk/sam-ES2800001G7.m3u8
-#EXTINF:-1 tvg-id="ES3000008O8" tvg-name="ES3000008O8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000008O8_20241022T050508SQUARE.png"  group-title="Samsung▶️" , Cine Español - Rakuten TV
+
+#EXTINF:-1 tvg-id="ES3000008O8" tvg-name="ES3000008O8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000008O8_20241022T050508SQUARE.png"  group-title="TEMATICOS ▶️", Cine Español - Rakuten TV
 https://jmp2.uk/sam-ES3000008O8.m3u8
-#EXTINF:-1 tvg-id="ESBC40000248" tvg-name="ESBC40000248" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC40000248_20250107T024921SQUARE.png"  group-title="Samsung▶️" , Action Movie Channel
+
+#EXTINF:-1 tvg-id="ESBC40000248" tvg-name="ESBC40000248" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC40000248_20250107T024921SQUARE.png"  group-title="TEMATICOS ▶️", Action Movie Channel
 https://jmp2.uk/sam-ESBC40000248.m3u8
-#EXTINF:-1 tvg-id="ES500004NO" tvg-name="ES500004NO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500004NO_20250408T021816SQUARE.png"  group-title="Samsung▶️" , Sci-Fi - Rakuten TV
+
+#EXTINF:-1 tvg-id="ES500004NO" tvg-name="ES500004NO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500004NO_20250408T021816SQUARE.png"  group-title="TEMATICOS ▶️", Sci-Fi - Rakuten TV
 https://jmp2.uk/sam-ES500004NO.m3u8
-#EXTINF:-1 tvg-id="ESBD800001RJ" tvg-name="ESBD800001RJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800001RJ_20250513T005440SQUARE.png"  group-title="Samsung▶️" , Cine Friki
+
+#EXTINF:-1 tvg-id="ESBD800001RJ" tvg-name="ESBD800001RJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800001RJ_20250513T005440SQUARE.png"  group-title="TEMATICOS ▶️", Cine Friki
 https://jmp2.uk/sam-ESBD800001RJ.m3u8
-#EXTINF:-1 tvg-id="ESBD80000288" tvg-name="ESBD80000288" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD80000288_20250513T005453SQUARE.png"  group-title="Samsung▶️" , Runtime Acción
+
+#EXTINF:-1 tvg-id="ESBD80000288" tvg-name="ESBD80000288" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD80000288_20250513T005453SQUARE.png"  group-title="TEMATICOS ▶️", Runtime Acción
 https://jmp2.uk/sam-ESBD80000288.m3u8
-#EXTINF:-1 tvg-id="ES300006QJ" tvg-name="ES300006QJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300006QJ_20250415T021808SQUARE.png"  group-title="Samsung▶️" , Sony One Hits Acción
+
+#EXTINF:-1 tvg-id="ES300006QJ" tvg-name="ES300006QJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300006QJ_20250415T021808SQUARE.png"  group-title="TEMATICOS ▶️", Sony One Hits Acción
 https://jmp2.uk/sam-ES300006QJ.m3u8
-#EXTINF:-1 tvg-id="ES2600003UM" tvg-name="ES2600003UM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600003UM_20241022T050439SQUARE.png"  group-title="Samsung▶️" , Películas de Drama - Rakuten TV
+
+#EXTINF:-1 tvg-id="ES2600003UM" tvg-name="ES2600003UM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600003UM_20241022T050439SQUARE.png"  group-title="TEMATICOS ▶️", Películas de Drama - Rakuten TV
 https://jmp2.uk/sam-ES2600003UM.m3u8
-#EXTINF:-1 tvg-id="ES2600004BD" tvg-name="ES2600004BD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600004BD_20241126T043053SQUARE.png"  group-title="Samsung▶️" , Acción - Rakuten TV
+
+#EXTINF:-1 tvg-id="ES2600004BD" tvg-name="ES2600004BD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600004BD_20241126T043053SQUARE.png"  group-title="TEMATICOS ▶️", Acción - Rakuten TV
 https://jmp2.uk/sam-ES2600004BD.m3u8
-#EXTINF:-1 tvg-id="ESBC2100002LV" tvg-name="ESBC2100002LV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100002LV_20241022T051144SQUARE.png"  group-title="Samsung▶️" , Vevo Latino
+
+#EXTINF:-1 tvg-id="ESBC2100002LV" tvg-name="ESBC2100002LV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100002LV_20241022T051144SQUARE.png"  group-title="TEMATICOS ▶️", Vevo Latino
 https://jmp2.uk/sam-ESBC2100002LV.m3u8
-#EXTINF:-1 tvg-id="ESBD230000289" tvg-name="ESBD230000289" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000289_20250513T005434SQUARE.png"  group-title="Samsung▶️" , Vevo '70s & '80s
+
+#EXTINF:-1 tvg-id="ESBD230000289" tvg-name="ESBD230000289" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000289_20250513T005434SQUARE.png"  group-title="TEMATICOS ▶️", Vevo '70s & '80s
 https://jmp2.uk/sam-ESBD230000289.m3u8
-#EXTINF:-1 tvg-id="ESBC2100001IU" tvg-name="ESBC2100001IU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100001IU_20241022T051146SQUARE.png"  group-title="Samsung▶️" , Vevo Pop
+
+#EXTINF:-1 tvg-id="ESBC2100001IU" tvg-name="ESBC2100001IU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100001IU_20241022T051146SQUARE.png"  group-title="TEMATICOS ▶️", Vevo Pop
 https://jmp2.uk/sam-ESBC2100001IU.m3u8
-#EXTINF:-1 tvg-id="ESBA3300042Y6" tvg-name="ESBA3300042Y6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300042Y6_20241022T051129SQUARE.png"  group-title="Samsung▶️" , Trace Latina
+
+#EXTINF:-1 tvg-id="ESBA3300042Y6" tvg-name="ESBA3300042Y6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300042Y6_20241022T051129SQUARE.png"  group-title="TEMATICOS ▶️", Trace Latina
 https://jmp2.uk/sam-ESBA3300042Y6.m3u8
-#EXTINF:-1 tvg-id="ESBA3300043M0" tvg-name="ESBA3300043M0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300043M0_20241022T051131SQUARE.png"  group-title="Samsung▶️" , Trace Urban
+
+#EXTINF:-1 tvg-id="ESBA3300043M0" tvg-name="ESBA3300043M0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300043M0_20241022T051131SQUARE.png"  group-title="TEMATICOS ▶️", Trace Urban
 https://jmp2.uk/sam-ESBA3300043M0.m3u8
-#EXTINF:-1 tvg-id="ESBD2300004Y7" tvg-name="ESBD2300004Y7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300004Y7_20241022T051039SQUARE.png"  group-title="Samsung▶️" , Sol Música
+
+#EXTINF:-1 tvg-id="ESBD2300004Y7" tvg-name="ESBD2300004Y7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300004Y7_20241022T051039SQUARE.png"  group-title="TEMATICOS ▶️", Sol Música
 https://jmp2.uk/sam-ESBD2300004Y7.m3u8
-#EXTINF:-1 tvg-id="ES2500001F9" tvg-name="ES2500001F9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2500001F9_20241023T143110SQUARE.png"  group-title="Samsung▶️" , Cool Summer Channel
+
+#EXTINF:-1 tvg-id="ES2500001F9" tvg-name="ES2500001F9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2500001F9_20241023T143110SQUARE.png"  group-title="TEMATICOS ▶️", Cool Summer Channel
 https://jmp2.uk/sam-ES2500001F9.m3u8
-#EXTINF:-1 tvg-id="ES32000027M" tvg-name="ES32000027M" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES32000027M_20250307T152152SQUARE.png"  group-title="Samsung▶️" , CLIPS don't lie
+
+#EXTINF:-1 tvg-id="ES32000027M" tvg-name="ES32000027M" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES32000027M_20250307T152152SQUARE.png"  group-title="TEMATICOS ▶️", CLIPS don't lie
 https://jmp2.uk/sam-ES32000027M.m3u8
-#EXTINF:-1 tvg-id="ES3900001QG" tvg-name="ES3900001QG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3900001QG_20241105T025339SQUARE.png"  group-title="Samsung▶️" , K-POP by CJ ENM
+
+#EXTINF:-1 tvg-id="ES3900001QG" tvg-name="ES3900001QG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3900001QG_20241105T025339SQUARE.png"  group-title="TEMATICOS ▶️", K-POP by CJ ENM
 https://jmp2.uk/sam-ES3900001QG.m3u8
-#EXTINF:-1 tvg-id="ES1000001EF" tvg-name="ES1000001EF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1000001EF_20250513T005432SQUARE.png"  group-title="Samsung▶️" , SMTOWN
+
+#EXTINF:-1 tvg-id="ES1000001EF" tvg-name="ES1000001EF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1000001EF_20250513T005432SQUARE.png"  group-title="TEMATICOS ▶️", SMTOWN
 https://jmp2.uk/sam-ES1000001EF.m3u8
-#EXTINF:-1 tvg-id="ESBA1500001C4" tvg-name="ESBA1500001C4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1500001C4_20241022T050252SQUARE.png"  group-title="Samsung▶️" , Deluxe Lounge HD
+
+#EXTINF:-1 tvg-id="ESBA1500001C4" tvg-name="ESBA1500001C4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1500001C4_20241022T050252SQUARE.png"  group-title="TEMATICOS ▶️", Deluxe Lounge HD
 https://jmp2.uk/sam-ESBA1500001C4.m3u8
+
 #EXTINF:-1 tvg-id="ESAJ3800007PC" tvg-name="ESAJ3800007PC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800007PC_20241022T050753SQUARE.png"  group-title="Samsung▶️", Pluto TV Cocina
 https://jmp2.uk/sam-ESAJ3800007PC.m3u8
+
 #EXTINF:-1 tvg-id="ES300033TI" tvg-name="ES300033TI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300033TI_20250218T040000SQUARE.png"  group-title="Samsung▶️", Viajes & Sabores
 https://jmp2.uk/sam-ES300033TI.m3u8
+
 #EXTINF:-1 tvg-id="ESBC27000040I" tvg-name="ESBC27000040I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC27000040I_20250513T005445SQUARE.png"  group-title="Samsung▶️", GoUSA TV
 https://jmp2.uk/sam-ESBC27000040I.m3u8
-#EXTINF:-1 tvg-id="ES12000024R" tvg-name="ES12000024R" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES12000024R_20250513T005450SQUARE.png"  group-title="Samsung▶️" , Historia y Vida
+
+#EXTINF:-1 tvg-id="ES12000024R" tvg-name="ES12000024R" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES12000024R_20250513T005450SQUARE.png"  group-title="TEMATICOS ▶️", Historia y Vida
 https://jmp2.uk/sam-ES12000024R.m3u8
-#EXTINF:-1 tvg-id="ES33000036Q" tvg-name="ES33000036Q" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000036Q_20250408T021804SQUARE.png"  group-title="Samsung▶️" , RTVE Docs
+
+#EXTINF:-1 tvg-id="ES33000036Q" tvg-name="ES33000036Q" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000036Q_20250408T021804SQUARE.png"  group-title="TEMATICOS ▶️", RTVE Docs
 https://jmp2.uk/sam-ES33000036Q.m3u8
-#EXTINF:-1 tvg-id="ESBD1400003QN" tvg-name="ESBD1400003QN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400003QN_20241106T142225SQUARE.png"  group-title="Samsung▶️" , Royalworld - Nobleza y Dinastias
+
+#EXTINF:-1 tvg-id="ESBD1400003QN" tvg-name="ESBD1400003QN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400003QN_20241106T142225SQUARE.png"  group-title="TEMATICOS ▶️", Royalworld - Nobleza y Dinastias
 https://jmp2.uk/sam-ESBD1400003QN.m3u8
-#EXTINF:-1 tvg-id="ES3200001F1" tvg-name="ES3200001F1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200001F1_20241106T142245SQUARE.png"  group-title="Samsung▶️" , BBC Earth
+
+#EXTINF:-1 tvg-id="ES3200001F1" tvg-name="ES3200001F1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200001F1_20241106T142245SQUARE.png"  group-title="TEMATICOS ▶️", BBC Earth
 https://jmp2.uk/sam-ES3200001F1.m3u8
-#EXTINF:-1 tvg-id="ESBA22000102A" tvg-name="ESBA22000102A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA22000102A_20241022T050748SQUARE.png"  group-title="Samsung▶️" , NatureTime
+
+#EXTINF:-1 tvg-id="ESBA22000102A" tvg-name="ESBA22000102A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA22000102A_20241022T050748SQUARE.png"  group-title="TEMATICOS ▶️", NatureTime
 https://jmp2.uk/sam-ESBA22000102A.m3u8
-#EXTINF:-1 tvg-id="ESBA330004121" tvg-name="ESBA330004121" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA330004121_20241022T051202SQUARE.png"  group-title="Samsung▶️" , WildEarth
+
+#EXTINF:-1 tvg-id="ESBA330004121" tvg-name="ESBA330004121" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA330004121_20241022T051202SQUARE.png"  group-title="TEMATICOS ▶️", WildEarth
 https://jmp2.uk/sam-ESBA330004121.m3u8
-#EXTINF:-1 tvg-id="ESBC4700002TD" tvg-name="ESBC4700002TD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700002TD_20250304T115410SQUARE.png"  group-title="Samsung▶️" , Love the Planet
+
+#EXTINF:-1 tvg-id="ESBC4700002TD" tvg-name="ESBC4700002TD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700002TD_20250304T115410SQUARE.png"  group-title="TEMATICOS ▶️", Love the Planet
 https://jmp2.uk/sam-ESBC4700002TD.m3u8
-#EXTINF:-1 tvg-id="ESBC170000388" tvg-name="ESBC170000388" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC170000388_20241022T051159SQUARE.png"  group-title="Samsung▶️" , WaterBear
+
+#EXTINF:-1 tvg-id="ESBC170000388" tvg-name="ESBC170000388" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC170000388_20241022T051159SQUARE.png"  group-title="TEMATICOS ▶️", WaterBear
 https://jmp2.uk/sam-ESBC170000388.m3u8
-#EXTINF:-1 tvg-id="ESBA140000504" tvg-name="ESBA140000504" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA140000504_20241022T051108SQUARE.png"  group-title="Samsung▶️" , Stormcast Novelas
+
+#EXTINF:-1 tvg-id="ESBA140000504" tvg-name="ESBA140000504" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA140000504_20241022T051108SQUARE.png"  group-title="TEMATICOS ▶️", Stormcast Novelas
+
 https://jmp2.uk/sam-ESBA140000504.m3u8
-#EXTINF:-1 tvg-id="ESBC43000013T" tvg-name="ESBC43000013T" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20241106T142336SQUARE.png"  group-title="Samsung▶️" , Todo Novelas
+#EXTINF:-1 tvg-id="ESBC43000013T" tvg-name="ESBC43000013T" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20241106T142336SQUARE.png"  group-title="TEMATICOS ▶️", Todo Novelas
 https://jmp2.uk/sam-ESBC43000013T.m3u8
-#EXTINF:-1 tvg-id="ESAJ3800005C5" tvg-name="ESAJ3800005C5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800005C5_20241022T050710SQUARE.png"  group-title="Samsung▶️" , Comedia Made in Spain
+
+#EXTINF:-1 tvg-id="ESAJ3800005C5" tvg-name="ESAJ3800005C5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800005C5_20241022T050710SQUARE.png"  group-title="TEMATICOS ▶️", Comedia Made in Spain
 https://jmp2.uk/sam-ESAJ3800005C5.m3u8
-#EXTINF:-1 tvg-id="ESAJ3800003LX" tvg-name="ESAJ3800003LX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800003LX_20241022T050742SQUARE.png"  group-title="Samsung▶️" , MTV Catfish
+
+#EXTINF:-1 tvg-id="ESAJ3800003LX" tvg-name="ESAJ3800003LX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800003LX_20241022T050742SQUARE.png"  group-title="TEMATICOS ▶️", MTV Catfish
 https://jmp2.uk/sam-ESAJ3800003LX.m3u8
-#EXTINF:-1 tvg-id="ESBA1400006NP" tvg-name="ESBA1400006NP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400006NP_20241022T050721SQUARE.png"  group-title="Samsung▶️" , FailArmy
+
+#EXTINF:-1 tvg-id="ESBA1400006NP" tvg-name="ESBA1400006NP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400006NP_20241022T050721SQUARE.png"  group-title="TEMATICOS ▶️", FailArmy
 https://jmp2.uk/sam-ESBA1400006NP.m3u8
-#EXTINF:-1 tvg-id="ESAJ4500023Y5" tvg-name="ESAJ4500023Y5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500023Y5_20241022T050750SQUARE.png"  group-title="Samsung▶️" , People Are Awesome
+
+#EXTINF:-1 tvg-id="ESAJ4500023Y5" tvg-name="ESAJ4500023Y5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500023Y5_20241022T050750SQUARE.png"  group-title="TEMATICOS ▶️", People Are Awesome
 https://jmp2.uk/sam-ESAJ4500023Y5.m3u8
-#EXTINF:-1 tvg-id="ESAJ4500016BH" tvg-name="ESAJ4500016BH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500016BH_20241022T050852SQUARE.png"  group-title="Samsung▶️" , The Pet Collective
+
+#EXTINF:-1 tvg-id="ESAJ4500016BH" tvg-name="ESAJ4500016BH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500016BH_20241022T050852SQUARE.png"  group-title="TEMATICOS ▶️", The Pet Collective
 https://jmp2.uk/sam-ESAJ4500016BH.m3u8
-#EXTINF:-1 tvg-id="ESBC2700008SK" tvg-name="ESBC2700008SK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700008SK_20241022T051028SQUARE.png"  group-title="Samsung▶️" , Just For Laughs
+
+#EXTINF:-1 tvg-id="ESBC2700008SK" tvg-name="ESBC2700008SK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700008SK_20241022T051028SQUARE.png"  group-title="TEMATICOS ▶️", Just For Laughs
 https://jmp2.uk/sam-ESBC2700008SK.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2023,6 +2093,107 @@ http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1136243
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1017260
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png" group-title="NIÑOS▶️",  Las Tortugas Ninja
+http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363729
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="NIÑOS▶️",  Bob Esponja
+http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363731
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png" group-title="NIÑOS▶️",  Rugrats
+http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363733
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG.png" group-title="NIÑOS▶️",,  Pluto TV Toons Clásico
+http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363735
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6228b6a38717420007375848/colorLogoPNG.png" group-title="NIÑOS▶️",  PLUTO TV KIDS UKRAINE
+http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363738
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/624466b26ab25e0007dd7cfb/colorLogoPNG.png" group-title="NIÑOS▶️",  DORA LA EXPLARADORA
+http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363740
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG.png" group-title="NIÑOS▶️",  PLUTO TV KIDS
+http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363741
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1aa7aab66c76000790ee7e/colorLogoPNG.png" group-title="NIÑOS▶️",  BIG TIME RISH
+http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363743
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6181404ef48321000797bc41/colorLogoPNG.png" group-title="NIÑOS▶️",  ICARLY
+http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363745
+
+#EXTINF:-1 tvg-logo="http://go4.pw/SPAIN/LOS.png" group-title="NIÑOS▶️",  PLUTO TV ANA Y LOS 7 HD
+http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1089364
+
+
+#EXTINF:-1 tvg-id="ESBC4100003WE" tvg-name="ESBC4100003WE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100003WE_20241022T050516SQUARE.png" group-title="NIÑOS▶️", Clan
+https://jmp2.uk/sam-ESBC4100003WE.m3u8
+
+#EXTINF:-1 tvg-id="ES5000001CS" tvg-name="ES5000001CS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES5000001CS_20250218T035957SQUARE.png" group-title="NIÑOS▶️", LooLoo Kids
+https://jmp2.uk/sam-ES5000001CS.m3u8
+
+#EXTINF:-1 tvg-id="ESBD130000205" tvg-name="ESBD130000205" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD130000205_20241022T050609SQUARE.png" group-title="NIÑOS▶️", Pitufo TV
+https://jmp2.uk/sam-ESBD130000205.m3u8
+
+#EXTINF:-1 tvg-id="ES4800002OZ" tvg-name="ES4800002OZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4800002OZ_20250121T012820SQUARE.png" group-title="NIÑOS▶️", Caillou
+https://jmp2.uk/sam-ES4800002OZ.m3u8
+
+#EXTINF:-1 tvg-id="ESBC3900004ED" tvg-name="ESBC3900004ED" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900004ED_20250211T014050SQUARE.png" group-title="NIÑOS▶️", Pocoyó
+https://jmp2.uk/sam-ESBC3900004ED.m3u8
+
+#EXTINF:-1 tvg-id="ESBC4700001GR" tvg-name="ESBC4700001GR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700001GR_20241022T050629SQUARE.png" group-title="NIÑOS▶️", duckTV
+https://jmp2.uk/sam-ESBC4700001GR.m3u8
+
+#EXTINF:-1 tvg-id="ESBD5100001G0" tvg-name="ESBD5100001G0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD5100001G0_20241106T142201SQUARE.png" group-title="NIÑOS▶️", SuperToons TV
+https://jmp2.uk/sam-ESBD5100001G0.m3u8
+
+#EXTINF:-1 tvg-id="ES900001SH" tvg-name="ES900001SH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES900001SH_20241022T050553SQUARE.png" group-title="NIÑOS▶️", Mr Bean Animated
+https://jmp2.uk/sam-ES900001SH.m3u8
+
+#EXTINF:-1 tvg-id="ESBD3200002V5" tvg-name="ESBD3200002V5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3200002V5_20250307T152147SQUARE.png" group-title="NIÑOS▶️", La Abeja Maya
+https://jmp2.uk/sam-ESBD3200002V5.m3u8
+
+#EXTINF:-1 tvg-id="ES340000152" tvg-name="ES340000152" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES340000152_20250326T013206SQUARE.png" group-title="NIÑOS▶️", Video Game Heroes
+https://jmp2.uk/sam-ES340000152.m3u8
+
+#EXTINF:-1 tvg-id="ESBD2300003S5" tvg-name="ESBD2300003S5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300003S5_20241106T142156SQUARE.png" group-title="NIÑOS▶️", Rabbids : La invasion
+https://jmp2.uk/sam-ESBD2300003S5.m3u8
+
+#EXTINF:-1 tvg-id="ESBA33000324U" tvg-name="ESBA33000324U" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000324U_20241022T050615SQUARE.png" group-title="NIÑOS▶️", Rugrats
+https://jmp2.uk/sam-ESBA33000324U.m3u8
+
+#EXTINF:-1 tvg-id="ESBA33000262Z" tvg-name="ESBA33000262Z" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000262Z_20250307T152119SQUARE.png" group-title="NIÑOS▶️", Bob Esponja
+https://jmp2.uk/sam-ESBA33000262Z.m3u8
+
+#EXTINF:-1 tvg-id="ESAJ3800009VJ" tvg-name="ESAJ3800009VJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800009VJ_20241022T050359SQUARE.png" group-title="NIÑOS▶️", Pluto TV Animakids
+https://jmp2.uk/sam-ESAJ3800009VJ.m3u8
+
+#EXTINF:-1 tvg-id="ES2600008NX" tvg-name="ES2600008NX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600008NX_20241210T052643SQUARE.png" group-title="NIÑOS▶️", Rantaró, El Ninja Boy
+https://jmp2.uk/sam-ES2600008NX.m3u8
+
+#EXTINF:-1 tvg-id="ESAJ38000046O" tvg-name="ESAJ38000046O" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ38000046O_20241022T050405SQUARE.png" group-title="NIÑOS▶️", Pluto TV Kids
+https://jmp2.uk/sam-ESAJ38000046O.m3u8
+
+#EXTINF:-1 tvg-id="ESBA3300028OE" tvg-name="ESBA3300028OE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300028OE_20241022T050631SQUARE.png" group-title="NIÑOS▶️", iCarly
+https://jmp2.uk/sam-ESBA3300028OE.m3u8
+
+#EXTINF:-1 tvg-id="ES260001081" tvg-name="ES260001081" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260001081_20250107T024924SQUARE.png" group-title="NIÑOS▶️", En Familia - Rakuten TV
+https://jmp2.uk/sam-ES260001081.m3u8
+
+#EXTINF:-1 tvg-id="ES700004C8" tvg-name="ES700004C8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES700004C8_20250211T014052SQUARE.png"  group-title="NIÑOS▶️", Runtime Familia
+https://jmp2.uk/sam-ES700004C8.m3u8
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-name="  GOLD TV 24/7 | NINOS 1 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png" group-title="NIÑOS▶️",  GOLD TV 24/7 | NINOS 1 HD
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/620993
 #EXTINF:-1 tvg-name="  GOLD TV 24/7 | NINOS 2 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png" group-title="NIÑOS▶️",  GOLD TV 24/7 | NINOS 2 HD
@@ -2038,50 +2209,48 @@ http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/620996
 
 
 
-#EXTINF:-1 tvg-id="mplusorginales.es" tvg-name=" MOVISTAR ORIGINALES HD" tvg-logo="http://go4.pw/SPAIN/M+ ORIGINALES.png" group-title="MOVISTAR▶️", MOVISTAR ORIGINALES 
+
+
+#EXTINF:-1 tvg-id="mplusorginales.es" tvg-name=" MOVISTAR ORIGINALES HD" tvg-logo="http://go4.pw/SPAIN/M+ ORIGINALES.png" group-title="TV,CINE Y SERIES▶️", MOVISTAR ORIGINALES 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/445029
 
 
-#EXTINF:-1 tvg-name=" M+ FHD" tvg-logo="http://go4.pw/SPAIN/M+.png" group-title="MOVISTAR▶️", M+ 
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/979325
-
-#EXTINF:-1 tvg-name=" M+ 2 FHD" tvg-logo="http://go4.pw/SPAIN/m2.png" group-title="MOVISTAR▶️", M+ 2 
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/979327
 
 
-#EXTINF:-1 tvg-id="movistardcine.es" tvg-name=" MOVISTAR CINE SD" tvg-logo="http://go4.pw/SPAIN/CI.png" group-title="MOVISTAR▶️", MOVISTAR CINE 
+
+#EXTINF:-1 tvg-id="movistardcine.es" tvg-name=" MOVISTAR CINE SD" tvg-logo="http://go4.pw/SPAIN/CI.png" group-title="TV,CINE Y SERIES▶️", MOVISTAR CINE 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1061272
 
 
 
-#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name=" MOVISTAR ESTRENOS FHD" tvg-logo="http://go4.pw/SPAIN/ES.png" group-title="MOVISTAR▶️", MOVISTAR ESTRENOS 
+#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name=" MOVISTAR ESTRENOS FHD" tvg-logo="http://go4.pw/SPAIN/ES.png" group-title="TV,CINE Y SERIES▶️", MOVISTAR ESTRENOS 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/591071
 
 
-#EXTINF:-1 tvg-id="movistardcine.es" tvg-name=" MOVISTAR CINE ESPANOL" tvg-logo="http://go4.pw/SPAIN/CI.png" group-title="MOVISTAR▶️", MOVISTAR CINE ESPANOL
+#EXTINF:-1 tvg-id="movistardcine.es" tvg-name=" MOVISTAR CINE ESPANOL" tvg-logo="http://go4.pw/SPAIN/CI.png" group-title="TV,CINE Y SERIES▶️", MOVISTAR CINE ESPANOL
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/445028
 
 
 
-#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name=" MOVISTAR ACCION FHD" tvg-logo="http://go4.pw/SPAIN/AC.png" group-title="MOVISTAR▶️", MOVISTAR ACCION 
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name=" MOVISTAR ACCION FHD" tvg-logo="http://go4.pw/SPAIN/AC.png" group-title="TV,CINE Y SERIES▶️", MOVISTAR ACCION 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/591070
 
-#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name=" MOVISTAR COMEDIA FHD" tvg-logo="http://go4.pw/SPAIN/CO.png" group-title="MOVISTAR▶️", MOVISTAR COMEDIA 
+#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name=" MOVISTAR COMEDIA FHD" tvg-logo="http://go4.pw/SPAIN/CO.png" group-title="TV,CINE Y SERIES▶️", MOVISTAR COMEDIA 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/390104
 
 
 
-#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="ES -MOVISTAR DRAMA HD" tvg-logo="http://go4.pw/EUROPE/SPAIN/M.DRAMA.png" group-title="MOVISTAR▶️",ES -MOVISTAR DRAMA 
+#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="ES -MOVISTAR DRAMA HD" tvg-logo="http://go4.pw/EUROPE/SPAIN/M.DRAMA.png" group-title="TV,CINE Y SERIES▶️",ES -MOVISTAR DRAMA 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/21303
 
 
-#EXTINF:-1 tvg-id="movistarseries.es" tvg-name=" MOVISTAR SERIES FHD" tvg-logo="http://go4.pw/SPAIN/SE.png" group-title="MOVISTAR▶️", MOVISTAR SERIES 
+#EXTINF:-1 tvg-id="movistarseries.es" tvg-name=" MOVISTAR SERIES FHD" tvg-logo="http://go4.pw/SPAIN/SE.png" group-title="TV,CINE Y SERIES▶️", MOVISTAR SERIES 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/591069
 
-#EXTINF:-1 tvg-id="movistarseries.es" tvg-name=" MOVISTAR SERIES 2 HD" tvg-logo="http://go4.pw/SPAIN/SE.png" group-title="MOVISTAR▶️", MOVISTAR SERIES 2 
+#EXTINF:-1 tvg-id="movistarseries.es" tvg-name=" MOVISTAR SERIES 2 HD" tvg-logo="http://go4.pw/SPAIN/SE.png" group-title="TV,CINE Y SERIES▶️", MOVISTAR SERIES 2 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/591072
 
-#EXTINF:-1 tvg-id="13tv.es" tvg-name=" MOVISTAR SERIESMANIA HD" tvg-logo="http://go4.pw/SPAIN/XTRA.png" group-title="MOVISTAR▶️", MOVISTAR SERIESMANIA 
+#EXTINF:-1 tvg-id="13tv.es" tvg-name=" MOVISTAR SERIESMANIA HD" tvg-logo="http://go4.pw/SPAIN/XTRA.png" group-title="TV,CINE Y SERIES▶️", MOVISTAR SERIESMANIA 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/21296
 
 
@@ -2091,72 +2260,72 @@ http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/21296
 
 
 
-#EXTINF:-1 tvg-name=" MOVISTAR RESISTENCIA HD" tvg-logo="http://go4.pw/SPAIN/m+.png" group-title="MOVISTAR▶️", MOVISTAR RESISTENCIA 
+#EXTINF:-1 tvg-name=" MOVISTAR RESISTENCIA HD" tvg-logo="http://go4.pw/SPAIN/m+.png" group-title="TV,CINE Y SERIES▶️", MOVISTAR RESISTENCIA 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/268006
-#EXTINF:-1 tvg-name=" MOVISTAR BOM CINE HD" tvg-logo="http://go4.pw/SPAIN/bomcine.png" group-title="MOVISTAR▶️", MOVISTAR BOM CINE
+#EXTINF:-1 tvg-name=" MOVISTAR BOM CINE HD" tvg-logo="http://go4.pw/SPAIN/bomcine.png" group-title="TV,CINE Y SERIES▶️", MOVISTAR BOM CINE
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/302909
-#EXTINF:-1 tvg-name=" MOVISTAR CRIMEN HD" tvg-logo="http://go4.pw/SPAIN/crimen.png" group-title="MOVISTAR▶️", MOVISTAR CRIMEN 
+#EXTINF:-1 tvg-name=" MOVISTAR CRIMEN HD" tvg-logo="http://go4.pw/SPAIN/crimen.png" group-title="TV,CINE Y SERIES▶️", MOVISTAR CRIMEN 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/302910
 
-#EXTINF:-1 tvg-id="movistarclasicos.es" tvg-name=" MOVISTAR CLASICOS SD" tvg-logo="http://go4.pw/SPAIN/CLASICOS.png" group-title="MOVISTAR▶️", MOVISTAR CLASICOS
+#EXTINF:-1 tvg-id="movistarclasicos.es" tvg-name=" MOVISTAR CLASICOS SD" tvg-logo="http://go4.pw/SPAIN/CLASICOS.png" group-title="TV,CINE Y SERIES▶️", MOVISTAR CLASICOS
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1061271
 
 
-#EXTINF:-1 tvg-name=" MOVISTAR 2022 1 HD" tvg-logo="http://go4.pw/SPAIN/MOVISTAR.png" group-title="MOVISTAR▶️", MOVISTAR 2022 1 HD
+#EXTINF:-1 tvg-name=" MOVISTAR 2022 1 HD" tvg-logo="http://go4.pw/SPAIN/MOVISTAR.png" group-title="TV,CINE Y SERIES▶️", MOVISTAR 2022 1 HD
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1027538
-#EXTINF:-1 tvg-name=" MOVISTAR 2022 2 HD" tvg-logo="http://go4.pw/SPAIN/MOVISTAR.png" group-title="MOVISTAR▶️", MOVISTAR 2022 2 HD
+#EXTINF:-1 tvg-name=" MOVISTAR 2022 2 HD" tvg-logo="http://go4.pw/SPAIN/MOVISTAR.png" group-title="TV,CINE Y SERIES▶️", MOVISTAR 2022 2 HD
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1027539
-#EXTINF:-1 tvg-name=" MOVISTAR 2022 3 HD" tvg-logo="http://go4.pw/SPAIN/MOVISTAR.png" group-title="MOVISTAR▶️", MOVISTAR 2022 3 HD
+#EXTINF:-1 tvg-name=" MOVISTAR 2022 3 HD" tvg-logo="http://go4.pw/SPAIN/MOVISTAR.png" group-title="TV,CINE Y SERIES▶️", MOVISTAR 2022 3 HD
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1027540
 
-#EXTINF:-1 tvg-name=" MOVISTAR 2021 4 HD" tvg-logo="http://go4.pw/SPAIN/MOVISTAR.png" group-title="MOVISTAR▶️", MOVISTAR 2021 4 HD
+#EXTINF:-1 tvg-name=" MOVISTAR 2021 4 HD" tvg-logo="http://go4.pw/SPAIN/MOVISTAR.png" group-title="TV,CINE Y SERIES▶️", MOVISTAR 2021 4 HD
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1027544
 
-#EXTINF:-1 tvg-name=" MOVISTAR 2020 5 HD" tvg-logo="http://go4.pw/SPAIN/MOVISTAR.png" group-title="MOVISTAR▶️", MOVISTAR 2020 5 HD
+#EXTINF:-1 tvg-name=" MOVISTAR 2020 5 HD" tvg-logo="http://go4.pw/SPAIN/MOVISTAR.png" group-title="TV,CINE Y SERIES▶️", MOVISTAR 2020 5 HD
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1027556
 
-#EXTINF:-1 tvg-name=" MOVISTAR 2021 6 HD" tvg-logo="http://go4.pw/SPAIN/MOVISTAR.png" group-title="MOVISTAR▶️", MOVISTAR 2021 6 HD
+#EXTINF:-1 tvg-name=" MOVISTAR 2021 6 HD" tvg-logo="http://go4.pw/SPAIN/MOVISTAR.png" group-title="TV,CINE Y SERIES▶️", MOVISTAR 2021 6 HD
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1027546
 
-#EXTINF:-1 tvg-name=" MOVISTAR 2021 7 HD" tvg-logo="http://go4.pw/SPAIN/MOVISTAR.png" group-title="MOVISTAR▶️", MOVISTAR 2021 7 HD
+#EXTINF:-1 tvg-name=" MOVISTAR 2021 7 HD" tvg-logo="http://go4.pw/SPAIN/MOVISTAR.png" group-title="TV,CINE Y SERIES▶️", MOVISTAR 2021 7 HD
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1027548
 
-#EXTINF:-1 tvg-name=" MOVISTAR 2021 8 HD" tvg-logo="http://go4.pw/SPAIN/MOVISTAR.png" group-title="MOVISTAR▶️", MOVISTAR 2021 8 HD
+#EXTINF:-1 tvg-name=" MOVISTAR 2021 8 HD" tvg-logo="http://go4.pw/SPAIN/MOVISTAR.png" group-title="TV,CINE Y SERIES▶️", MOVISTAR 2021 8 HD
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1027549
 
-#EXTINF:-1 tvg-name=" MOVISTAR 2021 9 HD" tvg-logo="http://go4.pw/SPAIN/MOVISTAR.png" group-title="MOVISTAR▶️", MOVISTAR 2021 9 HD
+#EXTINF:-1 tvg-name=" MOVISTAR 2021 9 HD" tvg-logo="http://go4.pw/SPAIN/MOVISTAR.png" group-title="TV,CINE Y SERIES▶️", MOVISTAR 2021 9 HD
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1027550
 
-#EXTINF:-1 tvg-name=" MOVISTAR 2021 10 HD" tvg-logo="http://go4.pw/SPAIN/MOVISTAR.png" group-title="MOVISTAR▶️", MOVISTAR 2021 10 HD
+#EXTINF:-1 tvg-name=" MOVISTAR 2021 10 HD" tvg-logo="http://go4.pw/SPAIN/MOVISTAR.png" group-title="TV,CINE Y SERIES▶️", MOVISTAR 2021 10 HD
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1027551
 
 
 
-#EXTINF:-1 tvg-name=" MOVISTAR CLINT EASTWOOD FHD" tvg-logo="http://go4.pw/SPAIN/EASTWOOD.png" group-title="MOVISTAR▶️", MOVISTAR CLINT EASTWOOD 
+#EXTINF:-1 tvg-name=" MOVISTAR CLINT EASTWOOD FHD" tvg-logo="http://go4.pw/SPAIN/EASTWOOD.png" group-title="TV,CINE Y SERIES▶️", MOVISTAR CLINT EASTWOOD 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1061273
 
-#EXTINF:-1 tvg-id="mplusindie.es" tvg-name=" MOVISTAR INDIE SD" tvg-logo="http://go4.pw/SPAIN/INDIE.png" group-title="MOVISTAR▶️", MOVISTAR INDIE 
+#EXTINF:-1 tvg-id="mplusindie.es" tvg-name=" MOVISTAR INDIE SD" tvg-logo="http://go4.pw/SPAIN/INDIE.png" group-title="TV,CINE Y SERIES▶️", MOVISTAR INDIE 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1061274
 
 
-#EXTINF:-1 tvg-id="alquiler1.es" tvg-name=" ALQUILER 1 HD" tvg-logo="http://go4.pw/SPAIN/ALQUILER.png" group-title="MOVISTAR▶️", ALQUILER 1 
+#EXTINF:-1 tvg-id="alquiler1.es" tvg-name=" ALQUILER 1 HD" tvg-logo="http://go4.pw/SPAIN/ALQUILER.png" group-title="TV,CINE Y SERIES▶️", ALQUILER 1 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/665474
 
-#EXTINF:-1 tvg-name=" ALQUILER 2 HD" tvg-logo="http://go4.pw/SPAIN/ALQUILER.png" group-title="MOVISTAR▶️", ALQUILER 2 
+#EXTINF:-1 tvg-name=" ALQUILER 2 HD" tvg-logo="http://go4.pw/SPAIN/ALQUILER.png" group-title="TV,CINE Y SERIES▶️", ALQUILER 2 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/665475
 
 
-#EXTINF:-1 tvg-name=" M PELICULAS 1 HD" tvg-logo="http://go4.pw/SPAIN/PELICULAS.png" group-title="MOVISTAR▶️", M PELICULAS 1 HD
+#EXTINF:-1 tvg-name=" M PELICULAS 1 HD" tvg-logo="http://go4.pw/SPAIN/PELICULAS.png" group-title="TV,CINE Y SERIES▶️", M PELICULAS 1 HD
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1027557
-#EXTINF:-1 tvg-name=" M PELICULAS 2 HD" tvg-logo="http://go4.pw/SPAIN/PELICULAS.png" group-title="MOVISTAR▶️", M PELICULAS 2 HD
+#EXTINF:-1 tvg-name=" M PELICULAS 2 HD" tvg-logo="http://go4.pw/SPAIN/PELICULAS.png" group-title="TV,CINE Y SERIES▶️", M PELICULAS 2 HD
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1027558
-#EXTINF:-1 tvg-name=" M PELICULAS 3 HD" tvg-logo="http://go4.pw/SPAIN/PELICULAS.png" group-title="MOVISTAR▶️", M PELICULAS 3 HD
+#EXTINF:-1 tvg-name=" M PELICULAS 3 HD" tvg-logo="http://go4.pw/SPAIN/PELICULAS.png" group-title="TV,CINE Y SERIES▶️", M PELICULAS 3 HD
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1027559
-#EXTINF:-1 tvg-name=" M PELICULAS 6 HD" tvg-logo="http://go4.pw/SPAIN/PELICULAS.png" group-title="MOVISTAR▶️", M PELICULAS 6 HD
+#EXTINF:-1 tvg-name=" M PELICULAS 6 HD" tvg-logo="http://go4.pw/SPAIN/PELICULAS.png" group-title="TV,CINE Y SERIES▶️", M PELICULAS 6 HD
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1027560
-#EXTINF:-1 tvg-name=" M PELICULAS 4 HD" tvg-logo="http://go4.pw/SPAIN/PELICULAS.png" group-title="MOVISTAR▶️", M PELICULAS 4 HD
+#EXTINF:-1 tvg-name=" M PELICULAS 4 HD" tvg-logo="http://go4.pw/SPAIN/PELICULAS.png" group-title="TV,CINE Y SERIES▶️", M PELICULAS 4 HD
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1027561
-#EXTINF:-1 tvg-name=" M PELICULAS 5 HD" tvg-logo="http://go4.pw/SPAIN/PELICULAS.png" group-title="MOVISTAR▶️", M PELICULAS 5 HD
+#EXTINF:-1 tvg-name=" M PELICULAS 5 HD" tvg-logo="http://go4.pw/SPAIN/PELICULAS.png" group-title="TV,CINE Y SERIES▶️", M PELICULAS 5 HD
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1027562
 
 
@@ -2165,60 +2334,60 @@ http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1027562
 
 
 
-#EXTINF:-1 tvg-id="mplusdocumentales.es" tvg-name=" MOVISTAR DOCUMENTALES SD" tvg-logo="http://go4.pw/SPAIN/MOVISTAR.png" group-title="MOVISTAR▶️", MOVISTAR DOCUMENTALES 
+#EXTINF:-1 tvg-id="mplusdocumentales.es" tvg-name=" MOVISTAR DOCUMENTALES SD" tvg-logo="http://go4.pw/SPAIN/MOVISTAR.png" group-title="TV,CINE Y SERIES▶️", MOVISTAR DOCUMENTALES 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1061277
 
-#EXTINF:-1 tvg-id="eltorotv.es" tvg-name=" ELTORO TV FHD" tvg-logo="http://go4.pw/SPAIN/ELTORO.png" group-title="MOVISTAR▶️", ELTORO TV 
+#EXTINF:-1 tvg-id="eltorotv.es" tvg-name=" ELTORO TV FHD" tvg-logo="http://go4.pw/SPAIN/ELTORO.png" group-title="TV,CINE Y SERIES▶️", ELTORO TV 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1029257
-#EXTINF:-1 tvg-id="bemad.es" tvg-name=" BEMAD FHD" tvg-logo="http://go4.pw/SPAIN/be.png" group-title="MOVISTAR▶️", BEMAD 
+#EXTINF:-1 tvg-id="bemad.es" tvg-name=" BEMAD FHD" tvg-logo="http://go4.pw/SPAIN/be.png" group-title="TV,CINE Y SERIES▶️", BEMAD 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1029261
-#EXTINF:-1 tvg-name=" TELE NOVELAS FHD" tvg-logo="http://go4.pw/SPAIN/NOVELAS.png" group-title="MOVISTAR▶️", TELE NOVELAS 
+#EXTINF:-1 tvg-name=" TELE NOVELAS FHD" tvg-logo="http://go4.pw/SPAIN/NOVELAS.png" group-title="TV,CINE Y SERIES▶️", TELE NOVELAS 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1029288
 
-#EXTINF:-1 tvg-name=" FÍSICA O QUÍMICA FHD" tvg-logo="http://go4.pw/SPAIN/QUÍMICA.png" group-title="MOVISTAR▶️", FÍSICA O QUÍMICA 
+#EXTINF:-1 tvg-name=" FÍSICA O QUÍMICA FHD" tvg-logo="http://go4.pw/SPAIN/QUÍMICA.png" group-title="TV,CINE Y SERIES▶️", FÍSICA O QUÍMICA 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1061289
 
-#EXTINF:-1 tvg-name=" EL HORMIGUERO FHD" tvg-logo="http://go4.pw/SPAIN/HORMIGUERO.png" group-title="MOVISTAR▶️", EL HORMIGUERO 
+#EXTINF:-1 tvg-name=" EL HORMIGUERO FHD" tvg-logo="http://go4.pw/SPAIN/HORMIGUERO.png" group-title="TV,CINE Y SERIES▶️", EL HORMIGUERO 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1061294
 
-#EXTINF:-1 tvg-name=" EQUIPO DE INVESTIGACIÓN FHD" tvg-logo="http://go4.pw/SPAIN/INVESTIGACIÓN.png" group-title="MOVISTAR▶️", EQUIPO DE INVESTIGACIÓN 
+#EXTINF:-1 tvg-name=" EQUIPO DE INVESTIGACIÓN FHD" tvg-logo="http://go4.pw/SPAIN/INVESTIGACIÓN.png" group-title="TV,CINE Y SERIES▶️", EQUIPO DE INVESTIGACIÓN 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1061297
 
-#EXTINF:-1 tvg-name=" ATRESPLAYER CLÁSICOS FHD" tvg-logo="http://go4.pw/SPAIN/ATRESPLAYER.png" group-title="MOVISTAR▶️", ATRESPLAYER CLÁSICOS 
+#EXTINF:-1 tvg-name=" ATRESPLAYER CLÁSICOS FHD" tvg-logo="http://go4.pw/SPAIN/ATRESPLAYER.png" group-title="TV,CINE Y SERIES▶️", ATRESPLAYER CLÁSICOS 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1061300
 
-#EXTINF:-1 tvg-name=" ATRESPLAYER COMEDIA FHD" tvg-logo="http://go4.pw/SPAIN/ATRESPLAYER.png" group-title="MOVISTAR▶️", ATRESPLAYER COMEDIA 
+#EXTINF:-1 tvg-name=" ATRESPLAYER COMEDIA FHD" tvg-logo="http://go4.pw/SPAIN/ATRESPLAYER.png" group-title="TV,CINE Y SERIES▶️", ATRESPLAYER COMEDIA 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1061303
 
-#EXTINF:-1 tvg-name=" ATRESPLAYER MENTES INQUIETAS FHD" tvg-logo="http://go4.pw/SPAIN/ATRESPLAYER.png" group-title="MOVISTAR▶️", ATRESPLAYER MENTES INQUIETAS 
+#EXTINF:-1 tvg-name=" ATRESPLAYER MENTES INQUIETAS FHD" tvg-logo="http://go4.pw/SPAIN/ATRESPLAYER.png" group-title="TV,CINE Y SERIES▶️", ATRESPLAYER MENTES INQUIETAS 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1061306
 
-#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name=" PARAMOUNT FHD" tvg-logo="http://go4.pw/USA/SD/11.png" group-title="MOVISTAR▶️", PARAMOUNT 
+#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name=" PARAMOUNT FHD" tvg-logo="http://go4.pw/USA/SD/11.png" group-title="TV,CINE Y SERIES▶️", PARAMOUNT 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/21280
-#EXTINF:-1 tvg-name=" FLOOXER FHD" tvg-logo="http://go4.pw/SPAIN/FLOOXER.png" group-title="MOVISTAR▶️", FLOOXER 
+#EXTINF:-1 tvg-name=" FLOOXER FHD" tvg-logo="http://go4.pw/SPAIN/FLOOXER.png" group-title="TV,CINE Y SERIES▶️", FLOOXER 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1061309
 
-#EXTINF:-1 tvg-name=" ¡HOLA! PLAY HD" tvg-logo="http://go4.pw/LATINO/holatv.png" group-title="MOVISTAR▶️", ¡HOLA! PLAY 
+#EXTINF:-1 tvg-name=" ¡HOLA! PLAY HD" tvg-logo="http://go4.pw/LATINO/holatv.png" group-title="TV,CINE Y SERIES▶️", ¡HOLA! PLAY 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1061312
 
-#EXTINF:-1 tvg-id="bemad.es" tvg-name=" BEMAD SD" tvg-logo="http://go4.pw/SPAIN/be.png" group-title="MOVISTAR▶️", BEMAD 
+#EXTINF:-1 tvg-id="bemad.es" tvg-name=" BEMAD SD" tvg-logo="http://go4.pw/SPAIN/be.png" group-title="TV,CINE Y SERIES▶️", BEMAD 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1061317
-#EXTINF:-1 tvg-id="energy.es" tvg-name=" ENERGY HD" tvg-logo="http://go4.pw/EUROPE/SPAIN/ENERGY.png" group-title="MOVISTAR▶️", ENERGY
+#EXTINF:-1 tvg-id="energy.es" tvg-name=" ENERGY HD" tvg-logo="http://go4.pw/EUROPE/SPAIN/ENERGY.png" group-title="TV,CINE Y SERIES▶️", ENERGY
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/21323
 
-#EXTINF:-1 tvg-name=" FDF HD" tvg-logo="http://go4.pw/EUROPE/SPAIN/FDF.png" group-title="MOVISTAR▶️", FDF
+#EXTINF:-1 tvg-name=" FDF HD" tvg-logo="http://go4.pw/EUROPE/SPAIN/FDF.png" group-title="TV,CINE Y SERIES▶️", FDF
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/21358
 
-#EXTINF:-1 tvg-id="hollywood.es" tvg-name=" HOLLYWOOD HD" tvg-logo="http://go4.pw/EUROPE/SPAIN/HOLLYWOODHD.png" group-title="MOVISTAR▶️", HOLLYWOOD 
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name=" HOLLYWOOD HD" tvg-logo="http://go4.pw/EUROPE/SPAIN/HOLLYWOODHD.png" group-title="TV,CINE Y SERIES▶️", HOLLYWOOD 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/21356
 
-#EXTINF:-1 tvg-id="divinity.es" tvg-name=" DIVINITY HD" tvg-logo="http://go4.pw/SPAIN/DIVINITY.png" group-title="MOVISTAR▶️", DIVINITY 
+#EXTINF:-1 tvg-id="divinity.es" tvg-name=" DIVINITY HD" tvg-logo="http://go4.pw/SPAIN/DIVINITY.png" group-title="TV,CINE Y SERIES▶️", DIVINITY 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1027430
 
-#EXTINF:-1 tvg-id="bemad.es" tvg-name=" BE MAD HD" tvg-logo="http://go4.pw/EUROPE/SPAIN/BEMAD.png" group-title="MOVISTAR▶️", BE MAD
+#EXTINF:-1 tvg-id="bemad.es" tvg-name=" BE MAD HD" tvg-logo="http://go4.pw/EUROPE/SPAIN/BEMAD.png" group-title="TV,CINE Y SERIES▶️", BE MAD
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/662018
 
-#EXTINF:-1 tvg-id="energy.es" tvg-name=" ENERGY HD" tvg-logo="http://go4.pw/EUROPE/SPAIN/ENERGY.png" group-title="MOVISTAR▶️", ENERGY 
+#EXTINF:-1 tvg-id="energy.es" tvg-name=" ENERGY HD" tvg-logo="http://go4.pw/EUROPE/SPAIN/ENERGY.png" group-title="TV,CINE Y SERIES▶️", ENERGY 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/21323
 
 
@@ -2256,154 +2425,157 @@ http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/21323
 
 
 
-#EXTINF:-1 tvg-id="axn.es" tvg-name=" AXN FHD" tvg-logo="http://go4.pw/EUROPE/SPAIN/AXN.png"  group-title="CINE & SERIES▶️", AXN 
+#EXTINF:-1 tvg-id="axn.es" tvg-name=" AXN FHD" tvg-logo="http://go4.pw/EUROPE/SPAIN/AXN.png"  group-title="TV,CINE Y SERIES▶️", AXN 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/21337
 
 
-#EXTINF:-1 tvg-name=" AXN MOVIES HD" tvg-logo="http://go4.pw/germany/axnw.png"  group-title="CINE & SERIES▶️", AXN MOVIES 
+#EXTINF:-1 tvg-name=" AXN MOVIES HD" tvg-logo="http://go4.pw/germany/axnw.png"  group-title="TV,CINE Y SERIES▶️", AXN MOVIES 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1026522
 
-#EXTINF:-1 tvg-name=" A TRES SERIES FHD" tvg-logo="http://go4.pw/SPAIN/TRES.png"  group-title="CINE & SERIES▶️", A TRES SERIES 
+#EXTINF:-1 tvg-name=" A TRES SERIES FHD" tvg-logo="http://go4.pw/SPAIN/TRES.png"  group-title="TV,CINE Y SERIES▶️", A TRES SERIES 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1029370
 
-#EXTINF:-1 tvg-name=" WARNER FHD" tvg-logo="http://go4.pw/SPAIN/WAR.png"  group-title="CINE & SERIES▶️", WARNER 
+#EXTINF:-1 tvg-name=" WARNER FHD" tvg-logo="http://go4.pw/SPAIN/WAR.png"  group-title="TV,CINE Y SERIES▶️", WARNER 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1029275
 
 
-#EXTINF:-1 tvg-name=" WARNERBROS HD" tvg-logo="http://go4.pw/SPAIN/WAR.png"  group-title="CINE & SERIES▶️", WARNERBROS 
+#EXTINF:-1 tvg-name=" WARNERBROS HD" tvg-logo="http://go4.pw/SPAIN/WAR.png"  group-title="TV,CINE Y SERIES▶️", WARNERBROS 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1018481
 
-#EXTINF:-1 tvg-name=" ESCAPA TV FHD" tvg-logo="http://go4.pw/SPAIN/ESCAPA.png"  group-title="CINE & SERIES▶️", ESCAPA TV 
+#EXTINF:-1 tvg-name=" ESCAPA TV FHD" tvg-logo="http://go4.pw/SPAIN/ESCAPA.png"  group-title="TV,CINE Y SERIES▶️", ESCAPA TV 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1029567
 
-#EXTINF:-1 tvg-name=" 40 Y 20 FHD" tvg-logo="http://go4.pw/SPAIN/Y.png"  group-title="CINE & SERIES▶️", 40 Y 20 
+#EXTINF:-1 tvg-name=" 40 Y 20 FHD" tvg-logo="http://go4.pw/SPAIN/Y.png"  group-title="TV,CINE Y SERIES▶️", 40 Y 20 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1029568
 
 
-#EXTINF:-1 tvg-id="comedycentral.es" tvg-name=" COMEDY CENTRAL HD" tvg-logo="http://go4.pw/EUROPE/SPAIN/comedycentralhd.png"  group-title="CINE & SERIES▶️", COMEDY CENTRAL 
+#EXTINF:-1 tvg-id="comedycentral.es" tvg-name=" COMEDY CENTRAL HD" tvg-logo="http://go4.pw/EUROPE/SPAIN/comedycentralhd.png"  group-title="TV,CINE Y SERIES▶️", COMEDY CENTRAL 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/73070
 
-#EXTINF:-1 tvg-id="fox.es" tvg-name=" FOX HEVC" tvg-logo="http://go4.pw/AMERICA/USA/FOX.png"  group-title="CINE & SERIES▶️", FOX 
+#EXTINF:-1 tvg-id="fox.es" tvg-name=" FOX HEVC" tvg-logo="http://go4.pw/AMERICA/USA/FOX.png"  group-title="TV,CINE Y SERIES▶️", FOX 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1026524
 
-#EXTINF:-1 tvg-id="cosmo.es" tvg-name=" COSMO HD" tvg-logo="http://go4.pw/EUROPE/SPAIN/COSMOHD.png"  group-title="CINE & SERIES▶️", COSMO
+#EXTINF:-1 tvg-id="cosmo.es" tvg-name=" COSMO HD" tvg-logo="http://go4.pw/EUROPE/SPAIN/COSMOHD.png"  group-title="TV,CINE Y SERIES▶️", COSMO
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/21326
 
-#EXTINF:-1 tvg-id="syfy.es" tvg-name=" SYFY HD" tvg-logo="http://go4.pw/EUROPE/PORTUGAL/SyFy.png"  group-title="CINE & SERIES▶️", SYFY
+#EXTINF:-1 tvg-id="syfy.es" tvg-name=" SYFY HD" tvg-logo="http://go4.pw/EUROPE/PORTUGAL/SyFy.png"  group-title="TV,CINE Y SERIES▶️", SYFY
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/21279
 
 
-#EXTINF:-1 tvg-id="tcm.es" tvg-name=" TCM HD" tvg-logo="http://go4.pw/USA/SD/41.png"  group-title="CINE & SERIES▶️", TCM 
+#EXTINF:-1 tvg-id="tcm.es" tvg-name=" TCM HD" tvg-logo="http://go4.pw/USA/SD/41.png"  group-title="TV,CINE Y SERIES▶️", TCM 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/21278
 
 
-#EXTINF:-1 tvg-id="calle13.es" tvg-name=" CALLE 13 HD" tvg-logo="http://go4.pw/EUROPE/SPAIN/CALLE13HD.png"  group-title="CINE & SERIES▶️", CALLE 13 
+#EXTINF:-1 tvg-id="calle13.es" tvg-name=" CALLE 13 HD" tvg-logo="http://go4.pw/EUROPE/SPAIN/CALLE13HD.png"  group-title="TV,CINE Y SERIES▶️", CALLE 13 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/21333
 
 
-#EXTINF:-1 tvg-id="atreseries.es" tvg-name="  A3 SERIES HD" tvg-logo="http://go4.pw/SPAIN/A3S.png"  group-title="CINE & SERIES▶️",  A3 SERIES 
+#EXTINF:-1 tvg-id="atreseries.es" tvg-name="  A3 SERIES HD" tvg-logo="http://go4.pw/SPAIN/A3S.png"  group-title="TV,CINE Y SERIES▶️",  A3 SERIES 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/131162
 
-#EXTINF:-1 tvg-name=" BOM CINE HD" tvg-logo="http://go4.pw/SPAIN/bomcine.png"  group-title="CINE & SERIES▶️", BOM CINE 
+#EXTINF:-1 tvg-name=" BOM CINE HD" tvg-logo="http://go4.pw/SPAIN/bomcine.png"  group-title="TV,CINE Y SERIES▶️", BOM CINE 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1018452
 
-#EXTINF:-1 tvg-id="axnwhite.es" tvg-name=" BETEVE HD" tvg-logo="http://go4.pw/SPAIN/BETEVE.png"  group-title="CINE & SERIES▶️", BETEVE 
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-name=" BETEVE HD" tvg-logo="http://go4.pw/SPAIN/BETEVE.png"  group-title="TV,CINE Y SERIES▶️", BETEVE 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/21336
 
-#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name=" PARAMOUNT HD" tvg-logo="http://go4.pw/USA/SD/11.png"  group-title="CINE & SERIES▶️", PARAMOUNT 
+#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name=" PARAMOUNT HD" tvg-logo="http://go4.pw/USA/SD/11.png"  group-title="TV,CINE Y SERIES▶️", PARAMOUNT 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1018483
 
-#EXTINF:-1 tvg-id="fox.es" tvg-name=" STAR CHANNEL HD" tvg-logo="http://go4.pw/PORTUGAL/starchannel.png"  group-title="CINE & SERIES▶️", STAR CHANNEL 
+#EXTINF:-1 tvg-id="fox.es" tvg-name=" STAR CHANNEL HD" tvg-logo="http://go4.pw/PORTUGAL/starchannel.png"  group-title="TV,CINE Y SERIES▶️", STAR CHANNEL 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/21344
 
 
 
 
-#EXTINF:-1 tvg-name=" GOLD TV 24/7 | HOLLIWOOD FHD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="CINE & SERIES▶️", GOLD TV 24/7 | HOLLIWOOD 
+#EXTINF:-1 tvg-name=" GOLD TV 24/7 | HOLLIWOOD FHD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="TV,CINE Y SERIES▶️", GOLD TV 24/7 | HOLLIWOOD 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/975885
 
 
 
 
-#EXTINF:-1 tvg-name=" GOLD TV 24/7 | NETFLIX CINE HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="CINE & SERIES▶️", GOLD TV 24/7 | NETFLIX CINE 
+#EXTINF:-1 tvg-name=" GOLD TV 24/7 | NETFLIX CINE HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="TV,CINE Y SERIES▶️", GOLD TV 24/7 | NETFLIX CINE 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/620974
 
-#EXTINF:-1 tvg-name=" GOLD TV 24/7 | NETFLIX DRAMA HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="CINE & SERIES▶️", GOLD TV 24/7 | NETFLIX DRAMA 
+#EXTINF:-1 tvg-name=" GOLD TV 24/7 | NETFLIX DRAMA HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="TV,CINE Y SERIES▶️", GOLD TV 24/7 | NETFLIX DRAMA 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/620975
 
-#EXTINF:-1 tvg-name=" GOLD TV 24/7 | NETFLIX ESPAÑOL HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="CINE & SERIES▶️", GOLD TV 24/7 | NETFLIX ESPAÑOL
+#EXTINF:-1 tvg-name=" GOLD TV 24/7 | NETFLIX ESPAÑOL HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="TV,CINE Y SERIES▶️", GOLD TV 24/7 | NETFLIX ESPAÑOL
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/620976
 
-#EXTINF:-1 tvg-name=" GOLD TV 24/7 | NETFLIX HISTORIA HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="CINE & SERIES▶️", GOLD TV 24/7 | NETFLIX HISTORIA
+#EXTINF:-1 tvg-name=" GOLD TV 24/7 | NETFLIX HISTORIA HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="TV,CINE Y SERIES▶️", GOLD TV 24/7 | NETFLIX HISTORIA
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/620988
 
-#EXTINF:-1 tvg-name=" GOLD TV 24/7 | NETFLIX PELÍCULAS HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="CINE & SERIES▶️", GOLD TV 24/7 | NETFLIX PELÍCULAS 
+#EXTINF:-1 tvg-name=" GOLD TV 24/7 | NETFLIX PELÍCULAS HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="TV,CINE Y SERIES▶️", GOLD TV 24/7 | NETFLIX PELÍCULAS 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/620990
 
-#EXTINF:-1 tvg-name=" GOLD TV 24/7 | NETFLIX SCI-FI HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="CINE & SERIES▶️", GOLD TV 24/7 | NETFLIX SCI-FI 
+#EXTINF:-1 tvg-name=" GOLD TV 24/7 | NETFLIX SCI-FI HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="TV,CINE Y SERIES▶️", GOLD TV 24/7 | NETFLIX SCI-FI 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/620991
 
-#EXTINF:-1 tvg-name=" GOLD TV 24/7 | NETFLIX TELEVISION HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="CINE & SERIES▶️", GOLD TV 24/7 | NETFLIX TELEVISION 
+#EXTINF:-1 tvg-name=" GOLD TV 24/7 | NETFLIX TELEVISION HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="TV,CINE Y SERIES▶️", GOLD TV 24/7 | NETFLIX TELEVISION 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/620992
 
 
 
-#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS 1 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="CINE & SERIES▶️", GOLD TV 24/7 | PELICULAS 1 
+#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS 1 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="TV,CINE Y SERIES▶️", GOLD TV 24/7 | PELICULAS 1 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/620997
-#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS 2 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="CINE & SERIES▶️", GOLD TV 24/7 | PELICULAS 2 
+#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS 2 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="TV,CINE Y SERIES▶️", GOLD TV 24/7 | PELICULAS 2 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/620998
-#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS 3 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="CINE & SERIES▶️", GOLD TV 24/7 | PELICULAS 3 
+#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS 3 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="TV,CINE Y SERIES▶️", GOLD TV 24/7 | PELICULAS 3 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/620999
-#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS 4 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="CINE & SERIES▶️", GOLD TV 24/7 | PELICULAS 4 
+#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS 4 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="TV,CINE Y SERIES▶️", GOLD TV 24/7 | PELICULAS 4 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/621000
-#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS 5 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="CINE & SERIES▶️", GOLD TV 24/7 | PELICULAS 5 
+#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS 5 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="TV,CINE Y SERIES▶️", GOLD TV 24/7 | PELICULAS 5 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/621001
-#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS 6 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="CINE & SERIES▶️", GOLD TV 24/7 | PELICULAS 6 
+#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS 6 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="TV,CINE Y SERIES▶️", GOLD TV 24/7 | PELICULAS 6 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/621002
-#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS 7 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="CINE & SERIES▶️", GOLD TV 24/7 | PELICULAS 7 
+#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS 7 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="TV,CINE Y SERIES▶️", GOLD TV 24/7 | PELICULAS 7 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/621003
-#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS 8 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="CINE & SERIES▶️", GOLD TV 24/7 | PELICULAS 8 
+#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS 8 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="TV,CINE Y SERIES▶️", GOLD TV 24/7 | PELICULAS 8 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/621004
-#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS 10 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="CINE & SERIES▶️", GOLD TV 24/7 | PELICULAS 10 
+#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS 10 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="TV,CINE Y SERIES▶️", GOLD TV 24/7 | PELICULAS 10 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/621006
-#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS 11 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="CINE & SERIES▶️", GOLD TV 24/7 | PELICULAS 11 
+#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS 11 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="TV,CINE Y SERIES▶️", GOLD TV 24/7 | PELICULAS 11 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/621007
-#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS 12 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="CINE & SERIES▶️", GOLD TV 24/7 | PELICULAS 12 
+#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS 12 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="TV,CINE Y SERIES▶️", GOLD TV 24/7 | PELICULAS 12 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/621008
-#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS 13 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="CINE & SERIES▶️", GOLD TV 24/7 | PELICULAS 13 
+#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS 13 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="TV,CINE Y SERIES▶️", GOLD TV 24/7 | PELICULAS 13 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/621009
-#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS 14 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="CINE & SERIES▶️", GOLD TV 24/7 | PELICULAS 14 
+#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS 14 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="TV,CINE Y SERIES▶️", GOLD TV 24/7 | PELICULAS 14 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/621010
-#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS 15 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="CINE & SERIES▶️", GOLD TV 24/7 | PELICULAS 15
+#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS 15 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="TV,CINE Y SERIES▶️", GOLD TV 24/7 | PELICULAS 15
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/621022
-#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS 16 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="CINE & SERIES▶️", GOLD TV 24/7 | PELICULAS 16 
+#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS 16 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="TV,CINE Y SERIES▶️", GOLD TV 24/7 | PELICULAS 16 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/621021
-#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS 17 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="CINE & SERIES▶️", GOLD TV 24/7 | PELICULAS 17 
+#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS 17 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="TV,CINE Y SERIES▶️", GOLD TV 24/7 | PELICULAS 17 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/621023
-#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS 18 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="CINE & SERIES▶️", GOLD TV 24/7 | PELICULAS 18 
+#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS 18 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="TV,CINE Y SERIES▶️", GOLD TV 24/7 | PELICULAS 18 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/621024
-#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS 19 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="CINE & SERIES▶️", GOLD TV 24/7 | PELICULAS 19 
+#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS 19 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="TV,CINE Y SERIES▶️", GOLD TV 24/7 | PELICULAS 19 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/621025
-#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS 20 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="CINE & SERIES▶️", GOLD TV 24/7 | PELICULAS 20 
+#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS 20 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="TV,CINE Y SERIES▶️", GOLD TV 24/7 | PELICULAS 20 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/621026
-#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS 21 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="CINE & SERIES▶️", GOLD TV 24/7 | PELICULAS 21 
+#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS 21 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="TV,CINE Y SERIES▶️", GOLD TV 24/7 | PELICULAS 21 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/621027
-#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS 22 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="CINE & SERIES▶️", GOLD TV 24/7 | PELICULAS 22 
+#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS 22 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="TV,CINE Y SERIES▶️", GOLD TV 24/7 | PELICULAS 22 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/621028
-#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS 23 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="CINE & SERIES▶️", GOLD TV 24/7 | PELICULAS 23 
+#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS 23 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="TV,CINE Y SERIES▶️", GOLD TV 24/7 | PELICULAS 23 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/621029
-#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS 24 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="CINE & SERIES▶️", GOLD TV 24/7 | PELICULAS 24 
+#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS 24 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="TV,CINE Y SERIES▶️", GOLD TV 24/7 | PELICULAS 24 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/621030
 
 
-#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS NINOS 1 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="CINE & SERIES▶️", GOLD TV 24/7 | PELICULAS NINOS 1 
+#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS NINOS 1 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="TV,CINE Y SERIES▶️", GOLD TV 24/7 | PELICULAS NINOS 1 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1013502
-#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS NINOS 2 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="CINE & SERIES▶️", GOLD TV 24/7 | PELICULAS NINOS 2 
+#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS NINOS 2 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="TV,CINE Y SERIES▶️", GOLD TV 24/7 | PELICULAS NINOS 2 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1013503
-#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS NINOS 3 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="CINE & SERIES▶️", GOLD TV 24/7 | PELICULAS NINOS 3 
+#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS NINOS 3 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="TV,CINE Y SERIES▶️", GOLD TV 24/7 | PELICULAS NINOS 3 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1013504
-#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS NINOS 4 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="CINE & SERIES▶️", GOLD TV 24/7 | PELICULAS NINOS 4 
+#EXTINF:-1 tvg-name=" GOLD TV 24/7 | PELICULAS NINOS 4 HD" tvg-logo="http://go4.pw/GOLDTV/gold tv.png"  group-title="TV,CINE Y SERIES▶️", GOLD TV 24/7 | PELICULAS NINOS 4 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1013505
+
+
+
 
 
 

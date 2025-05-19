@@ -171,7 +171,8 @@ http://127.0.0.1:6878/ace/getstream?id=d15a0eaf825b5f8f94259d5209688a7e97e6acde
 
 
 
-
+#EXTINF:-1,group-title="DEPORTE"  tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20241022T051118SQUARE.png",Teledeporte🏆
+https://jmp2.uk/sam-ESBC410000577.m3u8
 
 
 #EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Teledeporte🏆
@@ -179,7 +180,7 @@ https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 
-#EXTINF:-1, tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"  group-title="DEPORTE", TELEDEPORTE🏆
+#EXTINF:-1, tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"  group-title="DEPORTE",Teledeporte🏆
 https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
 
 
@@ -264,6 +265,17 @@ acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d
 
 
 
+
+
+#EXTINF:-1,group-title="DEPORTE"   tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20241022T050545SQUARE.png", La Liga Inside
+https://jmp2.uk/sam-ESBD3600001Q1.m3u8
+
+
+#EXTINF:-1,group-title="DEPORTE"   tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300031A5_20250307T152156SQUARE.png", GOL CLASSICS
+https://jmp2.uk/sam-ES300031A5.m3u8
+
+#EXTINF:-1,group-title="DEPORTE"  tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20250513T005437SQUARE.png", FIFA+
+https://jmp2.uk/sam-ESBC2700009B4.m3u8
 
 
 
@@ -541,6 +553,17 @@ http://127.0.0.1:6878/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb
 
 
 
+
+
+
+
+
+
+
+
+#EXTINF:-1,group-title="DEPORTE"  tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2600001ME_20241022T051122SQUARE.png",Tennis Channel🎾
+https://jmp2.uk/sam-ESBD2600001ME.m3u8
+
 #EXTINF:-1, group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Tennis Channel🎾
 http://root:1234http://root:@127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 
@@ -559,6 +582,8 @@ http://root:1234http://root:@127.0.0.1:6878/ace/getstream?id=51a682f0daa2e2fb61e
 
 
 
+#EXTINF:-1,group-title="DEPORTE"  tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES30000091V_20241022T050555SQUARE.png", MyPadel TV🎾
+https://jmp2.uk/sam-ES30000091V.m3u8
 
 
 
@@ -909,15 +934,6 @@ http://127.0.0.1:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7
 
 
 
-#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",VIX PREMIUM⚽
-http://45.68.35.218:4001/play/a01s/index.m3u8
-
-
-#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",ESPN DEPORTES⚽
-http://190.92.10.66:4000/play/a003/index.m3u8
-
-
-
 
 
 
@@ -969,7 +985,8 @@ http://127.0.0.1:6878/ace/getstream?id=fefd91766cef2af2bf4ded328633fb01051d6df9
 
 
 
-
+#EXTINF:-1,group-title="DEPORTE"   tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3200001EG_20241022T051031SQUARE.png", Motorvision
+https://jmp2.uk/sam-ESBD3200001EG.m3u8
 
 
 
@@ -986,25 +1003,13 @@ acestream://8d475e2688519f2c602687b71be54cedbaef9e6b
 acestream://fffaa64d41e500250064181762d510d513137410
 
 
-
-
 #EXTINF:-1, tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/10/14120627/Motorvision-TV.png" tvg-id=""  group-title="DEPORTE", Motorvision TV
 acestream://acd7e3ae185a376e6596e60a414bebbf3321b37f
 
 
 
-
-
-
-
-
 #EXTINF:-1, tvg-logo="https://www.mxgp.com/sites/default/files/news/image/logo%20Motors%20TV.jpg" tvg-id=""  group-title="DEPORTE", Retrovision Motor
 acestream://b8b8c4470d3d27c75302cf49ab6c4b52a660bff3
-
-
-
-
-
 
 
 
@@ -1786,6 +1791,10 @@ https://jmp2.uk/sam-ESBD3700001S0.m3u8
 https://jmp2.uk/sam-ES3300001MC.m3u8
 #EXTINF:-1 tvg-id="ES2600005G9" tvg-name="ES2600005G9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600005G9_20241126T043110SQUARE.png"  group-title="Samsung▶️" , Crimen - Rakuten TV
 https://jmp2.uk/sam-ES2600005G9.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="ES2700002YP" tvg-name="ES2700002YP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2700002YP_20250513T005456SQUARE.png"  group-title="Samsung▶️" , Top Gear
 https://jmp2.uk/sam-ES2700002YP.m3u8
 #EXTINF:-1 tvg-id="ESBD2600001ME" tvg-name="ESBD2600001ME" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2600001ME_20241022T051122SQUARE.png"  group-title="Samsung▶️" , Tennis Channel
@@ -1808,6 +1817,11 @@ https://jmp2.uk/sam-ESBD3200001EG.m3u8
 https://jmp2.uk/sam-ES3400002PY.m3u8
 #EXTINF:-1 tvg-id="ESBD2900001P9" tvg-name="ESBD2900001P9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2900001P9_20241022T051205SQUARE.png"  group-title="Samsung▶️" , World Poker Tour
 https://jmp2.uk/sam-ESBD2900001P9.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-id="ESBC1700002IM" tvg-name="ESBC1700002IM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700002IM_20241022T051120SQUARE.png"  group-title="Samsung▶️" , Televisión Consciente
 https://jmp2.uk/sam-ESBC1700002IM.m3u8
 #EXTINF:-1 tvg-id="ESBC4100003WE" tvg-name="ESBC4100003WE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100003WE_20241022T050516SQUARE.png" group-title="Samsung▶️" , Clan

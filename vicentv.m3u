@@ -1415,9 +1415,6 @@ https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/60579
 
 
 
-#EXTINF:-1 group-title="TEMATICOS ▶️",CANAL COCINA
-http://tvmate.icu:8080/88034268/19205431/57698
-
 
 #EXTINF:-1 group-title="TEMATICOS ▶️",Andalucía Cocina
 #EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
@@ -1676,8 +1673,7 @@ http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1089375
 
 
 
-
-#EXTM3U url-tvg="https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz"
+ url-tvg="https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz"
 #EXTINF:-1 tvg-id="ES26000068D" tvg-name="ES26000068D" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES26000068D_20241126T043113SQUARE.png"  group-title="Samsung▶️" , Estilo y Vida – Rakuten TV
 https://jmp2.uk/sam-ES26000068D.m3u8
 #EXTINF:-1 tvg-id="ESBC4100001NZ" tvg-name="ESBC4100001NZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20241030T140445SQUARE.png"  group-title="Samsung▶️" , La 1

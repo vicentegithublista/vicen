@@ -7,40 +7,6 @@
 http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4
 
 
-#EXTINF:-1,group-title="DEPORTE",LIGA DE CAMPEONES⚽UHD
-http://127.0.0.1:6878/ace/getstream?id=778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a
-
-
-
-
-
-#EXTINF:-1,group-title="DEPORTE",LIGA DE CAMPEONES⚽UHD
-http://127.0.0.1:6878/ace/getstream?id=0a26e20f39845e928411e09a124374fccb6e1478
-
-
-
-#EXTINF:-1,group-title="DEPORTE",LIGA DE CAMPEONES⚽UHD
-http://127.0.0.1:6878/ace/getstream?id=6d88c66c89f3dbe1e6dacb5a8f7c9a98b12e6c63
-
-
-
-
-
-
-#EXTINF:-1,group-title="DEPORTE",LIGA DE CAMPEONES⚽
-http://127.0.0.1:6878/ace/getstream?id=3bb6c5f346369d4f2a6bde45ec0bfe100d0e1f42
-
-
-#EXTINF:-1,group-title="DEPORTE",LIGA DE CAMPEONES⚽
-http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
-
-
-
-
-
-#EXTINF:-1,group-title="DEPORTE",LIGA DE CAMPEONES⚽
-http://127.0.0.1:6878/ace/getstream?id=47223e64a576c21bd61e818a42397a753d34fba5
-
 
 
 
@@ -403,11 +369,40 @@ https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 
-#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ LIGA DE CAMPEONES⚽
-acestream://47223e64a576c21bd61e818a42397a753d34fba5
+#EXTINF:-1,group-title="DEPORTE",M+ LIGA DE CAMPEONES⚽UHD
+http://127.0.0.1:6878/ace/getstream?id=778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a
 
-#EXTINF:-1,group-title="DEPORTE" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ LIGA DE CAMPEONES⚽
-acestream://3bb6c5f346369d4f2a6bde45ec0bfe100d0e1f42
+
+
+
+
+#EXTINF:-1,group-title="DEPORTE",M+ LIGA DE CAMPEONES⚽UHD
+http://127.0.0.1:6878/ace/getstream?id=0a26e20f39845e928411e09a124374fccb6e1478
+
+
+
+#EXTINF:-1,group-title="DEPORTE",M+ LIGA DE CAMPEONES⚽UHD
+http://127.0.0.1:6878/ace/getstream?id=6d88c66c89f3dbe1e6dacb5a8f7c9a98b12e6c63
+
+
+
+
+
+
+#EXTINF:-1,group-title="DEPORTE",M+ LIGA DE CAMPEONES⚽
+http://127.0.0.1:6878/ace/getstream?id=3bb6c5f346369d4f2a6bde45ec0bfe100d0e1f42
+
+
+#EXTINF:-1,group-title="DEPORTE",M+ LIGA DE CAMPEONES⚽
+http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
+
+
+
+
+
+#EXTINF:-1,group-title="DEPORTE",M+ LIGA DE CAMPEONES⚽
+http://127.0.0.1:6878/ace/getstream?id=47223e64a576c21bd61e818a42397a753d34fba5
+
 
 
 

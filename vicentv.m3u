@@ -1,5 +1,7 @@
                                                                                                                                                                                                                                      
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, 
+#EXTM3U 
+username=TETE&password=1234,
+url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, 
 https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, 
 https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, 
 https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, 

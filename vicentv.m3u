@@ -9,8 +9,11 @@ https://github.com/LaQuay/TDTChannels,
 url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz"
 
 
+
+
+
 #EXTINF:-1,group-title="DEPORTE",MOVISTAR PLUS🧲
-http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4
+http://127.0.0.1:6878/ace/getstream?username=TETE&password=1234=b2a4d1eba9b46df5f52a87105df779f9d39abeb4
 
 
 #EXTINF:-1,group-title="DEPORTE",EUROSPORT1🧲
@@ -1852,8 +1855,7 @@ acestream://ee64af0271744ae61654fa505f3f2ad9374517cf.mp4
 #EXTINF:-1,Robot salvaje🧲  
 acestream://7dd4635147fdaf980c741cf326bce0715b1b74d8.mp4
 
-#EXTINF:-1,MATRIX🧲
-http://www.deadlyblogger.com/NewRelease/matrix1.mp4
+
 
 
 

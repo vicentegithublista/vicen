@@ -9,8 +9,6 @@ https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml",
 https://github.com/LaQuay/TDTChannels,
 url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz"
 
-# vlc --extraintf=http --http-host 0.0.0.0 --http-port 8080 --http-password 'sucontraseñaaquí'
-http://127.0.0.1:8080/
 
 
 #EXTINF:-1,group-title="DEPORTE",MOVISTAR PLUS🧲

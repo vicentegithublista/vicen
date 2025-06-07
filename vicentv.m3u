@@ -12,9 +12,6 @@ https://url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz"
 
 
 #EXTINF:-1,group-title="DEPORTE",EUROSPORT1🧲
-http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
-
-#EXTINF:-1,group-title="DEPORTE",EUROSPORT1🧲
 http://127.0.0.1:6878/ace/getstream?id=bae98f69fbf867550b4f73b4eb176dae84d7f909
 
 
@@ -36,6 +33,9 @@ http://127.0.0.1:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
 
 
 
+
+#EXTINF:-1,group-title="DEPORTE",EUROSPORT1🧲
+http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 
 
 

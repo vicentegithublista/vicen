@@ -10,13 +10,16 @@ https://url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz"
 
 
 
-#EXTINF:-1,group-title="DEPORTE"",[COLOR orange][B][I]CINE[/COLOR][/B][/I] tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LA 1🧲
-https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
 
+#EXTINF:-1,group-title="DEPORTE",EUROSPORT1🧲👉🎾
+http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 
 
 #EXTINF:-1,group-title="DEPORTE",EUROSPORT1🧲👉🎾
 http://127.0.0.1:6878/ace/getstream?id=bae98f69fbf867550b4f73b4eb176dae84d7f909
+
+#EXTINF:-1,group-title="DEPORTE",EUROSPORT1🧲👉🎾
+http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 
 #EXTINF:-1,group-title="DEPORTE",EUROSPORT1🧲👉🎾
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
@@ -24,13 +27,10 @@ http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 
 
 
-#EXTINF:-1,group-title="DEPORTE",EUROSPORT1🧲👉🎾
-http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 
 
 #EXTINF:-1,group-title="DEPORTE",EUROSPORT2🧲
 http://127.0.0.1:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
-
 
 #EXTINF:-1,group-title="DEPORTE",EUROSPORT2🧲
 http://127.0.0.1:6878/ace/getstream?id=98784fa0714190de289f42eb5b84e405df7e685a
@@ -47,6 +47,9 @@ http://viphfppss.top:8080/VIP01523172640695398/be09b3dccde2/129979
 
 
 
+
+#EXTINF:-1,group-title="DEPORTE"",[COLOR orange][B][I]CINE[/COLOR][/B][/I] tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LA 1🧲
+https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
 
 
 

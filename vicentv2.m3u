@@ -13,13 +13,13 @@ https://url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz"
 
 
 #EXTINF:-1,group-title="M. DEPORTES" tvg-logo="https://sporttroll-web.surge.sh/MovistarPlus.jpg",Movistar Plus
-http://35.225.33.206:8000/pid/b2a4d1eba9b46df5f52a87105df779f9d39abeb4/stream.m3u8
+http://35.225.33.206:8000/pid/b2a4d1eba9b46df5f52a87105df779f9d39abeb4/stream.mp4
 
 #EXTINF:-1,group-title="M. DEPORTES" tvg-logo="https://sporttroll-web.surge.sh/MovistarPlus.jpg",Movistar Plus
-http://35.225.33.206:8000/pid/56ac8e227d526e722624675ccdd91b0cc850582f/stream.m3u8
+http://35.225.33.206:8000/pid/56ac8e227d526e722624675ccdd91b0cc850582f/stream.mp4
 
 #EXTINF:-1,group-title="M. DEPORTES" tvg-logo="https://sporttroll-web.surge.sh/MovistarPlus.jpg",Movistar Plus
-http://35.225.33.206:8000/pid/1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78/stream.m3u8
+http://35.225.33.206:8000/pid/1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78/stream.mp4
 
 #EXTINF:-1,group-title="M. DEPORTES",Movistar Plus 
 http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4

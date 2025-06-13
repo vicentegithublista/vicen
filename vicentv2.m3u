@@ -21,8 +21,23 @@ http://35.225.33.206:8000/pid/56ac8e227d526e722624675ccdd91b0cc850582f/stream.mp
 #EXTINF:-1,group-title="M. DEPORTES" tvg-logo="https://sporttroll-web.surge.sh/MovistarPlus.jpg",Movistar Plus
 http://35.225.33.206:8000/pid/1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78/stream.mp4
 
+#EXTINF:-1,group-title="M. DEPORTES",MOVISTAR PLUS 
+http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4
+#EXTINF:-1 tvg-id="33" tvg-name="Deportes por M+ᴴᴰ" tvg-logo="https://i.postimg.cc/cJsFCNPk/red-bull-tv-1.png" group-title="M. DEPORTES",Movistar Plus+ 
+http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/163.m3u8
+
+#EXTINF:-1 tvg-id="33" tvg-name="Deportes por M+ᴴᴰ" tvg-logo="https://i.postimg.cc/cJsFCNPk/red-bull-tv-1.png" group-title="M. DEPORTES",Movistar Plus+ 
+http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1061275
+
+
 #EXTINF:-1,group-title="M. DEPORTES" tvg-logo="https://sporttroll-web.surge.sh/MovistarPlus2.jpg",Movistar Plus 2
 http://35.225.33.206:8000/pid/fbc39d8a9e5d7c9ac6a1438d440104620f54e09c/stream.mp4
+
+#EXTINF:-1 tvg-id="33" tvg-name="Deportes por M+ᴴᴰ" tvg-logo="https://i.postimg.cc/cJsFCNPk/red-bull-tv-1.png" group-title="M. DEPORTES",Movistar Plus+2  
+http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/166.m3u8
+
+#EXTINF:-1 tvg-id="33" tvg-name="Deportes por M+ᴴᴰ" tvg-logo="https://i.postimg.cc/cJsFCNPk/red-bull-tv-1.png" group-title="M. DEPORTES",Movistar Plus+2 
+http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1061276
 
 #EXTINF:-1,group-title="M. DEPORTES" tvg-logo="https://sporttroll-web.surge.sh/Movistar Vamos.jpg",M+ Vamos
 http://35.225.33.206:8000/pid/3b2a8b41e7097c16b0468b42d7de0320886fa933/stream.mp4
@@ -101,6 +116,20 @@ http://35.225.33.206:8000/pid/c3da6c4f91d9d10ade00318a869435e19f204d0e/stream.mp
 
 #EXTINF:-1,group-title="M. DEPORTES" tvg-logo="https://sporttroll-web.surge.sh/EuroSport.png",EuroSport
 http://35.225.33.206:8000/pid/d830c1dc3b74e74f79cbb823804cf2037857e78a/stream.mp4
+#EXTINF:-1,group-title="M. DEPORTES",EUROSPORT1 
+http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
+
+#EXTINF:-1,group-title="M. DEPORTES",EUROSPORT1 
+http://127.0.0.1:6878/ace/getstream?id=bae98f69fbf867550b4f73b4eb176dae84d7f909
+
+#EXTINF:-1,group-title="M. DEPORTES",EUROSPORT1 
+http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
+
+#EXTINF:-1,group-title="M. DEPORTES",EUROSPORT1 
+http://127.0.0.1:6878/ace/getstream?id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766
+
+#EXTINF:-1,group-title="M. DEPORTES",EUROSPORT1 
+http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 
 #EXTINF:-1,group-title="M. DEPORTES" tvg-logo="https://sporttroll-web.surge.sh/EuroSport 2.png",EuroSport 2
 http://35.225.33.206:8000/pid/dc4ccb9e72550bc72be9360aa7d77e337ad11ecc/stream.mp4
@@ -115,14 +144,19 @@ http://35.225.33.206:8000/pid/0585e09bb8ac9720e4c11934f1b184e309291551/stream.mp
 http://35.225.33.206:8000/pid/5c910d614894635153a7d42de98cc2e4a958a53f/stream.mp4
 
 
+#EXTINF:-1,group-title="M. DEPORTES",EUROSPORT2 
+http://127.0.0.1:6878/ace/getstream?id=ac675c82d6dfd4a201532c18b42e48dacb7c32c6
+
+#EXTINF:-1,group-title="M. DEPORTES",EUROSPORT2 
+http://127.0.0.1:6878/ace/getstream?id=7aa9cc819c6fa781dea6b4de3aa5393258b766d8
 
 
 
 
 
 
-#EXTINF:-1,group-title="M. DEPORTES",MOVISTAR PLUS 
-http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4
+
+
 
 
 #EXTINF:-1,group-title="M. DEPORTES" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M #VAMOS 
@@ -179,44 +213,10 @@ http://127.0.0.1:6878/ace/getstream?id=fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
 
 
 
-#EXTINF:-1,group-title="M. DEPORTES",EUROSPORT1 
-http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
-
-#EXTINF:-1,group-title="M. DEPORTES",EUROSPORT1 
-http://127.0.0.1:6878/ace/getstream?id=bae98f69fbf867550b4f73b4eb176dae84d7f909
-
-#EXTINF:-1,group-title="M. DEPORTES",EUROSPORT1 
-http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
-
-#EXTINF:-1,group-title="M. DEPORTES",EUROSPORT1 
-http://127.0.0.1:6878/ace/getstream?id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766
-
-#EXTINF:-1,group-title="M. DEPORTES",EUROSPORT1 
-http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
-
-#EXTINF:-1,group-title="M. DEPORTES",EUROSPORT2 
-http://127.0.0.1:6878/ace/getstream?id=ac675c82d6dfd4a201532c18b42e48dacb7c32c6
-
-#EXTINF:-1,group-title="M. DEPORTES",EUROSPORT2 
-http://127.0.0.1:6878/ace/getstream?id=7aa9cc819c6fa781dea6b4de3aa5393258b766d8
 
 
 
 
-
-
-
-#EXTINF:-1 tvg-id="33" tvg-name="Deportes por M+ᴴᴰ" tvg-logo="https://i.postimg.cc/cJsFCNPk/red-bull-tv-1.png" group-title="M. DEPORTES",Movistar Plus+ 
-http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/163.m3u8
-
-#EXTINF:-1 tvg-id="33" tvg-name="Deportes por M+ᴴᴰ" tvg-logo="https://i.postimg.cc/cJsFCNPk/red-bull-tv-1.png" group-title="M. DEPORTES",Movistar Plus+ 
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1061275
-
-#EXTINF:-1 tvg-id="33" tvg-name="Deportes por M+ᴴᴰ" tvg-logo="https://i.postimg.cc/cJsFCNPk/red-bull-tv-1.png" group-title="M. DEPORTES",Movistar Plus+2  
-http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/166.m3u8
-
-#EXTINF:-1 tvg-id="33" tvg-name="Deportes por M+ᴴᴰ" tvg-logo="https://i.postimg.cc/cJsFCNPk/red-bull-tv-1.png" group-title="M. DEPORTES",Movistar Plus+2 
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1061276
 
 #EXTINF:-1 tvg-id="33" tvg-name="Deportes por M+ᴴᴰ" tvg-logo="https://i.postimg.cc/cJsFCNPk/red-bull-tv-1.png" group-title="M. DEPORTES",Vamos 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/151588

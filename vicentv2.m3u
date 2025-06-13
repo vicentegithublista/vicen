@@ -1368,8 +1368,35 @@ http://35.225.33.206:8000/pid/8bdd29882fa2c2f9fe49e67b102934c9e293f5a5/stream.mp
 #EXTINF:-1,group-title="TDT & MOVISTAR",[COLOR orange][B][I]CINE[/COLOR][/B][/I] tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LA 1 
 https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
 
+
+
+
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20241030T140445SQUARE.png"   group-title="TDT & MOVISTAR",  La 1 
+https://jmp2.uk/sam-ESBC4100001NZ.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1,group-title="TDT & MOVISTAR" tvg-logo="https://sporttroll-web.surge.sh/La2.png",La 2
 http://35.225.33.206:8000/pid/fc36c7249aef74e3ea579500efdfd7a98d8e9ac5/stream.mp4
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100002AG_20241022T050543SQUARE.png"   group-title="TDT & MOVISTAR",  La 2 
+https://jmp2.uk/sam-ESBC4100002AG.m3u8
+
+
 
 
 
@@ -1385,6 +1412,9 @@ http://35.225.33.206:8000/pid/390b5b0fc49a811c5c5ebd6d195b08a48b1e8496/stream.mp
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png"group-title="TDT & MOVISTAR", ANTENA 3 
 http://viphfppss.top:8080/VIP01523172640695398/be09b3dccde2/646
 
+#EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="ANTENA 3 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png"   group-title="TDT & MOVISTAR", ANTENA 3 
+http://viphfppss.top:8080/VIP01523172640695398/be09b3dccde2/646
+
 
 
 #EXTINF:-1,group-title="TDT & MOVISTAR" tvg-logo="https://sporttroll-web.surge.sh/Cuatro.jpg",Cuatro
@@ -1395,11 +1425,45 @@ http://35.225.33.2
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/C4.png"group-title="TDT & MOVISTAR", CUATRO 
 http://127.0.0.1:6878/ace/getstream?id=18f63b299de66029e17dc35e12f6c244e1979a91
 
+#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="CUATRO FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/C4.png"   group-title="TDT & MOVISTAR", CUATRO 
+http://viphfppss.top:8080/VIP01523172640695398/be09b3dccde2/651
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png"group-title="TDT & MOVISTAR", TELECINCO  
 http://127.0.0.1:6878/ace/getstream?id=6d2af61410d7fb6ed46fc7fe0c199951389bf75b
 
+#EXTINF:-1 tvg-id="Telecinco HD" tvg-name="TELECINCO FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png"   group-title="TDT & MOVISTAR", TELECINCO  
+http://viphfppss.top:8080/VIP01523172640695398/be09b3dccde2/647
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png"group-title="TDT & MOVISTAR", LA SEXTA 
 http://127.0.0.1:6878/ace/getstream?id=1c6486082949172d1ffd318db8fb965dd5af7e31
+
+#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="LA SEXTA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png"   group-title="TDT & MOVISTAR", LA SEXTA 
+http://viphfppss.top:8080/VIP01523172640695398/be09b3dccde2/650
+
+
+
+
+
 
 #EXTINF:-1,group-title="TDT & MOVISTAR" tvg-logo="https://sporttroll-web.surge.sh/MovistarSeries.jpg",Movistar Series
 http://35.225.33.206:8000/pid/2752dee68a7faa9c847216dc22a6821661db891a/stream.mp4
@@ -1413,28 +1477,6 @@ http://35.225.33.206:8000/pid/102bcb79ca391e37ac1fc9ee77dc53440d0a59ce/stream.mp
 
 
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20241030T140445SQUARE.png"   group-title="TDT & MOVISTAR",  La 1 
-https://jmp2.uk/sam-ESBC4100001NZ.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100002AG_20241022T050543SQUARE.png"   group-title="TDT & MOVISTAR",  La 2 
-https://jmp2.uk/sam-ESBC4100002AG.m3u8
-
-
-#EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="ANTENA 3 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png"   group-title="TDT & MOVISTAR", ANTENA 3 
-http://viphfppss.top:8080/VIP01523172640695398/be09b3dccde2/646
-
-#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="CUATRO FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/C4.png"   group-title="TDT & MOVISTAR", CUATRO 
-http://viphfppss.top:8080/VIP01523172640695398/be09b3dccde2/651
-
-#EXTINF:-1 tvg-id="Telecinco HD" tvg-name="TELECINCO FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png"   group-title="TDT & MOVISTAR", TELECINCO  
-http://viphfppss.top:8080/VIP01523172640695398/be09b3dccde2/647
-
-#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="LA SEXTA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png"   group-title="TDT & MOVISTAR", LA SEXTA 
-http://viphfppss.top:8080/VIP01523172640695398/be09b3dccde2/650
 
 
 

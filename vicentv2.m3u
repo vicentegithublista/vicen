@@ -704,16 +704,14 @@ http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/655461
 
 
 
-
-
-#EXTINF:-1,group-title="DAZN ESPAÑA" tvg-logo="https://sporttroll-web.surge.sh/DAZN1.jpg",DAZN 1
-http://35.225.33.206:8000/pid/50a8a13c474848d1efbd5586efdb5b6cdd173fa9/stream.mp4
-
 #EXTINF:-1,group-title="DAZN ESPAÑA" tvg-logo="https://sporttroll-web.surge.sh/DAZN1.jpg",DAZN 1
 http://35.225.33.206:8000/pid/6a1703a6bbe6110a1d27f35a41c88661e1740bfa/stream.mp4
 
 #EXTINF:-1,group-title="DAZN ESPAÑA" tvg-logo="https://sporttroll-web.surge.sh/DAZN1.jpg",DAZN 1
-http://35.225.33.206:8000/pid/35c7f0c966ecde3390f4510bb4caded40018c07a/stream.mp4
+http://35.225.33.206:8000/pid/50a8a13c474848d1efbd5586efdb5b6cdd173fa9/stream.mp4
+
+
+
 #EXTINF:-1,group-title="DAZN ESPAÑA" tvg-logo="https://sporttroll-web.surge.sh/DAZN1.jpg",DAZN 1
 http://35.225.33.206:8000/pid/eb6ffec065b26259ad3d1811e0bbb0a5332ed276/stream.mp4
 #EXTINF:-1,group-title="DAZN ESPAÑA" tvg-logo="https://sporttroll-web.surge.sh/DAZN1.jpg",DAZN 1
@@ -722,10 +720,6 @@ http://35.225.33.206:8000/pid/d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151/stream.mp
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1, tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD"  group-title="DAZN ESPAÑA",DAZN 1 
 http://127.0.0.1:6878/ace/getstream?id=688e785893b50acc1d00cb37f15bfc42e72f5ae3
-#EXTINF:-1, tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN ESPAÑA",DAZN 1 
-http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1, tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD"  group-title="DAZN ESPAÑA",DAZN 1 
-http://127.0.0.1:6878/ace/getstream?id=448a647ba8cd8885588572d609ce02b961238121
 
 #EXTINF:-1 tvg-id="DAZN 1" tvg-name="Dazn1 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/zGvbp2m2/red-bull-tv-4.png" group-title="DAZN ESPAÑA",Dazn 1 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/141393

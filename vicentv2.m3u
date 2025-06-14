@@ -231,8 +231,6 @@ http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 
 
 
-#EXTINF:-1,group-title="M. DEPORTES" tvg-logo="https://sporttroll-web.surge.sh/EuroSport 2.png",EuroSport 2
-http://35.225.33.206:8000/pid/dc4ccb9e72550bc72be9360aa7d77e337ad11ecc/stream.mp4
 
 #EXTINF:-1,group-title="M. DEPORTES" tvg-logo="https://sporttroll-web.surge.sh/EuroSport 2.png",EuroSport 2
 http://35.225.33.206:8000/pid/2773b39926d15dd3d9495d94c4050604792d7031/stream.mp4
@@ -905,7 +903,8 @@ http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 
 
 
-
+#EXTINF:-1,group-title="M. DEPORTES" tvg-logo="https://sporttroll-web.surge.sh/EuroSport 2.png",EuroSport 2
+http://35.225.33.206:8000/pid/dc4ccb9e72550bc72be9360aa7d77e337ad11ecc/stream.mp4
 
 #EXTINF:-1,group-title="INTERNACIONAL",EuroSport 2 
 http://127.0.0.1:6878/ace/getstream?id=ac675c82d6dfd4a201532c18b42e48dacb7c32c6

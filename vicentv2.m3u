@@ -227,17 +227,6 @@ http://35.225.33.206:8000/pid/d830c1dc3b74e74f79cbb823804cf2037857e78a/stream.mp
 #EXTINF:-1,group-title="M. DEPORTES",EuroSport 1 
 http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 
-#EXTINF:-1,group-title="M. DEPORTES",EuroSport 1 
-http://127.0.0.1:6878/ace/getstream?id=bae98f69fbf867550b4f73b4eb176dae84d7f909
-
-#EXTINF:-1,group-title="M. DEPORTES",EuroSport 1 
-http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
-
-#EXTINF:-1,group-title="M. DEPORTES",EuroSport 1 
-http://127.0.0.1:6878/ace/getstream?id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766
-
-#EXTINF:-1,group-title="M. DEPORTES",EuroSport 1 
-http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 
 
 
@@ -255,11 +244,6 @@ http://35.225.33.206:8000/pid/0585e09bb8ac9720e4c11934f1b184e309291551/stream.mp
 http://35.225.33.206:8000/pid/5c910d614894635153a7d42de98cc2e4a958a53f/stream.mp4
 
 
-#EXTINF:-1,group-title="M. DEPORTES",EuroSport 2 
-http://127.0.0.1:6878/ace/getstream?id=ac675c82d6dfd4a201532c18b42e48dacb7c32c6
-
-#EXTINF:-1,group-title="M. DEPORTES",EuroSport 2
-http://127.0.0.1:6878/ace/getstream?id=7aa9cc819c6fa781dea6b4de3aa5393258b766d8
 
 
 
@@ -907,6 +891,34 @@ http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1027112
 
 #EXTINF:-1, group-title="INTERNACIONAL" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,NBA 
 http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
+
+
+#EXTINF:-1,group-title="INTERNACIONAL",EuroSport 1 
+http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
+
+#EXTINF:-1,group-title="INTERNACIONAL",EuroSport 1 
+http://127.0.0.1:6878/ace/getstream?id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766
+
+#EXTINF:-1,group-title="INTERNACIONAL",EuroSport 1 
+http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
+
+
+
+
+
+#EXTINF:-1,group-title="INTERNACIONAL",EuroSport 2 
+http://127.0.0.1:6878/ace/getstream?id=ac675c82d6dfd4a201532c18b42e48dacb7c32c6
+
+#EXTINF:-1,group-title="INTERNACIONAL",EuroSport 2
+http://127.0.0.1:6878/ace/getstream?id=7aa9cc819c6fa781dea6b4de3aa5393258b766d8
+
+
+
+
+
+
+
+
 
 #EXTINF:-1,group-title="INTERNACIONAL",EUROSPORT3 
 http://127.0.0.1:6878/ace/getstream?id=7adbca42657ace1fe228142d351d0896974bbe0c&pid=22798

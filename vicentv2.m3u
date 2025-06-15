@@ -118,8 +118,6 @@ http://127.0.0.1:6878/ace/getstream?id=be02b9918b8fe7224cfa9af1e37856760f95b1b8
 #EXTINF:-1,group-title="M. DEPORTES" tvg-logo="https://sporttroll-web.surge.sh/Movistar Deportes 2.png",Movistar Deportes 2
 http://35.225.33.206:8000/pid/edd06f11e1cef292a1d795e15207ef2f580e298c/stream.mp4
 
-#EXTINF:-1,group-title="M. DEPORTES" tvg-logo="https://sporttroll-web.surge.sh/Movistar Deportes 2.png",Movistar Deportes 2
-http://35.225.33.206:8000/pid/639c561dd57fa3fc91fde715caeb696c5efb7ce7/stream.mp4
 
 
 #EXTINF:-1,group-title="M. DEPORTES" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Movistar Deportes 2
@@ -139,12 +137,6 @@ http://35.225.33.206:8000/pid/753d4b1f7c4ef43238b5cf23b05572b550a44eee/stream.mp
 http://127.0.0.1:6878/ace/getstream?id=753d4b1f7c4ef43238b5cf23b05572b550a44eee
 
 
-#EXTINF:-1 tvg-id="33" tvg-name="Deportes por M+ᴴᴰ" tvg-logo="https://i.postimg.cc/cJsFCNPk/red-bull-tv-1.png" group-title="M. DEPORTES",Movistar Deportes 3
-http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/51159.m3u8
-
-#EXTINF:-1 tvg-id="33" tvg-name="Deportes por M+ ᴴᴰ 2" tvg-logo="https://i.postimg.cc/cJsFCNPk/red-bull-tv-1.png" group-title="M. DEPORTES",Movistar Deportes 3
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1053019
-
 
 #EXTINF:-1,group-title="M. DEPORTES" tvg-logo="https://sporttroll-web.surge.sh/Movistar Deportes 4.png",Movistar Deportes 4
 http://35.225.33.206:8000/pid/58a4c880ab18486d914751db32a12760e74b75a4/stream.mp4
@@ -157,43 +149,9 @@ http://127.0.0.1:6878/ace/getstream?id=b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb
 http://127.0.0.1:6878/ace/getstream?id=58a4c880ab18486d914751db32a12760e74b75a4
 
 
-#EXTINF:-1 tvg-id="33" tvg-name="Deportes por M+ᴴᴰ" tvg-logo="https://i.postimg.cc/cJsFCNPk/red-bull-tv-1.png" group-title="M. DEPORTES",Movistar Deportes 4
-http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/51160.m3u8
-
-#EXTINF:-1 tvg-id="33" tvg-name="Deportes por M+ ᴴᴰ 3" tvg-logo="https://i.postimg.cc/cJsFCNPk/red-bull-tv-1.png" group-title="M. DEPORTES",Movistar Deportes 4
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1053018
-
 
 #EXTINF:-1,group-title="M. DEPORTES" tvg-logo="https://sporttroll-web.surge.sh/Movistar Deportes 5.png",Movistar Deportes 5
 http://35.225.33.206:8000/pid/f6961e0dbf9b6ede4f5be93b72dc15533b4063d4/stream.mp4
-
-#EXTINF:-1,group-title="M. DEPORTES" tvg-logo="https://sporttroll-web.surge.sh/Movistar Deportes 5.png",Movistar Deportes 5
-http://35.225.33.206:8000/pid/fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac/stream.mp4
-
-
-
-#EXTINF:-1, tgroup-title="M. DEPORTES" tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"  ,Movistar Deportes 5 
-http://127.0.0.1:6878/ace/getstream?id=fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
-
-
-#EXTINF:-1 tvg-id="33" tvg-name="Deportes por M+ᴴᴰ" tvg-logo="https://i.postimg.cc/cJsFCNPk/red-bull-tv-1.png" group-title="M. DEPORTES",Movistar Deportes 5 
-http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/51161.m3u8
-
-#EXTINF:-1 tvg-id="33" tvg-name="Deportes por M+ ᴴᴰ 4" tvg-logo="https://i.postimg.cc/cJsFCNPk/red-bull-tv-1.png" group-title="M. DEPORTES",Movistar Deportes 5
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1053017
-
-
-#EXTINF:-1,group-title="M. DEPORTES" tvg-logo="https://sporttroll-web.surge.sh/Movistar Deportes 6.png",Movistar Deportes 6
-http://35.225.33.206:8000/pid/cc5782d37ae6b6e0bab396dd64074982d0879046/stream.mp4
-
-
-
-#EXTINF:-1 tvg-id="33" tvg-name="Deportes por M+ ᴴᴰ 5" tvg-logo="https://i.postimg.cc/cJsFCNPk/red-bull-tv-1.png" group-title="M. DEPORTES",Movistar Deportes 6
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1052773
-
-#EXTINF:-1,group-title="M. DEPORTES" tvg-logo="https://sporttroll-web.surge.sh/Movistar Deportes 7.png",Movistar Deportes 7
-http://35.225.33.206:8000/pid/070f82d6443a52962d6a2ed9954c979b29404932/stream.mp4
-
 
 
 
@@ -219,14 +177,14 @@ http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 http://35.225.33.206:8000/pid/2773b39926d15dd3d9495d94c4050604792d7031/stream.mp4
 
 #EXTINF:-1,group-title="M. DEPORTES" tvg-logo="https://sporttroll-web.surge.sh/EuroSport 2.png",EuroSport 2
-http://35.225.33.206:8000/pid/0585e09bb8ac9720e4c11934f1b184e309291551/stream.mp4
-
-#EXTINF:-1,group-title="M. DEPORTES" tvg-logo="https://sporttroll-web.surge.sh/EuroSport 2.png",EuroSport 2
 http://35.225.33.206:8000/pid/5c910d614894635153a7d42de98cc2e4a958a53f/stream.mp4
 
 
 
 
+
+#EXTINF:-1,group-title="M. DEPORTES" tvg-logo="https://sporttroll-web.surge.sh/EuroSport 2.png",EuroSport 2
+http://35.225.33.206:8000/pid/dc4ccb9e72550bc72be9360aa7d77e337ad11ecc/stream.mp4
 
 
 
@@ -885,9 +843,6 @@ http://127.0.0.1:6878/ace/getstream?id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766
 http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 
 
-
-#EXTINF:-1,group-title="M. DEPORTES" tvg-logo="https://sporttroll-web.surge.sh/EuroSport 2.png",EuroSport 2
-http://35.225.33.206:8000/pid/dc4ccb9e72550bc72be9360aa7d77e337ad11ecc/stream.mp4
 
 #EXTINF:-1,group-title="INTERNACIONAL",EuroSport 2 
 http://127.0.0.1:6878/ace/getstream?id=ac675c82d6dfd4a201532c18b42e48dacb7c32c6

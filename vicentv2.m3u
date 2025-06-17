@@ -11,6 +11,17 @@ https://url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz"
 
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",DAZN MUNDIAL
+http://127.0.0.1:6878/ace/getstream?id=
+176f0b8565a161f87c81a4a250463e3eaf678fb5
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",DAZN MUNDIAL
+http://127.0.0.1:6878/ace/getstream?id=
+ad4b44262458f316458213538ebd2397f9ecb065
+
 #EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",DIRECT MUNDIAL
 http://offera.top:8080/8181742753328699/b60769b0cbff/58319
 

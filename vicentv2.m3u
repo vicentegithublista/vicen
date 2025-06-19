@@ -46,11 +46,22 @@ http://127.0.0.1:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS"LIGA DE CAMPEONES
-http://offera.top:8080/8181742753328699/b60769b0cbff/58314
+#EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",LIGA DE CAMPEONES
+http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",DANZ LIGA
-http://offera.top:8080/8181742753328699/b60769b0cbff/58315
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",DAZN F1
 http://offera.top:8080/8181742753328699/b60769b0cbff/58316
@@ -304,12 +315,21 @@ http://127.0.0.1:6878/ace/getstream?id=6d88c66c89f3dbe1e6dacb5a8f7c9a98b12e6c63
 http://127.0.0.1:6878/ace/getstream?id=778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a
 #EXTINF:-1,group-title="LA LIGA",M+ LIGA DE CAMPEONES 
 http://127.0.0.1:6878/ace/getstream?id=3bb6c5f346369d4f2a6bde45ec0bfe100d0e1f42
+
+
+
 #EXTINF:-1,group-title="LA LIGA",M+ LIGA DE CAMPEONES 
 http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1,group-title="LA LIGA",M+ LIGA DE CAMPEONES 
-http://127.0.0.1:6878/ace/getstream?id=47223e64a576c21bd61e818a42397a753d34fba5
-#EXTINF:-1 tvg-id="" tvg-name="LIGA CAMPEONES" tvg-logo="https://i.postimg.cc/rFs08ZhG/red-bull-tv-35.png" group-title="LA LIGA",Liga de Campeones 
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1027138
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1,group-title="LA LIGA" tvg-logo="https://sporttroll-web.surge.sh/Movistar LigaDeCampeones 2.jpg",Movistar LigaDeCampeones 2
 http://35.225.33.206:8000/pid/c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb/stream.mp4
@@ -461,16 +481,32 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="DAZN 1" tvg-name="Dazn1 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/zGvbp2m2/red-bull-tv-4.png" group-title="DAZN ESPAÑA",Dazn 4 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/216710
 
+
+
+
+
 #EXTINF:-1,group-title="DAZN ESPAÑA" tvg-logo="https://sporttroll-web.surge.sh/DAZN LaLiga.png",DAZN LaLiga
 http://35.225.33.206:8000/pid/e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05/stream.mp4
+
+
 #EXTINF:-1,group-title="DAZN ESPAÑA" tvg-logo="https://sporttroll-web.surge.sh/DAZN LaLiga.png",DAZN LaLiga
 http://35.225.33.206:8000/pid/4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f/stream.mp4
+
+
 #EXTINF:-1,group-title="DAZN ESPAÑA"tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LIGA 
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
-#EXTINF:-1,group-title="DAZN ESPAÑA"tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LIGA 
-http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
+
+
+
+
+
 #EXTINF:-1 tvg-id="DAZN LALIGA" tvg-name="Dazn LA LIGA SATELITE" tvg-logo="https://i.postimg.cc/rsRZSNVD/red-bull-tv-8.png" group-title="DAZN ESPAÑA",Dazn LA LIGA 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/309042
+
+
+
+
+
 
 #EXTINF:-1,group-title="DAZN ESPAÑA" tvg-logo="https://sporttroll-web.surge.sh/DAZN LaLiga 2.png",DAZN LaLiga 2
 http://35.225.33.206:8000/pid/635b61c1f240449163260cd914d10d886a54fee3/stream.mp4

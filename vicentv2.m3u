@@ -17,6 +17,8 @@ http://offera.top:8080/8181742753328699/b60769b0cbff/58319
 #EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",TELECINCO 
 http://127.0.0.1:6878/ace/getstream?id=3d376333ee90d6db3d413fc5764ef635882076f5
 
+#EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",DAZN BAR
+http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 
 
 
@@ -576,6 +578,8 @@ http://root:1234http://root:@127.0.0.1:6878/ace/getstream?id=51a682f0daa2e2fb61e
 
 #EXTINF:-1,group-title="INTERNACIONAL" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg", DAZN 1 BAR 
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
+
+
 #EXTINF:-1,group-title="INTERNACIONAL",DAZN 1 Bar
 http://35.225.33.206:8000/pid/688e785893b50acc1d00cb37f15bfc42e72f5ae3/stream.mp4
 #EXTINF:-1,group-title="INTERNACIONAL",DAZN 1 Bar

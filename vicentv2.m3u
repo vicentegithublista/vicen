@@ -45,7 +45,11 @@ http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494
 
 
 
+
 #EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",DAZN 1 
+acestream://688e785893b50acc1d00cb37f15bfc42e72f5ae3
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",DAZN 1 OPC.0 
 acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 
 

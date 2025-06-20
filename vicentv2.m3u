@@ -16,8 +16,7 @@ https://url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz"
 
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",DIRECT MUNDIAL
+#EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",DIRECT TV
 http://offera.top:8080/8181742753328699/b60769b0cbff/58319
 
 
@@ -940,9 +939,6 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1  group-title="TDT", DMAX 
 http://viphfppss.top:8080/VIP01523172640695398/be09b3dccde2/709
 
-#EXTINF:-1  group-title="TDT", ONETORO 
-http://tv.masterplaytv.club:8080/MaferCandia2022/c6e6b6f08f5e/8217
-
 
 #EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200"  group-title="TDT", Telemadrid 
 https://eventos-23-secure2.akamaized.net/eventos_1-hls/master.m3u8
@@ -1106,7 +1102,11 @@ http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1089364
 
 
 
+#EXTINF:-1 tvg-id="BBC Food" tvg-name="BBC FOOD FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBFOO.png" group-title="ESTILO DE VIDA ",ONETORO 
+http://test.esprogregtt.top:8080/es9931736089782002/0eb823eaf303/406
 
+#EXTINF:-1 tvg-id="BBC Food" tvg-name="BBC FOOD FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBFOO.png" group-title="ESTILO DE VIDA ",ONETORO 
+http://test.esprogregtt.top:8080/es9931736089782002/0eb823eaf303/405
 
 
 

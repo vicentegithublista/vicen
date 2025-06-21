@@ -53,6 +53,7 @@ http://127.0.0.1:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
 
 
 
+
 #EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",DAZN EVENTS
 http://127.0.0.1:6878/ace/r/7ef011ed512705f60d00cea2594713f1890b36df/ae2edab83cb14af501f43562aca5ad3a
 
@@ -294,25 +295,6 @@ https://Rp@freqsyndlin.rally.tv/583/hls/master/playlist.m3u8
 
 
 
-
-
-#EXTINF:-1 tvg-id="M+ LALIGA TV 3" tvg-name="LA LIGA SAT 3" tvg-logo="https://i.postimg.cc/sDX70g7J/red-bull-tv-1.png" group-title="LA LIGA",LALIGA HYPERMOTION
-http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/354.m3u8
-
-#EXTINF:-1 tvg-id="M+ LALIGA TV 3" tvg-name="LA LIGA SAT 3" tvg-logo="https://i.postimg.cc/sDX70g7J/red-bull-tv-1.png" group-title="LA LIGA",LALIGA HYPERMOTION
-http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/360.m3u8
-
-#EXTINF:-1,group-title="LA LIGA" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LaLiga TV Hypermotion 
-http://127.0.0.1:6878/ace/getstream?id=b2706a7ffbea236a3b398139a3a606ada664c0eb
-
-#EXTINF:-1,group-title="LA LIGA" tvg-logo="https://sporttroll-web.surge.sh/MovistarLaLiga.jpg",M.LA LIGA TV 
-http://35.225.33.206:8000/pid/00c9bc9c5d7d87680a5a6bed349edfa775a89947/stream.mp4
-
-#EXTINF:-1,group-title="LA LIGA" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV 
-http://127.0.0.1:6878/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74
-
-#EXTINF:-1,group-title="LA LIGA" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV 
-http://127.0.0.1:6878/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e
 
 
 

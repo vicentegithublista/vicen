@@ -95,11 +95,29 @@ http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 
 
 
-#EXTINF:-1,group-title="M. DEPORTES" tvg-logo="https://sporttroll-web.surge.sh/MovistarPlus.jpg",Movistar Plus
-http://35.225.33.206:8000/pid/1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78/stream.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1,group-title="M. DEPORTES",Movistar Plus 
 http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4
+
+
+#EXTINF:-1,group-title="M. DEPORTES" tvg-logo="https://sporttroll-web.surge.sh/MovistarPlus.jpg",Movistar Plus
+http://35.225.33.206:8000/pid/1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78/stream.mp4
+
 
 #EXTINF:-1 tvg-id="33" tvg-name="Deportes por M+ᴴᴰ" tvg-logo="https://i.postimg.cc/cJsFCNPk/red-bull-tv-1.png" group-title="M. DEPORTES",Movistar Plus
 http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/163.m3u8
@@ -148,6 +166,16 @@ http://35.225.33.206:8000/pid/9b84af74b2fa3690c519199326fc2f181b025cdd/stream.mp
 
 #EXTINF:-1,group-title="M. DEPORTES" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ Ellas 
 http://127.0.0.1:6878/ace/getstream?id=9b84af74b2fa3690c519199326fc2f181b025cdd
+
+
+
+
+#EXTINF:-1,group-title="M. DEPORTES" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Movistar Deportes 
+http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
+
+
+
+
 
 
 #EXTINF:-1,group-title="M. DEPORTES" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Movistar Deportes 

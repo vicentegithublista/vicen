@@ -34,12 +34,16 @@ http://127.0.0.1:6878/ace/r/79cff11b6dcfa8fd87a2c3706c82ce80ace9c3b6/eeb6b538743
 http://offera.top:8080/8181742753328699/b60769b0cbff/58319
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",CUATRO 
-http://127.0.0.1:6878/ace/getstream?id=8670df538a11c6ec97b3f634981ddc4409ca0333
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",CUATRO 
-http://127.0.0.1:6878/ace/getstream?id=18f63b299de66029e17dc35e12f6c244e1979a91
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",TELECINCO 
+http://127.0.0.1:6878/ace/getstream?id=6d2af61410d7fb6ed46fc7fe0c199951389bf75b
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",TELECINCO 
+http://35.225.33.206:8000/pid/3d376333ee90d6db3d413fc5764ef635882076f5/stream.mp4
+
+
 
 
 
@@ -924,8 +928,20 @@ http://viphfppss.top:8080/VIP01523172640695398/be09b3dccde2/646
 
 
 
-#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="CUATRO FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/C4.png"   group-title="TDT", CUATRO OPC.1 
-http://viphfppss.top:8080/VIP01523172640695398/be09b3dccde2/651
+
+
+
+
+
+#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="CUATRO FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/C4.png"   group-title="TDT",CUATRO
+http://127.0.0.1:6878/ace/getstream?id=8670df538a11c6ec97b3f634981ddc4409ca0333
+
+
+
+#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="CUATRO FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/C4.png"   group-title="TDT",CUATRO
+http://127.0.0.1:6878/ace/getstream?id=18f63b299de66029e17dc35e12f6c244e1979a91
+
+
 
 
 

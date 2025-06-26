@@ -11,13 +11,13 @@ https://url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz"
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",DIRECT SPORT MUNDIAL
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/102986
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",TUDN MUNDIAL
 https://x4-cdnnew.newkso.ru/x4-cdn/mono29/mono.m3u8
-
-
 
 
 
@@ -46,7 +46,8 @@ http://6digital9.chocoplus.xyz:8080/940915867tv/5jk8bvh3d/20233
 http://6digital9.chocoplus.xyz:8080/940915867tv/5jk8bvh3d/20286
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",UFC FIGHTPASS 24/7
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/11143
 
 
 
@@ -134,6 +135,20 @@ http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4
 #EXTINF:-1 tvg-id="33" tvg-name="Deportes por M+ᴴᴰ" tvg-logo="https://i.postimg.cc/cJsFCNPk/red-bull-tv-1.png" group-title="M. DEPORTES",Movistar Plus
 http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/163.m3u8
 
+#EXTINF:-1,group-title="M. DEPORTES",M+ PLUS+  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/163
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="33" tvg-name="Deportes por M+ᴴᴰ" tvg-logo="https://i.postimg.cc/cJsFCNPk/red-bull-tv-1.png" group-title="M. DEPORTES",Movistar Plus 2  
 http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/166.m3u8
 
@@ -165,6 +180,11 @@ http://35.225.33.206:8000/pid/2940120bf034db79a7f5849846ccea0255172eae/stream.mp
 #EXTINF:-1,group-title="M. DEPORTES" tvg-logo="https://sporttroll-web.surge.sh/Movistar Vamos.jpg",M+ Vamos
 http://35.225.33.206:8000/pid/0e5d8c9724fa9163f49096b70484e315251eb785/stream.mp4
 
+#EXTINF:-1,group-title="M. DEPORTES",#VAMOS  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/157
+
+
+
 
 #EXTINF:-1 tvg-id="33" tvg-name="Deportes por M+ᴴᴰ" tvg-logo="https://i.postimg.cc/cJsFCNPk/red-bull-tv-1.png" group-title="M. DEPORTES",M+ Ellas 
 http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/160.m3u8
@@ -174,6 +194,10 @@ http://35.225.33.206:8000/pid/9b84af74b2fa3690c519199326fc2f181b025cdd/stream.mp
 
 #EXTINF:-1,group-title="M. DEPORTES" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ Ellas 
 http://127.0.0.1:6878/ace/getstream?id=9b84af74b2fa3690c519199326fc2f181b025cdd
+
+#EXTINF:-1,group-title="M. DEPORTES",ELLAS #V HD
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/161
+
 
 
 
@@ -308,6 +332,13 @@ http://127.0.0.1:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
 
 
 
+#EXTINF:-1,group-title="LA LIGA",M+ LALIGA TV  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/330
+
+
+
+
+
 
 #EXTINF:-1,group-title="LA LIGA" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV UHD 
 http://127.0.0.1:6878/ace/r/83d43d89061d3790c1a9938a967ce8734a0bd6ce/3a27c01e1d3ae8b310a61614ad9d786d
@@ -331,6 +362,17 @@ http://35.225.33.206:8000/pid/ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4/stream.mp
 http://35.225.33.206:8000/pid/7ad14386deef2f45ffe17d30a631dbf79b6a1a87/stream.mp4
 #EXTINF:-1,group-title="LA LIGA"tvg-logo="https://sporttroll-web.surge.sh/MovistarLaLiga3.jpg",Movistar LaLiga 3
 http://35.225.33.206:8000/pid/382b14499e3d76e557d449d2e5bbc4e4bd63bd39/stream.mp4
+
+#EXTINF:-1,group-title="LA LIGA",LALIGA TV HYPERMOTION  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/354
+
+
+
+
+
+
+#EXTINF:-1,group-title="LA LIGA",M+ LIGA DE CAMPEONES
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/338
 
 #EXTINF:-1,group-title="LA LIGA" tvg-logo="https://sporttroll-web.surge.sh/MLigaDeCampeones.jpg",Movistar LigaDeCampeones
 http://35.225.33.206:8000/pid/c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc/stream.mp4
@@ -438,6 +480,17 @@ http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/655461
 
 
 
+#EXTINF:-1,group-title="DAZN ESPAÑA",DAZN 1
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/367
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1,group-title="DAZN ESPAÑA" tvg-logo="https://sporttroll-web.surge.sh/DAZN1.jpg",DAZN 1
@@ -475,7 +528,8 @@ http://35.225.33.206:8000/pid/6a1703a6bbe6110a1d27f35a41c88661e1740bfa/stream.mp
 
 
 
-
+#EXTINF:-1,group-title="DAZN ESPAÑA",DAZN F1
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/364
 
 
 
@@ -524,6 +578,14 @@ http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
 http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/365.m3u8
 
 
+
+
+
+
+#EXTINF:-1,group-title="DAZN ESPAÑA",DAZN 2
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/370
+
+
 #EXTINF:-1, tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD"  group-title="DAZN ESPAÑA",DAZN 2 
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-id="DAZN 1" tvg-name="Dazn1 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/zGvbp2m2/red-bull-tv-4.png" group-title="DAZN ESPAÑA",Dazn 2 
@@ -539,6 +601,16 @@ http://35.225.33.206:8000/pid/b0eabe0fdd02fdd165896236765a9b753a2ff516/stream.mp
 #EXTINF:-1,group-title="DAZN ESPAÑA",DAZN 2 Bar
 http://35.225.33.206:8000/pid/2f9211669499f413dab1a490198afab2a9b4b57c/stream.mp4
 
+
+
+
+
+#EXTINF:-1,group-title="DAZN ESPAÑA",DAZN 3
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/373
+
+
+
+
 #EXTINF:-1,group-title="DAZN ESPAÑA" tvg-logo="https://sporttroll-web.surge.sh/DAZN3.jpg",DAZN 3
 http://35.225.33.206:8000/pid/d641cd0fca0f467b3130754a091e2f4d22e68eb1/stream.mp4
 #EXTINF:-1,group-title="DAZN ESPAÑA" tvg-logo="https://sporttroll-web.surge.sh/DAZN3.jpg",DAZN 3
@@ -550,6 +622,12 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="DAZN 1" tvg-name="Dazn1 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/zGvbp2m2/red-bull-tv-4.png" group-title="DAZN ESPAÑA",Dazn 3 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/216709
 
+
+
+#EXTINF:-1,group-title="DAZN ESPAÑA",DAZN 4
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/376
+
+
 #EXTINF:-1,group-title="DAZN ESPAÑA" tvg-logo="https://sporttroll-web.surge.sh/DAZN4.jpg",DAZN 4
 http://35.225.33.206:8000/pid/7e27e46c25d4308d16098d9dc67fcd8736e8c1f0/stream.mp4
 #EXTINF:-1,group-title="DAZN ESPAÑA" tvg-logo="https://sporttroll-web.surge.sh/DAZN4.jpg",DAZN 4
@@ -559,6 +637,16 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="DAZN 1" tvg-name="Dazn1 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/zGvbp2m2/red-bull-tv-4.png" group-title="DAZN ESPAÑA",Dazn 4 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/216710
 
+
+
+
+
+
+#EXTINF:-1,group-title="DAZN ESPAÑA",DAZN LIGA
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/323
+
+#EXTINF:-1,group-title="DAZN ESPAÑA",DAZN LIGA 2 
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/326
 
 
 
@@ -596,6 +684,36 @@ http://35.225.33.206:8000/pid/c976c7b37964322752db562b4ad65515509c8d36/stream.mp
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/975899
 #EXTINF:-1 tvg-id="33" tvg-name="D.Dazn laLiga2 ᴴᴰ" tvg-logo="https://i.postimg.cc/pr8b2Hnc/red-bull-tv-9.png" group-title="DAZN ESPAÑA",Dazn laLiga2 
 http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1027112
+
+
+
+#EXTINF:-1,group-title="DAZN ESPAÑA",Dazn Liga F 1
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/6265
+
+#EXTINF:-1,group-title="DAZN ESPAÑA",Dazn Liga F 2
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/6266
+
+#EXTINF:-1,group-title="DAZN ESPAÑA",Dazn Liga F 3
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/6267
+
+#EXTINF:-1,group-title="DAZN ESPAÑA",Dazn Liga F 4
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/6268
+
+#EXTINF:-1,group-title="DAZN ESPAÑA",Dazn Liga F 5
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/6269
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -897,6 +1015,171 @@ http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 
 
 
+
+#EXTINF:-1,group-title="TDT",LA 1 
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/3
+
+#EXTINF:-1,group-title="TDT",LA 2  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/6
+
+#EXTINF:-1,group-title="TDT",ANTENA 3  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/9
+
+#EXTINF:-1,group-title="TDT",CUATRO  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/12
+
+#EXTINF:-1,group-title="TDT",TELECINCO  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/15
+
+#EXTINF:-1,group-title="TDT",LA SEXTA  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/18
+
+#EXTINF:-1,group-title="TDT",CANAL SUR  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/247
+
+#EXTINF:-1,group-title="TDT",ARAGON TV INT 
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/250
+
+#EXTINF:-1,group-title="TDT",EXTREMADURA SAT
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/254
+
+#EXTINF:-1,group-title="TDT",TELE MADRID 
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/255
+
+#EXTINF:-1,group-title="TDT",TRECE TV HD
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/261
+
+#EXTINF:-1,group-title="TDT",CMM TV  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/267
+
+
+
+#EXTINF:-1,group-title="TDT",M+ ACCION  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/31
+
+#EXTINF:-1,group-title="TDT",M+ COMEDIA  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/34
+
+#EXTINF:-1,group-title="TDT",M+ DRAMA  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/37
+
+#EXTINF:-1,group-title="TDT",M+ ORIGINALES  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/40
+
+#EXTINF:-1,group-title="TDT",M+ CLASICOS  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/43
+
+#EXTINF:-1,group-title="TDT",M+ ESTRENOS  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/46
+
+#EXTINF:-1,group-title="TDT",M+ CINE Ñ  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/49
+
+#EXTINF:-1,group-title="TDT",M+ INDIE  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/53
+
+#EXTINF:-1,group-title="TDT",M+ Todo Chaplin  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/52411
+
+#EXTINF:-1,group-title="TDT",AXN MOVIES  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/56
+
+#EXTINF:-1,group-title="TDT",COSMO  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/59
+
+#EXTINF:-1,group-title="TDT",SYFY  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/62
+
+#EXTINF:-1,group-title="TDT",TCM  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/65
+
+#EXTINF:-1,group-title="TDT",HOLLYWOOD  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/68
+
+#EXTINF:-1,group-title="TDT",SUNDANCE TV  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/71
+
+#EXTINF:-1,group-title="TDT",BOM CINE  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/74
+
+#EXTINF:-1,group-title="TDT",PARAMOUNT CHANNEL  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/77
+
+#EXTINF:-1,group-title="TDT",BBC DRAMA  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/52399
+
+#EXTINF:-1,group-title="TDT",DARK  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/169
+
+#EXTINF:-1,group-title="TDT",XTRM  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/172
+
+#EXTINF:-1,group-title="TDT",SOMOS  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/175
+
+#EXTINF:-1,group-title="TDT",M+ HITS  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/89
+
+#EXTINF:-1,group-title="TDT",FACTORIA DE FICCION  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/83
+
+#EXTINF:-1,group-title="TDT",COMEDY CENTRAL  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/103
+
+#EXTINF:-1,group-title="TDT",A3SERIES  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/109
+
+#EXTINF:-1,group-title="TDT",DIVINITY   
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/112
+
+#EXTINF:-1,group-title="TDT",TEN   
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/115
+
+#EXTINF:-1,group-title="TDT",DKISS   
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/118
+
+#EXTINF:-1,group-title="TDT",AMC BREAK   
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/121
+
+#EXTINF:-1,group-title="TDT",AMC CRIME   
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/124
+
+
+
+#EXTINF:-1,group-title="TDT",BABY TV
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/296
+
+#EXTINF:-1,group-title="TDT",CLAN TVE  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/297
+
+#EXTINF:-1,group-title="TDT",ENFAMILIA  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/301
+
+#EXTINF:-1,group-title="TDT",DREAMWORKS  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/304
+
+#EXTINF:-1,group-title="TDT",NICKELODEON  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/310
+
+#EXTINF:-1,group-title="TDT",DISNEY JUNIOR  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/313
+
+#EXTINF:-1,group-title="TDT",NICK JUNIOR  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/316
+
+#EXTINF:-1,group-title="TDT",BOING  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/319
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1,group-title="TDT",[COLOR orange][B][I]CINE[/COLOR][/B][/I] tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LA 1 OPC.1
 https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
 
@@ -1168,7 +1451,8 @@ http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1089364
 
 
 
-
+#EXTINF:-1 group-title="ESTILO DE VIDA",ONETORO   
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/129
 
 
 #EXTINF:-1 group-title="ESTILO DE VIDA",ONETORO 
@@ -1176,6 +1460,92 @@ http://test.esprogregtt.top:8080/es9931736089782002/0eb823eaf303/406
 
 #EXTINF:-1 group-title="ESTILO DE VIDA",ONETORO 
 http://test.esprogregtt.top:8080/es9931736089782002/0eb823eaf303/405
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",El Toro TV
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/132
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",TOROLE TV   
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/133
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",Max Avances  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/103039
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",M+ DOCUMENTALES  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/212
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",CAZAVISION
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/210
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",CAZA Y PESCA  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/207
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",IBERALIA PESCA  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/204
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",IBERALIA TV  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/198
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",DMAX  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/195
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",ODISEA
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/190
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",DISCOVERY CHANNEL  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/187
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",HISTORIA  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/184
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",NAT GEO WILD  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/181
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",NATIONAL GEOGRAPHIC  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/178
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",BBC HISTORY  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/52405
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",BBC FOOD  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/52402
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",CANAL COCINA
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/52439
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",CANAL DECASA
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/140
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",BUENVIAJE  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/144
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",MEGA  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/147
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",NOVA  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/150
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",BEMAD  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/153
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="Canal Cocina" tvg-name="CANAL COCINA UHD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51USEW2haIL.png" group-title="ESTILO DE VIDA ",CANAL COCINA 
 http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/52439.m3u8

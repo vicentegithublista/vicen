@@ -9,6 +9,11 @@ https://github.com/LaQuay/TDTChannels,
 https://url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz"
 
 
+#EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS", TELECINCO MUNDIAL
+http://:8080/PadreJosueAchila/2E3JWfeAeL68/15
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",TELECINCO MUNDIAL 
+http://127.0.0.1:6878/ace/getstream?id=6d2af61410d7fb6ed46fc7fe0c199951389bf75b
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",DIRECT SPORT MUNDIAL
@@ -895,8 +900,8 @@ http://127.0.0.1:6878/ace/getstream?id=18f63b299de66029e17dc35e12f6c244e1979a91
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/15
 #EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="TDT",TELECINCO 
 http://127.0.0.1:6878/ace/getstream?id=6d2af61410d7fb6ed46fc7fe0c199951389bf75b
-#EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="TDT",TELECINCO
-http://35.225.33.206:8000/pid/3d376333ee90d6db3d413fc5764ef635882076f5/stream.mp4
+
+
 
 #EXTINF:-1,group-title="TDT",LA SEXTA  
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/18

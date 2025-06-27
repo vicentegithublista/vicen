@@ -875,8 +875,6 @@ http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/3
 https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20241030T140445SQUARE.png"   group-title="TDT",LA 1  
 https://jmp2.uk/sam-ESBC4100001NZ.m3u8
-#EXTINF:-1,group-title="TDT" tvg-logo="https://sporttroll-web.surge.sh/La1.png",LA 1 
-http://35.225.33.206:8000/pid/8bdd29882fa2c2f9fe49e67b102934c9e293f5a5/stream.mp4
 
 
 #EXTINF:-1,group-title="TDT",LA 2  
@@ -915,15 +913,14 @@ http://127.0.0.1:6878/ace/getstream?id=6d2af61410d7fb6ed46fc7fe0c199951389bf75b
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/18
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png"group-title="TDT", LA SEXTA  
 http://127.0.0.1:6878/ace/getstream?id=1c6486082949172d1ffd318db8fb965dd5af7e31
-#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="LA SEXTA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png"   group-title="TDT", LA SEXTA 
-http://viphfppss.top:8080/VIP01523172640695398/be09b3dccde2/650
+
 
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png"   group-title="TDT", tvg-name="24h",24h 
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
-#EXTINF:-1 group-title="TDT", tvg-logo="https://docdog.top/logo/countries/spain/movistar/cmm.png" ,CASTILLA LA MANCHA
+#EXTINF:-1 group-title="TDT", tvg-logo="https://docdog.top/logo/countries/spain/movistar/cmm.png" ,Castilla-La Mancha Media
 https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_sqa9madm/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1  group-title="TDT", Castilla-La Mancha Media 
+#EXTINF:-1  group-title="TDT",Castilla-La Mancha Media
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_sqa9madm/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1  group-title="TDT", Castilla-La Mancha Media 
@@ -931,6 +928,8 @@ https://fidel@cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/
 #EXTINF:-1 tvg-id="CMM.TV" tvg-logo="https://graph.facebook.com/CMMediaes/picture?width=200&height=200"   group-title="TDT",tvg-name="Castilla-La Mancha Media",Castilla-La Mancha Media 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_sqa9madm/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1,group-title="TDT",Castilla-La Mancha Media
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/267
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tvhellin/picture?width=200&height=200"   group-title="TDT",tvg-name="TV Hellín",TV Hellín 
 https://5940924978228.streamlock.net/directohellin/directohellin/playlist.m3u8
@@ -938,8 +937,7 @@ https://5940924978228.streamlock.net/directohellin/directohellin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/television.imas/picture?width=200&height=200"   group-title="TDT",tvg-name="Imás TV",Imás TV 
 https://secure3.todostreaming.es/live/imastv-livestream.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/canal4villarrobledo/picture?width=200&height=200"   group-title="TDT",tvg-name="Canal 4 Mancha Centro",Canal 4 Mancha Centro 
-https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Teletoledo/picture?width=200&height=200"   group-title="TDT",tvg-name="TeleToledo",TeleToledo 
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12688&live=1
 
@@ -959,6 +957,8 @@ https://fidel@telemadrid-23-secure2.akamaized.net/master.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12128&live=1
 #EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200"  group-title="TDT", Telemadrid 
 https://new-international-23-secure2.akamaized.net/index.m3u8
+#EXTINF:-1,group-title="TDT",TELE MADRID 
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/255
 
 #EXTINF:-1 tvg-id="LaOtra.TV" tvg-logo="https://pbs.twimg.com/profile_images/1279727978268839938/jSZUiboT_200x200.jpg"   group-title="TDT", tvg-name="LaOtra",LaOtra 
 https://laotra-1-23-secure2.akamaized.net/master.m3u8
@@ -967,14 +967,15 @@ https://laotra-1-23-secure2.akamaized.net/master.m3u8
 
 #EXTINF:-1  group-title="TDT", Canal Sur 
 https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
+#EXTINF:-1,group-title="TDT",CANAL SUR  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/247
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3000002GP_20241022T050505SQUARE.png"   group-title="TDT",  Canal Sur 
 https://jmp2.uk/sam-ESBD3000002GP.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200"   group-title="TDT", tvg-name="Canal Sur 2 Accesible",Canal Sur 2 Accesible 
 https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 #EXTINF:-1tvg-logo="https://graph.facebook.com/CanalSurNoticias/picture?width=200&height=200"   group-title="TDT", tvg-name="Canal Sur Más Noticias",Canal Sur Más Noticias 
 https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
-#EXTINF:-1,group-title="TDT",CANAL SUR  
-http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/247
+
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKb6DZpbxOMbN_VANCdenLck4ceg7gxMk5tnkjmM=s200"   group-title="TDT", tvg-name="Andalucía Cocina",Andalucía Cocina 
 #EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
@@ -989,11 +990,6 @@ https://limited2.todostreaming.es/live/m95-livestream.m3u8
 #EXTINF:-1 tvg-id="MarbellaTV.TV" tvg-logo="https://graph.facebook.com/RTVMarbella/picture?width=200&height=200"   group-title="TDT", tvg-name="Marbella TV",Marbella TV 
 https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/tvlinares/picture?width=200&height=200"   group-title="TDT", tvg-name="PTV Linares",PTV Linares 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://streamer.zapitv.com/ptv-linarez/index.m3u8
-
-
 
 #EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200"  group-title="TDT", ARAGON TV 
 https://fidel@cartv-streaming.aranova.es/hls/live/aragontv_canal1.m3u8
@@ -1004,21 +1000,25 @@ http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/250
 #EXTINF:-1,group-title="TDT",EXTREMADURA SAT
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/254
 
-#EXTINF:-1,group-title="TDT",TELE MADRID 
-http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/255
+#EXTINF:-1  group-title="TDT", DMAX 
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/195
+
+
+#EXTINF:-1  group-title="TDT", DMAX 
+http://viphfppss.top:8080/VIP01523172640695398/be09b3dccde2/709
 
 #EXTINF:-1,group-title="TDT",TRECE TV HD
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/261
 
-#EXTINF:-1,group-title="TDT",CMM TV  
-http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/267
+#EXTINF:-1 group-title="TDT", tvg-logo="https://docdog.top/logo/countries/spain/movistar/TRECE.png" tvg-id="TRECE" ,TRECE
+http://vipgerretger.top:8080/VIP0123172279600792/41ff9fc100ba/655
 
-
+#EXTINF:-1,group-title="TDT",M+ HITS  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/89
 
 #EXTINF:-1,group-title="TDT",M+ ACCION  
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/31
-#EXTINF:-1,group-title="TDT" tvg-logo="https://sporttroll-web.surge.sh/MovistarAccion.jpg",Movistar Accion
-http://35.225.33.206:8000/pid/102bcb79ca391e37ac1fc9ee77dc53440d0a59ce/stream.mp4
+
 
 #EXTINF:-1,group-title="TDT",M+ COMEDIA  
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/34
@@ -1032,8 +1032,6 @@ http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/40
 #EXTINF:-1,group-title="TDT",M+ CLASICOS  
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/43
 
-#EXTINF:-1,group-title="TDT" tvg-logo="https://sporttroll-web.surge.sh/MovistarClasicos.jpg",Movistar Clasicos
-http://35.225.33.206:8000/pid/cf6ffdfa3c51268c0bd216da6b275fb866160c0c/stream.mp4
 #EXTINF:-1,group-title="TDT",M+ ESTRENOS  
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/46
 
@@ -1046,8 +1044,11 @@ http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/53
 #EXTINF:-1,group-title="TDT",M+ Todo Chaplin  
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/52411
 
-#EXTINF:-1,group-title="TDT" tvg-logo="https://sporttroll-web.surge.sh/MovistarSeries.jpg",Movistar Series
-http://35.225.33.206:8000/pid/2752dee68a7faa9c847216dc22a6821661db891a/stream.mp4
+#EXTINF:-1,group-title="TDT",AMC BREAK   
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/121
+
+#EXTINF:-1,group-title="TDT",AMC CRIME   
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/124
 
 #EXTINF:-1,group-title="TDT",AXN MOVIES  
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/56
@@ -1085,8 +1086,8 @@ http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/172
 #EXTINF:-1,group-title="TDT",SOMOS  
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/175
 
-#EXTINF:-1,group-title="TDT",M+ HITS  
-http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/89
+#EXTINF:-1,group-title="TDT",TEN   
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/115
 
 #EXTINF:-1,group-title="TDT",FACTORIA DE FICCION  
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/83
@@ -1100,19 +1101,8 @@ http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/109
 #EXTINF:-1,group-title="TDT",DIVINITY   
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/112
 
-#EXTINF:-1,group-title="TDT",TEN   
-http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/115
-
 #EXTINF:-1,group-title="TDT",DKISS   
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/118
-
-#EXTINF:-1,group-title="TDT",AMC BREAK   
-http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/121
-
-#EXTINF:-1,group-title="TDT",AMC CRIME   
-http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/124
-#EXTINF:-1  group-title="TDT", DMAX 
-http://viphfppss.top:8080/VIP01523172640695398/be09b3dccde2/709
 
 #EXTINF:-1 group-title="TDT", tvg-logo="https://docdog.top/logo/countries/spain/movistar/Factoria_de_Ficcion.png" tvg-id="Factoria de Ficcion" ,FACTORÍA DE FICCIÓN
 http://vipgerretger.top:8080/VIP0123172279600792/41ff9fc100ba/652
@@ -1122,9 +1112,6 @@ http://vipgerretger.top:8080/VIP0123172279600792/41ff9fc100ba/653
 
 #EXTINF:-1 group-title="TDT", tvg-logo="https://docdog.top/logo/countries/spain/movistar/Energy.png" tvg-id="Energy.es" ,ENERGY
 http://vipgerretger.top:8080/VIP0123172279600792/41ff9fc100ba/654
-
-#EXTINF:-1 group-title="TDT", tvg-logo="https://docdog.top/logo/countries/spain/movistar/TRECE.png" tvg-id="TRECE" ,TRECE
-http://vipgerretger.top:8080/VIP0123172279600792/41ff9fc100ba/655
 
 #EXTINF:-1 group-title="TDT", tvg-logo="https://docdog.top/logo/countries/spain/movistar/Mega.png" tvg-id="Mega.es" ,MEGA
 http://vipgerretger.top:8080/VIP0123172279600792/41ff9fc100ba/753
@@ -1156,62 +1143,25 @@ https://ztnr.rtve.es/ztnr/16550764.m3u8
 
 #EXTINF:-1,group-title="TDT",BABY TV
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/296
-#EXTINF:-1,group-title="TDT",CLAN TVE  
-http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/297
-#EXTINF:-1 tvg-id="clantve.es" tvg-name="  CLAN TVE FHD" tvg-logo="http://go4.pw/EUROPE/SPAIN/CANTVE.png"  group-title="TDT", tvg-name="Clan",Clan 
+#EXTINF:-1 tvg-id="clantve.es" tvg-name="  CLAN TVE FHD" tvg-logo="http://go4.pw/EUROPE/SPAIN/CANTVE.png"  group-title="TDT",Pequeradio TV 
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1 tvg-id="clantve.es" tvg-name="  CLAN TVE FHD" tvg-logo="http://go4.pw/EUROPE/SPAIN/CANTVE.png"  group-title="TDT", tvg-name="Clan",CLAN TVE  
 https://ztnr.rtve.es/ztnr/5466990.m3u8
-#EXTINF:-1,group-title="TDT",ENFAMILIA  
-http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/301
-#EXTINF:-1 tvg-name="  ENFAMILIA TV FHD" tvg-logo="http://go4.pw/SPAIN/ENFAMILIA.png"  group-title="TDT",  ENFAMILIA TV 
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1029279
+
 #EXTINF:-1,group-title="TDT",DREAMWORKS  
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/304
 #EXTINF:-1,group-title="TDT",NICKELODEON  
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/310
-#EXTINF:-1 tvg-id="nickjr.es" tvg-name="  NICK JR FHD" tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/NICKJRHR-1.png"  group-title="TDT",  NICK JR  
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1017259
-#EXTINF:-1 tvg-id="disneychannel.es" tvg-name="  DISNEY CH FHD" tvg-logo="http://go4.pw/EUROPE/SPAIN/DISNEYHD.png"  group-title="TDT",  DISNEY  
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1136218
-#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="  DISNEY JR FHD" tvg-logo="http://go4.pw/EUROPE/SPAIN/DISNEYJR.png"  group-title="TDT",  DISNEY JR 
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1136214
+
 #EXTINF:-1,group-title="TDT",DISNEY JUNIOR  
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/313
-#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="  NICKELODEON FHD" tvg-logo="http://go4.pw/FINLAND/Nickelodeon.png"  group-title="TDT",  NICKELODEON  
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1026851
+
 #EXTINF:-1,group-title="TDT",NICK JUNIOR  
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/316
 #EXTINF:-1,group-title="TDT",BOING  
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/319
-#EXTINF:-1 tvg-id="clantve.es" tvg-name="  CLAN TVE FHD" tvg-logo="http://go4.pw/EUROPE/SPAIN/CANTVE.png"  group-title="TDT",Pequeradio TV 
-https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:-1 tvg-id="babytv.es" tvg-name="  BABY TV FHD" tvg-logo="http://go4.pw/EUROPE/SPAIN/BABYTV.png"  group-title="TDT",  BABY TV  
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/21353
-#EXTINF:-1 tvg-id="boing.es" tvg-name="  BOING FHD" tvg-logo="http://go4.pw/EUROPE/ITALY/BOING-1.png"  group-title="TDT",  BOING  
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1017262
-#EXTINF:-1 tvg-id="canalpanda.es" tvg-name="  CANAL PANDA FHD" tvg-logo="http://go4.pw/EUROPE/SPAIN/CANALPANDA.png"  group-title="TDT",  CANAL PANDA  
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1017263
-#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="  NICKELODEON HEVC" tvg-logo="http://go4.pw/FINLAND/Nickelodeon.png"  group-title="TDT",  NICKELODEON  
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1136241
-#EXTINF:-1 tvg-id="clantve.es" tvg-name="  CLAN TVE FHD" tvg-logo="http://go4.pw/EUROPE/SPAIN/CANTVE.png"  group-title="TDT", DREAMWORKS 
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1018453
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png"  group-title="TDT",  Las Tortugas Ninja 
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363729
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png"  group-title="TDT",  Bob Esponja 
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363731
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png"  group-title="TDT",  Rugrats 
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363733
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG.png"  group-title="TDT",,  Pluto TV Toons Clásico 
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363735
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/624466b26ab25e0007dd7cfb/colorLogoPNG.png"  group-title="TDT",  DORA LA EXPLARADORA 
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363740
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG.png"  group-title="TDT",  PLUTO TV KIDS 
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363741
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1aa7aab66c76000790ee7e/colorLogoPNG.png"  group-title="TDT",  BIG TIME RISH 
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363743
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6181404ef48321000797bc41/colorLogoPNG.png"  group-title="TDT",  ICARLY 
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/363745
-#EXTINF:-1 tvg-logo="http://go4.pw/SPAIN/LOS.png"  group-title="TDT",  PLUTO TV ANA Y LOS 7 
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1089364
+
+
 
 
 
@@ -1257,8 +1207,7 @@ http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/204
 #EXTINF:-1 group-title="ESTILO DE VIDA",IBERALIA TV  
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/198
 
-#EXTINF:-1 group-title="ESTILO DE VIDA",DMAX  
-http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/195
+
 
 #EXTINF:-1 group-title="ESTILO DE VIDA",ODISEA
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/190
@@ -1269,11 +1218,13 @@ http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/187
 #EXTINF:-1 group-title="ESTILO DE VIDA",HISTORIA  
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/184
 
+#EXTINF:-1 group-title="ESTILO DE VIDA",NATIONAL GEOGRAPHIC  
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/178
+
 #EXTINF:-1 group-title="ESTILO DE VIDA",NAT GEO WILD  
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/181
 
-#EXTINF:-1 group-title="ESTILO DE VIDA",NATIONAL GEOGRAPHIC  
-http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/178
+
 
 #EXTINF:-1 group-title="ESTILO DE VIDA",BBC HISTORY  
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/52405
@@ -1290,14 +1241,6 @@ http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/140
 #EXTINF:-1 group-title="ESTILO DE VIDA",BUENVIAJE  
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/144
 
-#EXTINF:-1 group-title="ESTILO DE VIDA",MEGA  
-http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/147
-
-#EXTINF:-1 group-title="ESTILO DE VIDA",NOVA  
-http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/150
-
-#EXTINF:-1 group-title="ESTILO DE VIDA",BEMAD  
-http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/153
 
 
 

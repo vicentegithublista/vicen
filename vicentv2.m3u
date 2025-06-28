@@ -74,13 +74,13 @@ http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/11143
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",UFC Topuria-Oliveira
+#EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",UFC EUROSPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=0585e09bb8ac9720e4c11934f1b184e309291551
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",UFC Topuria-Oliveira
+#EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",UFC FOX SPORT MEX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=9efe41de7f5dcafc9395591feb959832e09683ff
 
@@ -202,20 +202,16 @@ http://35.225.33.206:8000/pid/f6961e0dbf9b6ede4f5be93b72dc15533b4063d4/stream.mp
 
 
 #EXTINF:-1,group-title="M. DEPORTES",EuroSport 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 
-#EXTINF:-1,group-title="M. DEPORTES" tvg-logo="https://sporttroll-web.surge.sh/EuroSport.png",EuroSport 1
-http://35.225.33.206:8000/pid/714e14e6d6e27660fd25a75b57b0ac5580fe705d/stream.mp4
-
-#EXTINF:-1,group-title="M. DEPORTES" tvg-logo="https://sporttroll-web.surge.sh/EuroSport.png",EuroSport 1
-http://35.225.33.206:8000/pid/d830c1dc3b74e74f79cbb823804cf2037857e78a/stream.mp4
 
 
-#EXTINF:-1,group-title="M. DEPORTES" tvg-logo="https://sporttroll-web.surge.sh/EuroSport 2.png",EuroSport 2
-http://35.225.33.206:8000/pid/5c910d614894635153a7d42de98cc2e4a958a53f/stream.mp4
+#EXTINF:-1,group-title="M. DEPORTES",EuroSport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=0585e09bb8ac9720e4c11934f1b184e309291551
 
-#EXTINF:-1,group-title="M. DEPORTES" tvg-logo="https://sporttroll-web.surge.sh/EuroSport 2.png",EuroSport 2
-http://35.225.33.206:8000/pid/dc4ccb9e72550bc72be9360aa7d77e337ad11ecc/stream.mp4
+
 
 
 

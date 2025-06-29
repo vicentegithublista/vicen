@@ -295,37 +295,35 @@ https://Rp@freqsyndlin.rally.tv/583/hls/master/playlist.m3u8
 
 
 
-#EXTINF:-1,group-title="LA LIGA" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV 
-http://127.0.0.1:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
 
-#EXTINF:-1,group-title="LA LIGA",M+ LALIGA TV  
+#EXTINF:-1,group-title="LA LIGA",M+ LALIGA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/330
 
 
 #EXTINF:-1,group-title="LA LIGA" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV UHD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/r/83d43d89061d3790c1a9938a967ce8734a0bd6ce/3a27c01e1d3ae8b310a61614ad9d786d
+
 #EXTINF:-1,group-title="LA LIGA" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV UHD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b
+
 #EXTINF:-1,group-title="LA LIGA" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV UHD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?infohash=83d43d89061d3790c1a9938a967ce8734a0bd6ce
+
 #EXTINF:-1,group-title="LA LIGA" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV UHD  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/content/83d43d89061d3790c1a9938a967ce8734a0bd6ce/0.453584109459
+
 #EXTINF:-1,group-title="LA LIGA" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV UHD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=d15a0eaf825b5f8f94259d5209688a7e97e6acde
 
-#EXTINF:-1,group-title="LA LIGA" tvg-logo="https://sporttroll-web.surge.sh/MovistarLaLiga2.jpg",Movistar LaLiga 2
-http://35.225.33.206:8000/pid/51b363b1c4d42724e05240ad068ad219df8042ec/stream.mp4
-#EXTINF:-1,group-title="LA LIGA" tvg-logo="https://sporttroll-web.surge.sh/MovistarLaLiga2.jpg",Movistar LaLiga 2
-http://35.225.33.206:8000/pid/ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8/stream.mp4
-
-#EXTINF:-1,group-title="LA LIGA" tvg-logo="https://sporttroll-web.surge.sh/MovistarLaLiga3.jpg",Movistar LaLiga 3
-http://35.225.33.206:8000/pid/ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4/stream.mp4
-#EXTINF:-1,group-title="LA LIGA" tvg-logo="https://sporttroll-web.surge.sh/MovistarLaLiga3.jpg",Movistar LaLiga 3
-http://35.225.33.206:8000/pid/7ad14386deef2f45ffe17d30a631dbf79b6a1a87/stream.mp4
-#EXTINF:-1,group-title="LA LIGA"tvg-logo="https://sporttroll-web.surge.sh/MovistarLaLiga3.jpg",Movistar LaLiga 3
-http://35.225.33.206:8000/pid/382b14499e3d76e557d449d2e5bbc4e4bd63bd39/stream.mp4
 
 #EXTINF:-1,group-title="LA LIGA",LALIGA TV HYPERMOTION  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/354
 
 
@@ -333,27 +331,12 @@ http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/354
 
 
 
-#EXTINF:-1,group-title="LA LIGA",Movistar LigaDeCampeones
-http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/338
-#EXTINF:-1,group-title="LA LIGA" tvg-logo="https://sporttroll-web.surge.sh/MLigaDeCampeones.jpg",Movistar LigaDeCampeones
-http://35.225.33.206:8000/pid/c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc/stream.mp4
-#EXTINF:-1,group-title="LA LIGA" tvg-logo="https://sporttroll-web.surge.sh/MLigaDeCampeones.jpg",Movistar LigaDeCampeones
-http://35.225.33.206:8000/pid/778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a/stream.mp4
-#EXTINF:-1,group-title="LA LIGA" tvg-logo="https://sporttroll-web.surge.sh/MLigaDeCampeones.jpg",Movistar LigaDeCampeones
-http://35.225.33.206:8000/pid/afbf2a479c5a5072698139f0f556ef3e77a99bd0/stream.mp4
-#EXTINF:-1,group-title="LA LIGA" tvg-logo="https://sporttroll-web.surge.sh/MLigaDeCampeones.jpg",Movistar LigaDeCampeones
-http://35.225.33.206:8000/pid/6d88c66c89f3dbe1e6dacb5a8f7c9a98b12e6c63/stream.mp4
-#EXTINF:-1,group-title="LA LIGA" tvg-logo="https://sporttroll-web.surge.sh/MLigaDeCampeones.jpg",Movistar LigaDeCampeones
-http://35.225.33.206:8000/pid/47223e64a576c21bd61e818a42397a753d34fba5/stream.mp4
-#EXTINF:-1,group-title="LA LIGA" tvg-logo="https://sporttroll-web.surge.sh/MLigaDeCampeones.jpg",Movistar LigaDeCampeones
-http://35.225.33.206:8000/pid/e572a5178ff72eed7d1d751a18b4b3419699f370/stream.mp4
-#EXTINF:-1,group-title="LA LIGA",M+ LIGA DE CAMPEONES UHD 
-http://127.0.0.1:6878/ace/getstream?id=6d88c66c89f3dbe1e6dacb5a8f7c9a98b12e6c63
-#EXTINF:-1,group-title="LA LIGA",M+ LIGA DE CAMPEONES UHD 
+#EXTINF:-1,group-title="LA LIGA",M+ LIGA DE CAMPEONES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a
+
 #EXTINF:-1,group-title="LA LIGA",M+ LIGA DE CAMPEONES 
-http://127.0.0.1:6878/ace/getstream?id=3bb6c5f346369d4f2a6bde45ec0bfe100d0e1f42
-#EXTINF:-1,group-title="LA LIGA",M+ LIGA DE CAMPEONES 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
 
 
@@ -366,66 +349,7 @@ http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
 
 
 
-#EXTINF:-1,group-title="LA LIGA" tvg-logo="https://sporttroll-web.surge.sh/Movistar LigaDeCampeones 2.jpg",Movistar LigaDeCampeones 2
-http://35.225.33.206:8000/pid/c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb/stream.mp4
-#EXTINF:-1,group-title="LA LIGA" tvg-logo="https://sporttroll-web.surge.sh/Movistar LigaDeCampeones 2.jpg",Movistar LigaDeCampeones 2
-http://35.225.33.206:8000/pid/3bb6c5f346369d4f2a6bde45ec0bfe100d0e1f42/stream.mp4
-#EXTINF:-1,group-title="LA LIGA" tvg-logo="https://sporttroll-web.surge.sh/Movistar LigaDeCampeones 2.jpg",Movistar LigaDeCampeones 2
-http://35.225.33.206:8000/pid/4c6ed0cd87c090f3cf85b2c8adbe8b37dba08565/stream.mp4
-#EXTINF:-1,group-title="LA LIGA" tvg-logo="https://sporttroll-web.surge.sh/Movistar LigaDeCampeones 2.jpg",Movistar LigaDeCampeones 2
-http://35.225.33.206:8000/pid/abdf9058786a48623d0de51a3adb414ae10b6e72/stream.mp4
-#EXTINF:-1 tvg-id="" tvg-name="LIGA CAMPEONES" tvg-logo="https://i.postimg.cc/rFs08ZhG/red-bull-tv-35.png" group-title="LA LIGA",Liga de Campeones 2 
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1140861
-#EXTINF:-1 tvg-id="" tvg-name="LIGA CAMPEONES" tvg-logo="https://i.postimg.cc/rFs08ZhG/red-bull-tv-35.png" group-title="LA LIGA",Liga de Campeones 2 
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1140861
 
-#EXTINF:-1,group-title="LA LIGA" tvg-logo="https://sporttroll-web.surge.sh/Movistar LigaDeCampeones 3.jpg",Movistar LigaDeCampeones 3
-http://35.225.33.206:8000/pid/17b8bc4bf8e29547b0071c742e3d7da3bcbc484d/stream.mp4
-#EXTINF:-1,group-title="LA LIGA" tvg-logo="https://sporttroll-web.surge.sh/Movistar LigaDeCampeones 3.jpg",Movistar LigaDeCampeones 3
-http://35.225.33.206:8000/pid/4fc2fce0d019bdb622164bba3cff84c120fb9243/stream.mp4
-#EXTINF:-1 tvg-id="" tvg-name="LIGA CAMPEONES" tvg-logo="https://i.postimg.cc/rFs08ZhG/red-bull-tv-35.png" group-title="LA LIGA",Liga de Campeones 3 
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/1027141
-
-#EXTINF:-1,group-title="LA LIGA" tvg-logo="https://sporttroll-web.surge.sh/Movistar LigaDeCampeones 4.jpg",Movistar LigaDeCampeones 4
-http://35.225.33.206:8000/pid//stream.mp4
-
-#EXTINF:-1,group-title="LA LIGA" tvg-logo="https://sporttroll-web.surge.sh/Movistar LigaDeCampeones 4.jpg",Movistar LigaDeCampeones 4
-http://35.225.33.206:8000/pid//stream.mp4
-
-#EXTINF:-1,group-title="LA LIGA" tvg-logo="https://sporttroll-web.surge.sh/Movistar LigaDeCampeones 5.jpg",Movistar LigaDeCampeones 5
-http://35.225.33.206:8000/pid//stream.mp4
-#EXTINF:-1,group-title="LA LIGA" tvg-logo="https://sporttroll-web.surge.sh/Movistar LigaDeCampeones 5.jpg",Movistar LigaDeCampeones 5
-http://35.225.33.206:8000/pid//stream.mp4
-
-#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="LA LIGA SATELITE" tvg-logo="https://i.postimg.cc/sDX70g7J/red-bull-tv-1.png" group-title="LA LIGA",LALIGA REPLAY 1 UHD 
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/655462
-#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="LA LIGA SATELITE" tvg-logo="https://i.postimg.cc/sDX70g7J/red-bull-tv-1.png" group-title="LA LIGA",LALIGA REPLAY 2 UHD 
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/655463
-#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="LA LIGA SATELITE" tvg-logo="https://i.postimg.cc/sDX70g7J/red-bull-tv-1.png" group-title="LA LIGA",LALIGA REPLAY 3 UHD 
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/655464
-EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="LA LIGA SATELITE" tvg-logo="https://i.postimg.cc/sDX70g7J/red-bull-tv-1.png" group-title="LA LIGA",LALIGA REPLAY 4 UHD 
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/655465
-#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="LA LIGA SATELITE" tvg-logo="https://i.postimg.cc/sDX70g7J/red-bull-tv-1.png" group-title="LA LIGA",LALIGA REPLAY 5 UHD 
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/655466
-#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="LA LIGA SATELITE" tvg-logo="https://i.postimg.cc/sDX70g7J/red-bull-tv-1.png" group-title="LA LIGA",LALIGA REPLAY 6 UHD 
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/655467
-#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="LA LIGA SATELITE" tvg-logo="https://i.postimg.cc/sDX70g7J/red-bull-tv-1.png" group-title="LA LIGA",LALIGA REPLAY 7 UHD 
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/655468
-#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="LA LIGA SATELITE" tvg-logo="https://i.postimg.cc/sDX70g7J/red-bull-tv-1.png" group-title="LA LIGA",LALIGA REPLAY 8 UHD 
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/655469
-#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="LA LIGA SATELITE" tvg-logo="https://i.postimg.cc/sDX70g7J/red-bull-tv-1.png" group-title="LA LIGA",LALIGA REPLAY 9 UHD 
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/655470
-#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="LA LIGA SATELITE" tvg-logo="https://i.postimg.cc/sDX70g7J/red-bull-tv-1.png" group-title="LA LIGA",LALIGA REPLAY 10 UHD 
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/655471
-
-#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="LA LIGA SATELITE" tvg-logo="https://i.postimg.cc/sDX70g7J/red-bull-tv-1.png" group-title="LA LIGA",LALIGA REPLAY ENGLISH 1 UHD 
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/655472
-
-#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="LA LIGA SATELITE" tvg-logo="https://i.postimg.cc/sDX70g7J/red-bull-tv-1.png" group-title="LA LIGA",LALIGA REPLAY ENGLISH 2 UHD 
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/655473
-
-#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="LA LIGA SATELITE" tvg-logo="https://i.postimg.cc/sDX70g7J/red-bull-tv-1.png" group-title="LA LIGA",LALIGA REPLAY HIGHLIGHTS UHD 
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/655461
 
 
 
@@ -566,6 +490,8 @@ http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/216710
 
 
 
+#EXTINF:-1,group-title="DAZN ESPAÑA",DAZN LIGA
+http://127.0.0.1:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
 #EXTINF:-1,group-title="DAZN ESPAÑA",DAZN LIGA
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/323
 #EXTINF:-1,group-title="DAZN ESPAÑA" tvg-logo="https://sporttroll-web.surge.sh/DAZN LaLiga.png",DAZN LaLiga

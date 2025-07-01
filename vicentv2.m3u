@@ -1,4 +1,4 @@
-.
+
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, 
 https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, 
 https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, 
@@ -44,18 +44,6 @@ http://127.0.0.1:6878/ace/r/1b348443efc7f0cf4cdf349ac35bbe5d41be6220/60ff4d4198e
 #EXTINF:-1,group-title="PPV-EVENTOS",CHANNEL TENNIS2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://root:1234http://root:@127.0.0.1:6878/ace/getstream?id=51a682f0daa2e2fb61e078e48704cb1e3411a300
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",CCM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/267
-
-
-
-
-
 
 
 

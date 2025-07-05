@@ -10,19 +10,19 @@ https://url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz"
 
 
 
-#EXTINF:0 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",DAZN EVENTOS 1
+EXTINF:0 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",DAZN EVENTOS 1
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=b30a0318f531cae1233a11e8cda12f4cc39941c3
 
 
 
-#EXTINF:0 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",DAZN EVENTOS 2
+EXTINF:0 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",DAZN EVENTOS 2
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=bed372c0cfd3c24090bf8c479719b5765d74be6d
 
 
 
-#EXTINF:0 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",DAZN EVENTOS 3
+EXTINF:0 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",DAZN EVENTOS 3
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=5b5e0a59ea2c0ab00189def5927d66d709835d15
 

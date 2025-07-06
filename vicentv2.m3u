@@ -126,10 +126,13 @@ http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/163.m3u8
 http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4
 
 
-#EXTINF:-1,group-title="M. DEPORTES",Movistar Plus  
+ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/163
 
+#EXTINF:-1,group-title="M. DEPORTES",Movistar Plus 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://vipgerretger.top:8080/VIP0123172279600792/41ff9fc100ba/87109
 
 #EXTINF:-1 tvg-id="33" tvg-name="Deportes por M+ᴴᴰ" tvg-logo="https://i.postimg.cc/cJsFCNPk/red-bull-tv-1.png" group-title="M. DEPORTES",Movistar Plus 2  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -1436,15 +1439,6 @@ http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/319
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/129
 
-
-#EXTINF:-1 group-title="ESTILO DE VIDA",ONETORO 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://test.esprogregtt.top:8080/es9931736089782002/0eb823eaf303/406
-
-#EXTINF:-1 group-title="ESTILO DE VIDA",ONETORO 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://test.esprogregtt.top:8080/es9931736089782002/0eb823eaf303/405
-
 #EXTINF:-1 group-title="ESTILO DE VIDA",El Toro TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/132
@@ -1525,6 +1519,12 @@ http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/52402
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/52439
 
+
+#EXTINF:-1 tvg-id="Canal Cocina" tvg-name="CANAL COCINA UHD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51USEW2haIL.png" group-title="ESTILO DE VIDA ",CANAL COCINA 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/52439.m3u8
+
+
 #EXTINF:-1 group-title="ESTILO DE VIDA",CANAL DECASA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/140
@@ -1543,33 +1543,6 @@ http://vipgerretger.top:8080/VIP0123172279600792/41ff9fc100ba/60251
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="Canal Cocina" tvg-name="CANAL COCINA UHD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51USEW2haIL.png" group-title="ESTILO DE VIDA ",CANAL COCINA 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/52439.m3u8
-
 #EXTINF:-1 tvg-id="BBC Food" tvg-name="BBC FOOD FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBFOO.png" group-title="ESTILO DE VIDA ",BBC FOOD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/52402.m3u8
@@ -1579,9 +1552,7 @@ http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/52402.m3u8
 http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/52405.m3u8
 
 
-#EXTINF:-1 group-title="ESTILO DE VIDA",MOVISTAR PLUS+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://vipgerretger.top:8080/VIP0123172279600792/41ff9fc100ba/87109
+
 
 #EXTINF:-1 tvg-id="Historia" tvg-name="HISTORIA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HIST.png" group-title="ESTILO DE VIDA ",HISTORIA 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160

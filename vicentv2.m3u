@@ -9,24 +9,13 @@ https://github.com/LaQuay/TDTChannels,
 https://url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz"
 
 
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",ENCIERRO LA 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://paco@rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 
-
-
 #EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",ENCIERRO ETB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://paco@multimedia.eitb.eus/live-content/etb1hd-hls/bitrate_4.m3u8
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",CORRIDA ONETORO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -39,13 +28,6 @@ https://paco@moonlight.wideiptv.top/OneToro/index.fmp4.m3u8?token=da8b7daaefcc66
 #EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",CORRIDA ONETORO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://paco@moonlight.wideiptv.top/OneToro/index.fmp4.m3u8?token=c7464b174962082e1c5477a2d5a69469edb514f5-733cbad6c039f92286691a598a3c425a-1752262633-1752251833
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",MOTOS DAZN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160

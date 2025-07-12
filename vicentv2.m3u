@@ -33,10 +33,6 @@ https://moonlight.wideiptv.top/OneToro/playlist.m3u8?token=43c0160e36a58172a522e
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",CORRIDA ONETORO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://www.facebook.com/share/v/1BnmSMdjRk/
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",🎾Wimbledon M+
@@ -1433,6 +1429,11 @@ http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/129
 
 
 
+
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",ONETORO   
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://moonlight.wideiptv.top/OneToro/playlist.m3u8?token=43c0160e36a58172a522ecd70ed004beb4dc2bf0-148724d592e7fe4630822ea109a78a06-1752341985-1752331185
 
 #EXTINF:-1 group-title="ESTILO DE VIDA",El Toro TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160

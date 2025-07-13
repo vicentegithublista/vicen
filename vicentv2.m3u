@@ -16,14 +16,6 @@ https://url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz"
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",🏍DAZN 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-
-
-
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",♉️ONETORO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -117,9 +109,6 @@ http://127.0.0.1:6878/ace/getstream?id=2940120bf034db79a7f5849846ccea0255172eae
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=2940120bf034db79a7f5849846ccea0255172eae
 
-#EXTINF:-1,group-title="M. DEPORTES" tvg-logo="https://sporttroll-web.surge.sh/Movistar Vamos.jpg",M+ Vamos
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://offera.top:8080/8181742753328699/b60769b0cbff/58321
 
 #EXTINF:-1,group-title="M. DEPORTES" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M+ Vamos 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -146,9 +135,6 @@ http://127.0.0.1:6878/ace/getstream?id=9b84af74b2fa3690c519199326fc2f181b025cdd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
 
-#EXTINF:-1,group-title="M. DEPORTES" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Movistar Deportes 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=2f3cfd199a49819cbd129689a840dc3d23ab93aa
 
 #EXTINF:-1 tvg-id="33" tvg-name="Deportes por M+ᴴᴰ" tvg-logo="https://i.postimg.cc/cJsFCNPk/red-bull-tv-1.png" group-title="M. DEPORTES",Movistar Deportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -194,21 +180,6 @@ http://127.0.0.1:6878/ace/getstream?id=0585e09bb8ac9720e4c11934f1b184e309291551
 
 
 
-
-
-
-#EXTINF:-1,group-title="M. DEPORTES"  tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20241022T051118SQUARE.png",Teledeporte 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://jmp2.uk/sam-ESBC410000577.m3u8
-
-#EXTINF:-1, group-title="M. DEPORTES" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",Teledeporte
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
-
-#EXTINF:-1, tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"  group-title="M. DEPORTES",Teledeporte
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
-
 #EXTINF:-1,group-title="M. DEPORTES",Teledeporte 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://ztnr.rtve.es/ztnr/1712295.m3u8
@@ -229,7 +200,7 @@ https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
-#EXTINF:-1,group-title="M. DEPORTES" ,Real Madrid TV 
+#EXTINF:-1,group-title="M. DEPORTES" ,Real Madrid TV INT.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 
@@ -274,25 +245,13 @@ https://Rp@freqsyndlin.rally.tv/583/hls/master/playlist.m3u8
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/330
 
 
-#EXTINF:-1,group-title="LA LIGA" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV UHD 
+#EXTINF:-1,group-title="LA LIGA",M+ LIGA DE CAMPEONES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/r/83d43d89061d3790c1a9938a967ce8734a0bd6ce/3a27c01e1d3ae8b310a61614ad9d786d
+http://127.0.0.1:6878/ace/getstream?id=778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a
 
-#EXTINF:-1,group-title="LA LIGA" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV UHD 
+#EXTINF:-1,group-title="LA LIGA",M+ LIGA DE CAMPEONES 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b
-
-#EXTINF:-1,group-title="LA LIGA" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV UHD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?infohash=83d43d89061d3790c1a9938a967ce8734a0bd6ce
-
-#EXTINF:-1,group-title="LA LIGA" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV UHD  
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/content/83d43d89061d3790c1a9938a967ce8734a0bd6ce/0.453584109459
-
-#EXTINF:-1,group-title="LA LIGA" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",M.LA LIGA TV UHD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=d15a0eaf825b5f8f94259d5209688a7e97e6acde
+http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
 
 
 #EXTINF:-1,group-title="LA LIGA",LALIGA TV HYPERMOTION  
@@ -304,37 +263,22 @@ http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/354
 
 
 
-#EXTINF:-1,group-title="LA LIGA",M+ LIGA DE CAMPEONES
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,group-title="DAZN ESPAÑA",DAZN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a
-
-#EXTINF:-1,group-title="LA LIGA",M+ LIGA DE CAMPEONES 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 
 
 #EXTINF:-1,group-title="DAZN ESPAÑA" tvg-logo="https://sporttroll-web.surge.sh/DAZN1.jpg",DAZN 1
@@ -360,10 +304,6 @@ http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1,group-title="DAZN ESPAÑA" tvg-logo="https://sporttroll-web.surge.sh/DAZN1.jpg",DAZN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=688e785893b50acc1d00cb37f15bfc42e72f5ae3
-
-#EXTINF:-1,group-title="DAZN ESPAÑA",DAZN 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 
 
 
@@ -399,11 +339,6 @@ http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/370
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 
-#EXTINF:-1 tvg-id="DAZN 1" tvg-name="Dazn1 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/zGvbp2m2/red-bull-tv-4.png" group-title="DAZN ESPAÑA",Dazn 2 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/141394
-
-
 
 
 
@@ -415,11 +350,6 @@ http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/373
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 
-#EXTINF:-1 tvg-id="DAZN 1" tvg-name="Dazn1 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/zGvbp2m2/red-bull-tv-4.png" group-title="DAZN ESPAÑA",Dazn 3 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/216709
-
-
 
 #EXTINF:-1,group-title="DAZN ESPAÑA",DAZN 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -429,9 +359,6 @@ http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/376
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 
-#EXTINF:-1 tvg-id="DAZN 1" tvg-name="Dazn1 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/zGvbp2m2/red-bull-tv-4.png" group-title="DAZN ESPAÑA",Dazn 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/216710
 
 
 
@@ -445,14 +372,6 @@ http://127.0.0.1:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
 #EXTINF:-1,group-title="DAZN ESPAÑA",DAZN LIGA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/323
-
-#EXTINF:-1,group-title="DAZN ESPAÑA"tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",DAZN LIGA 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
-
-#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-name="Dazn LA LIGA SATELITE" tvg-logo="https://i.postimg.cc/rsRZSNVD/red-bull-tv-8.png" group-title="DAZN ESPAÑA",Dazn LA LIGA 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://ledco4.xyz:80/ZBL4KBM/KW3DFLZ/309042
 
 #EXTINF:-1,group-title="DAZN ESPAÑA",DAZN LIGA 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -950,9 +869,7 @@ http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/3
 
-#EXTINF:-1,group-title="TDT",[COLOR orange][B][I]CINE[/COLOR][/B][/I] tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",LA 1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20241030T140445SQUARE.png"   group-title="TDT",LA 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -963,18 +880,8 @@ https://jmp2.uk/sam-ESBC4100001NZ.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/6
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100002AG_20241022T050543SQUARE.png"   group-title="TDT",  La 2  
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://jmp2.uk/sam-ESBC4100002AG.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100002AG_20241022T050543SQUARE.png" group-title="TDT",  La 2  
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://jmp2.uk/sam-ESBC4100002AG.m3u8
 
 
-#EXTINF:-1,group-title="TDT",ANTENA 3  
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/9
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png"group-title="TDT", ANTENA 3  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -991,11 +898,6 @@ http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/12
 #EXTINF:-1 tvg-id="Cuatro HD" tvg-name="CUATRO FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/C4.png"   group-title="TDT",CUATRO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=8670df538a11c6ec97b3f634981ddc4409ca0333
-
-#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="CUATRO FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/C4.png"   group-title="TDT",CUATRO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=18f63b299de66029e17dc35e12f6c244e1979a91
-
 
 
 
@@ -1031,21 +933,6 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/267
 
-#EXTINF:-1 group-title="TDT", tvg-logo="https://docdog.top/logo/countries/spain/movistar/cmm.png" ,Castilla-La Mancha Media
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_sqa9madm/protocol/https/format/applehttp/a.m3u8
-
-#EXTINF:-1  group-title="TDT",Castilla-La Mancha Media
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_sqa9madm/protocol/https/format/applehttp/a.m3u8
-
-#EXTINF:-1  group-title="TDT", Castilla-La Mancha Media 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://fidel@cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_sqa9madm/protocol/https/format/applehttp/a.m3u8
-
-#EXTINF:-1 tvg-id="CMM.TV" tvg-logo="https://graph.facebook.com/CMMediaes/picture?width=200&height=200"   group-title="TDT",tvg-name="Castilla-La Mancha Media",Castilla-La Mancha Media 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_sqa9madm/protocol/https/format/applehttp/a.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tvhellin/picture?width=200&height=200"   group-title="TDT",tvg-name="TV Hellín",TV Hellín 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -1090,9 +977,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12128&live=1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://new-international-23-secure2.akamaized.net/index.m3u8
 
-#EXTINF:-1,group-title="TDT",TELE MADRID 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/255
+
 
 #EXTINF:-1 tvg-id="LaOtra.TV" tvg-logo="https://pbs.twimg.com/profile_images/1279727978268839938/jSZUiboT_200x200.jpg"   group-title="TDT", tvg-name="LaOtra",LaOtra 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -1114,9 +999,6 @@ http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/247
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://jmp2.uk/sam-ESBD3000002GP.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200"   group-title="TDT", tvg-name="Canal Sur 2 Accesible",Canal Sur 2 Accesible 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 
 
 
@@ -1145,10 +1027,6 @@ https://fidel@cartv-streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1,group-title="TDT",ARAGON TV INT 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/250
-
-#EXTINF:-1,group-title="TDT",EXTREMADURA SAT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/254
 
 #EXTINF:-1  group-title="TDT", DMAX 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -1183,10 +1061,6 @@ http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/34
 #EXTINF:-1,group-title="TDT",M+ DRAMA  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/37
-
-#EXTINF:-1,group-title="TDT",M+ ORIGINALES  
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/40
 
 #EXTINF:-1,group-title="TDT",M+ CLASICOS  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -1248,9 +1122,6 @@ http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/74
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/77
 
-#EXTINF:-1,group-title="TDT",BBC DRAMA  
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/52399
 
 #EXTINF:-1,group-title="TDT",DARK  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -1268,13 +1139,14 @@ http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/175
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/115
 
+#EXTINF:-1 group-title="TDT", tvg-logo="https://docdog.top/logo/countries/spain/movistar/Factoria_de_Ficcion.png" tvg-id="Factoria de Ficcion" ,FACTORÍA DE FICCIÓN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://vipgerretger.top:8080/VIP0123172279600792/41ff9fc100ba/652
+
 #EXTINF:-1,group-title="TDT",FACTORIA DE FICCION  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/83
 
-#EXTINF:-1,group-title="TDT",COMEDY CENTRAL  
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/103
 
 #EXTINF:-1,group-title="TDT",A3SERIES  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -1288,9 +1160,7 @@ http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/112
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/118
 
-#EXTINF:-1 group-title="TDT", tvg-logo="https://docdog.top/logo/countries/spain/movistar/Factoria_de_Ficcion.png" tvg-id="Factoria de Ficcion" ,FACTORÍA DE FICCIÓN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://vipgerretger.top:8080/VIP0123172279600792/41ff9fc100ba/652
+
 
 
 #EXTINF:-1 group-title="TDT", tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nova.png" tvg-id="Nova.es" ,NOVA
@@ -1308,9 +1178,7 @@ http://vipgerretger.top:8080/VIP0123172279600792/41ff9fc100ba/753
 
 
 
-#EXTINF:-1 tvg-id="RTVE_Estrellas.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200"   group-title="TDT", tvg-name="RTVE La Moderna",RTVE La Moderna 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://ztnr.rtve.es/ztnr/2472038.m3u8
+
 
 #EXTINF:-1 tvg-id="RTVE_Cuentame.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200"   group-title="TDT", tvg-name="RTVE Cuéntame",RTVE Cuéntame 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -1336,17 +1204,10 @@ https://ztnr.rtve.es/ztnr/6922467.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://ztnr.rtve.es/ztnr/6924117.m3u8
 
-#EXTINF:-1 tvg-id="RTVE_LateXou.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200"   group-title="TDT", tvg-name="RTVE Late Xou",RTVE Late Xou 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://ztnr.rtve.es/ztnr/2472037.m3u8
-
 #EXTINF:-1 tvg-id="RTVE_Viajes.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200"   group-title="TDT", tvg-name="RTVE Talent",RTVE Talent 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://ztnr.rtve.es/ztnr/16510071.m3u8
 
-#EXTINF:-1 tvg-id="RTVE_Crimen.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200"   group-title="TDT", tvg-name="RTVE Eurovisión",RTVE Eurovisión 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://ztnr.rtve.es/ztnr/16550764.m3u8
 
 
 #EXTINF:-1,group-title="TDT",BABY TV
@@ -1418,6 +1279,11 @@ http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/133
 #EXTINF:-1 group-title="ESTILO DE VIDA",Max Avances  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/103039
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",M+ ORIGINALES  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/40
+
 
 #EXTINF:-1 group-title="ESTILO DE VIDA",M+ DOCUMENTALES  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160

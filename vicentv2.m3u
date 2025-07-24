@@ -1646,5 +1646,7 @@ http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/150.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://vlc.shickat.me:8000/pid/714e14e6d6e27660fd25a75b57b0ac5580fe705d/stream.mp4
 
-
+#EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="LISTA VLC",EUROSPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://vlc.shickat.me:8000/pid/0585e09bb8ac9720e4c11934f1b184e309291551/stream.mp4
 

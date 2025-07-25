@@ -1,0 +1,134 @@
+
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
+https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, 
+https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, 
+https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, 
+https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, 
+https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml",
+https://github.com/LaQuay/TDTChannels,
+https://url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz"
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN 1" tvg-logo="https://stremio.shickat.me/Images/Channels/DAZN1.jpg"  group-title="LISTA VLC",DAZN 1
+http://vlc.shickat.me:8000/pid/17c5ec4fd10a186893f9f3d545dfcff95034f972/stream.mp4
+
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1" tvg-logo="https://stremio.shickat.me/Images/Channels/DAZNF1.jpg"  group-title="LISTA VLC",DAZN F1
+http://vlc.shickat.me:8000/pid/8b55a528c5cf9f1acd11d942472bdd60926db8ae/stream.mp4
+
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1" tvg-logo="https://stremio.shickat.me/Images/Channels/DAZNF1.jpg"  group-title="LISTA VLC",DAZN F1
+http://vlc.shickat.me:8000/pid/eb3e12408fb7463b4fafe354380f2adf483ea924/stream.mp4
+
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LaLiga" tvg-logo="https://stremio.shickat.me/Images/Channels/DAZNLALIGA.jpg"  group-title="LISTA VLC",DAZN LaLiga
+http://vlc.shickat.me:8000/pid/4fa168d5401e4b2673100b237a976961b52cf621/stream.mp4
+
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LaLiga" tvg-logo="https://stremio.shickat.me/Images/Channels/DAZNLALIGA.jpg"  group-title="LISTA VLC",DAZN LaLiga
+http://vlc.shickat.me:8000/pid/96a8a772f150d9e57ca71a9765d2278c0c5423de/stream.mp4
+
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="DAZN LaLiga 2" tvg-logo="https://stremio.shickat.me/Images/Channels/DAZNLALIGA2.jpg"  group-title="LISTA VLC",DAZN LaLiga 2
+http://vlc.shickat.me:8000/pid/5b41b5e0f7fb0c2c420158a83a12e8ceed4a7420/stream.mp4
+
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-name="LaLiga Hypermotion" tvg-logo="https://stremio.shickat.me/Images/Channels/LALIGAHYPERMOTION.jpg"  group-title="LISTA VLC",LaLiga Hypermotion
+http://vlc.shickat.me:8000/pid/762b4a6ed2e70441b0374a64f25d8d6571b9fd1f/stream.mp4
+
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="Movistar LaLiga" tvg-logo="https://stremio.shickat.me/Images/Channels/LALIGA.jpg"  group-title="LISTA VLC",Movistar LaLiga
+http://vlc.shickat.me:8000/pid/7e2f5e27994a90700e6c5b938d5face45577cc45/stream.mp4
+
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="Movistar LaLiga" tvg-logo="https://stremio.shickat.me/Images/Channels/LALIGA.jpg"  group-title="LISTA VLC",Movistar LaLiga
+http://vlc.shickat.me:8000/pid/10e451cb5bef2e34bf52cc48de811893528146b0/stream.mp4
+
+#EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-name="Movistar Plus" tvg-logo="https://stremio.shickat.me/Images/Channels/PLUS.jpg"  group-title="LISTA VLC",Movistar Plus
+http://vlc.shickat.me:8000/pid/38287ff99db3590da7a2e077da1777d150167577/stream.mp4
+
+#EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-name="Movistar Plus" tvg-logo="https://stremio.shickat.me/Images/Channels/PLUS.jpg"  group-title="LISTA VLC",Movistar Plus
+http://vlc.shickat.me:8000/pid/a340c77b773a4a78a6c9aa25245a02698e05ac1a/stream.mp4
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="Movistar Liga de Campeones" tvg-logo="https://stremio.shickat.me/Images/Channels/LIGADECAMPEONES.jpg"  group-title="LISTA VLC",Movistar Liga de Campeones
+http://vlc.shickat.me:8000/pid/6a6bcf5aa7c9481a74222b89244697b4078d9fda/stream.mp4
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="Movistar Liga de Campeones" tvg-logo="https://stremio.shickat.me/Images/Channels/LIGADECAMPEONES.jpg"  group-title="LISTA VLC",Movistar Liga de Campeones
+http://vlc.shickat.me:8000/pid/e84ee527e76e12507449b6c92bbeb6b8f01664a2/stream.mp4
+
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="Movistar Deportes" tvg-logo="https://stremio.shickat.me/Images/Channels/DEPORTES.jpg"  group-title="LISTA VLC",Movistar Deportes
+http://vlc.shickat.me:8000/pid/465cb8c0ce3f72be4ed114628dcd5c2ed6e3293c/stream.mp4
+
+#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-name="Movistar Deportes 2" tvg-logo="https://stremio.shickat.me/Images/Channels/DEPORTES2.jpg"  group-title="LISTA VLC",Movistar Deportes 2
+http://vlc.shickat.me:8000/pid/9f03eb300b630a8e88d6c22728696ca4e96859ff/stream.mp4
+
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="Movistar Vamos" tvg-logo="https://stremio.shickat.me/Images/Channels/VAMOS.jpg"  group-title="LISTA VLC",Movistar Vamos
+http://vlc.shickat.me:8000/pid/cd783ac5f4d902ec6a4f261a4849633df69c951f/stream.mp4
+
+#EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="Movistar Golf" tvg-logo="https://stremio.shickat.me/Images/Channels/GOLF.jpg"  group-title="LISTA VLC",Movistar Golf
+http://vlc.shickat.me:8000/pid/0f5550c9842eac2c295bece78968f77d84159b48/stream.mp4
+
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="Eurosport 1" tvg-logo="https://stremio.shickat.me/Images/Channels/EUROSPORT.jpg"  group-title="LISTA VLC",Eurosport 1
+http://vlc.shickat.me:8000/pid/0ac6524dd3c35ae5fc76e0cfa4faeed4d6ef6df4/stream.mp4
+
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="La 1" tvg-logo="https://stremio.shickat.me/Images/Channels/LA1.jpg"  group-title="LISTA VLC",La 1
+http://vlc.shickat.me:8000/pid/14d3d8570a11cbc27ba2c94499df6014b462cb2d/stream.mp4
+
+#EXTINF:-1 tvg-id="Teledeporte" tvg-name="Teledeporte" tvg-logo="https://stremio.shickat.me/Images/Channels/TELEDEPORTE.jpg"  group-title="LISTA VLC",Teledeporte
+http://vlc.shickat.me:8000/pid/cd6ee713e2702d67287a3d0c20c5594cacfe4676/stream.mp4
+
+#EXTINF:-1 tvg-id="Onetoro" tvg-name="Onetoro" tvg-logo="https://stremio.shickat.me/Images/Channels/ONETORO.jpg"  group-title="LISTA VLC",Onetoro
+http://vlc.shickat.me:8000/pid/1fd3dbb7d39de875ac70059d70c8768d4a2e43c0/stream.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Movistar La Resistencia" tvg-logo="https://stremio.shickat.me/Images/Channels/LARESISTENCIA.jpg"  group-title="LISTA VLC",Movistar La Resistencia
+http://vlc.shickat.me:8000/pid/09b8bed9be1feadb4ef83e46d50dc51f763947a7/stream.mp4
+
+#EXTINF:-1 tvg-id="M+ Estrenos HD" tvg-name="Movistar Estrenos" tvg-logo="https://stremio.shickat.me/Images/Channels/ESTRENOS.jpg"  group-title="LISTA VLC",Movistar Estrenos
+http://vlc.shickat.me:8000/pid/b71478c824f787a6a696139db0d053de6fdd1d38/stream.mp4
+
+#EXTINF:-1 tvg-id="M+ Documentales HD" tvg-name="Movistar Documentales" tvg-logo="https://stremio.shickat.me/Images/Channels/DOCUMENTALES.jpg"  group-title="LISTA VLC",Movistar Documentales
+http://vlc.shickat.me:8000/pid/0ba40acc350bc1493cf576a125806bda86abe38b/stream.mp4
+
+#EXTINF:-1 tvg-id="M+ Originales HD" tvg-name="Movistar Originales" tvg-logo="https://stremio.shickat.me/Images/Channels/ORIGINALES.jpg"  group-title="LISTA VLC",Movistar Originales
+http://vlc.shickat.me:8000/pid/60fcd59471ac4268e6cd6448f068a2b518841c88/stream.mp4
+
+#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="Movistar Cine Español" tvg-logo="https://stremio.shickat.me/Images/Channels/CINEESPANOL.jpg"  group-title="LISTA VLC",Movistar Cine Español
+http://vlc.shickat.me:8000/pid/168ad4a958aa6daa26adeee9700ed0312618bd07/stream.mp4
+
+#EXTINF:-1 tvg-id="M+ Vacaciones" tvg-name="Movistar Vacaciones" tvg-logo=""  group-title="LISTA VLC",Movistar Vacaciones
+http://vlc.shickat.me:8000/pid/a0f71ac4897b2ccdf0114b5b3b7877902376a343/stream.mp4
+
+#EXTINF:-1 tvg-id="M+ Wéstern" tvg-name="Movistar Western" tvg-logo=""  group-title="LISTA VLC",Movistar Western
+http://vlc.shickat.me:8000/pid/860dd021db341dbd02979eb8ea650d3f9d846765/stream.mp4
+
+#EXTINF:-1 tvg-id="M+ Indie HD" tvg-name="Movistar Indie" tvg-logo="https://stremio.shickat.me/Images/Channels/INDIE.jpg"  group-title="LISTA VLC",Movistar Indie
+http://vlc.shickat.me:8000/pid/4f35f115971f0b156baabb8efa9926b1eb8ba5af/stream.mp4
+
+#EXTINF:-1 tvg-id="M+ Acción HD" tvg-name="Movistar Acción" tvg-logo="https://stremio.shickat.me/Images/Channels/ACCION.jpg"  group-title="LISTA VLC",Movistar Acción
+http://vlc.shickat.me:8000/pid/93b2f5ede5cf2fa0cdb50419258c4f651aabfc42/stream.mp4
+
+#EXTINF:-1 tvg-id="M+ Comedia HD" tvg-name="Movistar Comedia" tvg-logo="https://stremio.shickat.me/Images/Channels/COMEDIA.jpg"  group-title="LISTA VLC",Movistar Comedia
+http://vlc.shickat.me:8000/pid/124aa6d58fd72a763ed0349c874551bd2504798f/stream.mp4
+
+#EXTINF:-1 tvg-id="M+ Drama HD" tvg-name="Movistar Drama" tvg-logo="https://stremio.shickat.me/Images/Channels/DRAMA.jpg"  group-title="LISTA VLC",Movistar Drama
+http://vlc.shickat.me:8000/pid/aff9d7e45c4fc0f97ec8ec2b6d80cd3feb87c983/stream.mp4
+
+#EXTINF:-1 tvg-id="M+ Hits HD" tvg-name="Movistar Hits" tvg-logo="https://stremio.shickat.me/Images/Channels/HITS.jpg"  group-title="LISTA VLC",Movistar Hits
+http://vlc.shickat.me:8000/pid/28b9b7ba12c0f5c7e097f4b07a547f6eda9a0695/stream.mp4
+
+#EXTINF:-1 tvg-id="M+ Clásicos HD" tvg-name="Movistar Clásicos" tvg-logo="https://stremio.shickat.me/Images/Channels/CLASICOS.jpg"  group-title="LISTA VLC",Movistar Clásicos
+http://vlc.shickat.me:8000/pid/095134586cd06e1488139842f1183b50b75f5fd1/stream.mp4
+
+#EXTINF:-1 tvg-id="Canal Cocina" tvg-name="Canal Cocina" tvg-logo="https://stremio.shickat.me/Images/Channels/CANALCOCINA.jpg"  group-title="LISTA VLC",Canal Cocina
+http://vlc.shickat.me:8000/pid/db81615f1b2eebaf584edc252ddd73883123fbb3/stream.mp4
+
+#EXTINF:-1 tvg-id="Decasa" tvg-name="Decasa" tvg-logo="https://stremio.shickat.me/Images/Channels/DECASA.jpg"  group-title="LISTA VLC",Decasa
+http://vlc.shickat.me:8000/pid/4869e4c131cb3478cc375944c7cc68d1bb8e9dc4/stream.mp4
+
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="National Geographic" tvg-logo="https://stremio.shickat.me/Images/Channels/NATIONALGEOGRAPHIC.jpg"  group-title="LISTA VLC",National Geographic
+http://vlc.shickat.me:8000/pid/55230a7a3cc4e8dfd3cecbfb2d68266aa4e5dfff/stream.mp4
+
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="National Geographic Wild" tvg-logo="https://stremio.shickat.me/Images/Channels/NATIONALWILD.jpg"  group-title="LISTA VLC",National Geographic Wild
+http://vlc.shickat.me:8000/pid/51d0b5249e229a07ecc52286f56a67c3d9df6d00/stream.mp4
+
+#EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-name="Caza y Pesca" tvg-logo="https://stremio.shickat.me/Images/Channels/CAZAYPESCA.jpg"  group-title="LISTA VLC",Caza y Pesca
+http://vlc.shickat.me:8000/pid/6f28b1b9eb9f4047a6179b300e65b03c8316e10f/stream.mp4
+
+

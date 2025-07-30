@@ -24,6 +24,12 @@ http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/129
 
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",ONETORO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://vlc.shickat.me:8000/pid/1fd3dbb7d39de875ac70059d70c8768d4a2e43c0/stream.mp4
+
+
 #EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",ESPN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://6digital9.chocoplus.xyz:8080/940915867tv/5jk8bvh3d/20233
@@ -1507,10 +1513,16 @@ http://vlc.shickat.me:8000/pid/095134586cd06e1488139842f1183b50b75f5fd1/stream.m
 
 
 
-
 #EXTINF:-1 group-title="ESTILO DE VIDA",ONETORO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/129
+
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",ONETORO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://vlc.shickat.me:8000/pid/1fd3dbb7d39de875ac70059d70c8768d4a2e43c0/stream.mp4
+
+
 
 
 #EXTINF:-1 group-title="ESTILO DE VIDA",El Toro TV
@@ -1783,10 +1795,6 @@ acestream://51d0b5249e229a07ecc52286f56a67c3d9df6d00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 acestream://6f28b1b9eb9f4047a6179b300e65b03c8316e10f
 
-#EXTINF:-1 group-title="ESTILO DE VIDA ",Onetoro
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://vlc.shickat.me:8000/pid/1fd3dbb7d39de875ac70059d70c8768d4a2e43c0/stream.mp4
-
 #EXTINF:-1 group-title="ESTILO DE VIDA ",Movistar La Resistencia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://vlc.shickat.me:8000/pid/09b8bed9be1feadb4ef83e46d50dc51f763947a7/stream.mp4
@@ -1815,30 +1823,3 @@ http://vlc.shickat.me:8000/pid/51d0b5249e229a07ecc52286f56a67c3d9df6d00/stream.m
 #EXTINF:-1 group-title="ESTILO DE VIDA ",Caza y Pesca
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://vlc.shickat.me:8000/pid/6f28b1b9eb9f4047a6179b300e65b03c8316e10f/stream.mp4
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

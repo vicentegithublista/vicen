@@ -356,13 +356,7 @@ http://127.0.0.1:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/330
 
 
-#EXTINF:-1,group-title="LA LIGA",M+ LALIGA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://vlc.shickat.me:8000/pid/e84ee527e76e12507449b6c92bbeb6b8f01664a2/stream.mp4
 
-#EXTINF:-1,group-title="LA LIGA",M+ LALIGA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-acestream://4fa168d5401e4b2673100b237a976961b52cf621
 
 #EXTINF:-1,group-title="LA LIGA",LALIGA TV HYPERMOTION  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -493,6 +487,9 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 
 
 
+#EXTINF:-1,group-title="DAZN ESPAÑA",DAZN LIGA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+acestream://4fa168d5401e4b2673100b237a976961b52cf621
 
 
 #EXTINF:-1,group-title="DAZN ESPAÑA",DAZN LIGA

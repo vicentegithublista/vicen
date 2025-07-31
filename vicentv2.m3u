@@ -1012,8 +1012,6 @@ http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/3
 
-
-
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20241030T140445SQUARE.png"   group-title="TDT",LA 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://jmp2.uk/sam-ESBC4100001NZ.m3u8
@@ -1037,6 +1035,7 @@ http://viphfppss.top:8080/VIP01523172640695398/be09b3dccde2/646
 #EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="ANTENA 3 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png"   group-title="TDT", ANTENA 3  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://viphfppss.top:8080/VIP01523172640695398/be09b3dccde2/646
+
 
 #EXTINF:-1,group-title="TDT",CUATRO  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -1064,10 +1063,10 @@ http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/18
 
-
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png"group-title="TDT", LA SEXTA  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=1c6486082949172d1ffd318db8fb965dd5af7e31
+
 
 
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png"   group-title="TDT", tvg-name="24h",24h 
@@ -1125,11 +1124,13 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12128&live=1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://new-international-23-secure2.akamaized.net/index.m3u8
 
-
-
 #EXTINF:-1 tvg-id="LaOtra.TV" tvg-logo="https://pbs.twimg.com/profile_images/1279727978268839938/jSZUiboT_200x200.jpg"   group-title="TDT", tvg-name="LaOtra",LaOtra 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://laotra-1-23-secure2.akamaized.net/master.m3u8
+
+
+
+
 
 #EXTINF:-1tvg-logo="https://graph.facebook.com/CanalSurNoticias/picture?width=200&height=200"   group-title="TDT", tvg-name="Canal Sur Más Noticias",Canal Sur Más Noticias 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -1479,10 +1480,10 @@ http://vlc.shickat.me:8000/pid/aff9d7e45c4fc0f97ec8ec2b6d80cd3feb87c983/stream.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://vlc.shickat.me:8000/pid/28b9b7ba12c0f5c7e097f4b07a547f6eda9a0695/stream.mp4
 
+
 #EXTINF:-1 group-title="TDT",Movistar Clásicos
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://vlc.shickat.me:8000/pid/095134586cd06e1488139842f1183b50b75f5fd1/stream.mp4
-
 
 
 
@@ -1552,70 +1553,9 @@ http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/213.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://vipgerretger.top:8080/VIP0123172279600792/41ff9fc100ba/87108
 
-
-
-
-#EXTINF:-1 group-title="ESTILO DE VIDA",CAZAVISION
+#EXTINF:-1 group-title="ESTILO DE VIDA ",Movistar Documentales
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/210
-
-#EXTINF:-1 group-title="ESTILO DE VIDA",CAZA Y PESCA  
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/207
-
-#EXTINF:-1 group-title="ESTILO DE VIDA",IBERALIA PESCA  
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/204
-
-#EXTINF:-1 group-title="ESTILO DE VIDA",IBERALIA TV  
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/198
-
-
-
-#EXTINF:-1 group-title="ESTILO DE VIDA",ODISEA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/190
-
-#EXTINF:-1 group-title="ESTILO DE VIDA",DISCOVERY CHANNEL  
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/187
-
-#EXTINF:-1 group-title="ESTILO DE VIDA",HISTORIA  
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/184
-
-#EXTINF:-1 group-title="ESTILO DE VIDA",NATIONAL GEOGRAPHIC  
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/178
-
-#EXTINF:-1 group-title="ESTILO DE VIDA",NAT GEO WILD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/181
-
-
-
-#EXTINF:-1 group-title="ESTILO DE VIDA",BBC HISTORY  
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/52405
-
-#EXTINF:-1 group-title="ESTILO DE VIDA",BBC FOOD  
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/52402
-
-#EXTINF:-1 group-title="ESTILO DE VIDA",CANAL COCINA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/52439
-
-
-#EXTINF:-1 tvg-id="Canal Cocina" tvg-name="CANAL COCINA UHD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51USEW2haIL.png" group-title="ESTILO DE VIDA ",CANAL COCINA 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/52439.m3u8
-
-
-#EXTINF:-1 group-title="ESTILO DE VIDA",CANAL DECASA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/140
+http://vlc.shickat.me:8000/pid/0ba40acc350bc1493cf576a125806bda86abe38b/stream.mp4
 
 #EXTINF:-1 group-title="ESTILO DE VIDA",BUEN VIAJE  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -1625,47 +1565,107 @@ http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/144
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/144.m3u8
 
-#EXTINF:-1 group-title="ESTILO DE VIDA",BUEN VIAJE
+#EXTINF:-1 group-title="ESTILO DE VIDA",BUENVIAJE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://vipgerretger.top:8080/VIP0123172279600792/41ff9fc100ba/60251
 
 
 
-#EXTINF:-1 tvg-id="BBC Food" tvg-name="BBC FOOD FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBFOO.png" group-title="ESTILO DE VIDA ",BBC FOOD 
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",CAZA Y PESCA  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/52402.m3u8
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/207
 
-#EXTINF:-1 tvg-id="BBC History" tvg-name="BBC HISTORY FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBHIS.png" group-title="ESTILO DE VIDA ",BBC HISTORY 
+#EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-name="CAZA Y PESCA FHD" tvg-logo="https://images2.imgbox.com/86/85/Xq9UsyJN_o.png" group-title="ESTILO DE VIDA ",CAZA Y PESCA 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/52405.m3u8
+http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/207.m3u8
 
 
-
-
-#EXTINF:-1 tvg-id="Historia" tvg-name="HISTORIA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HIST.png" group-title="ESTILO DE VIDA ",HISTORIA 
+#EXTINF:-1 group-title="ESTILO DE VIDA",CAZA Y PESCA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/184.m3u8
+http://vipgerretger.top:8080/VIP0123172279600792/41ff9fc100ba/706
 
-#EXTINF:-1 group-title="ESTILO DE VIDA",HISTORIA
+#EXTINF:-1 group-title="ESTILO DE VIDA ",Caza y Pesca
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://vipgerretger.top:8080/VIP0123172279600792/41ff9fc100ba/713
+http://vlc.shickat.me:8000/pid/6f28b1b9eb9f4047a6179b300e65b03c8316e10f/stream.mp4
 
-#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="NAT GEO WILD FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" group-title="ESTILO DE VIDA ",NAT GEO WILD 
+
+#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="IBERALIA TV" tvg-logo="https://images2.imgbox.com/d1/c4/S14JmxXh_o.png" group-title="ESTILO DE VIDA ",IBERALIA 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/181.m3u8
+http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/198.m3u8
 
 
-#EXTINF:-1 group-title="ESTILO DE VIDA",NAT GEO WILD
+#EXTINF:-1 group-title="ESTILO DE VIDA",IBERALIA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://vipgerretger.top:8080/VIP0123172279600792/41ff9fc100ba/712
+http://vipgerretger.top:8080/VIP0123172279600792/41ff9fc100ba/714
 
-#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" group-title="ESTILO DE VIDA ",NATIONAL GEOGRAPHIC 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/178.m3u8
 
-#EXTINF:-1 group-title="ESTILO DE VIDA",NATIONAL GEOGRAPHIC
+#EXTINF:-1 group-title="ESTILO DE VIDA",IBERALIA TV  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://vipgerretger.top:8080/VIP0123172279600792/41ff9fc100ba/711
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/198
+
+
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",IBERALIA 100% CAZA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://vipgerretger.top:8080/VIP0123172279600792/41ff9fc100ba/99473
+
+
+
+
+#EXTINF:-1 tvg-id="Iberalia caza" tvg-name="IBERALIA CAZA" tvg-logo="https://images2.imgbox.com/d1/c4/S14JmxXh_o.png" group-title="ESTILO DE VIDA ",IBERALIA CAZA 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/201.m3u8
+
+#EXTINF:-1 tvg-id="Iberalia pesca" tvg-name="IBERALIA PESCA" tvg-logo="https://images2.imgbox.com/d1/c4/S14JmxXh_o.png" group-title="ESTILO DE VIDA ",IBERALIA PESCA 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/204.m3u8
+
+
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",IBERALIA PESCA  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/204
+
+
+
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",CAZAVISION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/210
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",CAZAVISIÓN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://vipgerretger.top:8080/VIP0123172279600792/41ff9fc100ba/827
+
+
+
+#EXTINF:-1 tvg-id="Cazavisión" tvg-name="CAZAVISION" tvg-logo="https://images2.imgbox.com/1d/5d/55r3s0JU_o.png" group-title="ESTILO DE VIDA ",CAZAVISION 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/210.m3u8
+
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",CANAL COCINA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/52439
+
+#EXTINF:-1 group-title="ESTILO DE VIDA ",CANAL COCINA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+acestream://db81615f1b2eebaf584edc252ddd73883123fbb3
+
+#EXTINF:-1 tvg-id="Canal Cocina" tvg-name="CANAL COCINA UHD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51USEW2haIL.png" group-title="ESTILO DE VIDA ",CANAL COCINA 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/52439.m3u8
+
+#EXTINF:-1 group-title="ESTILO DE VIDA ",CANAL COCINA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://vlc.shickat.me:8000/pid/db81615f1b2eebaf584edc252ddd73883123fbb3/stream.mp4
+
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",CANAL DECASA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/140
+
 
 #EXTINF:-1 tvg-id="Decasa" tvg-name="CANAL DECASA UHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png" group-title="ESTILO DE VIDA ",CANAL DECASA 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -1677,108 +1677,46 @@ http://vipgerretger.top:8080/VIP0123172279600792/41ff9fc100ba/705
 
 
 
-#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="IBERALIA TV FHD" tvg-logo="https://images2.imgbox.com/d1/c4/S14JmxXh_o.png" group-title="ESTILO DE VIDA ",IBERALIA 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/198.m3u8
-
-#EXTINF:-1 group-title="ESTILO DE VIDA",IBERALIA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://vipgerretger.top:8080/VIP0123172279600792/41ff9fc100ba/714
-
-#EXTINF:-1 group-title="ESTILO DE VIDA",IBERALIA 100% CAZA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://vipgerretger.top:8080/VIP0123172279600792/41ff9fc100ba/99473
-
-
-
-
-#EXTINF:-1 tvg-id="Iberalia caza" tvg-name="IBERALIA CAZA FHD" tvg-logo="https://images2.imgbox.com/d1/c4/S14JmxXh_o.png" group-title="ESTILO DE VIDA ",IBERALIA CAZA 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/201.m3u8
-
-#EXTINF:-1 tvg-id="Iberalia pesca" tvg-name="IBERALIA PESCA FHD" tvg-logo="https://images2.imgbox.com/d1/c4/S14JmxXh_o.png" group-title="ESTILO DE VIDA ",IBERALIA PESCA 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/204.m3u8
-
-#EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-name="CAZA Y PESCA FHD" tvg-logo="https://images2.imgbox.com/86/85/Xq9UsyJN_o.png" group-title="ESTILO DE VIDA ",CAZA Y PESCA 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/207.m3u8
-
-#EXTINF:-1 group-title="ESTILO DE VIDA",CAZAVISIÓN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://vipgerretger.top:8080/VIP0123172279600792/41ff9fc100ba/827
-
-
-
-#EXTINF:-1 tvg-id="Cazavisión" tvg-name="CAZAVISION HD" tvg-logo="https://images2.imgbox.com/1d/5d/55r3s0JU_o.png" group-title="ESTILO DE VIDA ",CAZAVISION 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/210.m3u8
-
-
-
-#EXTINF:-1 group-title="ESTILO DE VIDA",CAZA Y PESCA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://vipgerretger.top:8080/VIP0123172279600792/41ff9fc100ba/706
-
-#EXTINF:-1 group-title="ESTILO DE VIDA",AMC CRIME
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://vipgerretger.top:8080/VIP0123172279600792/41ff9fc100ba/707
-
-#EXTINF:-1 tvg-id="Discovery" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCR.png" group-title="ESTILO DE VIDA ",DISCOVERY CHANNEL 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/187.m3u8
-
-
-#EXTINF:-1 group-title="ESTILO DE VIDA",DISCOVERY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://vipgerretger.top:8080/VIP0123172279600792/41ff9fc100ba/708
-
-#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" group-title="ESTILO DE VIDA ",DMAX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/195.m3u8
-
-
-
-#EXTINF:-1 tvg-id="Odisea" tvg-name="ODISEA UHD 4K" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" group-title="ESTILO DE VIDA ",ODISEA 4K 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/190.m3u8
-
-#EXTINF:-1 group-title="ESTILO DE VIDA",ODISEA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://vipgerretger.top:8080/VIP0123172279600792/41ff9fc100ba/710
-
-
-
-#EXTINF:-1 tvg-id="SELEKT" tvg-name="AMC Selekt TV HD" tvg-logo="https://amcselekt.es/static/img/tuamc/og_logo.png" group-title="ESTILO DE VIDA ",AMC Selekt  
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/194.m3u8
-
-
-#EXTINF:-1 group-title="ESTILO DE VIDA",AMC BREAK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://vipgerretger.top:8080/VIP0123172279600792/41ff9fc100ba/778
-
-
-
-
-#EXTINF:-1 tvg-id="Mega" tvg-name="MEGA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEGA.png" group-title="ESTILO DE VIDA ",MEGA 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/147.m3u8
-
-#EXTINF:-1 tvg-id="Nova" tvg-name="NOVA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NOVA.png" group-title="ESTILO DE VIDA ",NOVA 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/150.m3u8
-
-
-
-
-#EXTINF:-1 group-title="ESTILO DE VIDA ",CANAL COCINA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-acestream://db81615f1b2eebaf584edc252ddd73883123fbb3
 
 #EXTINF:-1 group-title="ESTILO DE VIDA ",Decasa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 acestream://4869e4c131cb3478cc375944c7cc68d1bb8e9dc4
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="ESTILO DE VIDA ",Decasa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://vlc.shickat.me:8000/pid/4869e4c131cb3478cc375944c7cc68d1bb8e9dc4/stream.mp4
+
+
+
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",NATIONAL GEOGRAPHIC  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/178
+
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" group-title="ESTILO DE VIDA ",NATIONAL GEOGRAPHIC 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/178.m3u8
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",NATIONAL GEOGRAPHIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://vipgerretger.top:8080/VIP0123172279600792/41ff9fc100ba/711
+
+
+
+#EXTINF:-1 group-title="ESTILO DE VIDA ",National Geographic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://vlc.shickat.me:8000/pid/55230a7a3cc4e8dfd3cecbfb2d68266aa4e5dfff/stream.mp4
+
+#EXTINF:-1 group-title="ESTILO DE VIDA ",National Geographic Wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://vlc.shickat.me:8000/pid/51d0b5249e229a07ecc52286f56a67c3d9df6d00/stream.mp4
+
 
 #EXTINF:-1 group-title="ESTILO DE VIDA ",National Geographic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -1792,34 +1730,147 @@ acestream://51d0b5249e229a07ecc52286f56a67c3d9df6d00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 acestream://6f28b1b9eb9f4047a6179b300e65b03c8316e10f
 
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="NAT GEO WILD FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" group-title="ESTILO DE VIDA ",NAT GEO WILD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/181.m3u8
+
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",NAT GEO WILD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://vipgerretger.top:8080/VIP0123172279600792/41ff9fc100ba/712
+
+
+
+
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",NAT GEO WILD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/181
+
+
+
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",ODISEA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/190
+
+
+#EXTINF:-1 tvg-id="Odisea" tvg-name="ODISEA UHD 4K" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" group-title="ESTILO DE VIDA ",ODISEA 4K 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/190.m3u8
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",ODISEA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://vipgerretger.top:8080/VIP0123172279600792/41ff9fc100ba/710
+
+
+
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",DISCOVERY  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/187
+
+
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",DISCOVERY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://vipgerretger.top:8080/VIP0123172279600792/41ff9fc100ba/708
+
+
+#EXTINF:-1 tvg-id="Discovery" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCR.png" group-title="ESTILO DE VIDA ",DISCOVERY  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/187.m3u8
+
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",HISTORIA  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/184
+
+#EXTINF:-1 tvg-id="Historia" tvg-name="HISTORIA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HIST.png" group-title="ESTILO DE VIDA ",HISTORIA 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/184.m3u8
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",HISTORIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://vipgerretger.top:8080/VIP0123172279600792/41ff9fc100ba/713
+
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",BBC HISTORY  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/52405
+
+#EXTINF:-1 tvg-id="BBC History" tvg-name="BBC HISTORY FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBHIS.png" group-title="ESTILO DE VIDA ",BBC HISTORY 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/52405.m3u8
+
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",BBC FOOD  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/52402
+
+#EXTINF:-1 tvg-id="BBC Food" tvg-name="BBC FOOD FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBFOO.png" group-title="ESTILO DE VIDA ",BBC FOOD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/52402.m3u8
+
+
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",AMC CRIME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://vipgerretger.top:8080/VIP0123172279600792/41ff9fc100ba/707
+
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" group-title="ESTILO DE VIDA ",DMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/195.m3u8
+
+
+#EXTINF:-1 tvg-id="SELEKT" tvg-name="AMC Selekt TV HD" tvg-logo="https://amcselekt.es/static/img/tuamc/og_logo.png" group-title="ESTILO DE VIDA ",AMC Selekt  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/194.m3u8
+
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",AMC BREAK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://vipgerretger.top:8080/VIP0123172279600792/41ff9fc100ba/778
+
+
+#EXTINF:-1 tvg-id="Mega" tvg-name="MEGA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEGA.png" group-title="ESTILO DE VIDA ",MEGA 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/147.m3u8
+
+#EXTINF:-1 tvg-id="Nova" tvg-name="NOVA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NOVA.png" group-title="ESTILO DE VIDA ",NOVA 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/150.m3u8
+
+
 #EXTINF:-1 group-title="ESTILO DE VIDA ",Movistar La Resistencia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://vlc.shickat.me:8000/pid/09b8bed9be1feadb4ef83e46d50dc51f763947a7/stream.mp4
 
-#EXTINF:-1 group-title="ESTILO DE VIDA ",Movistar Documentales
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://vlc.shickat.me:8000/pid/0ba40acc350bc1493cf576a125806bda86abe38b/stream.mp4
 
 
-#EXTINF:-1 group-title="ESTILO DE VIDA ",CANAL COCINA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://vlc.shickat.me:8000/pid/db81615f1b2eebaf584edc252ddd73883123fbb3/stream.mp4
 
-#EXTINF:-1 group-title="ESTILO DE VIDA ",Decasa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://vlc.shickat.me:8000/pid/4869e4c131cb3478cc375944c7cc68d1bb8e9dc4/stream.mp4
 
-#EXTINF:-1 group-title="ESTILO DE VIDA ",National Geographic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://vlc.shickat.me:8000/pid/55230a7a3cc4e8dfd3cecbfb2d68266aa4e5dfff/stream.mp4
 
-#EXTINF:-1 group-title="ESTILO DE VIDA ",National Geographic Wild
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://vlc.shickat.me:8000/pid/51d0b5249e229a07ecc52286f56a67c3d9df6d00/stream.mp4
 
-#EXTINF:-1 group-title="ESTILO DE VIDA ",Caza y Pesca
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://vlc.shickat.me:8000/pid/6f28b1b9eb9f4047a6179b300e65b03c8316e10f/stream.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

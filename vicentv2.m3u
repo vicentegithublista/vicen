@@ -13,11 +13,6 @@ https://url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz"
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",DAZN F1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://paco@dokko1new.newkso.ru/dokko1/premium537/mono.m3u8
-
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",DAZN F1
@@ -43,6 +38,13 @@ acestream://8b55a528c5cf9f1acd11d942472bdd60926db8ae
 #EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",DAZN F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",DAZN F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://paco@dokko1new.newkso.ru/dokko1/premium537/mono.m3u8
+
+
 
 
 
@@ -446,12 +448,6 @@ http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/354
 
 
 
-
-#EXTINF:-1,group-title="DAZN ESPAÑA",DAZN F1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://paco@dokko1new.newkso.ru/dokko1/premium537/mono.m3u8
-
-
 #EXTINF:-1,group-title="DAZN ESPAÑA",DAZN F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
@@ -475,6 +471,20 @@ acestream://8b55a528c5cf9f1acd11d942472bdd60926db8ae
 #EXTINF:-1,group-title="DAZN ESPAÑA",DAZN F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
+
+
+
+#EXTINF:-1,group-title="DAZN ESPAÑA",DAZN F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://paco@dokko1new.newkso.ru/dokko1/premium537/mono.m3u8
+
+
+
+
+
+
+
+
 
 
 
@@ -8183,6 +8193,7 @@ acestream://880f9d6c56432e43f9e9c1861752926d9f1cdd14
 
 #EXTINF:-1  group-title="PELICULAS", tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5N6o9biGGz06jgQsKId3uNTiRCg.jpg",The Slaughterhouse Killer (2020) web dl Hd 1080p (6.0*)
 acestream://804762be3df150b41979884464b066419d41be6b
+
 
 
 

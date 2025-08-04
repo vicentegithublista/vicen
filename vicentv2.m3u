@@ -12,7 +12,7 @@ https://url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz"
 
 
 
-EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",Barsa
+#EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",Barsa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://www.youtube.com/live/2KrS1i3OYs4?si=bzxOxF6JK-oKDxtu
 
@@ -1859,6 +1859,7 @@ http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/150.m3u8
 #EXTINF:-1 group-title="ESTILO DE VIDA ",Movistar La Resistencia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://vlc.shickat.me:8000/pid/09b8bed9be1feadb4ef83e46d50dc51f763947a7/stream.mp4
+
 
 
 

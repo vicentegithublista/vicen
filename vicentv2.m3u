@@ -990,12 +990,11 @@ http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 
 
 
-#EXTINF:-1 tvg-id="TF1" tvg-name="  CANAL+ FOOT" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_FOOT.png"  group-title="FRANCE",  CANAL+ FOOT
-http://norycdn.top:8080/3751739125030676/96dc8168c5ed/8111
-#EXTINF:-1 tvg-id="TF1" tvg-name="  CANAL+ SPORT 360" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_SPORT_360.png"  group-title="FRANCE",  CANAL+ SPORT 360
-http://norycdn.top:8080/3751739125030676/96dc8168c5ed/25959
+
 #EXTINF:-1 tvg-id="Canal+ Sport" tvg-name="  CANAL+ SPORT" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_SPORT.png"  group-title="FRANCE",  CANAL+ SPORT
 http://norycdn.top:8080/3751739125030676/96dc8168c5ed/8008
+#EXTINF:-1 tvg-id="TF1" tvg-name="  CANAL+ SPORT 360" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_SPORT_360.png"  group-title="FRANCE",  CANAL+ SPORT 360
+http://norycdn.top:8080/3751739125030676/96dc8168c5ed/25959
 #EXTINF:-1 tvg-id="TF1" tvg-name="  CANAL+ PREMIER LEAGUE" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_PREMIER_LEAGUE.png"  group-title="FRANCE",  CANAL+ PREMIER LEAGUE
 http://norycdn.top:8080/3751739125030676/96dc8168c5ed/8006
 #EXTINF:-1 tvg-id="beIN SPORTS 1" tvg-name="  BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png"  group-title="FRANCE",  BEIN SPORTS 1
@@ -1072,8 +1071,6 @@ http://norycdn.top:8080/3751739125030676/96dc8168c5ed/8327
 http://norycdn.top:8080/3751739125030676/96dc8168c5ed/8328
 #EXTINF:-1 tvg-id="" tvg-name="  AMAZON PRIME 8 (MATCH TIME)" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/AMAZON_PRIME.png"  group-title="FRANCE",  AMAZON PRIME 8 (MATCH TIME)
 http://norycdn.top:8080/3751739125030676/96dc8168c5ed/29659
-#EXTINF:-1 tvg-id="Extreme Sports Channel" tvg-name="  000000" tvg-logo="" group-title="FR | 000000",  000000
-http://norycdn.top:8080/3751739125030676/96dc8168c5ed/8215
 #EXTINF:-1 tvg-id="Infosport+" tvg-name="  INFOSPORT+" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/INFOSPORT.png"  group-title="FRANCE",  INFOSPORT+
 http://norycdn.top:8080/3751739125030676/96dc8168c5ed/8214
 #EXTINF:-1 tvg-id="EQUIDIA" tvg-name="  EQUIDIA" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/EQUIDIA.png"  group-title="FRANCE",  EQUIDIA
@@ -2044,6 +2041,7 @@ http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/150.m3u8
 #EXTINF:-1 group-title="ESTILO DE VIDA ",Movistar La Resistencia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://vlc.shickat.me:8000/pid/09b8bed9be1feadb4ef83e46d50dc51f763947a7/stream.mp4
+
 
 
 

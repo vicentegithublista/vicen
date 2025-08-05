@@ -1690,6 +1690,42 @@ http://vlc.shickat.me:8000/pid/095134586cd06e1488139842f1183b50b75f5fd1/stream.m
 
 
 
+#EXTINF:-1,group-title="TDT",  tvg-id="324.es",3/24 (1080p)
+https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
+#EXTINF:-1,group-title="TDT",  tvg-id="Canal7TeleValencia.es",7 TeleValencia (576p)
+https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
+#EXTINF:-1,group-title="TDT",  tvg-id="8LaMarinaTV.es",8 La Marina TV (576p)
+https://streaming005.gestec-video.com/hls/canal24.m3u8
+#EXTINF:-1,group-title="TDT",  tvg-id="8madridTV.es",8madrid TV (720p)
+http://185.189.225.150:85/8madrid/index.m3u8
+#EXTINF:-1,group-title="TDT",  tvg-id="9laLomaTV.es",9 la Loma TV (1080p) [Geo-blocked]
+https://9laloma.tv/live.m3u8
+#EXTINF:-1,group-title="TDT",  tvg-id="12tv.es" http-referrer="https://www.12tv.es/",12tv
+#EXTVLCOPT:http-referrer=https://www.12tv.es/
+https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8
+#EXTINF:-1,group-title="TDT",  tvg-id="12tv.es" http-referrer="https://player.streamingconnect.com/",12TV Alicante (720p)
+#EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
+https://cloud.fastchannel.es/mic/manifiest/hls/12tv/12tv.m3u8
+#EXTINF:-1,group-title="TDT",  tvg-id="24HorasInternacional.es",24 Horas Internacional [Geo-blocked]
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:-1,group-title="TDT",  tvg-id="101tvAntequera.es" http-referrer="https://www.101tv.es/antequera/",101tv Antequera
+#EXTVLCOPT:http-referrer=https://www.101tv.es/antequera/
+https://www.streaming101tv.es:19360/antequera/antequera.m3u8
+#EXTINF:-1,group-title="TDT",  tvg-id="101tvAxarquia.es",101tv Axarquia (480p)
+https://www.streaming101tv.es:19360/axarquia/axarquia.m3u8
+#EXTINF:-1,group-title="TDT",  tvg-id="101tvCadiz.es",101tv Cádiz (1080p)
+https://streaming101tv.es:19360/cadiz/cadiz.m3u8
+#EXTINF:-1,group-title="TDT",  tvg-id="101tvRonda.es",101tv Ronda (1080p)
+https://streaming101tv.es/hls/webronda.m3u8
+#EXTINF:-1,group-title="TDT",  tvg-id="ActivaTV.es",Activa TV (720p)
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+#EXTINF:-1,group-title="TDT",  tvg-id="AlacantiTV.es",Alacantí TV (576p) [Not 24/7]
+https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
+#EXTINF:-1,group-title="TDT",  tvg-id="AlcarriaTV.es",Alcarria TV (576p) [Not 24/7]
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:-1,group-title="TDT",  tvg-id="AlcarriaTV.es",Alcarria TV (576p) [Not 24/7]
+https://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
+
 
 
 
@@ -2048,6 +2084,7 @@ http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/150.m3u8
 #EXTINF:-1 group-title="ESTILO DE VIDA ",Movistar La Resistencia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://vlc.shickat.me:8000/pid/09b8bed9be1feadb4ef83e46d50dc51f763947a7/stream.mp4
+
 
 
 

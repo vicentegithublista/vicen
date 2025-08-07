@@ -699,18 +699,6 @@ http://vipgerretger.top:8080/VIP0123172279600792/41ff9fc100ba/655
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="M+ Estrenos HD" tvg-name="Movistar Estrenos" tvg-logo="https://stremio.shickat.me/Images/Channels/ESTRENOS.jpg"  group-title="TDT",Movistar Estrenos
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 acestream://b71478c824f787a6a696139db0d053de6fdd1d38
@@ -719,93 +707,19 @@ acestream://b71478c824f787a6a696139db0d053de6fdd1d38
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://vlc.shickat.me:8000/pid/b71478c824f787a6a696139db0d053de6fdd1d38/stream.mp4
 
-#EXTINF:-1,group-title="TDT",M+ ESTRENOS  
+#EXTINF:-1,group-title="TDT",Movistar Estrenos 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/46
 
 
-
-#EXTINF:-1 group-title="TDT",Movistar Originales
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://vlc.shickat.me:8000/pid/60fcd59471ac4268e6cd6448f068a2b518841c88/stream.mp4
-
-
-#EXTINF:-1 tvg-id="M+ Originales HD" tvg-name="Movistar Originales" tvg-logo="https://stremio.shickat.me/Images/Channels/ORIGINALES.jpg"  group-title="TDT",Movistar Originales
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-acestream://60fcd59471ac4268e6cd6448f068a2b518841c88
-
-
-
-#EXTINF:-1 tvg-id="M+ Documentales HD" tvg-name="Movistar Documentales" tvg-logo="https://stremio.shickat.me/Images/Channels/DOCUMENTALES.jpg" group-title="TDT",Movistar Documentales
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-acestream://0ba40acc350bc1493cf576a125806bda86abe38b
-
-
-#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="Movistar Cine Español" tvg-logo="https://stremio.shickat.me/Images/Channels/CINEESPANOL.jpg"  group-title="TDT",Movistar Cine Español
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-acestream://168ad4a958aa6daa26adeee9700ed0312618bd07
-
 #EXTINF:-1 group-title="TDT",Movistar Cine Español
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://vlc.shickat.me:8000/pid/168ad4a958aa6daa26adeee9700ed0312618bd07/stream.mp4
-
-
-
-#EXTINF:-1,group-title="TDT",M+ CINE Ñ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/49
-
-
-
-#EXTINF:-1 tvg-id="M+ Vacaciones" tvg-name="Movistar Vacaciones" tvg-logo=""  group-title="TDT",Movistar Vacaciones
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-acestream://a0f71ac4897b2ccdf0114b5b3b7877902376a343
-
-
-
-#EXTINF:-1 group-title="TDT",Movistar Vacaciones
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://vlc.shickat.me:8000/pid/a0f71ac4897b2ccdf0114b5b3b7877902376a343/stream.mp4
-
-#EXTINF:-1 group-title="TDT",Movistar Western
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://vlc.shickat.me:8000/pid/860dd021db341dbd02979eb8ea650d3f9d846765/stream.mp4
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-id="M+ Wéstern" tvg-name="Movistar Western" tvg-logo=""  group-title="TDT",Movistar Western
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/52411
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="M+ Wéstern" tvg-name="Movistar Western" tvg-logo=""  group-title="TDT",Movistar Western
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-acestream://860dd021db341dbd02979eb8ea650d3f9d846765
-
-
-#EXTINF:-1 tvg-id="M+ Indie HD" tvg-name="Movistar Indie" tvg-logo="https://stremio.shickat.me/Images/Channels/INDIE.jpg"  group-title="TDT",Movistar Indie
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-acestream://4f35f115971f0b156baabb8efa9926b1eb8ba5af
-
-
-
-#EXTINF:-1 group-title="TDT",Movistar Indie
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://vlc.shickat.me:8000/pid/4f35f115971f0b156baabb8efa9926b1eb8ba5af/stream.mp4
-
 
 
 
@@ -819,37 +733,11 @@ http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/53
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 acestream://93b2f5ede5cf2fa0cdb50419258c4f651aabfc42
 
-#EXTINF:-1 group-title="TDT",Movistar Acción
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://vlc.shickat.me:8000/pid/93b2f5ede5cf2fa0cdb50419258c4f651aabfc42/stream.mp4
-
 
 #EXTINF:-1,group-title="TDT",M+ ACCION  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/31
 
-
-
-
-#EXTINF:-1 group-title="TDT",Movistar Comedia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://vlc.shickat.me:8000/pid/124aa6d58fd72a763ed0349c874551bd2504798f/stream.mp4
-
-#EXTINF:-1 tvg-id="M+ Comedia HD" tvg-name="Movistar Comedia" tvg-logo="https://stremio.shickat.me/Images/Channels/COMEDIA.jpg"  group-title="TDT",Movistar Comedia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-acestream://124aa6d58fd72a763ed0349c874551bd2504798f
-
-
-
-#EXTINF:-1 tvg-id="M+ Drama HD" tvg-name="Movistar Drama" tvg-logo="https://stremio.shickat.me/Images/Channels/DRAMA.jpg"  group-title="TDT",Movistar Drama
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-acestream://aff9d7e45c4fc0f97ec8ec2b6d80cd3feb87c983
-
-
-
-#EXTINF:-1 group-title="TDT",Movistar Drama
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://vlc.shickat.me:8000/pid/aff9d7e45c4fc0f97ec8ec2b6d80cd3feb87c983/stream.mp4
 
 
 #EXTINF:-1,group-title="TDT",M+ DRAMA  
@@ -864,29 +752,12 @@ http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/37
 acestream://28b9b7ba12c0f5c7e097f4b07a547f6eda9a0695
 
 
-#EXTINF:-1,group-title="TDT",M+ HITS  
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/89
-
-
-#EXTINF:-1 group-title="TDT",Movistar Hits
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://vlc.shickat.me:8000/pid/28b9b7ba12c0f5c7e097f4b07a547f6eda9a0695/stream.mp4
-
-
-
-#EXTINF:-1 tvg-id="M+ Clásicos HD" tvg-name="Movistar Clásicos" tvg-logo="https://stremio.shickat.me/Images/Channels/CLASICOS.jpg"  group-title="TDT",Movistar Clásicos
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-acestream://095134586cd06e1488139842f1183b50b75f5fd1
 
 #EXTINF:-1,group-title="TDT",M+ CLASICOS  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/43
 
 
-#EXTINF:-1 group-title="TDT",Movistar Clásicos
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://vlc.shickat.me:8000/pid/095134586cd06e1488139842f1183b50b75f5fd1/stream.mp4
 
 
 
@@ -1311,6 +1182,13 @@ http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/213.m3u8
 #EXTINF:-1 group-title="ESTILO DE VIDA",M+ DOCUMENTALES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://vipgerretger.top:8080/VIP0123172279600792/41ff9fc100ba/87108
+
+#EXTINF:-1 group-title="ESTILO DE VIDA ",Movistar Documentales
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+acestream://0ba40acc350bc1493cf576a125806bda86abe38b
+
+
+
 
 #EXTINF:-1 group-title="ESTILO DE VIDA ",Movistar Documentales
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -2239,6 +2117,7 @@ http://norycdn.top:8080/3751739125030676/96dc8168c5ed/57582
 http://norycdn.top:8080/3751739125030676/96dc8168c5ed/57583
 #EXTINF:-1 tvg-id="" tvg-name="  CANAL+ LIVE 19" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_LIVE_19.png"  group-title="FRANCE",  CANAL+ LIVE 19
 http://norycdn.top:8080/3751739125030676/96dc8168c5ed/57584
+
 
 
 

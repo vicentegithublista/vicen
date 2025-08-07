@@ -31,6 +31,10 @@ http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 
 
+#EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="PPV-EVENTOS",Teledeporte 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
+
 
 
 
@@ -178,6 +182,11 @@ http://127.0.0.1:6878/ace/getstream?id=0585e09bb8ac9720e4c11934f1b184e309291551
 #EXTINF:-1,group-title="M. DEPORTES",Teledeporte 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
+
+
+#EXTINF:-1,group-title="M. DEPORTES",Teledeporte 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 
 
 #EXTINF:-1,group-title="M. DEPORTES",GOL PLAY 
@@ -1938,6 +1947,7 @@ http://norycdn.top:8080/3751739125030676/96dc8168c5ed/57582
 http://norycdn.top:8080/3751739125030676/96dc8168c5ed/57583
 #EXTINF:-1 tvg-id="" tvg-name="  CANAL+ LIVE 19" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_LIVE_19.png"  group-title="FRANCE",  CANAL+ LIVE 19
 http://norycdn.top:8080/3751739125030676/96dc8168c5ed/57584
+
 
 
 

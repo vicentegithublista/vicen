@@ -241,7 +241,58 @@ http://127.0.0.1:6878/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://Rp@freqsyndlin.rally.tv/583/hls/master/playlist.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="M. DEPORTES",   MOVISTAR PLUS+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/86
 
+#EXTINF:0 tvg-id="ext" group-title="M. DEPORTES",   MOVISTAR PLUS+ 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/87
+
+#EXTINF:0 tvg-id="M+Vamos.es" group-title="M. DEPORTES",  (HD) M+ VAMOS
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/123
+#EXTINF:0 tvg-id="M+Vamos.es" group-title="M. DEPORTES",  (FHD) M+ VAMOS
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/122
+#EXTINF:0 tvg-id="ext" group-title="M. DEPORTES",  M+ ELLAS V
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/124
+#EXTINF:0 tvg-id="Golf.es" group-title="M. DEPORTES",  M+ GOLF
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/126
+#EXTINF:0 tvg-id="M+Golf2.es" group-title="M. DEPORTES",  M+ GOLF 2
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/127
+#EXTINF:0 tvg-id="Eurosport1.es" group-title="M. DEPORTES",  EUROSPORT 1
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/128
+#EXTINF:0 tvg-id="Eurosport2.es" group-title="M. DEPORTES",  EUROSPORT 2
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/129
+#EXTINF:0 tvg-id="GOL.es" group-title="M. DEPORTES",  GOL PLAY
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/130
+#EXTINF:0 tvg-id="Teledeporte.es" group-title="M. DEPORTES",  TELEDEPORTE
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/131
+#EXTINF:0 tvg-id="RealMadridTV.es" group-title="M. DEPORTES",  REAL MADRID TV
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/132
+#EXTINF:0 tvg-id="ext" group-title="M. DEPORTES",  UBEAT
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/133
+#EXTINF:0 tvg-id="M.Deportes.es" group-title="M. DEPORTES",  (FHD) M+ DEPORTES
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/134
+#EXTINF:0 tvg-id="M.Deportes.es" group-title="M. DEPORTES",  (HD) M+ DEPORTES
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/8401
+#EXTINF:0 tvg-id="M.Deportes2.es" group-title="M. DEPORTES",  M+ DEPORTES 2
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/135
+#EXTINF:0 tvg-id="M.Deportes3.es" group-title="M. DEPORTES",  M+ DEPORTES 3
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/136
+#EXTINF:0 tvg-id="M.Deportes4.es" group-title="M. DEPORTES",  M+ DEPORTES 4
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/137
+#EXTINF:0 tvg-id="M.Deportes5.es" group-title="M. DEPORTES",  M+ DEPORTES 5
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/138
+#EXTINF:0 tvg-id="M.Deportes6.es" group-title="M. DEPORTES",  M+ DEPORTES 6
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/139
+#EXTINF:0 tvg-id="M.Deportes7.es" group-title="M. DEPORTES",  M+ DEPORTES 7
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/140
+#EXTINF:0 tvg-id="BetisTV.es" group-title="M. DEPORTES",  BETIS TV
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/318
+#EXTINF:0 tvg-id="ext" group-title="M. DEPORTES",  RALLY TV
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/410
+#EXTINF:0 tvg-id="ext" group-title="M. DEPORTES",  ESPN DEPORTES
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/25825
 
 
 
@@ -297,6 +348,81 @@ http://127.0.0.1:6878/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/354
 
 
+
+#EXTINF:0 tvg-id="IberaliaTV.es" group-title="LA LIGA",  (HD) M+ LALIGA
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/92
+#EXTINF:0 tvg-id="IberaliaTV.es" group-title="LA LIGA",  (HD REPUESTO) M+ LALIGA
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/93
+#EXTINF:0 tvg-id="M.LaLiga.es" group-title="LA LIGA",  (FHD) M+ LALIGA
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/94
+#EXTINF:0 tvg-id="ext" group-title="LA LIGA",  (FHD REPUESTO) M+ LALIGA
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/396
+#EXTINF:0 tvg-id="M.LaLiga2.es" group-title="LA LIGA",  (FHD) M+ LALIGA TV 2
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/95
+#EXTINF:0 tvg-id="M.LaLiga2.es" group-title="LA LIGA",  (HD) M+ LALIGA TV 2
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/96
+#EXTINF:0 tvg-id="M.LaLiga3.es" group-title="LA LIGA",  (FHD) M+ LALIGA TV 3
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/97
+#EXTINF:0 tvg-id="M.LaLiga3.es" group-title="LA LIGA",  (HD) M+ LALIGA TV 3
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/8399
+#EXTINF:0 tvg-id="IberaliaTV.es" group-title="LA LIGA",  (FHD) M+ LALIGA TV BAR
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/404
+#EXTINF:0 tvg-id="IberaliaTV.es" group-title="LA LIGA",  (HD) M+ LALIGA TV BAR
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/8400
+#EXTINF:0 tvg-id="ext" group-title="LA LIGA",  M+ COPA DEL REY
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/26612
+#EXTINF:0 tvg-id="M.LaLiga4.es" group-title="LA LIGA",  M+ LALIGA TV 4
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16781
+
+#EXTINF:0 tvg-id="LaLigaTVHypermotion.es" group-title="LA LIGA",  (FHD) LALIGA TV HYPERMOTION
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/101
+#EXTINF:0 tvg-id="LaLigaTVHypermotion.es" group-title="LA LIGA",  (HD) LALIGA TV HYPERMOTION
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/8402
+#EXTINF:0 tvg-id="LaLigaTVHypermotion2.es" group-title="LA LIGA",  LALIGA TV HYPERMOTION 2
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/102
+#EXTINF:0 tvg-id="LaLigaTVHypermotion3.es" group-title="LA LIGA",  LALIGA TV HYPERMOTION 3
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/103
+
+
+
+#EXTINF:0 tvg-id="IberaliaTV.es" group-title="LA LIGA",  (HD) M+ LIGA DE CAMPEONES
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/107
+#EXTINF:0 tvg-id="ext" group-title="LA LIGA",  (HD REPUESTO) M+ LIGA DE CAMPEONES
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/397
+#EXTINF:0 tvg-id="M.LigaCampeones.es" group-title="LA LIGA",  (FHD) M+ LIGA DE CAMPEONES
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/108
+#EXTINF:0 tvg-id="ext" group-title="LA LIGA",  (FHD REPUESTO) M+ LIGA DE CAMPEONES
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/399
+#EXTINF:0 tvg-id="M.LigaCampeones.es" group-title="LA LIGA",  (SD) M+ LIGA DE CAMPEONES
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/398
+#EXTINF:0 tvg-id="M.LigaCampeones2.es" group-title="LA LIGA",  (HD) M+ LIGA DE CAMPEONES 2
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/110
+#EXTINF:0 tvg-id="M.LigaCampeones2.es" group-title="LA LIGA",  (FHD) M+ LIGA DE CAMPEONES 2
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/109
+#EXTINF:0 tvg-id="M.LigaCampeones3.es" group-title="LA LIGA",  (HD) M+ LIGA DE CAMPEONES 3
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/403
+#EXTINF:0 tvg-id="M.LigaCampeones3.es" group-title="LA LIGA",  (FHD) M+ LIGA DE CAMPEONES 3
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/111
+#EXTINF:0 tvg-id="M.LigaCampeones4.es" group-title="LA LIGA",  M+ LIGA DE CAMPEONES 4
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/112
+#EXTINF:0 tvg-id="ext" group-title="LA LIGA",  M+ LIGA DE CAMPEONES 5
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/113
+#EXTINF:0 tvg-id="ext" group-title="LA LIGA",  M+ LIGA DE CAMPEONES 6
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/114
+#EXTINF:0 tvg-id="ext" group-title="LA LIGA",  M+ LIGA DE CAMPEONES 7
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/115
+#EXTINF:0 tvg-id="ext" group-title="LA LIGA",  M+ LIGA DE CAMPEONES 8
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/116
+#EXTINF:0 tvg-id="ext" group-title="LA LIGA",  M+ LIGA DE CAMPEONES 9
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/117
+#EXTINF:0 tvg-id="ext" group-title="LA LIGA",  M+ LIGA DE CAMPEONES 10
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/118
+#EXTINF:0 tvg-id="ext" group-title="LA LIGA",  M+ LIGA DE CAMPEONES 11
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/119
+#EXTINF:0 tvg-id="ext" group-title="LA LIGA",  M+ LIGA DE CAMPEONES 12
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/120
+#EXTINF:0 tvg-id="ext" group-title="LA LIGA",  M+ LIGA DE CAMPEONES 13
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/121
 
 
 
@@ -429,8 +555,39 @@ http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/6269
 
 
 
+#EXTINF:0 tvg-id="DAZNLaLiga.es"group-title="DAZN ESPAÑA",  (HD) DAZN LALIGA
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/391
+#EXTINF:0 tvg-id="ext"group-title="DAZN ESPAÑA",  (HD REPUESTO) DAZN LALIGA
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/393
+#EXTINF:0 tvg-id="DAZNLaLiga.es"group-title="DAZN ESPAÑA",  (FHD) DAZN LALIGA
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/392
+#EXTINF:0 tvg-id="ext"group-title="DAZN ESPAÑA",  (FHD REPUESTO) DAZN LALIGA
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/394
+#EXTINF:0 tvg-id="DAZNLaLiga2.es"group-title="DAZN ESPAÑA",  DAZN LALIGA 2
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/395
+
+#EXTINF:0 tvg-id="DAZN_F1.es" group-title="DAZN ESPAÑA",  (HD) DAZN F1
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/104
+#EXTINF:0 tvg-id="ext" group-title="DAZN ESPAÑA",  (HD REPUESTO) DAZN F1
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/402
+#EXTINF:0 tvg-id="DAZN_F1.es" group-title="DAZN ESPAÑA",  (FHD) DAZN F1
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/401
+#EXTINF:0 tvg-id="ext" group-title="DAZN ESPAÑA",  (FHD REPUESTO) DAZN F1
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/400
 
 
+#EXTINF:0 tvg-id="DAZN1.es" group-title="DAZN ESPAÑA",  (HD) DAZN 1
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16656
+#EXTINF:0 tvg-id="DAZN1.es" group-title="DAZN ESPAÑA",  (FHD) DAZN 1
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/105
+#EXTINF:0 tvg-id="DAZN1.es" group-title="DAZN ESPAÑA",  (SD) DAZN 1
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16657
+#EXTINF:0 tvg-id="DAZN2.es" group-title="DAZN ESPAÑA",  DAZN 2
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/106
+#EXTINF:0 tvg-id="DAZN3.es" group-title="DAZN ESPAÑA",  DAZN 3
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/142
+#EXTINF:0 tvg-id="DAZN4.es" group-title="DAZN ESPAÑA",  DAZN 4
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/143
 
 
 
@@ -519,6 +676,12 @@ http://esprohela.xyz:8080/ES0135173876521842/01739446567768/4
 #EXTINF:-1 group-title="TDT", tvg-logo="https://docdog.top/logo/countries/spain/movistar/cmm.png" ,Castilla-La Mancha Media
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/267
+
+
+#EXTINF:-1 group-title="TDT", tvg-logo="https://docdog.top/logo/countries/spain/movistar/cmm.png" ,Castilla-La Mancha Media
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16646
+
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tvhellin/picture?width=200&height=200"   group-title="TDT",tvg-name="TV Hellín",TV Hellín 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -1308,6 +1471,16 @@ http://esprohela.xyz:8080/ES0135173876521842/01739446567768/53
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/129
 
 
+#EXTINF:-1 group-title="ESTILO DE VIDA",ONETORO
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/406
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",ONETORO
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/405
+
+
+
+
+
 
 
 #EXTINF:-1 group-title="ESTILO DE VIDA",El Toro TV
@@ -1552,13 +1725,30 @@ http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/52402
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/52402.m3u8
 
-
-
-
-
-
-
-
+#EXTINF:0 tvg-id="M+Documentales.es" group-title="ESTILO DE VIDA",  M+ DOCUMENTALES
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/80
+#EXTINF:0 tvg-id="NationalGeographic.es" group-title="ESTILO DE VIDA",  NATIONAL GEOGRAPHIC
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/81
+#EXTINF:0 tvg-id="NatGeoWild.es" group-title="ESTILO DE VIDA",  NAT GEO WILD
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/82
+#EXTINF:0 tvg-id="Historia.es" group-title="ESTILO DE VIDA",  HISTORIA
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/83
+#EXTINF:0 tvg-id="DiscoveryChannel.sp" group-title="ESTILO DE VIDA",  DISCOVERY
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/84
+#EXTINF:0 tvg-id="DMAX.es" group-title="ESTILO DE VIDA",  DMAX
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/85
+#EXTINF:0 tvg-id="ext" group-title="ESTILO DE VIDA",  IBERALIA 100% CAZA
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/408
+#EXTINF:0 tvg-id="ext" group-title="ESTILO DE VIDA",  IBERALIA 100% PESCA
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/409
+#EXTINF:0 tvg-id="IberaliaTV.es" group-title="ESTILO DE VIDA",  IBERALIA TV
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16645
+#EXTINF:0 tvg-id="Cazavision.es" group-title="ESTILO DE VIDA",  CAZAVISIÓN
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/27046
+#EXTINF:0 tvg-id="Odisea.es" group-title="ESTILO DE VIDA",  ODISEA
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/29378
+#EXTINF:0 tvg-id="CazayPesca.es" group-title="ESTILO DE VIDA",  CAZA Y PESCA
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/31782
 #EXTINF:0 tvg-id="Cocina.es" group-title="ESTILO DE VIDA ",  CANAL COCINA
 http://esprohela.xyz:8080/ES0135173876521842/01739446567768/46
 #EXTINF:0 tvg-id="Decasa.es" group-title="ESTILO DE VIDA ",  CANAL DECASA
@@ -1570,6 +1760,92 @@ http://esprohela.xyz:8080/ES0135173876521842/01739446567768/411
 
 
 
+
+#EXTINF:0 tvg-id="ext" group-title="PPV",  MAX PPV
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16658
+#EXTINF:0 tvg-id="ext" group-title="PPV",  PRIME PPV
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16659
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="PPV",CH1
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/31402
+#EXTINF:0 tvg-id="ext" group-title="PPV",CH2
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/31403
+#EXTINF:0 tvg-id="ext" group-title="PPV",CH3
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/31404
+#EXTINF:0 tvg-id="ext" group-title="PPV",CH4
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/31405
+#EXTINF:0 tvg-id="ext" group-title="PPV",CH5
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/31406
+#EXTINF:0 tvg-id="ext" group-title="PPV",CH6
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/31407
+#EXTINF:0 tvg-id="ext" group-title="PPV",CH7
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/31408
+#EXTINF:0 tvg-id="ext" group-title="PPV",CH8
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/31409
+#EXTINF:0 tvg-id="ext" group-title="PPV",CH9
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/31410
+#EXTINF:0 tvg-id="ext" group-title="PPV",CH10
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/31411
+#EXTINF:0 tvg-id="ext" group-title="PPV",CH11
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/31412
+#EXTINF:0 tvg-id="ext" group-title="PPV",CH12
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/31413
+
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 1 FHD
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16788
+#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 2 FHD
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16789
+#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 3 FHD
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16790
+#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 4 FHD
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16791
+#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 5 FHD
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16792
+#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 6 FHD
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16793
+#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 7 FHD
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16794
+#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 8 FHD
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16795
+#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 9 FHD
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16796
+#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 10 FHD
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16797
+#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 11 FHD
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16798
+#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 12 FHD
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16799
+#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 13 FHD
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16800
+#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 14 FHD
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16801
+#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 15 FHD
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16802
+#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 16 FHD
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16803
+#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 17 FHD
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16804
+#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 18 FHD
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16805
+#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 19 FHD
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16806
+#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 20 FHD
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16807
+#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 21 FHD
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16808
+#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 22 FHD
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16809
+#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 23 FHD
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16810
+#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 24 FHD
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16811
+#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 25 FHD
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16812
 
 
 
@@ -2019,6 +2295,32 @@ http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 
 
 
+#EXTINF:0 tvg-id="AlJazeeraEnglish.es"  group-title="INTERNACIONAL",  AL JAZEERA ENGLISH
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/59
+#EXTINF:0 tvg-id="ext"  group-title="INTERNACIONAL",  FRANCE24 (FR)
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/60
+#EXTINF:0 tvg-id="324.es"  group-title="INTERNACIONAL",  1+1 INTERNACIONAL
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/61
+#EXTINF:0 tvg-id="CNBC.es"  group-title="INTERNACIONAL",  CNBC
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/62
+#EXTINF:0 tvg-id="TV5MONDE.es"  group-title="INTERNACIONAL",  TV5MONDE
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/63
+#EXTINF:0 tvg-id="CGTN.es"  group-title="INTERNACIONAL",  CGTN ESPAÑOL
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/64
+#EXTINF:0 tvg-id="Bloomberg.es"  group-title="INTERNACIONAL",  BLOOMBERG
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/65
+#EXTINF:0 tvg-id="24Horas.sp"  group-title="INTERNACIONAL",  24 HORAS
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/66
+#EXTINF:0 tvg-id="BBCWorld.es"  group-title="INTERNACIONAL",  BBC WORLD
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/67
+#EXTINF:0 tvg-id="CNNInt.es"  group-title="INTERNACIONAL",  CNN INT
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/68
+#EXTINF:0 tvg-id="Euronews.es"  group-title="INTERNACIONAL",  EURONEWS
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/70
+#EXTINF:0 tvg-id="ext"  group-title="INTERNACIONAL",  NEGOCIOS TV
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/72
+
+
 
 
 
@@ -2205,6 +2507,7 @@ http://norycdn.top:8080/3751739125030676/96dc8168c5ed/57582
 http://norycdn.top:8080/3751739125030676/96dc8168c5ed/57583
 #EXTINF:-1 tvg-id="" tvg-name="  CANAL+ LIVE 19" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_LIVE_19.png"  group-title="FRANCE",  CANAL+ LIVE 19
 http://norycdn.top:8080/3751739125030676/96dc8168c5ed/57584
+
 
 
 

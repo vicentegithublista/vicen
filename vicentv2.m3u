@@ -447,7 +447,7 @@ https://jmp2.uk/sam-ESBC4100001NZ.m3u8
 
 
 
-#EXTINF:0 tvg-id="LA1.es" #EXTINF:-1,group-title="TDT",   LA 1
+#EXTINF:0 tvg-id="LA1.es",group-title="TDT",   LA 1
 http://esprohela.xyz:8080/ES0135173876521842/01739446567768/1
 
 
@@ -463,7 +463,7 @@ http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=fc36c7249aef74e3ea579500efdfd7a98d8e9ac5
 
-#EXTINF:0 tvg-id="LA2.es" #EXTINF:-1,group-title="TDT",   LA 2
+#EXTINF:0 tvg-id="LA2.es" ,group-title="TDT",   LA 2
 http://esprohela.xyz:8080/ES0135173876521842/01739446567768/2
 
 
@@ -477,14 +477,14 @@ http://viphfppss.top:8080/VIP01523172640695398/be09b3dccde2/646
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://viphfppss.top:8080/VIP01523172640695398/be09b3dccde2/646
 
-#EXTINF:0 tvg-id="Antena3.es" #EXTINF:-1,group-title="TDT",   ANTENA 3
+#EXTINF:0 tvg-id="Antena3.es"group-title="TDT",   ANTENA 3
 http://esprohela.xyz:8080/ES0135173876521842/01739446567768/3
 
 #EXTINF:-1,group-title="TDT",CUATRO  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/12
 
-#EXTINF:0 tvg-id="Cuatro.es" #EXTINF:-1,group-title="TDT",   CUATRO
+#EXTINF:0 tvg-id="Cuatro.es" group-title="TDT",   CUATRO
 http://esprohela.xyz:8080/ES0135173876521842/01739446567768/5
 
 
@@ -497,7 +497,7 @@ http://127.0.0.1:6878/ace/getstream?id=5133d1e8f45095f0b7dabbd78db0ce19a496f7bf
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/15
 
 
-#EXTINF:0 tvg-id="Telecinco.es" #EXTINF:-1,group-title="TDT",   TELECINCO
+#EXTINF:0 tvg-id="Telecinco.es"group-title="TDT",   TELECINCO
 http://esprohela.xyz:8080/ES0135173876521842/01739446567768/6
 
 
@@ -511,7 +511,7 @@ http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/18
 http://127.0.0.1:6878/ace/getstream?id=1c6486082949172d1ffd318db8fb965dd5af7e31
 
 
-#EXTINF:0 tvg-id="LaSexta.sp" #EXTINF:-1,group-title="TDT",   LA SEXTA
+#EXTINF:0 tvg-id="LaSexta.sp" group-title="TDT",   LA SEXTA
 http://esprohela.xyz:8080/ES0135173876521842/01739446567768/4
 
 
@@ -548,6 +548,160 @@ http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/247
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3000002GP_20241022T050505SQUARE.png"   group-title="TDT",  Canal Sur 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://jmp2.uk/sam-ESBD3000002GP.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:0 tvg-id="CanalSurAndalucia.es"  group-title="TDT",  CANAL SUR ANDALUCÍA
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/73
+
+#EXTINF:0 tvg-id="ext"  group-title="TDT",  TVG EUROPA
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/74
+
+#EXTINF:0 tvg-id="CanalExtremaduraSat.es"  group-title="TDT",  CANAL EXTREMADURA SAT
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/75
+
+#EXTINF:0 tvg-id="AragonTVsat.es" group-title="TDT",  ARAGÓN TV INT
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/76
+
+#EXTINF:0 tvg-id="ext" group-title="TDT",  EITB BASQUE
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/77
+
+#EXTINF:0 tvg-id="Telemadrid.es" group-title="TDT",  TELEMADRID INT
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/79
+
+
+#EXTINF:0 tvg-id="M+Cine.es"group-title="TDT",  M+ CINE
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/10
+
+#EXTINF:0 tvg-id="M.Series.es" group-title="TDT",  M+ SERIES
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/11
+
+#EXTINF:0 tvg-id="M.Clasicos.es" group-title="TDT",  M+ CLÁSICOS
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/14
+
+#EXTINF:0 tvg-id="M.Accion.es"  group-title="TDT",  M+ ACCIÓN
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/15
+
+#EXTINF:0 tvg-id="M.Comedia.es" group-title="TDT",  M+ COMEDIA
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16
+
+#EXTINF:0 tvg-id="M.Drama.es" group-title="TDT",  M+ DRAMA
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/17
+
+#EXTINF:0 tvg-id="M+Indie.es" group-title="TDT",  M+ INDIE
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/19
+
+#EXTINF:0 tvg-id="M.CineEspanol.es" group-title="TDT",  M+ CINE ESPAÑOL
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/20
+
+#EXTINF:0 tvg-id="Calle13.es" group-title="TDT",  CALLE 13
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/23
+
+#EXTINF:0 tvg-id="CosmopolitanHD.es"  #EXTINF:-1,group-title="TDT",  COSMO
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/24
+
+#EXTINF:0 tvg-id="Scifi.es" group-title="TDT",  SYFY
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/25
+
+#EXTINF:0 tvg-id="ext"  group-title="TDT",  SKYSHOWTIME 1
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/26
+
+#EXTINF:0 tvg-id="Fox.es"  group-title="TDT",  STAR CHANNEL
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/27
+
+#EXTINF:0 tvg-id="M+LaResistencia.es"  group-title="TDT",  LA RESISTENCIA
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/28
+
+#EXTINF:0 tvg-id="TCM.es"  group-title="TDT",  TCM
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/29
+
+#EXTINF:0 tvg-id="Paramount.es"  group-title="TDT",  PARAMOUNT CHANNEL
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/31
+
+#EXTINF:0 tvg-id="BeMadTV.es" group-title="TDT",  BE MAD
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/32
+
+
+
+
+
+#EXTINF:0 tvg-id="WarnerTV.es"  group-title="TDT",  WARNER TV
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/33
+
+#EXTINF:0 tvg-id="Hollywood.es" group-title="TDT",  HOLLYWOOD
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/35
+
+#EXTINF:0 tvg-id="AXNhd.es" group-title="TDT",  AXN
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/36
+
+#EXTINF:0 tvg-id="ComedyCentral.es" group-title="TDT",  COMEDY CENTRAL
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/37
+
+#EXTINF:0 tvg-id="M+Originales.es"  group-title="TDT",  M+ ORIGINALES
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/88
+
+#EXTINF:0 tvg-id="Dark.es" group-title="TDT",  DARK
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16782
+
+#EXTINF:0 tvg-id="Sundance.es"group-title="TDT",  SUNDANCE
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16783
+
+#EXTINF:0 tvg-id="AMC.es" group-title="TDT",  AMC
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16784
+
+#EXTINF:0 tvg-id="Somos.es"  group-title="TDT",  SOMOS
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16785
+
+#EXTINF:0 tvg-id="XTRM.es" group-title="TDT",  XTRM
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16786
+
+#EXTINF:0 tvg-id="AMCCrime.es" group-title="TDT",  AMC CRIME
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16787
+
+#EXTINF:0 tvg-id="ext"  group-title="TDT",  AXN MOVIES
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/27488
+
+#EXTINF:0 tvg-id="ext"  group-title="TDT",  M+ ESTRENOS
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/31183
+
+
+
+#EXTINF:0 tvg-id="Divinity.es"  group-title="TDT",  DIVINITY
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/41
+
+#EXTINF:0 tvg-id="Nova.es"  group-title="TDT",  NOVA
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/42
+
+#EXTINF:0 tvg-id="Mega.es" group-title="TDT",  MEGA
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/43
+
+#EXTINF:0 tvg-id="TEN.es"  group-title="TDT",  TEN
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/44
+
+#EXTINF:0 tvg-id="DKISS.es"  group-title="TDT",  DKISS
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/45
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKb6DZpbxOMbN_VANCdenLck4ceg7gxMk5tnkjmM=s200"   group-title="TDT", tvg-name="Andalucía Cocina",Andalucía Cocina 
@@ -1032,6 +1186,23 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a26a056
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aadf373bed3000794d1d7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1aadf373bed3000794d1d7&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=300&terminate=false&userId=
 
+
+#EXTINF:0 tvg-id="MTVEsp.es"  #EXTINF:-1,group-title="TDT",  MTV
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/39
+
+#EXTINF:0 tvg-id="ext"  #EXTINF:-1,group-title="TDT",  MTV 00S
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/40
+
+#EXTINF:0 tvg-id="Mezzo.es"  #EXTINF:-1,group-title="TDT",  MEZZO
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/316
+
+#EXTINF:0 tvg-id="Mezzo.es"  #EXTINF:-1,group-title="TDT",  MEZZO LIVE
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/317
+
+#EXTINF:0 tvg-id="ext"  #EXTINF:-1,group-title="TDT",  M+ HITS
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/38897
+
+
 #EXTINF:-1,group-title="TDT",  tvg-id="KanalDDrama.tr@SD",Vive Kanal D Drama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8
@@ -1054,10 +1225,15 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b4c0671
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acce7f17797000718f9be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 
 
+#EXTINF:0 tvg-id="ClanTVE.es"  #EXTINF:-1,group-title="TDT",  CLAN TVE
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/56
 
 #EXTINF:-1,group-title="TDT",BABY TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/296
+
+#EXTINF:0 tvg-id="BabyTV.es" #EXTINF:-1,group-title="TDT",  BABY TV
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/49
 
 #EXTINF:-1 tvg-id="clantve.es" tvg-name="  CLAN TVE FHD" tvg-logo="http://go4.pw/EUROPE/SPAIN/CANTVE.png"  group-title="TDT",Pequeradio TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -1071,9 +1247,22 @@ http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/304
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/310
 
+
+#EXTINF:0 tvg-id="DisneyChannel.es" group-title="TDT",  DISNEY CHANNEL
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/54
+
 #EXTINF:-1,group-title="TDT",DISNEY JUNIOR  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/313
+
+#EXTINF:0 tvg-id="DisneyJr.es" group-title="TDT",  DISNEY JUNIOR
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/50
+
+#EXTINF:0 tvg-id="NickJunior.es" group-title="TDT",  NICK JR
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/51
+
+#EXTINF:0 tvg-id="Nickelodeon.es"  group-title="TDT",  NICKELODEON
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/52
 
 #EXTINF:-1,group-title="TDT",NICK JUNIOR  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -1082,6 +1271,16 @@ http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/316
 #EXTINF:-1,group-title="TDT",BOING  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/319
+
+#EXTINF:0 tvg-id="Boing.es"  #EXTINF:-1,group-title="TDT",  BOING
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/55
+
+#EXTINF:0 tvg-id="Dreamworks.es"  #EXTINF:-1,group-title="TDT",  DREAMWORKS
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/53
+
+
+
+
 
 
 
@@ -1356,6 +1555,16 @@ http://alexyatvcasa.xyz:8080/live/pacoatletico/DDGKagdNxs/52402.m3u8
 
 
 
+
+
+
+
+#EXTINF:0 tvg-id="Cocina.es" group-title="ESTILO DE VIDA ",  CANAL COCINA
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/46
+#EXTINF:0 tvg-id="Decasa.es" group-title="ESTILO DE VIDA ",  CANAL DECASA
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/47
+#EXTINF:0 tvg-id="ext" group-title="ESTILO DE VIDA ",  M+ BUEN VIAJE
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/411
 
 
 
@@ -1996,6 +2205,7 @@ http://norycdn.top:8080/3751739125030676/96dc8168c5ed/57582
 http://norycdn.top:8080/3751739125030676/96dc8168c5ed/57583
 #EXTINF:-1 tvg-id="" tvg-name="  CANAL+ LIVE 19" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_LIVE_19.png"  group-title="FRANCE",  CANAL+ LIVE 19
 http://norycdn.top:8080/3751739125030676/96dc8168c5ed/57584
+
 
 
 

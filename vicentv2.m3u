@@ -17,6 +17,31 @@ https://url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz"
 
 
 
+#EXTINF:0 tvg-id="ext" group-title="PPV",CH1
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/31402
+#EXTINF:0 tvg-id="ext" group-title="PPV",CH2
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/31403
+#EXTINF:0 tvg-id="ext" group-title="PPV",CH3
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/31404
+#EXTINF:0 tvg-id="ext" group-title="PPV",CH4
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/31405
+#EXTINF:0 tvg-id="ext" group-title="PPV",CH5
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/31406
+#EXTINF:0 tvg-id="ext" group-title="PPV",CH6
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/31407
+#EXTINF:0 tvg-id="ext" group-title="PPV",CH7
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/31408
+#EXTINF:0 tvg-id="ext" group-title="PPV",CH8
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/31409
+#EXTINF:0 tvg-id="ext" group-title="PPV",CH9
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/31410
+#EXTINF:0 tvg-id="ext" group-title="PPV",CH10
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/31411
+#EXTINF:0 tvg-id="ext" group-title="PPV",CH11
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/31412
+#EXTINF:0 tvg-id="ext" group-title="PPV",CH12
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/31413
+
 
 
 
@@ -1761,91 +1786,11 @@ http://esprohela.xyz:8080/ES0135173876521842/01739446567768/411
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="PPV",  MAX PPV
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16658
-#EXTINF:0 tvg-id="ext" group-title="PPV",  PRIME PPV
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16659
-
-
-
-#EXTINF:0 tvg-id="ext" group-title="PPV",CH1
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/31402
-#EXTINF:0 tvg-id="ext" group-title="PPV",CH2
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/31403
-#EXTINF:0 tvg-id="ext" group-title="PPV",CH3
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/31404
-#EXTINF:0 tvg-id="ext" group-title="PPV",CH4
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/31405
-#EXTINF:0 tvg-id="ext" group-title="PPV",CH5
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/31406
-#EXTINF:0 tvg-id="ext" group-title="PPV",CH6
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/31407
-#EXTINF:0 tvg-id="ext" group-title="PPV",CH7
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/31408
-#EXTINF:0 tvg-id="ext" group-title="PPV",CH8
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/31409
-#EXTINF:0 tvg-id="ext" group-title="PPV",CH9
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/31410
-#EXTINF:0 tvg-id="ext" group-title="PPV",CH10
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/31411
-#EXTINF:0 tvg-id="ext" group-title="PPV",CH11
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/31412
-#EXTINF:0 tvg-id="ext" group-title="PPV",CH12
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/31413
 
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 1 FHD
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16788
-#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 2 FHD
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16789
-#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 3 FHD
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16790
-#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 4 FHD
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16791
-#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 5 FHD
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16792
-#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 6 FHD
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16793
-#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 7 FHD
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16794
-#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 8 FHD
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16795
-#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 9 FHD
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16796
-#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 10 FHD
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16797
-#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 11 FHD
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16798
-#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 12 FHD
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16799
-#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 13 FHD
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16800
-#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 14 FHD
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16801
-#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 15 FHD
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16802
-#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 16 FHD
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16803
-#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 17 FHD
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16804
-#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 18 FHD
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16805
-#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 19 FHD
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16806
-#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 20 FHD
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16807
-#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 21 FHD
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16808
-#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 22 FHD
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16809
-#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 23 FHD
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16810
-#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 24 FHD
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16811
-#EXTINF:0 tvg-id="ext" group-title="RFEF",  RFEF TV 25 FHD
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/16812
+
 
 
 
@@ -2507,6 +2452,7 @@ http://norycdn.top:8080/3751739125030676/96dc8168c5ed/57582
 http://norycdn.top:8080/3751739125030676/96dc8168c5ed/57583
 #EXTINF:-1 tvg-id="" tvg-name="  CANAL+ LIVE 19" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_LIVE_19.png"  group-title="FRANCE",  CANAL+ LIVE 19
 http://norycdn.top:8080/3751739125030676/96dc8168c5ed/57584
+
 
 
 

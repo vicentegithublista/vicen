@@ -446,6 +446,15 @@ http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/3
 https://jmp2.uk/sam-ESBC4100001NZ.m3u8
 
 
+
+#EXTINF:0 tvg-id="LA1.es" #EXTINF:-1,group-title="TDT",   LA 1
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/1
+
+
+
+
+
+
 #EXTINF:-1,group-title="TDT",LA 2  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/6
@@ -453,6 +462,12 @@ http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/6
 #EXTINF:-1,group-title="TDT",LA 2  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=fc36c7249aef74e3ea579500efdfd7a98d8e9ac5
+
+#EXTINF:0 tvg-id="LA2.es" #EXTINF:-1,group-title="TDT",   LA 2
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/2
+
+
+
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png"group-title="TDT", ANTENA 3  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -462,11 +477,15 @@ http://viphfppss.top:8080/VIP01523172640695398/be09b3dccde2/646
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://viphfppss.top:8080/VIP01523172640695398/be09b3dccde2/646
 
+#EXTINF:0 tvg-id="Antena3.es" #EXTINF:-1,group-title="TDT",   ANTENA 3
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/3
 
 #EXTINF:-1,group-title="TDT",CUATRO  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/12
 
+#EXTINF:0 tvg-id="Cuatro.es" #EXTINF:-1,group-title="TDT",   CUATRO
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/5
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="TDT",TELECINCO 
@@ -478,6 +497,11 @@ http://127.0.0.1:6878/ace/getstream?id=5133d1e8f45095f0b7dabbd78db0ce19a496f7bf
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/15
 
 
+#EXTINF:0 tvg-id="Telecinco.es" #EXTINF:-1,group-title="TDT",   TELECINCO
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/6
+
+
+
 #EXTINF:-1,group-title="TDT",LA SEXTA  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/18
@@ -485,6 +509,12 @@ http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/18
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png"group-title="TDT", LA SEXTA  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=1c6486082949172d1ffd318db8fb965dd5af7e31
+
+
+#EXTINF:0 tvg-id="LaSexta.sp" #EXTINF:-1,group-title="TDT",   LA SEXTA
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/4
+
+
 
 #EXTINF:-1 group-title="TDT", tvg-logo="https://docdog.top/logo/countries/spain/movistar/cmm.png" ,Castilla-La Mancha Media
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -578,12 +608,38 @@ http://viphfppss.top:8080/VIP01523172640695398/be09b3dccde2/709
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/261
 
+
+
+#EXTINF:0 tvg-id="Trece.es" #EXTINF:-1,group-title="TDT",   TRECE
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/57
+
+#EXTINF:0 tvg-id="A3seriesHD.es" #EXTINF:-1,group-title="TDT",   ATRESERIES
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/58
+
+
+
+#EXTINF:0 tvg-id="TV3cat.es" #EXTINF:-1,group-title="TDT",   TV3 CAT
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/78
+
+
+
+
 #EXTINF:-1 group-title="TDT", tvg-logo="https://docdog.top/logo/countries/spain/movistar/TRECE.png" tvg-id="TRECE" ,TRECE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://vipgerretger.top:8080/VIP0123172279600792/41ff9fc100ba/655
 
 
+#EXTINF:0 tvg-id="Energy.es" #EXTINF:-1,group-title="TDT",   ENERGY
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/7
 
+#EXTINF:0 tvg-id="FDF.es" #EXTINF:-1,group-title="TDT",   FACTORÍA DE FICCIÓN
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/8
+
+#EXTINF:0 tvg-id="Neox.es" #EXTINF:-1,group-title="TDT",   NEOX
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/9
+
+#EXTINF:0 tvg-id="Enfamilia.es" #EXTINF:-1,group-title="TDT",   ENFAMILIA
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/48
 
 #EXTINF:-1 tvg-id="M+ Estrenos HD" tvg-name="Movistar Estrenos" tvg-logo="https://stremio.shickat.me/Images/Channels/ESTRENOS.jpg"  group-title="TDT",Movistar Estrenos
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -1058,6 +1114,9 @@ http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/129
 #EXTINF:-1 group-title="ESTILO DE VIDA",El Toro TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/132
+
+#EXTINF:-1 group-title="ESTILO DE VIDA",El Toro TV
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/71
 
 #EXTINF:-1 group-title="ESTILO DE VIDA",TOROLE TV   
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -1937,6 +1996,7 @@ http://norycdn.top:8080/3751739125030676/96dc8168c5ed/57582
 http://norycdn.top:8080/3751739125030676/96dc8168c5ed/57583
 #EXTINF:-1 tvg-id="" tvg-name="  CANAL+ LIVE 19" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_LIVE_19.png"  group-title="FRANCE",  CANAL+ LIVE 19
 http://norycdn.top:8080/3751739125030676/96dc8168c5ed/57584
+
 
 
 

@@ -14,12 +14,13 @@ https://url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz"
 
 
 
-
-
-
 #EXTINF:0 tvg-id="ext" group-title="PPV",M.LA LIGA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/31402
+http://127.0.0.1:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
+
+
+
+
 
 #EXTINF:0 tvg-id="ext" group-title="PPV",LIGA DE CAMPEONES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -342,6 +343,36 @@ http://esprohela.xyz:8080/ES0135173876521842/01739446567768/25825
 
 
 
+#EXTINF:-1,group-title="LA LIGA",M+ LALIGA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/330
+
+#EXTINF:-1,group-title="LA LIGA",M+ LALIGA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
+
+#EXTINF:-1,group-title="LA LIGA",M+ LALIGA TV HDR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b
+
+#EXTINF:0 tvg-id="IberaliaTV.es" group-title="LA LIGA",M+ LALIGA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/92
+
+#EXTINF:0 tvg-id="IberaliaTV.es" group-title="LA LIGA",M+ LALIGA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/93
+
+#EXTINF:0 tvg-id="M.LaLiga.es" group-title="LA LIGA",M+ LALIGA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/94
+
+#EXTINF:0 tvg-id="ext" group-title="LA LIGA",M+ LALIGA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/396
+
+
+
 
 
 
@@ -357,24 +388,85 @@ http://127.0.0.1:6878/ace/getstream?id=2b51710cee513e8939785fa3e7980f32d4e0415f
 
 
 
-
-#EXTINF:-1,group-title="LA LIGA",M+ LALIGA TV
+#EXTINF:0 tvg-id="IberaliaTV.es" group-title="LA LIGA",M+ LIGA DE CAMPEONES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=6afc8eb425669908813af31ead60ac251545aa6b
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/107
 
-#EXTINF:-1,group-title="LA LIGA",M+ LALIGA TV
+#EXTINF:0 tvg-id="ext" group-title="LA LIGA",M+ LIGA DE CAMPEONES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/330
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/397
 
-
-
-#EXTINF:-1,group-title="LA LIGA",M+ LALIGA TV
+#EXTINF:0 tvg-id="M.LigaCampeones.es" group-title="LA LIGA",M+ LIGA DE CAMPEONES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/108
 
-#EXTINF:-1,group-title="LA LIGA",M+ LALIGA TV HDR
+#EXTINF:0 tvg-id="ext" group-title="LA LIGA",M+ LIGA DE CAMPEONES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/399
+
+#EXTINF:0 tvg-id="M.LigaCampeones.es" group-title="LA LIGA",M+ LIGA DE CAMPEONES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/398
+
+#EXTINF:0 tvg-id="M.LigaCampeones2.es" group-title="LA LIGA",M+ LIGA DE CAMPEONES 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/110
+
+#EXTINF:0 tvg-id="M.LigaCampeones2.es" group-title="LA LIGA",M+ LIGA DE CAMPEONES 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/109
+
+#EXTINF:0 tvg-id="M.LigaCampeones3.es" group-title="LA LIGA",M+ LIGA DE CAMPEONES 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/403
+
+#EXTINF:0 tvg-id="M.LigaCampeones3.es" group-title="LA LIGA",M+ LIGA DE CAMPEONES 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/111
+
+#EXTINF:0 tvg-id="M.LigaCampeones4.es" group-title="LA LIGA",M+ LIGA DE CAMPEONES 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/112
+
+#EXTINF:0 tvg-id="ext" group-title="LA LIGA",M+ LIGA DE CAMPEONES 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/113
+
+#EXTINF:0 tvg-id="ext" group-title="LA LIGA",M+ LIGA DE CAMPEONES 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/114
+
+#EXTINF:0 tvg-id="ext" group-title="LA LIGA",M+ LIGA DE CAMPEONES 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/115
+
+#EXTINF:0 tvg-id="ext" group-title="LA LIGA",M+ LIGA DE CAMPEONES 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/116
+
+#EXTINF:0 tvg-id="ext" group-title="LA LIGA",M+ LIGA DE CAMPEONES 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/117
+
+#EXTINF:0 tvg-id="ext" group-title="LA LIGA",M+ LIGA DE CAMPEONES 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/118
+
+#EXTINF:0 tvg-id="ext" group-title="LA LIGA",M+ LIGA DE CAMPEONES 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/119
+
+#EXTINF:0 tvg-id="ext" group-title="LA LIGA",M+ LIGA DE CAMPEONES 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/120
+
+#EXTINF:0 tvg-id="ext" group-title="LA LIGA",M+ LIGA DE CAMPEONES 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://esprohela.xyz:8080/ES0135173876521842/01739446567768/121
+
+
+
+
 
 
 #EXTINF:-1,group-title="LA LIGA",LALIGA TV HYPERMOTION  
@@ -383,14 +475,8 @@ http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/354
 
 
 
-#EXTINF:0 tvg-id="IberaliaTV.es" group-title="LA LIGA",  (HD) M+ LALIGA
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/92
-#EXTINF:0 tvg-id="IberaliaTV.es" group-title="LA LIGA",  (HD REPUESTO) M+ LALIGA
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/93
-#EXTINF:0 tvg-id="M.LaLiga.es" group-title="LA LIGA",  (FHD) M+ LALIGA
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/94
-#EXTINF:0 tvg-id="ext" group-title="LA LIGA",  (FHD REPUESTO) M+ LALIGA
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/396
+
+
 #EXTINF:0 tvg-id="M.LaLiga2.es" group-title="LA LIGA",  (FHD) M+ LALIGA TV 2
 http://esprohela.xyz:8080/ES0135173876521842/01739446567768/95
 #EXTINF:0 tvg-id="M.LaLiga2.es" group-title="LA LIGA",  (HD) M+ LALIGA TV 2
@@ -416,47 +502,6 @@ http://esprohela.xyz:8080/ES0135173876521842/01739446567768/8402
 http://esprohela.xyz:8080/ES0135173876521842/01739446567768/102
 #EXTINF:0 tvg-id="LaLigaTVHypermotion3.es" group-title="LA LIGA",  LALIGA TV HYPERMOTION 3
 http://esprohela.xyz:8080/ES0135173876521842/01739446567768/103
-
-
-
-#EXTINF:0 tvg-id="IberaliaTV.es" group-title="LA LIGA",  (HD) M+ LIGA DE CAMPEONES
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/107
-#EXTINF:0 tvg-id="ext" group-title="LA LIGA",  (HD REPUESTO) M+ LIGA DE CAMPEONES
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/397
-#EXTINF:0 tvg-id="M.LigaCampeones.es" group-title="LA LIGA",  (FHD) M+ LIGA DE CAMPEONES
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/108
-#EXTINF:0 tvg-id="ext" group-title="LA LIGA",  (FHD REPUESTO) M+ LIGA DE CAMPEONES
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/399
-#EXTINF:0 tvg-id="M.LigaCampeones.es" group-title="LA LIGA",  (SD) M+ LIGA DE CAMPEONES
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/398
-#EXTINF:0 tvg-id="M.LigaCampeones2.es" group-title="LA LIGA",  (HD) M+ LIGA DE CAMPEONES 2
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/110
-#EXTINF:0 tvg-id="M.LigaCampeones2.es" group-title="LA LIGA",  (FHD) M+ LIGA DE CAMPEONES 2
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/109
-#EXTINF:0 tvg-id="M.LigaCampeones3.es" group-title="LA LIGA",  (HD) M+ LIGA DE CAMPEONES 3
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/403
-#EXTINF:0 tvg-id="M.LigaCampeones3.es" group-title="LA LIGA",  (FHD) M+ LIGA DE CAMPEONES 3
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/111
-#EXTINF:0 tvg-id="M.LigaCampeones4.es" group-title="LA LIGA",  M+ LIGA DE CAMPEONES 4
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/112
-#EXTINF:0 tvg-id="ext" group-title="LA LIGA",  M+ LIGA DE CAMPEONES 5
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/113
-#EXTINF:0 tvg-id="ext" group-title="LA LIGA",  M+ LIGA DE CAMPEONES 6
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/114
-#EXTINF:0 tvg-id="ext" group-title="LA LIGA",  M+ LIGA DE CAMPEONES 7
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/115
-#EXTINF:0 tvg-id="ext" group-title="LA LIGA",  M+ LIGA DE CAMPEONES 8
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/116
-#EXTINF:0 tvg-id="ext" group-title="LA LIGA",  M+ LIGA DE CAMPEONES 9
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/117
-#EXTINF:0 tvg-id="ext" group-title="LA LIGA",  M+ LIGA DE CAMPEONES 10
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/118
-#EXTINF:0 tvg-id="ext" group-title="LA LIGA",  M+ LIGA DE CAMPEONES 11
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/119
-#EXTINF:0 tvg-id="ext" group-title="LA LIGA",  M+ LIGA DE CAMPEONES 12
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/120
-#EXTINF:0 tvg-id="ext" group-title="LA LIGA",  M+ LIGA DE CAMPEONES 13
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/121
 
 
 
@@ -2461,6 +2506,7 @@ http://norycdn.top:8080/3751739125030676/96dc8168c5ed/57582
 http://norycdn.top:8080/3751739125030676/96dc8168c5ed/57583
 #EXTINF:-1 tvg-id="" tvg-name="  CANAL+ LIVE 19" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_LIVE_19.png"  group-title="FRANCE",  CANAL+ LIVE 19
 http://norycdn.top:8080/3751739125030676/96dc8168c5ed/57584
+
 
 
 

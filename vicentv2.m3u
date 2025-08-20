@@ -3280,10 +3280,14 @@ http://esfamous.top:8080/es9401738517103002/e38e791d9bfc/16812
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL+ LA LIGA FHD" tvg-logo=""  group-title="LISTA 1", CANAL+ LA LIGA FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL+ LA LIGA FHD" tvg-logo=""  group-title="LISTA 1",LA LIGA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://iptvch2.com:80/Sammy1/j7dnLjHbq3DP/85837
+
 #EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR LaLiga" tvg-logo=""  group-title="LISTA 1", MOVISTAR LaLiga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://iptvch2.com:80/Sammy1/j7dnLjHbq3DP/181966
+
 #EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR LaLiga 2" tvg-logo=""  group-title="LISTA 1", MOVISTAR LaLiga 2
 http://iptvch2.com:80/Sammy1/j7dnLjHbq3DP/181967
 #EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR LaLiga 3" tvg-logo=""  group-title="LISTA 1", MOVISTAR LaLiga 3
@@ -3432,7 +3436,7 @@ http://iptvch2.com:80/Sammy1/j7dnLjHbq3DP/85878
 http://iptvch2.com:80/Sammy1/j7dnLjHbq3DP/85879
 #EXTINF:-1 tvg-id="" tvg-name="ES: ESPN DEPORTE" tvg-logo=""  group-title="LISTA 1", ESPN DEPORTE
 http://iptvch2.com:80/Sammy1/j7dnLjHbq3DP/180424
-#EXTINF:-1 tvg-id="LaLigaSmartbankTV3.es" tvg-name="SP: MOVISTAR+" tvg-logo="" group-title="39 SPANISH CHANNELS",SP: MOVISTAR+
+#EXTINF:-1 tvg-id="LaLigaSmartbankTV3.es" tvg-name="SP: MOVISTAR+" tvg-logo=""group-title="LISTA 1", MOVISTAR+
 http://iptvch2.com:80/Sammy1/j7dnLjHbq3DP/181113
 #EXTINF:-1 tvg-id="" tvg-name="ES: #VAMOS" tvg-logo=""  group-title="LISTA 1", #VAMOS
 http://iptvch2.com:80/Sammy1/j7dnLjHbq3DP/181815
@@ -4048,6 +4052,7 @@ http://iptvch2.com:80/Sammy1/j7dnLjHbq3DP/252880
 http://iptvch2.com:80/Sammy1/j7dnLjHbq3DP/252881
 #EXTINF:-1 tvg-id="" tvg-name="Telecinco HD" tvg-logo="" group-title="LISTA 1",Telecinco HD
 http://iptvch2.com:80/Sammy1/j7dnLjHbq3DP/252882
+
 
 
 

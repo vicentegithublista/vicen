@@ -16,9 +16,37 @@ https://url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz"
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="PPV",Movistar Plus 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=5d9a26e0a5f3e5f2ae027bd05635ab9a4fd4b51a
+
 #EXTINF:0 tvg-id="ext" group-title="PPV",Movistar Plus 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://vipgerretger.top:8080/VIP0123172279600792/41ff9fc100ba/87109
+
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="PPV",M.VAMOS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=1444a976d2cf6e7fdcee833ed36ee5e55632253f
 
 
 
@@ -28,10 +56,20 @@ http://127.0.0.1:6878/ace/getstream?id=2940120bf034db79a7f5849846ccea0255172eae
 
 
 
+#EXTINF:0 tvg-id="ext" group-title="PPV",M.DEPORTES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=751b9cb03d188ce70e6aac22c1bfb16a5d0b2237
+
+
+
+
+
 
 #EXTINF:0 tvg-id="ext" group-title="PPV",M.DEPORTES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
+
+
 
 #EXTINF:0 tvg-id="ext" group-title="PPV",M.DEPORTES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -53,7 +91,9 @@ http://127.0.0.1:6878/ace/getstream?id=332d8fdeb9c51385230b8c9448e047ccc4a6355d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=9099f519dd9b6b6f74f105477ff545829a110415
 
-
+#EXTINF:0 tvg-id="ext" group-title="PPV",M.DEPORTES 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=438991226c3bc6a06e7bfda9bea9f769957dc366
 
 #EXTINF:0 tvg-id="ext" group-title="PPV",M.DEPORTES 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -63,7 +103,19 @@ http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25
 
+#EXTINF:0 tvg-id="ext" group-title="PPV",M.LA LIGA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=07f2b92762cfff99bba785c2f5260c7934ca6034
 
+#EXTINF:0 tvg-id="ext" group-title="PPV",M.LA LIGA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=07f2b92762cfff99bba785c2f5260c7934ca6034
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="PPV",M.LA LIGA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
 
 #EXTINF:0 tvg-id="ext" group-title="PPV",M.LA LIGA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -73,9 +125,7 @@ http://127.0.0.1:6878/ace/getstream?id=07f2b92762cfff99bba785c2f5260c7934ca6034
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=c32a2cf4631bad4bc40a15ee0f245ed30ad4d85c
 
-#EXTINF:0 tvg-id="ext" group-title="PPV",M.LA LIGA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
+
 
 #EXTINF:0 tvg-id="ext" group-title="PPV",M.LA LIGA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -100,6 +150,9 @@ http://127.0.0.1:6878/ace/getstream?id=ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8
 
 
 
+#EXTINF:0 tvg-id="ext" group-title="PPV",DAZN LIGA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892
 
 
 
@@ -123,6 +176,10 @@ http://127.0.0.1:6878/ace/getstream?id=520950d296c952e1864a08e15af9f89f1ab514ec
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/323
 
+
+#EXTINF:0 tvg-id="ext" group-title="PPV",DAZN LIGA 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=ae16a8f004b1287ee1f53263ab265f72bba0daf5
 
 
 
@@ -150,9 +207,16 @@ http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 
 
 
+#EXTINF:0 tvg-id="ext" group-title="PPV",LALIGA TV HYPERMOTION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=f15f997f457e49ad9697e65cf2d78db26ee875b9
 
 
 
+
+#EXTINF:0 tvg-id="ext" group-title="PPV",LALIGA TV HYPERMOTION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0
 
 
 #EXTINF:0 tvg-id="ext" group-title="PPV",LALIGA TV HYPERMOTION
@@ -166,6 +230,18 @@ http://127.0.0.1:6878/ace/getstream?id=f15f997f457e49ad9697e65cf2d78db26ee875b9
 #EXTINF:0 tvg-id="ext" group-title="PPV",LALIGA TV HYPERMOTION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=709075831bf5c41ed0a20dfbd640aab6c28971f8
+
+
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="PPV",LIGA DE CAMPEONES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=680187938f9305cce3ae240298f10e8695bf77c2
+
+
+
+
 
 
 #EXTINF:0 tvg-id="ext" group-title="PPV",LIGA DE CAMPEONES
@@ -185,6 +261,14 @@ http://127.0.0.1:6878/ace/getstream?id=680187938f9305cce3ae240298f10e8695bf77c2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=5c15c639207a080183b12fa63282b409c07401d6
 
+
+
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="PPV",DAZN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=ee4dc45720d3ec283f61189fbfc120c91d5141bf
 
 
 
@@ -219,6 +303,10 @@ http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 
 
+#EXTINF:0 tvg-id="ext" group-title="PPV",DAZN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=9adf7ac6531788ec022dbc14b77e1367f6c5bdc5
+
 
 #EXTINF:0 tvg-id="ext" group-title="PPV",DAZN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -227,6 +315,13 @@ http://127.0.0.1:6878/ace/getstream?id=9adf7ac6531788ec022dbc14b77e1367f6c5bdc5
 #EXTINF:0 tvg-id="ext" group-title="PPV",DAZN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=6fb944e8985881ae6db89667aca6362e746255b6
+
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="PPV",DAZN F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=8c1155cdfae76eb582290c04904c98da066657c9
 
 
 
@@ -240,6 +335,9 @@ http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 
 
 
+#EXTINF:0 tvg-id="ext" group-title="PPV",EUROSPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=704e51760a644bc90aa22269bf84139947a0414a
 
 #EXTINF:0 tvg-id="ext" group-title="PPV",EUROSPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -276,7 +374,9 @@ http://127.0.0.1:6878/ace/getstream?id=0585e09bb8ac9720e4c11934f1b184e309291551
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
 
-
+#EXTINF:0 tvg-id="ext" group-title="PPV",M+ GOLF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=76a69812c66bfc4899e89df498220588a56e6064
 
 #EXTINF:0 tvg-id="ext" group-title="PPV",UFC TNT SPORTS 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -531,6 +631,19 @@ https://Rp@freqsyndlin.rally.tv/583/hls/master/playlist.m3u8
 
 
 
+
+
+
+
+
+
+
+
+#EXTINF:-1,group-title="LA LIGA",M+ LALIGA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
+
+
 #EXTINF:-1,group-title="LA LIGA",M+ LALIGA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=07f2b92762cfff99bba785c2f5260c7934ca6034
@@ -539,12 +652,6 @@ http://127.0.0.1:6878/ace/getstream?id=07f2b92762cfff99bba785c2f5260c7934ca6034
 #EXTINF:-1,group-title="LA LIGA",M+ LALIGA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=c32a2cf4631bad4bc40a15ee0f245ed30ad4d85c
-
-
-
-#EXTINF:-1,group-title="LA LIGA",M+ LALIGA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
 
 
 
@@ -679,7 +786,9 @@ http://esprohela.xyz:8080/ES0135173876521842/01739446567768/121
 
 
 
-
+#EXTINF:-1,group-title="LA LIGA",LALIGA TV HYPERMOTION  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0
 
 #EXTINF:-1,group-title="LA LIGA",LALIGA TV HYPERMOTION  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -941,6 +1050,49 @@ http://alexyatvcasa.xyz:8080/PadreJosueAchila/2E3JWfeAeL68/247
 https://jmp2.uk/sam-ESBD3000002GP.m3u8
 
 
+#EXTINF:-1,group-title="TDT",MOVISTAR ESTRENOS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=6341392460596e63edf38b013bd137c015e44007
+
+#EXTINF:-1,group-title="TDT",MOVISTAR DOCUMENTALES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=6cda7d2622bcafd6aef486016238936855927d7d
+
+#EXTINF:-1,group-title="TDT",MOVISTAR ORIGINALES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=1f092144252939810fd302cbd00d46de760b5dd7
+
+#EXTINF:-1,group-title="TDT",MOVISTAR CINE ESPAÑOL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=e47cdeba9d919d6a9b4fa3c72c8094178985f668
+
+#EXTINF:-1,group-title="TDT",MOVISTAR VACACIONES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=15123ab3458c59bf548fbf6e5503799e81da4de6
+
+#EXTINF:-1,group-title="TDT",MOVISTAR WESTER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=e740a34497c3ba5943613a06999e805e6bbfa159
+
+#EXTINF:-1,group-title="TDT",MOVISTAR INDIE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=508ffdbab097339adb4f3d922070b5df2c114d01
+
+#EXTINF:-1,group-title="TDT",MOVISTAR ACCION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=b125325f52e057b8e5ea17a8b60d512d13d44e53
+
+#EXTINF:-1,group-title="TDT",MOVISTAR COMEDIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=90a3ad526f67f987f662eaf7d52e88004c796914
+
+#EXTINF:-1,group-title="TDT",MOVISTAR DRAMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=edee311dc307e1638eeac880b11bb6f4759b0d83
+
+#EXTINF:-1,group-title="TDT",MOVISTAR HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=2b8e5c7438d56541df3467cc5986cf1e66014101
 
 
 
@@ -3265,6 +3417,7 @@ http://esfamous.top:8080/es9401738517103002/e38e791d9bfc/16811
 #EXTINF:-1 tvg-id="" tvg-name="  RFEF TV 25 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="LISTA",  RFEF TV 25 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://esfamous.top:8080/es9401738517103002/e38e791d9bfc/16812
+
 
 
 

@@ -86,25 +86,10 @@ http://127.0.0.1:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="PPV",M.LA LIGA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=07f2b92762cfff99bba785c2f5260c7934ca6034
-
-
-
-
-
 #EXTINF:0 tvg-id="ext" group-title="PPV",M.LA LIGA HDR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b
 
-
-
-
-
-#EXTINF:0 tvg-id="ext" group-title="PPV",M.LA LIGA TV2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8
 
 #EXTINF:0 tvg-id="ext" group-title="PPV",M.LA LIGA TV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -645,20 +630,11 @@ http://127.0.0.1:6878/ace/getstream?id=c32a2cf4631bad4bc40a15ee0f245ed30ad4d85c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
 
-#EXTINF:-1,group-title="LA LIGA",M+ LALIGA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=07f2b92762cfff99bba785c2f5260c7934ca6034
-
 #EXTINF:-1,group-title="LA LIGA",M+ LALIGA TV HDR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b
 
 
-
-
-#EXTINF:0 tvg-id="ext" group-title="LA LIGA",M+ LALIGA TV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8
 
 
 #EXTINF:0 tvg-id="ext" group-title="LA LIGA",M+ LALIGA TV 2
@@ -741,40 +717,6 @@ http://esprohela.xyz:8080/ES0135173876521842/01739446567768/112
 #EXTINF:0 tvg-id="ext" group-title="LA LIGA",M+ LIGA DE CAMPEONES 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://esprohela.xyz:8080/ES0135173876521842/01739446567768/113
-
-#EXTINF:0 tvg-id="ext" group-title="LA LIGA",M+ LIGA DE CAMPEONES 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/114
-
-#EXTINF:0 tvg-id="ext" group-title="LA LIGA",M+ LIGA DE CAMPEONES 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/115
-
-#EXTINF:0 tvg-id="ext" group-title="LA LIGA",M+ LIGA DE CAMPEONES 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/116
-
-#EXTINF:0 tvg-id="ext" group-title="LA LIGA",M+ LIGA DE CAMPEONES 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/117
-
-#EXTINF:0 tvg-id="ext" group-title="LA LIGA",M+ LIGA DE CAMPEONES 10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/118
-
-#EXTINF:0 tvg-id="ext" group-title="LA LIGA",M+ LIGA DE CAMPEONES 11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/119
-
-#EXTINF:0 tvg-id="ext" group-title="LA LIGA",M+ LIGA DE CAMPEONES 12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/120
-
-#EXTINF:0 tvg-id="ext" group-title="LA LIGA",M+ LIGA DE CAMPEONES 13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/121
-
-
 
 
 
@@ -2161,6 +2103,7 @@ http://norycdn.top:8080/3751739125030676/96dc8168c5ed/57582
 http://norycdn.top:8080/3751739125030676/96dc8168c5ed/57583
 #EXTINF:-1 tvg-id="" tvg-name="  CANAL+ LIVE 19" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_LIVE_19.png"  group-title="INTERNACIONAL",  CANAL+ LIVE 19
 http://norycdn.top:8080/3751739125030676/96dc8168c5ed/57584
+
 
 
 

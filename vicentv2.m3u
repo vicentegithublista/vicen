@@ -73,10 +73,6 @@ http://127.0.0.1:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="PPV",M.LA LIGA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=07f2b92762cfff99bba785c2f5260c7934ca6034
-
 
 #EXTINF:0 tvg-id="ext" group-title="PPV",M.LA LIGA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -2635,6 +2631,7 @@ http://esprooookddm.top:8080/ES0175174084930318/91751979776125/31412
 
 #EXTINF:-1 group-title="LISTA EVENTOS",M+ LIGA DE CAMPEONES 3
 http://esprooookddm.top:8080/ES0175174084930318/91751979776125/31413
+
 
 
 

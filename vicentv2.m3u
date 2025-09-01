@@ -9,7 +9,8 @@ https://github.com/LaQuay/TDTChannels,
 https://url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz"
 
 
-
+
+
 
 
 #EXTINF:0 tvg-id="ext" group-title="PPV",Movistar Plus 
@@ -1412,11 +1413,39 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b4c0671
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acce7f17797000718f9be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 
+#EXTINF:-1,group-title="TDT", tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/dreamworks.png",DREAMWORKS
+http://sonymax.org:8080/reneschroeder/eX6qQHyiGL/329619
+
+#EXTINF:-1,group-title="TDT", tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/DISNEYJR.png" tvg-id="disneyjunior.es",DISNEY JR
+http://sonymax.org:8080/reneschroeder/eX6qQHyiGL/14448
+
+#EXTINF:-1,group-title="TDT", tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/DISNEYXD.png" tvg-id="disneyxd.es",DISNEY XD
+http://sonymax.org:8080/reneschroeder/eX6qQHyiGL/211041
+
+#EXTINF:-1,group-title="TDT", tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/DISNEYHD.png",DISNEY CHANNEL
+http://sonymax.org:8080/reneschroeder/eX6qQHyiGL/292604
+
+#EXTINF:-1,group-title="TDT", tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/NICKELODEONHD.png" tvg-id="nickelodeon.es",NICKELODEON
+http://sonymax.org:8080/reneschroeder/eX6qQHyiGL/211091
+
+#EXTINF:-1,group-title="TDT", tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/NICKELODEONHD.png" tvg-id="nickjr.es",NICK JR
+http://sonymax.org:8080/reneschroeder/eX6qQHyiGL/14444
+
+#EXTINF:-1,group-title="TDT", tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/CLANTVE.png" tvg-id="clantve.es",CLAN 
+http://sonymax.org:8080/reneschroeder/eX6qQHyiGL/221677
+
+#EXTINF:-1,group-title="TDT", tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/BOING.png" tvg-id="boing.es",BOING
+http://sonymax.org:8080/reneschroeder/eX6qQHyiGL/14450
+
+#EXTINF:-1,group-title="TDT", tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/CANALPANDA.png" tvg-id="canalpanda.es",CANAL PANDA
+http://sonymax.org:8080/reneschroeder/eX6qQHyiGL/208276
+
+#EXTINF:-1,group-title="TDT", tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/BABYTV.png" tvg-id="babytv.es",BABY TV
+http://sonymax.org:8080/reneschroeder/eX6qQHyiGL/162490
 
 
-#EXTINF:-1 tvg-id="clantve.es" tvg-name="  CLAN TVE FHD" tvg-logo="http://go4.pw/EUROPE/SPAIN/CANTVE.png"  group-title="TDT",Pequeradio TV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+
+
 
 
 
@@ -2187,6 +2216,7 @@ http://127.0.0.1:6878/ace/getstream?id=709075831bf5c41ed0a20dfbd640aab6c28971f8
 #EXTINF:-1,group-title="INTERNACIONAL" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",P 15 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=1422d506c9f14c84b1249bf8ac0b0698cee7a659
+
 
 
 

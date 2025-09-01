@@ -1462,14 +1462,26 @@ http://sonymax.org:8080/reneschroeder/eX6qQHyiGL/162490
 
 
 
+ #EXTINF:-1 group-title="ESTILO DE VIDA", tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/HISTORIA.png" tvg-id="historia.es",HISTORIA 
+http://sonymax.org:8080/reneschroeder/eX6qQHyiGL/277961
 
+ #EXTINF:-1 group-title="ESTILO DE VIDA", tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/discovery_channel.png",DISCOVERY CHANNEL 
+http://sonymax.org:8080/reneschroeder/eX6qQHyiGL/292605
 
+ #EXTINF:-1 group-title="ESTILO DE VIDA", tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/national_geographic.png" tvg-id="natgeo.es",NATIONAL GEOGRAPHIC 
+http://sonymax.org:8080/reneschroeder/eX6qQHyiGL/211088
 
+ #EXTINF:-1 group-title="ESTILO DE VIDA", tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/NATGEOWILD.png" tvg-id="natgeowild.es",NATIONAL GEOGRAPHIC WILD 
+http://sonymax.org:8080/reneschroeder/eX6qQHyiGL/211090
 
+ #EXTINF:-1 group-title="ESTILO DE VIDA", tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/VIAJARHD.png" tvg-id="viajar.es",VIAJAR 
+http://sonymax.org:8080/reneschroeder/eX6qQHyiGL/211114
 
+ #EXTINF:-1 group-title="ESTILO DE VIDA", tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/IBERALIA.png" tvg-id="iberaliatv.es",IBERALIA TV
+http://sonymax.org:8080/reneschroeder/eX6qQHyiGL/277962
 
-
-
+#EXTINF:-1 group-title="ESTILO DE VIDA", tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/CAZAYPESCAHD.png" tvg-id="cazapesca.es",CAZA Y PESCA
+http://sonymax.org:8080/reneschroeder/eX6qQHyiGL/211030
 
 
 #EXTINF:-1 group-title="ESTILO DE VIDA",M+ DOCUMENTALES
@@ -2216,6 +2228,7 @@ http://127.0.0.1:6878/ace/getstream?id=709075831bf5c41ed0a20dfbd640aab6c28971f8
 #EXTINF:-1,group-title="INTERNACIONAL" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",P 15 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=1422d506c9f14c84b1249bf8ac0b0698cee7a659
+
 
 
 

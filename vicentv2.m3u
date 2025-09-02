@@ -1600,16 +1600,74 @@ http://vipgerretger.top:8080/VIP0123172279600792/41ff9fc100ba/713
 
 
 
-#EXTINF:-1 group-title="4K" tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/LA1HD.png" tvg-id="la1,LA 1  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="4K" tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/LA1HD.png" tvg-id="la1,LA 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://sonymax.org:8080/reneschroeder/eX6qQHyiGL/240092
-#EXTINF:-1 group-title="4K" tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/ANTENA3HD.png" tvg-id="antena3,ANTENA 3  
+
+#EXTINF:-1 group-title="4K" tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/ANTENA3HD.png" tvg-id="antena3,ANTENA 3 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://sonymax.org:8080/reneschroeder/eX6qQHyiGL/240093
-#EXTINF:-1 group-title="4K" tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/TELECINCOHD.png" tvg-id="telecinco,TELECINCO  
+
+#EXTINF:-1 group-title="4K" tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/TELECINCOHD.png" tvg-id="telecinco,TELECINCO 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://sonymax.org:8080/reneschroeder/eX6qQHyiGL/240096
+
 #EXTINF:-1 group-title="4K" tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/LASEXTAHD.png" tvg-id="lasexta,LA SEXTA  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://sonymax.org:8080/reneschroeder/eX6qQHyiGL/240097
+
 #EXTINF:-1 group-title="4K" tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/M.ESTRENOSHD.png" tvg-id="movistarestrenos,MOVISTAR ESTRENOS  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://sonymax.org:8080/reneschroeder/eX6qQHyiGL/220956
+
+#EXTINF:0 tvg-id="ext" group-title="4K",M.LA LIGA HDR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b
+
+
+#EXTINF:0 tvg-id="ext" group-title="4K",FR | CANAL+ Sport 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
+
+
+#EXTINF:0 tvg-id="ext" group-title="4K",Eleven 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2313,6 +2371,7 @@ http://127.0.0.1:6878/ace/getstream?id=709075831bf5c41ed0a20dfbd640aab6c28971f8
 #EXTINF:-1,group-title="INTERNACIONAL" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",P 15 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=1422d506c9f14c84b1249bf8ac0b0698cee7a659
+
 
 
 

@@ -965,81 +965,20 @@ http://127.0.0.1:6878/ace/getstream?id=ae16a8f004b1287ee1f53263ab265f72bba0daf5
 
 
 
+
 
 
-
-#EXTINF:-1,group-title="TDT", tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/LA1HD.png" tvg-id="la1.es",LA 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://sonymax.org:8080/reneschroeder/eX6qQHyiGL/220930
-
-#EXTINF:-1,group-title="TDT", tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/LA2.png",LA 2 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://sonymax.org:8080/reneschroeder/eX6qQHyiGL/277960
-
-#EXTINF:-1,group-title="TDT", tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/ANTENA3HD.png" tvg-id="antena3.es",ANTENA 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://sonymax.org:8080/reneschroeder/eX6qQHyiGL/240094
-
-#EXTINF:-1,group-title="TDT", tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/CUATROHD.png",CUATRO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://sonymax.org:8080/reneschroeder/eX6qQHyiGL/292569
-
-#EXTINF:-1,group-title="TDT", tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/TELECINCOHD.png" tvg-id="telecinco.es",TELECINCO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://sonymax.org:8080/reneschroeder/eX6qQHyiGL/211124
-
-#EXTINF:-1,group-title="TDT", tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/LASEXTAHD.png",LA SEXTA 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://sonymax.org:8080/reneschroeder/eX6qQHyiGL/292570
-
-#EXTINF:-1,group-title="TDT", tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/CANAL24HORAS.png",CANAL 24 HORAS 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://sonymax.org:8080/reneschroeder/eX6qQHyiGL/292571
-
-#EXTINF:-1,group-title="TDT", tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/canalSur.png" tvg-id="canalandaluciaflameno.es",CANAL SUR ANDALUCIA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://sonymax.org:8080/reneschroeder/eX6qQHyiGL/169730
-
-#EXTINF:-1,group-title="TDT", tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/ARAGON.png",ARAGON TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://sonymax.org:8080/reneschroeder/eX6qQHyiGL/211177
-
-#EXTINF:-1,group-title="TDT", tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/extreMadura.png" tvg-id="canalextremadurasat.es",EXTREMADURA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://sonymax.org:8080/reneschroeder/eX6qQHyiGL/14456
-
-#EXTINF:-1,group-title="TDT", tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/telemadrid.png" tvg-id="telemadrid.es",TELEMADRID
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://sonymax.org:8080/reneschroeder/eX6qQHyiGL/240099
-
-#EXTINF:-1,group-title="TDT", tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/TV3_logo.png" tvg-id="tv3cataluny.es",TV3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://sonymax.org:8080/reneschroeder/eX6qQHyiGL/278004
-
-#EXTINF:-1,group-title="TDT", tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/MEGAHD.png" tvg-id="mega.es",MEGA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://sonymax.org:8080/reneschroeder/eX6qQHyiGL/240098
-
-#EXTINF:-1,group-title="TDT", tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/trece.png",TRECE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://sonymax.org:8080/reneschroeder/eX6qQHyiGL/518641
-
-
-
-
-
-
-EXTINF:-1,group-title="TDT", LA 1
+#EXTINF:-1,group-title="TDT", LA 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://d2jws8nf49xuk0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ikffw175xm6u/La1ES.m3u8
 
 
 
-EXTINF:-1,group-title="TDT", LA 2
+#EXTINF:-1,group-title="TDT", LA 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png"group-title="TDT", ANTENA 3  
+#EXTINF:-1,group-title="TDT",ANTENA 3  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://viphfppss.top:8080/VIP01523172640695398/be09b3dccde2/646
 
@@ -1049,7 +988,7 @@ http://viphfppss.top:8080/VIP01523172640695398/be09b3dccde2/646
 
 
 
-EXTINF:-1,group-title="TDT", CUATRO
+#EXTINF:-1,group-title="TDT", CUATRO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://esprooookddm.top:8080/ES0175174084930318/91751979776125/5
 
@@ -1057,7 +996,7 @@ http://esprooookddm.top:8080/ES0175174084930318/91751979776125/5
 
 
 
-EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="TDT",TELECINCO 
+#EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="TDT",TELECINCO 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=5133d1e8f45095f0b7dabbd78db0ce19a496f7bf
 
@@ -1066,29 +1005,32 @@ http://127.0.0.1:6878/ace/getstream?id=5133d1e8f45095f0b7dabbd78db0ce19a496f7bf
 
 
 
-EXTINF:-1,group-title="TDT", LA SEXTA
+#EXTINF:-1,group-title="TDT", LA SEXTA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://esprooookddm.top:8080/ES0175174084930318/91751979776125/4
 
 
 
 
-EXTINF:-1 tvg-logo="https://graph.facebook.com/tvhellin/picture?width=200&height=200"   group-title="TDT",tvg-name="TV Hellín",TV Hellín 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://5940924978228.streamlock.net/directohellin/directohellin/playlist.m3u8
 
-EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200"  group-title="TDT", Telemadrid 
+#EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200"  group-title="TDT", Telemadrid 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://new-international-23-secure2.akamaized.net/index.m3u8
 
 
-EXTINF:-1tvg-logo="https://graph.facebook.com/CanalSurNoticias/picture?width=200&height=200"   group-title="TDT", tvg-name="Canal Sur Más Noticias",Canal Sur Más Noticias 
+#EXTINF:-1tvg-logo="https://graph.facebook.com/CanalSurNoticias/picture?width=200&height=200"   group-title="TDT", tvg-name="Canal Sur Más Noticias",Canal Sur Más Noticias 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
 
-EXTINF:-1  group-title="TDT", Canal Sur 
+#EXTINF:-1  group-title="TDT", Canal Sur 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
+
+
+
+
+
+
 
 
 
@@ -1609,9 +1551,6 @@ http://vipgerretger.top:8080/VIP0123172279600792/41ff9fc100ba/713
 
 
 
-#EXTINF:-1 group-title="4K" tvg-logo="http://sltv-icon.cms-s.com/logo/SPAIN/M.ESTRENOSHD.png" tvg-id="movistarestrenos,MOVISTAR ESTRENOS  
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://sonymax.org:8080/reneschroeder/eX6qQHyiGL/220956
 
 #EXTINF:0 tvg-id="ext" group-title="4K",M.LA LIGA HDR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160

@@ -154,10 +154,6 @@ http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 
 #EXTINF:-1,group-title="M. DEPORTES",Teledeporte 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://ztnr.rtve.es/ztnr/1712295.m3u8
-
-#EXTINF:-1,group-title="M. DEPORTES",Teledeporte 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
 
 #EXTINF:-1,group-title="M. DEPORTES",Teledeporte 
@@ -1813,6 +1809,7 @@ http://world-qualite.xyz:8080/964427789tv/a6861w/483
 
 #EXTINF:-1 group-title="→ DEPORTES LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" ,TUDN 1
 http://world-qualite.xyz:8080/964427789tv/a6861w/553
+
 
 
 

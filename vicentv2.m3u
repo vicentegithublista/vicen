@@ -913,21 +913,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a26a056
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aadf373bed3000794d1d7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1aadf373bed3000794d1d7&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=300&terminate=false&userId=
 
 
-#EXTINF:0 tvg-id="MTVEsp.es"  #EXTINF:-1,group-title="TDT",  MTV
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/39
-
-#EXTINF:0 tvg-id="ext"  #EXTINF:-1,group-title="TDT",  MTV 00S
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/40
-
-#EXTINF:0 tvg-id="Mezzo.es"  #EXTINF:-1,group-title="TDT",  MEZZO
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/316
-
-#EXTINF:0 tvg-id="Mezzo.es"  #EXTINF:-1,group-title="TDT",  MEZZO LIVE
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/317
-
-#EXTINF:0 tvg-id="ext"  #EXTINF:-1,group-title="TDT",  M+ HITS
-http://esprohela.xyz:8080/ES0135173876521842/01739446567768/38897
-
 
 #EXTINF:-1,group-title="TDT",  tvg-id="KanalDDrama.tr@SD",Vive Kanal D Drama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160

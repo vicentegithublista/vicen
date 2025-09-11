@@ -625,11 +625,6 @@ http://127.0.0.1:6878/ace/getstream?id=096b817fcc836535f608facb15fca6408fae3162
 
 
 
-#EXTINF:-1,group-title="TDT",MOVISTAR CINE ESPAÑOL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=e4bce95dd4faeb9cb09ade36a0636bc4b22b691c
-
-
 
 
 
@@ -646,9 +641,6 @@ http://127.0.0.1:6878/ace/getstream?id=cf99e99c105162410ec6d1f68cc6f4811560fee7
 
 
 
-#EXTINF:-1,group-title="TDT",MOVISTAR WESTER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=e740a34497c3ba5943613a06999e805e6bbfa159
 
 #EXTINF:-1,group-title="TDT",MOVISTAR INDIE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160

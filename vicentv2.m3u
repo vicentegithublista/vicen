@@ -12,6 +12,42 @@ https://url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz"
 
 
 
+
+
+LALIGA EA SPORTS
+Getafe-Real Oviedo 14:00
+Real Sociedad - Real Madrid  16:15
+Athletic - Alavés  18:30
+At. Madrid - Villarreal  21:00
+Liga
+107c3ce5a5d2527c9f06e4eab87477201791f231
+M+  21:00
+199190e3f28c1de0be34bccf0d3568dc65209b99
+LALIGA HYPERMOTION
+Mirandés - Deportivo  16:15
+Huesca - Málaga  18:30
+Valladolid - Almería  21:00
+Hypermotion 
+ 8ee52f6208e33706171856f99d2ed2dabd317f3a
+Cádiz - Eibar  16:15
+709075831bf5c41ed0a20dfbd640aab6c28971f8
+1ª RFEF
+Sabadell - Cartagena  14:00
+Teruel - Eldense  16:15
+Gimnàstic - Atlético Sanluqueño
+18:30
+Sevilla Atlético - Betis Deportivo 21:00
+Primera Federación (RFEF)
+ b40212c43e96e97542ea00f2129212a054853a57
+
+
+
+
+
+
+
+
+
 #EXTINF:-1,group-title="M. DEPORTES",Movistar Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99
@@ -418,12 +454,20 @@ http://127.0.0.1:6878/ace/getstream?id=73094658f0a3ed523c0e188de67a7a690c0d4f93
 
 
 
+ 
+
+#EXTINF:-1,group-title="DAZN ESPAÑA",DAZN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
+
 
 
 
 #EXTINF:-1,group-title="DAZN ESPAÑA",DAZN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
+http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
+
+
 
 #EXTINF:-1,group-title="DAZN ESPAÑA",DAZN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160

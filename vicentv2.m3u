@@ -13,24 +13,22 @@ https://url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz"
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99
 
+#EXTINF:-1,group-title="M. DEPORTES",🏆Movistar Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 
-MovistarPlus 1080: acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+#EXTINF:-1,group-title="M. DEPORTES",🏆Movistar Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 
-
-
-Movistar Plus: acestream://199190e3f28c1de0be34bccf0d3568dc65209b99
-
-Movistar Plus (Web): https://shickat.me
-
-
-
-MovistarPlus 1080: acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 
 
 
 #EXTINF:0 tvg-id="ext" group-title="M. DEPORTES",🏆M.DEPORTES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=5d3f582738467aaf213e408601aca5cc13fa9359
+
+
 
 #EXTINF:0 tvg-id="ext" group-title="M. DEPORTES",🏆M.DEPORTES 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -58,8 +56,6 @@ http://127.0.0.1:6878/ace/getstream?id=4e99e755aa32c4bc043a4bb1cd1de35f9bd94dde
 #EXTINF:0 tvg-id="ext" group-title="M. DEPORTES",🏆M.VAMOS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=0e5d8c9724fa9163f49096b70484e315251eb785
-
-
 
 #EXTINF:0 tvg-id="ext" group-title="M. DEPORTES",🏆M.VAMOS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -1673,6 +1669,7 @@ http://world-qualite.xyz:8080/964427789tv/a6861w/483
 
 #EXTINF:-1,group-title="INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" ,TUDN 1🏆
 http://world-qualite.xyz:8080/964427789tv/a6861w/553
+
 
 
 

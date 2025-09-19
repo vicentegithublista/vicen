@@ -157,15 +157,15 @@ http://127.0.0.1:6878/ace/getstream?id=52a526d748e26ff0827635b3932d9f49aee14a25
 
 
 
-#EXTINF:-1 group-title="M. DEPORTES",BILLAR
+#EXTINF:-1 group-title="M. DEPORTES",PRUEBA 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+http://127.0.0.1:6878/ace/getstream?id=https://cdn.livetv863.me/webplayer.php?t=ifr&c=2825552&lang=es&eid=299383741&lid=2825552&ci=4237&si=4
 
 
 
-#EXTINF:-1 group-title="M. DEPORTES",TENIS DE MESA
+#EXTINF:-1 group-title="M. DEPORTES",PRUEBA 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://youtu.be/3-TKuoizpwM
+https://cdn.livetv863.me/webplayer.php?t=ifr&c=2825552&lang=es&eid=299383741&lid=2825552&ci=4237&si=4
 
 
 
@@ -1682,6 +1682,7 @@ http://world-qualite.xyz:8080/964427789tv/a6861w/483
 
 #EXTINF:-1,group-title="INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" ,TUDN 1🏆
 http://world-qualite.xyz:8080/964427789tv/a6861w/553
+
 
 
 

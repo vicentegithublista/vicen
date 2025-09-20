@@ -157,15 +157,15 @@ http://127.0.0.1:6878/ace/getstream?id=52a526d748e26ff0827635b3932d9f49aee14a25
 
 
 
-#EXTINF:-1 group-title="M. DEPORTES",PRUEBA 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=https://cdn.livetv863.me/webplayer.php?t=ifr&c=2825552&lang=es&eid=299383741&lid=2825552&ci=4237&si=4
 
 
 
-#EXTINF:-1 group-title="M. DEPORTES",PRUEBA 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://cdn.livetv863.me/webplayer.php?t=ifr&c=2825552&lang=es&eid=299383741&lid=2825552&ci=4237&si=4
+
+
+
+
+
+
 
 
 
@@ -178,13 +178,9 @@ https://cdn.livetv863.me/webplayer.php?t=ifr&c=2825552&lang=es&eid=299383741&lid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 
-
 #EXTINF:-1,group-title="LA LIGA",⚽️DAZN LIGA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e
-
-
-
 
 #EXTINF:-1,group-title="LA LIGA",⚽️DAZN LIGA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -196,15 +192,8 @@ http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 
 #EXTINF:-1,group-title="LA LIGA",⚽️DAZN LIGA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
-
-#EXTINF:-1,group-title="LA LIGA",⚽️DAZN LIGA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
-
-#EXTINF:-1,group-title="LA LIGA",⚽️DAZN LIGA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884
+
 
 
 
@@ -227,53 +216,13 @@ http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=635b61c1f240449163260cd914d10d886a54fee3
 
-
-
-
 #EXTINF:-1,group-title="LA LIGA",⚽️DAZN LIGA 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=3c72639799f5471b213a073f4c1c6bf28bd08035
 
-
 #EXTINF:-1,group-title="LA LIGA",⚽️DAZN LIGA 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=3fc9d954b818522ff07dfe70051b6ea7a5ebbc61
-
-
-
-#EXTINF:-1,group-title="LA LIGA",⚽️DAZN LIGA 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=5922edf7e1c015026082b7f8061cf8159cb4afafd
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -292,36 +241,13 @@ http://world-qualite.xyz:8080/964427789tv/a6861w/60242
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
 
-
-
-
 #EXTINF:-1,group-title="LA LIGA",⚽️M+ LALIGA TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74
 
-
-
-#EXTINF:-1,group-title="LA LIGA",⚽️M+ LALIGA TV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58
-
-
-
-
 #EXTINF:-1,group-title="LA LIGA",⚽️M+ LALIGA TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b
-
-
-#EXTINF:-1,group-title="LA LIGA",⚽️M+ LALIGA TV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e
-
-
-#EXTINF:-1,group-title="LA LIGA",⚽️M+ LALIGA TV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=51b363b1c4d42724e05240ad068ad219df8042ec
-
 
 #EXTINF:-1,group-title="LA LIGA",⚽️M+ LALIGA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -334,25 +260,6 @@ http://127.0.0.1:6878/ace/getstream?id=107c3ce5a5d2527c9f06e4eab87477201791f231
 http://127.0.0.1:6878/ace/getstream?id=ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8
 
 #EXTINF:-1,group-title="LA LIGA",⚽️M+ LALIGA TV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4
-
-
-
-#EXTINF:-1,group-title="LA LIGA",⚽️M+ LALIGA TV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=382b14499e3d76e557d449d2e5bbc4e4bd63bd39
-
-
-
-
-
-#EXTINF:-1,group-title="LA LIGA",⚽️M+ LALIGA TV 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=51b363b1c4d42724e05240ad068ad219df8042ec
-
-
-#EXTINF:-1,group-title="LA LIGA",⚽️M+ LALIGA TV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8
 
@@ -1774,6 +1681,7 @@ http://world-qualite.xyz:8080/964427789tv/a6861w/483
 
 #EXTINF:-1,group-title="INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" ,TUDN 1🏆
 http://world-qualite.xyz:8080/964427789tv/a6861w/553
+
 
 
 

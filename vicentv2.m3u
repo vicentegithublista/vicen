@@ -6,7 +6,8 @@ https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml,
 https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml",
 https://github.com/LaQuay/TDTChannels,
 https://url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz"
-
+
+
 
 #EXTINF:-1,group-title="M. DEPORTES",🏆Movistar Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -170,24 +171,25 @@ http://127.0.0.1:6878/ace/getstream?id=52a526d748e26ff0827635b3932d9f49aee14a25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 
+
+
+#EXTINF:-1,group-title="LA LIGA",⚽️DAZN LIGA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884
+
+
+
 #EXTINF:-1,group-title="LA LIGA",⚽️DAZN LIGA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 
-#EXTINF:-1,group-title="LA LIGA",⚽️DAZN LIGA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
+
 
 
 #EXTINF:-1,group-title="LA LIGA",⚽️DAZN LIGA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 
-
-
-#EXTINF:-1,group-title="LA LIGA",⚽️DAZN LIGA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884
 
 
 
@@ -418,7 +420,9 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 
 
-
+#EXTINF:-1,group-title="DAZN ESPAÑA" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",⚽️🏇DAZN 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 
 
 
@@ -1378,6 +1382,7 @@ http://world-qualite.xyz:8080/964427789tv/a6861w/483
 
 #EXTINF:-1,group-title="INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" ,TUDN 1🏆
 http://world-qualite.xyz:8080/964427789tv/a6861w/553
+
 
 
 

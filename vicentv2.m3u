@@ -36,18 +36,6 @@ https://url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz"
 
 
 
-Real Madrid TV
-New Era I: 7a955964c91c66311eef9137a96332352dbb891e
-
-🇪🇸 1RFEF: Grupo 1
-👉 12:00 RM Castilla vs Pontevedra
-Primera Federación
-New Era I: 599a2fda91aa55703e2c5a51562d9dbf5d3d31d9, a2ed6f2ca3f804481131c41ce64d4286a5820476
-New Era VI: b40212c43e96e97542ea00f2129212a054853a57
-👉 14:15 Zamora vs Real Avilés
-Primera Federación
-New Era I: 599a2fda91aa55703e2c5a51562d9dbf5d3d31d9, a2ed6f2ca3f804481131c41ce64d4286a5820476
-New Era VI: b40212c43e96e97542ea00f2129212a054853a57
 
 
 
@@ -55,9 +43,6 @@ New Era VI: b40212c43e96e97542ea00f2129212a054853a57
 
 
 
-M+ Ellas Vamos
-New Era I: 9b84af74b2fa3690c519199326fc2f181b025cdd
-New Era VI: 594b59d435527327c9b6965f247995b907bfc285
 
 
 
@@ -547,6 +532,13 @@ http://127.0.0.1:6878/ace/getstream?id=c7c81acdd1a03ecc418c94c2f28e2adb0556c40b
 
 
 
+#EXTINF:0 tvg-id="ext" group-title="M. DEPORTES",🏆M.ELLAS VAMOS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=9b84af74b2fa3690c519199326fc2f181b025cdd
+
+#EXTINF:0 tvg-id="ext" group-title="M. DEPORTES",🏆M.ELLAS VAMOS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=594b59d435527327c9b6965f247995b907bfc285
 
 
 #EXTINF:-1,group-title="M. DEPORTES" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",🏆EUROSPORT 1
@@ -815,7 +807,13 @@ http://127.0.0.1:6878/ace/getstream?id=8a05571c0c8fe53f160fb7d116cdf97243679e86
 
 
 
+#EXTINF:-1,group-title="LA LIGA",RFEF⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
 
+#EXTINF:-1,group-title="LA LIGA",RFEF⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=a2ed6f2ca3f804481131c41ce64d4286a5820476
 
 
 #EXTINF:-1,group-title="LA LIGA",RFEF⚽
@@ -835,6 +833,13 @@ http://127.0.0.1:6878/ace/getstream?id=73094658f0a3ed523c0e188de67a7a690c0d4f93
 #EXTINF:-1,group-title="LA LIGA",tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20250513T005437SQUARE.png",FIFA+⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
+
+
+
+#EXTINF:-1,group-title="LA LIGA",REAL MADRID TV⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=7a955964c91c66311eef9137a96332352dbb891e
+
 
 #EXTINF:-1,group-title="LA LIGA",REAL MADRID TV⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -2584,6 +2589,7 @@ http://vipketseyket.top:8080/movie/VIP0133170212553540/199e7c3c78a3/136562.mkv
 http://vipketseyket.top:8080/movie/VIP0133170212553540/199e7c3c78a3/136563.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Quincy Avery Effect (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbAqaeY6YcIvimvSUhI3PkyKrcL.jpg" group-title="DISNEY | 2025",The Quincy Avery Effect (2025)
 http://vipketseyket.top:8080/movie/VIP0133170212553540/199e7c3c78a3/136564.mkv
+
 
 
 

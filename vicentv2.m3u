@@ -259,25 +259,81 @@ http://127.0.0.1:6878/ace/getstream?id=3230cdca852a10325222e3c546e499e31d547a90
 
 
 
-🏎 AUTOMOVILISMO
 
-🇺🇸 Fórmula 1: G.P. Estados Unidos (Austin)
-👉 19:30 Libres 1
-DAZN F1
-1080: b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1, bcf9dc38f92e90a71b87bd54b3bac91b76d09a69, fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-720: ed6188dcbb491efeb2092c1a6199226c27f61727
-New Era I: 1a63d886860e2b770590dcd64a4dd472eabb841d, c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d, 6422e8bc34282871634c81947be093c04ad1bb29, c9c18ae7a9dafba1caae5beb22060f9c92bba553, 515efd8115482bda8d92aa6df9a882a5e5797494, 82b4f249788f93b8f9ce968803662d7cd4f1b8cc, d5cf2dfa4fb4165ce58bf9db815088c28fec7711
-New Loop: b04372b9543d763bd2dbd2a1842d9723fd080076, d65257bb934b73647374224fd62d836815804be2, 8272d1ed95cdd8945c248ce488fa26bd435fb71f
-New Era II: b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd
-New Era VI: 38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7, 3f5b7e2f883fe4b4b973e198d147a513d5c7c32a
-👉 23:30 Clasificación Sprint
-DAZN F1
-1080: b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1, bcf9dc38f92e90a71b87bd54b3bac91b76d09a69, fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-720: ed6188dcbb491efeb2092c1a6199226c27f61727
-New Era I: 1a63d886860e2b770590dcd64a4dd472eabb841d, c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d, 6422e8bc34282871634c81947be093c04ad1bb29, c9c18ae7a9dafba1caae5beb22060f9c92bba553, 515efd8115482bda8d92aa6df9a882a5e5797494, 82b4f249788f93b8f9ce968803662d7cd4f1b8cc, d5cf2dfa4fb4165ce58bf9db815088c28fec7711
-New Loop: b04372b9543d763bd2dbd2a1842d9723fd080076, d65257bb934b73647374224fd62d836815804be2, 8272d1ed95cdd8945c248ce488fa26bd435fb71f
-New Era II: b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd
-New Era VI: 38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7, 3f5b7e2f883fe4b4b973e198d147a513d5c7c32a
+
+
+#EXTINF:-1,group-title="EVENTOS",19:30🏎F1:G.P. Estados Unidos (Austin)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
+
+#EXTINF:-1,group-title="EVENTOS",19:30🏎F1:G.P. Estados Unidos (Austin)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
+
+#EXTINF:-1,group-title="EVENTOS",19:30🏎F1:G.P. Estados Unidos (Austin)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
+
+#EXTINF:-1,group-title="EVENTOS",19:30🏎F1:G.P. Estados Unidos (Austin)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
+
+#EXTINF:-1,group-title="EVENTOS",19:30🏎F1:G.P. Estados Unidos (Austin)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
+
+#EXTINF:-1,group-title="EVENTOS",19:30🏎F1:G.P. Estados Unidos (Austin)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
+
+#EXTINF:-1,group-title="EVENTOS",19:30🏎F1:G.P. Estados Unidos (Austin)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
+
+#EXTINF:-1,group-title="EVENTOS",19:30🏎F1:G.P. Estados Unidos (Austin)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
+
+#EXTINF:-1,group-title="EVENTOS",19:30🏎F1:G.P. Estados Unidos (Austin)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494 
+
+#EXTINF:-1,group-title="EVENTOS",19:30🏎F1:G.P. Estados Unidos (Austin)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=82b4f249788f93b8f9ce968803662d7cd4f1b8cc
+
+#EXTINF:-1,group-title="EVENTOS",19:30🏎F1:G.P. Estados Unidos (Austin)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=d5cf2dfa4fb4165ce58bf9db815088c28fec7711
+
+#EXTINF:-1,group-title="EVENTOS",19:30🏎F1:G.P. Estados Unidos (Austin)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
+
+#EXTINF:-1,group-title="EVENTOS",19:30🏎F1:G.P. Estados Unidos (Austin)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2
+
+#EXTINF:-1,group-title="EVENTOS",19:30🏎F1:G.P. Estados Unidos (Austin)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
+
+#EXTINF:-1,group-title="EVENTOS",19:30🏎F1:G.P. Estados Unidos (Austin)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd
+
+#EXTINF:-1,group-title="EVENTOS",19:30🏎F1:G.P. Estados Unidos (Austin)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7
+
+#EXTINF:-1,group-title="EVENTOS",19:30🏎F1:G.P. Estados Unidos (Austin)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=3f5b7e2f883fe4b4b973e198d147a513d5c7c32a
+
+
+
+
+
 
 🏍 MOTOCICLISMO
 
@@ -2624,6 +2680,7 @@ http://vipketseyket.top:8080/movie/VIP0133170212553540/199e7c3c78a3/136562.mkv
 http://vipketseyket.top:8080/movie/VIP0133170212553540/199e7c3c78a3/136563.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Quincy Avery Effect (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbAqaeY6YcIvimvSUhI3PkyKrcL.jpg" group-title="DISNEY | 2025",The Quincy Avery Effect (2025)
 http://vipketseyket.top:8080/movie/VIP0133170212553540/199e7c3c78a3/136564.mkv
+
 
 
 

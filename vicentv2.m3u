@@ -1,5 +1,25 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" refresh="3600"
-#EXTVLCOPT:network-caching=1000
+
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, 
+https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, 
+https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, 
+https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, 
+https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, 
+https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml",
+https://github.com/LaQuay/TDTChannels,
+https://url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz"
+
+
+
+
+
+
+
+
+
+
+
+EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" refresh="3600"
+EXTVLCOPT:network-caching=1000
 
 
 
@@ -3060,5 +3080,6 @@ http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
 http://127.0.0.1:6878/ace/getstream?id=108aebe20efc826e56f3a1cb01117a124a6b89ad
 #EXTINF:-1 tvg-logo="https://ufc-video.s3.amazonaws.com/image/Articles/big-fight-pass-logo.png" tvg-id="" ,group-title="LISTA", UFC Fight Pass FHD 091d --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=96537527b2d5e858b2e6c863a00dec304254091d
+
 
 

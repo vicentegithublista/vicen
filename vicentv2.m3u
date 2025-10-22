@@ -198,29 +198,31 @@ http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 
 
 
-#EXTINF:-1 group-title="M. DEPORTES",🏆TENNIS CHANEL🎾  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" , group-title="M. DEPORTES",🏆TENNIS CHANEL🎾  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 
-#EXTINF:-1 group-title="M. DEPORTES",🏆TENNIS CHANEL🎾
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" , group-title="M. DEPORTES",🏆TENNIS CHANEL🎾  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=52a526d748e26ff0827635b3932d9f49aee14a25
 
-
-#EXTINF:-1 group-title="M. DEPORTES",🏆TENNIS CHANEL🎾
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" , group-title="M. DEPORTES",🏆TENNIS CHANEL🎾  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 
-
-#EXTINF:-1 group-title="M. DEPORTES",🏆TENNIS CHANEL🎾
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" , group-title="M. DEPORTES",🏆TENNIS CHANEL🎾  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" , group-title="M. DEPORTES",🏆TENNIS CHANEL🎾  
+http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" , group-title="M. DEPORTES",🏆TENNIS CHANEL🎾  
+http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 
 
-
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg" tvg-id="" , group-title="M. DEPORTES",🏆SUPERTENNIS CHANEL🎾
+http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
 
 
 
@@ -2524,8 +2526,13 @@ http://127.0.0.1:6878/ace/getstream?id=e61b6538df35e5016635dfa2b3073f5b82ee4c2b
 http://127.0.0.1:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg" tvg-id="" ,group-title="LISTA", Sport Klub (PL) f2ee --> SPORT TV
 http://127.0.0.1:6878/ace/getstream?id=35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg" tvg-id="" ,group-title="LISTA", SuperTennis HD (ES) 30ee --> SPORT TV
-http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg" tvg-id="" ,group-title="LISTA", TVP Sport HD (PL) 5867 --> SPORT TV
 http://127.0.0.1:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg" tvg-id="" ,group-title="LISTA", UFC HD (RU) cb64 --> SPORT TV
@@ -2540,20 +2547,12 @@ http://127.0.0.1:6878/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" ,group-title="LISTA", TENNIS CHANNEL FHD 20d0 --> NEW ERA
-http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" ,group-title="LISTA", TENNIS CHANNEL HD 5be7 --> NEW ERA
-http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" ,group-title="LISTA", TENNIS CHANNEL HD 8050 --> NEW ERA
-http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
-
-
-
 
 #EXTINF:-1 tvg-logo="https://ufc-video.s3.amazonaws.com/image/Articles/big-fight-pass-logo.png" tvg-id="" ,group-title="LISTA", UFC Fight Pass 89ad --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=108aebe20efc826e56f3a1cb01117a124a6b89ad
 #EXTINF:-1 tvg-logo="https://ufc-video.s3.amazonaws.com/image/Articles/big-fight-pass-logo.png" tvg-id="" ,group-title="LISTA", UFC Fight Pass FHD 091d --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=96537527b2d5e858b2e6c863a00dec304254091d
+
 
 
 

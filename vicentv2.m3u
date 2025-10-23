@@ -264,6 +264,25 @@ http://127.0.0.1:6878/ace/getstream?id=8546cff89e4ee8bf3ad31cf6457c3bc2c4341031
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=9be118a64eb603b5eb62be6cf27631d3891b5174
 
+#EXTINF:-1 tvg-logo="https://i.blogs.es/61a41c/fox-sports-premium-230322-1200x675-1/450_1000.jpg" tvg-id="",group-title="M. DEPORTES",🏆FOX DEPORTES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=f2f318919c0035b8979153599a90597671eeefc3
+
+
+
+#EXTINF:-1 tvg-logo="https://i.blogs.es/61a41c/fox-sports-premium-230322-1200x675-1/450_1000.jpg" tvg-id="",group-title="M. DEPORTES",🏆Fox Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=0b48cd93de3c714e36961a93805798307a5608ac
+
+#EXTINF:-1 tvg-logo="https://i.blogs.es/61a41c/fox-sports-premium-230322-1200x675-1/450_1000.jpg" tvg-id="",group-title="M. DEPORTES",🏆Fox Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=90d101676ec61e02e7f77b489f0981e9dd815eda
+
+#EXTINF:-1 tvg-logo="https://i.blogs.es/61a41c/fox-sports-premium-230322-1200x675-1/450_1000.jpg" tvg-id="",group-title="M. DEPORTES",🏆Fox Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=3bdf355aeaac39d20e368ebb2ed72b9f71bf9090
+
+
 
 
 
@@ -644,11 +663,16 @@ http://127.0.0.1:6878/ace/getstream?id=b40212c43e96e97542ea00f2129212a054853a57
 
 
 
-#EXTINF:-1,group-title="LA LIGA",GOL PLAY⚽
+
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/2023/07/13/medium/60e1502d7d6098162828bb002e98bdb4.png" tvg-id="GOL PLAY" ,group-title="LA LIGA",GOL PLAY⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=b2d560741c006fc5e4a42412bb52dbd25a6a4a3a
+
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/2023/07/13/medium/60e1502d7d6098162828bb002e98bdb4.png" tvg-id="GOL PLAY" ,group-title="LA LIGA",GOL PLAY⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=9fb99c40a2c45d5c5342b30626eb56140f980612
 
-#EXTINF:-1,group-title="LA LIGA",GOL PLAY⚽
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/2023/07/13/medium/60e1502d7d6098162828bb002e98bdb4.png" tvg-id="GOL PLAY" ,group-title="LA LIGA",GOL PLAY⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=73094658f0a3ed523c0e188de67a7a690c0d4f93
 
@@ -681,7 +705,7 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1,group-title="LA LIGA",SPORT3⚽
+#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Esport%203.png?raw=true" tvg-id="Esport 3",group-title="LA LIGA",SPORT3⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=ca20f93ea5d9c15744e48a21b52598b9fce87425
 
@@ -1285,18 +1309,103 @@ http://world-qualite.xyz:8080/964427789tv/a6861w/236529
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="ESTILO DE VIDA",👨‍👩‍👦‍👦ONETORO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=cd0188292b6b3876ff66c99bd3d25eab88b41079
-
 
 #EXTINF:-1 group-title="ESTILO DE VIDA",👨‍👩‍👦‍👦ONETORO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=877eceeaf9f3bd9b392359323d03d0ac3bb27312
 
-#EXTINF:-1 group-title="ESTILO DE VIDA",👨‍👩‍👦‍👦CAZA y PESCA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Originales%20HD.png" tvg-id="M+ Originales HD",group-title="ESTILO DE VIDA",👨‍👩‍👦‍👦MOVISTAR ORIGINALES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=096b817fcc836535f608facb15fca6408fae3162
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Documentales%20HD.png" tvg-id="M+ Documentales HD",group-title="ESTILO DE VIDA",👨‍👩‍👦‍👦MOVISTAR DOCUMENTALES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=b3fc9b5647c5933b101c0b6b64322590c68587b9
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Documentales%20HD.png" tvg-id="M+ Documentales HD",group-title="ESTILO DE VIDA",👨‍👩‍👦‍👦MOVISTAR DOCUMENTALES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://world-qualite.xyz:8080/964427789tv/a6861w/236338
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caza%20y%20Pesca%20HD.png" tvg-id="Caza y Pesca HD",group-title="ESTILO DE VIDA",👨‍👩‍👦‍👦CAZA Y PESCA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=8b9e46eb3a9b4ef23b7d3d86c73a0851580f8caa
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caza%20y%20Pesca%20HD.png" tvg-id="Caza y Pesca HD",group-title="ESTILO DE VIDA",👨‍👩‍👦‍👦CAZA Y PESCA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=277a6fb47189db801c5b7b05ad89c690571f3e9c
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caza%20y%20Pesca%20HD.png" tvg-id="Caza y Pesca HD",group-title="ESTILO DE VIDA",👨‍👩‍👦‍👦CAZA Y PESCA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://world-qualite.xyz:8080/964427789tv/a6861w/236326
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Cocina.png" tvg-id="Canal Cocina",group-title="ESTILO DE VIDA",👨‍👩‍👦‍👦CANAL COCINA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=96f092e1fa99062f6da14cae230b877ad3ed849b
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Cocina.png" tvg-id="Canal Cocina",group-title="ESTILO DE VIDA",👨‍👩‍👦‍👦CANAL COCINA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://world-qualite.xyz:8080/964427789tv/a6861w/236357
+
+
+#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Be%20Mad%20HD.png?raw=true" tvg-id="Be Mad",group-title="ESTILO DE VIDA",👨‍👩‍👦‍👦BeMaD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=6e1b5fd8753352486aa932f802534a17556e1f60
+
+#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Be%20Mad%20HD.png?raw=true" tvg-id="Be Mad",group-title="ESTILO DE VIDA",👨‍👩‍👦‍👦BeMaD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://world-qualite.xyz:8080/964427789tv/a6861w/236347
+
+
+#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Be%20Mad%20HD.png?raw=true" tvg-id="Be Mad",group-title="ESTILO DE VIDA",👨‍👩‍👦‍👦BeMaD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://world-qualite.xyz:8080/964427789tv/a6861w/236347
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Decasa.png" tvg-id="Decasa",group-title="ESTILO DE VIDA",👨‍👩‍👦‍👦DECASA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=155d742120310a0ca80b0c8833d94979aa7f0b08
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Decasa.png" tvg-id="Decasa",group-title="ESTILO DE VIDA",👨‍👩‍👦‍👦DECASA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://world-qualite.xyz:8080/964427789tv/a6861w/236339
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Discovery.png" tvg-id="Discovery",group-title="ESTILO DE VIDA",👨‍👩‍👦‍👦DISCOVERY CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=670519ffe8db1e20d0c753d4f756c009e71173d8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Discovery.png" tvg-id="Discovery",group-title="ESTILO DE VIDA",👨‍👩‍👦‍👦DISCOVERY CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://world-qualite.xyz:8080/964427789tv/a6861w/236369
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Discovery.png" tvg-id="Discovery",group-title="ESTILO DE VIDA",👨‍👩‍👦‍👦DISCOVERY CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://world-qualite.xyz:8080/964427789tv/a6861w/236340
 
 #EXTINF:-1 group-title="ESTILO DE VIDA",👨‍👩‍👦‍👦IBERALIA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -1322,33 +1431,13 @@ http://world-qualite.xyz:8080/964427789tv/a6861w/236333
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://world-qualite.xyz:8080/964427789tv/a6861w/236334
 
-#EXTINF:-1 group-title="ESTILO DE VIDA",👨‍👩‍👦‍👦M+ DOCUMENTALES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://world-qualite.xyz:8080/964427789tv/a6861w/236338
-
-#EXTINF:-1 group-title="ESTILO DE VIDA",👨‍👩‍👦‍👦CANAL DECASA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://world-qualite.xyz:8080/964427789tv/a6861w/236339
-
-#EXTINF:-1 group-title="ESTILO DE VIDA",👨‍👩‍👦‍👦DISCOVERY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://world-qualite.xyz:8080/964427789tv/a6861w/236340
-
 #EXTINF:-1 group-title="ESTILO DE VIDA",👨‍👩‍👦‍👦HISTORIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://world-qualite.xyz:8080/964427789tv/a6861w/236342
 
-#EXTINF:-1 group-title="ESTILO DE VIDA",👨‍👩‍👦‍👦BE MAD TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://world-qualite.xyz:8080/964427789tv/a6861w/236347
-
 #EXTINF:-1 group-title="ESTILO DE VIDA",👨‍👩‍👦‍👦BUEN VIAJE!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://world-qualite.xyz:8080/964427789tv/a6861w/236353
-
-#EXTINF:-1 group-title="ESTILO DE VIDA",👨‍👩‍👦‍👦CANAL COCINA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://world-qualite.xyz:8080/964427789tv/a6861w/236357
 
 #EXTINF:-1 group-title="ESTILO DE VIDA",👨‍👩‍👦‍👦NATIONAL GEOGRAPHIC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -1358,9 +1447,6 @@ http://world-qualite.xyz:8080/964427789tv/a6861w/236365
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://world-qualite.xyz:8080/964427789tv/a6861w/236367
 
-#EXTINF:-1 group-title="ESTILO DE VIDA",👨‍👩‍👦‍👦DISCOVERY CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://world-qualite.xyz:8080/964427789tv/a6861w/236369
 
 
 
@@ -1895,20 +1981,19 @@ http://world-qualite.xyz:8080/964427789tv/a6861w/553
 
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/AMC%20HD.png?raw=true" tvg-id="AMC HD" ,group-title="LISTA", AMC HD 20f3 --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=55ff9ee631af351f365f51cf3601695bf1fd20f3
-#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Be%20Mad%20HD.png?raw=true" tvg-id="Be Mad" ,group-title="LISTA", BeMaD FHD 1f60 --> NEW ERA
-http://127.0.0.1:6878/ace/getstream?id=6e1b5fd8753352486aa932f802534a17556e1f60
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Cocina.png" tvg-id="Canal Cocina" ,group-title="LISTA", CANAL COCINA FHD 849b --> NEW ERA
-http://127.0.0.1:6878/ace/getstream?id=96f092e1fa99062f6da14cae230b877ad3ed849b
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caza%20y%20Pesca%20HD.png" tvg-id="Caza y Pesca HD" ,group-title="LISTA", CAZA Y PESCA FHD HD 8caa --> NEW ERA
-http://127.0.0.1:6878/ace/getstream?id=8b9e46eb3a9b4ef23b7d3d86c73a0851580f8caa
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caza%20y%20Pesca%20HD.png" tvg-id="Caza y Pesca HD" ,group-title="LISTA", CAZA Y PESCA FHD HD 3e9c --> NEW ERA III
-http://127.0.0.1:6878/ace/getstream?id=277a6fb47189db801c5b7b05ad89c690571f3e9c
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/DARK.png?raw=true" tvg-id="DARK" ,group-title="LISTA", DARK HD dc20 --> NEW ERA III
 http://127.0.0.1:6878/ace/getstream?id=25465ea2deba65c623b7659136abf6fcc9f5dc20
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Decasa.png" tvg-id="Decasa" ,group-title="LISTA", DECASA FHD 0b08 --> NEW ERA
-http://127.0.0.1:6878/ace/getstream?id=155d742120310a0ca80b0c8833d94979aa7f0b08
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Discovery.png" tvg-id="Discovery" ,group-title="LISTA", DISCOVERY CHANNEL HD 73d8 --> NEW ERA
-http://127.0.0.1:6878/ace/getstream?id=670519ffe8db1e20d0c753d4f756c009e71173d8
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/M+%20Acci%C3%B3n%20HD.png?raw=true" tvg-id="M+ Acción HD" ,group-title="LISTA", MOVISTAR ACCION FHD 59ce --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=102bcb79ca391e37ac1fc9ee77dc53440d0a59ce
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/M+%20Acci%C3%B3n%20HD.png?raw=true" tvg-id="M+ Acción HD" ,group-title="LISTA", MOVISTAR ACCION FHD 6f96 --> NEW ERA VI
@@ -1923,8 +2008,6 @@ http://127.0.0.1:6878/ace/getstream?id=6462c8f65fcaa6e4fc874fef8d1e45bb7a7e6bae
 http://127.0.0.1:6878/ace/getstream?id=cf0cb321eed6765c2eadbd9983570f6674ce5df6
 #EXTINF:-1 tvg-logo="https://roams.es/images/post/es_ES_news/categoria-telefonia/comic-de-la-vineta-a-la-pantalla-movistar-plus.webp" tvg-id="Decasa" ,group-title="LISTA", MOVISTAR COMIC FHD f9c2 --> NEW ERA VI
 http://127.0.0.1:6878/ace/getstream?id=4bfeb0516c44c4f0e3502e3f1ca1035d39ddf9c2
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Documentales%20HD.png" tvg-id="M+ Documentales HD" ,group-title="LISTA", MOVISTAR DOCUMENTALES FHD 87b9 --> NEW ERA VI
-http://127.0.0.1:6878/ace/getstream?id=b3fc9b5647c5933b101c0b6b64322590c68587b9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Drama%20HD.png" tvg-id="M+ Drama HD" ,group-title="LISTA", MOVISTAR DRAMA FHD 58ae --> NEW ERA VI
 http://127.0.0.1:6878/ace/getstream?id=a6de6a4977d7801bbddc9c7739d822f4beb358ae
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Estrenos%20HD.png" tvg-id="M+ Estrenos HD" ,group-title="LISTA", MOVISTAR ESTRENOS FHD 51e7 --> NEW ERA
@@ -1937,8 +2020,11 @@ http://127.0.0.1:6878/ace/getstream?id=cf99e99c105162410ec6d1f68cc6f4811560fee7
 http://127.0.0.1:6878/ace/getstream?id=50553edb5e8c54d15e0d43161369b3b4cef95065
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Indie%20HD.png" tvg-id="M+ Indie HD" ,group-title="LISTA", MOVISTAR INDIE FHD ee80 --> NEW ERA VI
 http://127.0.0.1:6878/ace/getstream?id=7716c9fd5bd4413715e4e26f97efb91802f6ee80
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Originales%20HD.png" tvg-id="M+ Originales HD" ,group-title="LISTA", MOVISTAR ORIGINALES FHD 3162 --> NEW ERA VI
-http://127.0.0.1:6878/ace/getstream?id=096b817fcc836535f608facb15fca6408fae3162
+
+
+
+
+
 
 
 
@@ -2354,12 +2440,9 @@ http://127.0.0.1:6878/ace/getstream?id=99f0646986e9266836dd79047dedecb04e243857
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Esport%203.png?raw=true" tvg-id="Esport 3" ,group-title="LISTA", ESPORT 3 FHD 7425 --> NEW ERA
-http://127.0.0.1:6878/ace/getstream?id=ca20f93ea5d9c15744e48a21b52598b9fce87425
-#EXTINF:-1 tvg-logo="https://i.blogs.es/61a41c/fox-sports-premium-230322-1200x675-1/450_1000.jpg" tvg-id="" ,group-title="LISTA", FOX DEPORTES AR HD efc3 --> NEW ERA
-http://127.0.0.1:6878/ace/getstream?id=f2f318919c0035b8979153599a90597671eeefc3
-#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/2023/07/13/medium/60e1502d7d6098162828bb002e98bdb4.png" tvg-id="GOL PLAY" ,group-title="LISTA", GOL PLAY FHD 4a3a --> NEW ERA
-http://127.0.0.1:6878/ace/getstream?id=b2d560741c006fc5e4a42412bb52dbd25a6a4a3a
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mix_TV_logo.svg/1200px-Mix_TV_logo.svg.png" tvg-id="" ,group-title="LISTA", MIXED TV (solo eventos) 21b3 --> NEW ERA III
 http://127.0.0.1:6878/ace/getstream?id=eb25ebc41fc51710b098f860b33b3229d11921b3
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Esport%203.png?raw=true" tvg-id="Real Madrid TV" ,group-title="LISTA", REAL MADRID TV HD 891e --> NEW ERA
@@ -2377,12 +2460,6 @@ http://127.0.0.1:6878/ace/getstream?id=363f1d119b1971237318c0d953ab6eea5eb7c592
 
 
 
-#EXTINF:-1 tvg-logo="https://i.blogs.es/61a41c/fox-sports-premium-230322-1200x675-1/450_1000.jpg" tvg-id="" ,group-title="LISTA", Fox Sports 2 ARG HD 08ac --> NEW ERA
-http://127.0.0.1:6878/ace/getstream?id=0b48cd93de3c714e36961a93805798307a5608ac
-#EXTINF:-1 tvg-logo="https://i.blogs.es/61a41c/fox-sports-premium-230322-1200x675-1/450_1000.jpg" tvg-id="" ,group-title="LISTA", Fox Sports 2 COL 5eda --> NEW ERA
-http://127.0.0.1:6878/ace/getstream?id=90d101676ec61e02e7f77b489f0981e9dd815eda
-#EXTINF:-1 tvg-logo="https://i.blogs.es/61a41c/fox-sports-premium-230322-1200x675-1/450_1000.jpg" tvg-id="" ,group-title="LISTA", Fox Sports 2 COL HD 9090 --> NEW ERA
-http://127.0.0.1:6878/ace/getstream?id=3bdf355aeaac39d20e368ebb2ed72b9f71bf9090
 
 
 
@@ -2490,6 +2567,7 @@ http://127.0.0.1:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
 http://127.0.0.1:6878/ace/getstream?id=d2374e2375a4275738e0dbed2f47d0114ad1cb64
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg" tvg-id="" ,group-title="LISTA", Ziggo Sport (ES) 0058 --> SPORT TV
 http://127.0.0.1:6878/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058
+
 
 
 

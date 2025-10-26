@@ -2102,11 +2102,11 @@ http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=0dfa37340ca0300a41f7a78bd3a0f024c3296974
 
-#EXTINF:-1, tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD"  group-title="INTERNACIONAL",🏆Sky Sport main event
+#EXTINF:-1, tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD"  ,group-title="INTERNACIONAL🏆",🏆Sky Sport main event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 
-#EXTINF:-1, tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD"  group-title="INTERNACIONAL",⚽️Sky Sport Premier League 
+#EXTINF:-1, tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD"  ,group-title="INTERNACIONAL🏆",⚽️Sky Sport Premier League 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
 
@@ -2304,11 +2304,11 @@ acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 
-#EXTINF:-1, tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Arena_GB_logo.png?1734015005" tvg-id="UK | Sky Sport Arena"  group-title="INTERNACIONAL",UK|Sky Sports Arena🏆
+#EXTINF:-1, tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Arena_GB_logo.png?1734015005" tvg-id="UK | Sky Sport Arena" ,group-title="INTERNACIONAL🏆",UK|Sky Sports Arena🏆
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
 
-#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1605139019741929472/RWr7BPxn_200x200.jpg" tvg-id="UK | Sky Sport Cricket"  group-title="INTERNACIONAL",UK|Sky Sports Cricket🏆 
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1605139019741929472/RWr7BPxn_200x200.jpg" tvg-id="UK | Sky Sport Cricket" ,group-title="INTERNACIONAL🏆",UK|Sky Sports Cricket🏆 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 acestream://6d95e4b0893e155cc674b84e0763150c445d3ddd
 
@@ -2440,19 +2440,19 @@ http://127.0.0.1:6878/ace/getstream?id=442aeb6643b8836f9d00361c9e48eeb0841ddf98
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 acestream://8d475e2688519f2c602687b71be54cedbaef9e6b
 
-#EXTINF:-1, tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/10/14120627/Motorvision-TV.png" tvg-id=""  group-title="INTERNACIONAL",Motorvision TV🏎  
+#EXTINF:-1, tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/10/14120627/Motorvision-TV.png" tvg-id=""  ,group-title="INTERNACIONAL🏆",Motorvision TV🏎  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 acestream://fffaa64d41e500250064181762d510d513137410
 
-#EXTINF:-1, tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/10/14120627/Motorvision-TV.png" tvg-id=""  group-title="INTERNACIONAL", Motorvision TV🏎  
+#EXTINF:-1, tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/10/14120627/Motorvision-TV.png" tvg-id="" ,group-title="INTERNACIONAL🏆", Motorvision TV🏎  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 acestream://acd7e3ae185a376e6596e60a414bebbf3321b37f
 
-#EXTINF:-1, tvg-logo="https://www.mxgp.com/sites/default/files/news/image/logo%20Motors%20TV.jpg" tvg-id=""  group-title="INTERNACIONAL", Retrovision Motor🏎 
+#EXTINF:-1, tvg-logo="https://www.mxgp.com/sites/default/files/news/image/logo%20Motors%20TV.jpg" tvg-id="" ,group-title="INTERNACIONAL🏆", Retrovision Motor🏎 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 acestream://b8b8c4470d3d27c75302cf49ab6c4b52a660bff3
 
-#EXTINF:-1, tvg-logo="https://www.mxgp.com/sites/default/files/news/image/logo%20Motors%20TV.jpg" tvg-id=""  group-title="INTERNACIONAL", FIGHTBOX🥊  
+#EXTINF:-1, tvg-logo="https://www.mxgp.com/sites/default/files/news/image/logo%20Motors%20TV.jpg" tvg-id="" ,group-title="INTERNACIONAL🏆", FIGHTBOX🥊  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=49b734a5a3365674480089264be00ae28fabb640
 
@@ -2566,6 +2566,7 @@ http://wolfpackmedia.dog:80/Sanders1/Sanders1/199515
 #EXTINF:-1 tvg-logo="http://wfstrmzone.net:80/images/ObjMyBzxShTBhKQURLDoNsr0TyyMVOCI4n8E-_TgxyBRb12iTjkYHlwI_QOt-1Pkg-ziWVj-QHd12jGM3eBkUw.png" ,group-title="INTERNACIONAL🏆",🏆FOX SPORTS PREMIUM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://wolfpackmedia.dog:80/Sanders1/Sanders1/199518
+
 
 
 

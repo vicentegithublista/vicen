@@ -1,3 +1,4 @@
+
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" refresh="3600"
 #EXTVLCOPT:network-caching=1000
 
@@ -465,15 +466,54 @@ http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD",group-title="🎾M. DEPORTES🎾",🏆Movistar Plus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD",group-title="M. DEPORTES🎾",🏆Movistar Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD",group-title="🎾M. DEPORTES🎾",🏆Movistar Plus
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD",group-title="M. DEPORTES🎾",🏆Movistar Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD",group-title="🎾M. DEPORTES🎾",🏆Movistar Plus
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD",group-title="M. DEPORTES🎾",🏆Movistar Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99
 
@@ -483,38 +523,38 @@ http://127.0.0.1:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" ,group-title="🎾M. DEPORTES🎾",🏆M.DEPORTES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" ,group-title="M. DEPORTES🎾",🏆M.DEPORTES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=2f3cfd199a49819cbd129689a840dc3d23ab93aa
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" ,group-title="🎾M. DEPORTES🎾",🏆M.DEPORTES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" ,group-title="M. DEPORTES🎾",🏆M.DEPORTES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=3692ea4cdda97eb0062ed5d656ebd61f149ebd0b
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" ,group-title="🎾M. DEPORTES🎾",🏆M.DEPORTES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" ,group-title="M. DEPORTES🎾",🏆M.DEPORTES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=5d3f582738467aaf213e408601aca5cc13fa9359
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD",group-title="🎾M. DEPORTES🎾",🏆M.DEPORTES 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD",group-title="M. DEPORTES🎾",🏆M.DEPORTES 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD",group-title="🎾M. DEPORTES🎾",🏆M.DEPORTES 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD",group-title="M. DEPORTES🎾",🏆M.DEPORTES 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD",group-title="🎾M. DEPORTES🎾",🏆M.DEPORTES 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD",group-title="M. DEPORTES🎾",🏆M.DEPORTES 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD",group-title="🎾M. DEPORTES🎾",🏆M.DEPORTES 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD",group-title="M. DEPORTES🎾",🏆M.DEPORTES 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD",group-title="🎾M. DEPORTES🎾",🏆M.DEPORTES 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD",group-title="M. DEPORTES🎾",🏆M.DEPORTES 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5
 
@@ -524,23 +564,23 @@ http://127.0.0.1:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD",group-title="🎾M. DEPORTES🎾",🏆M.DEPORTES 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD",group-title="M. DEPORTES🎾",🏆M.DEPORTES 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=39fefdecfc953dcf6e7c589739bf486c2e605ed0
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD",group-title="🎾M. DEPORTES🎾",🏆M.DEPORTES 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD",group-title="M. DEPORTES🎾",🏆M.DEPORTES 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=753d4b1f7c4ef43238b5cf23b05572b550a44eee
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD",group-title="🎾M. DEPORTES🎾",🏆M.DEPORTES 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD",group-title="M. DEPORTES🎾",🏆M.DEPORTES 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=29d786d72d4b53dbc333af3a50f8fb021aa0296f
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD",group-title="🎾M. DEPORTES🎾",🏆M.DEPORTES 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD",group-title="M. DEPORTES🎾",🏆M.DEPORTES 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD",group-title="🎾M. DEPORTES🎾",🏆M.DEPORTES 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD",group-title="M. DEPORTES🎾",🏆M.DEPORTES 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=2fd410c5d89e7a627cd3785685b7915b8e4bd534
 
@@ -551,23 +591,23 @@ http://127.0.0.1:6878/ace/getstream?id=2fd410c5d89e7a627cd3785685b7915b8e4bd534
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD",group-title="🎾M. DEPORTES🎾",🏆M.DEPORTES 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD",group-title="M. DEPORTES🎾",🏆M.DEPORTES 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=58a4c880ab18486d914751db32a12760e74b75a4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD",group-title="🎾M. DEPORTES🎾",🏆M.DEPORTES 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD",group-title="M. DEPORTES🎾",🏆M.DEPORTES 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=3f97bafa133b10cfe5c62311e11501326d886a53
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD",group-title="🎾M. DEPORTES🎾",🏆M.DEPORTES 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD",group-title="M. DEPORTES🎾",🏆M.DEPORTES 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=37825883ed185365e3194a79207347f6c7bd5ba5
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD",group-title="🎾M. DEPORTES🎾",🏆M.DEPORTES 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD",group-title="M. DEPORTES🎾",🏆M.DEPORTES 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=b40e1de2dcbd7c665f54877b14c830ed67b32a96
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD",group-title="🎾M. DEPORTES🎾",🏆M.DEPORTES 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD",group-title="M. DEPORTES🎾",🏆M.DEPORTES 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=8b5f9d967384afab226dd759e6e9dfaee9993869
 
@@ -575,23 +615,23 @@ http://127.0.0.1:6878/ace/getstream?id=8b5f9d967384afab226dd759e6e9dfaee9993869
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD",group-title="🎾M. DEPORTES🎾",🏆M.DEPORTES 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD",group-title="M. DEPORTES🎾",🏆M.DEPORTES 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=5913205fb6d6d162a50222709aab6129eb7cf916
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD",group-title="🎾M. DEPORTES🎾",🏆M.DEPORTES 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD",group-title="M. DEPORTES🎾",🏆M.DEPORTES 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=2d19e39c92f7d8ce90b271d8aaf6f42e733eedc2
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD",group-title="🎾M. DEPORTES🎾",🏆M.DEPORTES 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD",group-title="M. DEPORTES🎾",🏆M.DEPORTES 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=6dc4ac4eeae18e9daec433b01db82435cf84c57c
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD",group-title="🎾M. DEPORTES🎾",🏆M.DEPORTES 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD",group-title="M. DEPORTES🎾",🏆M.DEPORTES 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=7b361369a40046ad3011086f9d4ae2982fb4d5aa
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD",group-title="🎾M. DEPORTES🎾",🏆M.DEPORTES 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD",group-title="M. DEPORTES🎾",🏆M.DEPORTES 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=3230cdca852a10325222e3c546e499e31d547a90
 
@@ -600,15 +640,15 @@ http://127.0.0.1:6878/ace/getstream?id=3230cdca852a10325222e3c546e499e31d547a90
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD",group-title="🎾M. DEPORTES🎾",🏆M.DEPORTES 6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD",group-title="M. DEPORTES🎾",🏆M.DEPORTES 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=e4124b2143ed75e5ce902bed61be08cc5e5c3c03
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD",group-title="🎾M. DEPORTES🎾",🏆M.DEPORTES 6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD",group-title="M. DEPORTES🎾",🏆M.DEPORTES 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=190a81938c2ddc6fe97758271f8c48f4db31c28a
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD",group-title="🎾M. DEPORTES🎾",🏆M.DEPORTES 6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD",group-title="M. DEPORTES🎾",🏆M.DEPORTES 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=8f982a0d6e3196c12d0034142b65008321150f7c
 
@@ -616,26 +656,26 @@ http://127.0.0.1:6878/ace/getstream?id=8f982a0d6e3196c12d0034142b65008321150f7c
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rx9hnHz/ellas.png" tvg-id="M+ Ellas Vamos HD" ,group-title="🎾M. DEPORTES🎾",🏆M.ELLAS VAMOS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rx9hnHz/ellas.png" tvg-id="M+ Ellas Vamos HD" ,group-title="M. DEPORTES🎾",🏆M.ELLAS VAMOS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=594b59d435527327c9b6965f247995b907bfc285
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rx9hnHz/ellas.png" tvg-id="M+ Ellas Vamos HD" ,group-title="🎾M. DEPORTES🎾",🏆M.ELLAS VAMOS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rx9hnHz/ellas.png" tvg-id="M+ Ellas Vamos HD" ,group-title="M. DEPORTES🎾",🏆M.ELLAS VAMOS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=9b84af74b2fa3690c519199326fc2f181b025cdd
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" ,group-title="🎾M. DEPORTES🎾",🏆M.VAMOS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" ,group-title="M. DEPORTES🎾",🏆M.VAMOS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=4e99e755aa32c4bc043a4bb1cd1de35f9bd94dde
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" ,group-title="🎾M. DEPORTES🎾",🏆M.VAMOS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" ,group-title="M. DEPORTES🎾",🏆M.VAMOS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://vipketseyket.top:8080/VIP0133170212553540/199e7c3c78a3/632
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" ,group-title="🎾M. DEPORTES🎾",🏆M.VAMOS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" ,group-title="M. DEPORTES🎾",🏆M.VAMOS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=2940120bf034db79a7f5849846ccea0255172eae
 
@@ -654,36 +694,36 @@ http://127.0.0.1:6878/ace/getstream?id=2940120bf034db79a7f5849846ccea0255172eae
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" ,group-title="🎾M. DEPORTES🎾",🏆EUROSPORT 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" ,group-title="M. DEPORTES🎾",🏆EUROSPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=ef2abf419586d9876370be127ad592dbb41b126a
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" ,group-title="🎾M. DEPORTES🎾",🏆EUROSPORT 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" ,group-title="M. DEPORTES🎾",🏆EUROSPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" ,group-title="🎾M. DEPORTES🎾",🏆EUROSPORT 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" ,group-title="M. DEPORTES🎾",🏆EUROSPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" ,group-title="🎾M. DEPORTES🎾",🏆EUROSPORT 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" ,group-title="M. DEPORTES🎾",🏆EUROSPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" ,group-title="🎾M. DEPORTES🎾",🏆EUROSPORT 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" ,group-title="M. DEPORTES🎾",🏆EUROSPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" ,group-title="🎾M. DEPORTES🎾",🏆EUROSPORT 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" ,group-title="M. DEPORTES🎾",🏆EUROSPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" ,group-title="🎾M. DEPORTES🎾",🏆EUROSPORT 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" ,group-title="M. DEPORTES🎾",🏆EUROSPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=bae98f69fbf867550b4f73b4eb176dae84d7f909
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" ,group-title="🎾M. DEPORTES🎾",🏆EUROSPORT 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" ,group-title="M. DEPORTES🎾",🏆EUROSPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=547ab7146a86d6119c9332c011669544720124e3
 
@@ -691,36 +731,36 @@ http://127.0.0.1:6878/ace/getstream?id=547ab7146a86d6119c9332c011669544720124e3
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" ,group-title="🎾M. DEPORTES🎾",🏆EUROSPORT 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" ,group-title="M. DEPORTES🎾",🏆EUROSPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=37d6f1aabcde81ee6e4873b4db6b7bb8964af8bf
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" ,group-title="🎾M. DEPORTES🎾",🏆EUROSPORT 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" ,group-title="M. DEPORTES🎾",🏆EUROSPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" ,group-title="🎾M. DEPORTES🎾",🏆EUROSPORT 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" ,group-title="M. DEPORTES🎾",🏆EUROSPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=2773b39926d15dd3d9495d94c4050604792d7031
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" ,group-title="🎾M. DEPORTES🎾",🏆EUROSPORT 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" ,group-title="M. DEPORTES🎾",🏆EUROSPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=7aa9cc819c6fa781dea6b4de3aa5393258b766d8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" ,group-title="🎾M. DEPORTES🎾",🏆EUROSPORT 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" ,group-title="M. DEPORTES🎾",🏆EUROSPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" ,group-title="🎾M. DEPORTES🎾",🏆EUROSPORT 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" ,group-title="M. DEPORTES🎾",🏆EUROSPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=ac675c82d6dfd4a201532c18b42e48dacb7c32c6
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" ,group-title="🎾M. DEPORTES🎾",🏆EUROSPORT 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" ,group-title="M. DEPORTES🎾",🏆EUROSPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=37d6f1aabcde81ee6e4873b4db6b7bb8964af8bf
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" ,group-title="🎾M. DEPORTES🎾",🏆EUROSPORT 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" ,group-title="M. DEPORTES🎾",🏆EUROSPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=0585e09bb8ac9720e4c11934f1b184e309291551
 
@@ -731,48 +771,48 @@ http://127.0.0.1:6878/ace/getstream?id=0585e09bb8ac9720e4c11934f1b184e309291551
 
 
 
-#EXTINF:-1,group-title="🎾M. DEPORTES🎾",🏆Teledeporte
+#EXTINF:-1,group-title="M. DEPORTES🎾",🏆Teledeporte
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 
 
-#EXTINF:-1,group-title="🎾M. DEPORTES🎾",🏆Teledeporte
+#EXTINF:-1,group-title="M. DEPORTES🎾",🏆Teledeporte
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD" ,group-title="🎾M. DEPORTES🎾",🏆M.GOLF⛳️
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD" ,group-title="M. DEPORTES🎾",🏆M.GOLF⛳️
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=9ed46050217ee6ed8236a64b72d7992f7b3b37f2
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD" ,group-title="🎾M. DEPORTES🎾",🏆M.GOLF⛳️
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD" ,group-title="M. DEPORTES🎾",🏆M.GOLF⛳️
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD" ,group-title="🎾M. DEPORTES🎾",🏆M.GOLF⛳️
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD" ,group-title="M. DEPORTES🎾",🏆M.GOLF⛳️
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=8546cff89e4ee8bf3ad31cf6457c3bc2c4341031
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD" ,group-title="🎾M. DEPORTES🎾",🏆M.GOLF⛳️
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD" ,group-title="M. DEPORTES🎾",🏆M.GOLF⛳️
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=9be118a64eb603b5eb62be6cf27631d3891b5174
 
-#EXTINF:-1 tvg-logo="https://i.blogs.es/61a41c/fox-sports-premium-230322-1200x675-1/450_1000.jpg" tvg-id="",group-title="🎾M. DEPORTES🎾",🏆FOX DEPORTES
+#EXTINF:-1 tvg-logo="https://i.blogs.es/61a41c/fox-sports-premium-230322-1200x675-1/450_1000.jpg" tvg-id="",group-title="M. DEPORTES🎾",🏆FOX DEPORTES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=f2f318919c0035b8979153599a90597671eeefc3
 
 
 
-#EXTINF:-1 tvg-logo="https://i.blogs.es/61a41c/fox-sports-premium-230322-1200x675-1/450_1000.jpg" tvg-id="",group-title="🎾M. DEPORTES🎾",🏆Fox Sports 2
+#EXTINF:-1 tvg-logo="https://i.blogs.es/61a41c/fox-sports-premium-230322-1200x675-1/450_1000.jpg" tvg-id="",group-title="M. DEPORTES🎾",🏆Fox Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=0b48cd93de3c714e36961a93805798307a5608ac
 
-#EXTINF:-1 tvg-logo="https://i.blogs.es/61a41c/fox-sports-premium-230322-1200x675-1/450_1000.jpg" tvg-id="",group-title="🎾M. DEPORTES🎾",🏆Fox Sports 2
+#EXTINF:-1 tvg-logo="https://i.blogs.es/61a41c/fox-sports-premium-230322-1200x675-1/450_1000.jpg" tvg-id="",group-title="M. DEPORTES🎾",🏆Fox Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=90d101676ec61e02e7f77b489f0981e9dd815eda
 
-#EXTINF:-1 tvg-logo="https://i.blogs.es/61a41c/fox-sports-premium-230322-1200x675-1/450_1000.jpg" tvg-id="",group-title="🎾M. DEPORTES🎾",🏆Fox Sports 2
+#EXTINF:-1 tvg-logo="https://i.blogs.es/61a41c/fox-sports-premium-230322-1200x675-1/450_1000.jpg" tvg-id="",group-title="M. DEPORTES🎾",🏆Fox Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=3bdf355aeaac39d20e368ebb2ed72b9f71bf9090
 
@@ -781,49 +821,49 @@ http://127.0.0.1:6878/ace/getstream?id=3bdf355aeaac39d20e368ebb2ed72b9f71bf9090
 
 
 
-#EXTINF:-1,group-title="🎾M. DEPORTES🎾",🏆UFC TNT SPORTS 1🥊
+#EXTINF:-1,group-title="M. DEPORTES🎾",🏆UFC TNT SPORTS 1🥊
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 
-#EXTINF:-1 tvg-logo="https://ufc-video.s3.amazonaws.com/image/Articles/big-fight-pass-logo.png" tvg-id="" ,group-title="🎾M. DEPORTES🎾",🏆UFC Fight Pass🥊
+#EXTINF:-1 tvg-logo="https://ufc-video.s3.amazonaws.com/image/Articles/big-fight-pass-logo.png" tvg-id="" ,group-title="M. DEPORTES🎾",🏆UFC Fight Pass🥊
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=108aebe20efc826e56f3a1cb01117a124a6b89ad
 
-#EXTINF:-1 tvg-logo="https://ufc-video.s3.amazonaws.com/image/Articles/big-fight-pass-logo.png" tvg-id="" ,group-title="🎾M. DEPORTES🎾",🏆UFC Fight Pass🥊
+#EXTINF:-1 tvg-logo="https://ufc-video.s3.amazonaws.com/image/Articles/big-fight-pass-logo.png" tvg-id="" ,group-title="M. DEPORTES🎾",🏆UFC Fight Pass🥊
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=96537527b2d5e858b2e6c863a00dec304254091d
 
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/237/1008/png-clipart-logo-tennis-channel-hd-television-channel-tv-logos-angle-text.png" tvg-id="Tennis Channel",group-title="🎾M. DEPORTES🎾",🏆TENNIS CHANEL🎾
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/237/1008/png-clipart-logo-tennis-channel-hd-television-channel-tv-logos-angle-text.png" tvg-id="Tennis Channel",group-title="M. DEPORTES🎾",🏆TENNIS CHANEL🎾
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/237/1008/png-clipart-logo-tennis-channel-hd-television-channel-tv-logos-angle-text.png" tvg-id="Tennis Channel",group-title="🎾M. DEPORTES🎾",🏆TENNIS CHANEL🎾
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/237/1008/png-clipart-logo-tennis-channel-hd-television-channel-tv-logos-angle-text.png" tvg-id="Tennis Channel",group-title="M. DEPORTES🎾",🏆TENNIS CHANEL🎾
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/237/1008/png-clipart-logo-tennis-channel-hd-television-channel-tv-logos-angle-text.png" tvg-id="Tennis Channel",group-title="🎾M. DEPORTES🎾",🏆TENNIS CHANEL🎾
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/237/1008/png-clipart-logo-tennis-channel-hd-television-channel-tv-logos-angle-text.png" tvg-id="Tennis Channel",group-title="M. DEPORTES🎾",🏆TENNIS CHANEL🎾
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=52a526d748e26ff0827635b3932d9f49aee14a25
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/237/1008/png-clipart-logo-tennis-channel-hd-television-channel-tv-logos-angle-text.png" tvg-id="Tennis Channel",group-title="🎾M. DEPORTES🎾",🏆TENNIS CHANEL🎾
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/237/1008/png-clipart-logo-tennis-channel-hd-television-channel-tv-logos-angle-text.png" tvg-id="Tennis Channel",group-title="M. DEPORTES🎾",🏆TENNIS CHANEL🎾
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/237/1008/png-clipart-logo-tennis-channel-hd-television-channel-tv-logos-angle-text.png" tvg-id="Tennis Channel",group-title="🎾M. DEPORTES🎾",🏆TENNIS CHANEL🎾
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/237/1008/png-clipart-logo-tennis-channel-hd-television-channel-tv-logos-angle-text.png" tvg-id="Tennis Channel",group-title="M. DEPORTES🎾",🏆TENNIS CHANEL🎾
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/237/1008/png-clipart-logo-tennis-channel-hd-television-channel-tv-logos-angle-text.png" tvg-id="Tennis Channel",group-title="🎾M. DEPORTES🎾",🏆TENNIS CHANEL🎾
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/237/1008/png-clipart-logo-tennis-channel-hd-television-channel-tv-logos-angle-text.png" tvg-id="Tennis Channel",group-title="M. DEPORTES🎾",🏆TENNIS CHANEL🎾
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/237/1008/png-clipart-logo-tennis-channel-hd-television-channel-tv-logos-angle-text.png" tvg-id="Tennis Channel",group-title="🎾M. DEPORTES🎾",🏆TENNIS CHANEL🎾
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/237/1008/png-clipart-logo-tennis-channel-hd-television-channel-tv-logos-angle-text.png" tvg-id="Tennis Channel",group-title="M. DEPORTES🎾",🏆TENNIS CHANEL🎾
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg" tvg-id="",group-title="🎾M. DEPORTES🎾",🏆SUPERTENNIS CHANEL🎾
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg" tvg-id="",group-title="M. DEPORTES🎾",🏆SUPERTENNIS CHANEL🎾
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b407
 
@@ -1628,43 +1668,43 @@ http://world-qualite.xyz:8080/964427789tv/a6861w/236369
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://world-qualite.xyz:8080/964427789tv/a6861w/236340
 
-#EXTINF:-1 group-title="👨‍👩‍👦‍👦ESTILO DE VIDA👨‍👩‍👦‍👦",👨‍👩‍👦‍👦IBERALIA TV
+#EXTINF:-1 ,group-title="ESTILO DE VIDA👨‍👩‍👦‍👦",👨‍👩‍👦‍👦IBERALIA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://world-qualite.xyz:8080/964427789tv/a6861w/236332
 
-#EXTINF:-1 group-title="👨‍👩‍👦‍👦ESTILO DE VIDA👨‍👩‍👦‍👦",👨‍👩‍👦‍👦IBERALIA 100% PESCA
+#EXTINF:-1 ,group-title="ESTILO DE VIDA👨‍👩‍👦‍👦",👨‍👩‍👦‍👦IBERALIA 100% PESCA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://world-qualite.xyz:8080/964427789tv/a6861w/236328
 
-#EXTINF:-1 group-title="👨‍👩‍👦‍👦ESTILO DE VIDA👨‍👩‍👦‍👦",👨‍👩‍👦‍👦IBERALIA 100% CAZA
+#EXTINF:-1 ,group-title="ESTILO DE VIDA👨‍👩‍👦‍👦",👨‍👩‍👦‍👦IBERALIA 100% CAZA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://world-qualite.xyz:8080/964427789tv/a6861w/236330
 
-#EXTINF:-1 group-title="👨‍👩‍👦‍👦ESTILO DE VIDA👨‍👩‍👦‍👦",👨‍👩‍👦‍👦CAZAVISION
+#EXTINF:-1 ,group-title="ESTILO DE VIDA👨‍👩‍👦‍👦",👨‍👩‍👦‍👦CAZAVISION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://world-qualite.xyz:8080/964427789tv/a6861w/236320
 
-#EXTINF:-1 group-title="👨‍👩‍👦‍👦ESTILO DE VIDA👨‍👩‍👦‍👦",👨‍👩‍👦‍👦DMAX
+#EXTINF:-1 ,group-title="ESTILO DE VIDA👨‍👩‍👦‍👦",👨‍👩‍👦‍👦DMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://world-qualite.xyz:8080/964427789tv/a6861w/236333
 
-#EXTINF:-1 group-title="👨‍👩‍👦‍👦ESTILO DE VIDA👨‍👩‍👦‍👦",👨‍👩‍👦‍👦ODISEA
+#EXTINF:-1 ,group-title="ESTILO DE VIDA👨‍👩‍👦‍👦",👨‍👩‍👦‍👦ODISEA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://world-qualite.xyz:8080/964427789tv/a6861w/236334
 
-#EXTINF:-1 group-title="👨‍👩‍👦‍👦ESTILO DE VIDA👨‍👩‍👦‍👦",👨‍👩‍👦‍👦HISTORIA
+#EXTINF:-1 ,group-title="ESTILO DE VIDA👨‍👩‍👦‍👦",👨‍👩‍👦‍👦HISTORIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://world-qualite.xyz:8080/964427789tv/a6861w/236342
 
-#EXTINF:-1 group-title="👨‍👩‍👦‍👦ESTILO DE VIDA👨‍👩‍👦‍👦",👨‍👩‍👦‍👦BUEN VIAJE!
+#EXTINF:-1 ,group-title="ESTILO DE VIDA👨‍👩‍👦‍👦",👨‍👩‍👦‍👦BUEN VIAJE!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://world-qualite.xyz:8080/964427789tv/a6861w/236353
 
-#EXTINF:-1 group-title="👨‍👩‍👦‍👦ESTILO DE VIDA👨‍👩‍👦‍👦",👨‍👩‍👦‍👦NATIONAL GEOGRAPHIC
+#EXTINF:-1 ,group-title="ESTILO DE VIDA👨‍👩‍👦‍👦",👨‍👩‍👦‍👦NATIONAL GEOGRAPHIC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://world-qualite.xyz:8080/964427789tv/a6861w/236365
 
-#EXTINF:-1 group-title="👨‍👩‍👦‍👦ESTILO DE VIDA👨‍👩‍👦‍👦",👨‍👩‍👦‍👦NATIONAL GEOGRAPHIC WILD
+#EXTINF:-1 ,group-title="ESTILO DE VIDA👨‍👩‍👦‍👦",👨‍👩‍👦‍👦NATIONAL GEOGRAPHIC WILD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://world-qualite.xyz:8080/964427789tv/a6861w/236367
 
@@ -2047,14 +2087,14 @@ http://root:1234http://root:@127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3
 
 
 
-#EXTINF:-1,group-title="INTERNACIONAL" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",⚽️DAZN 1 BAR
+#EXTINF:-1,group-title="INTERNACIONAL🏆", tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",⚽️DAZN 1 BAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 
 
 
 
-#EXTINF:-1,group-title="INTERNACIONAL" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",⚽️DAZN 2 BAR⚽
+#EXTINF:-1,group-title="INTERNACIONAL🏆", tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",⚽️DAZN 2 BAR⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
 
@@ -2192,7 +2232,7 @@ http://127.0.0.1:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
 
 
 
-#EXTINF:-1,group-title="INTERNACIONAL" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",🏆BEIN SPORTS XTRA Ñ
+#EXTINF:-1,group-title="INTERNACIONAL🏆", tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",🏆BEIN SPORTS XTRA Ñ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 
@@ -2344,11 +2384,11 @@ http://127.0.0.1:6878/ace/getstream?id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=664eb5fe460b96941aed633959a845b185cd8394
 
-#EXTINF:-1,group-title="INTERNACIONAL" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",ESPN 4🏆 
+#EXTINF:-1,group-title="INTERNACIONAL🏆", tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",ESPN 4🏆 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=5f9b19c57195cc28ab81e0ec8cad03b55118687a
 
-#EXTINF:-1,group-title="INTERNACIONAL" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",ESPN 5🏆  
+#EXTINF:-1,group-title="INTERNACIONAL🏆", tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",ESPN 5🏆  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa
 
@@ -2424,64 +2464,64 @@ http://127.0.0.1:6878/ace/getstream?id=b73da828421018c98905ed05934b77ea35aa1b29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=9e7fe279f421b734a8af9e68320955fd16f80b4b
 
-#EXTINF:-1,group-title="INTERNACIONAL" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",UFC Fight Pass🥊  
+#EXTINF:-1,group-title="INTERNACIONAL🏆", tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",UFC Fight Pass🥊  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa
 
-#EXTINF:-1,group-title="INTERNACIONAL" tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",UFC TNT SPORTS 1🥊  
+#EXTINF:-1,group-title="INTERNACIONAL🏆", tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg",UFC TNT SPORTS 1🥊  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 
-#EXTINF:-1,group-title="INTERNACIONAL" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" ,TYC SPORTS 1🏆
+#EXTINF:-1,group-title="INTERNACIONAL🏆", tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" ,TYC SPORTS 1🏆
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://world-qualite.xyz:8080/964427789tv/a6861w/554
 
-#EXTINF:-1,group-title="INTERNACIONAL" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" ,ESPN 1🏆
+#EXTINF:-1,group-title="INTERNACIONAL🏆", tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" ,ESPN 1🏆
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://world-qualite.xyz:8080/964427789tv/a6861w/518
 
-#EXTINF:-1,group-title="INTERNACIONAL" tvg-logo="https://i.postimg.cc/y8DMj3Cm/espn3.png" ,ESPN 3🏆
+#EXTINF:-1,group-title="INTERNACIONAL🏆", tvg-logo="https://i.postimg.cc/y8DMj3Cm/espn3.png" ,ESPN 3🏆
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://world-qualite.xyz:8080/964427789tv/a6861w/513
 
-#EXTINF:-1,group-title="INTERNACIONAL" tvg-logo="https://i.ibb.co/xC9P0T3/ESPN-4-logo-svg.png" ,ESPN 4🏆
+#EXTINF:-1,group-title="INTERNACIONAL🏆", tvg-logo="https://i.ibb.co/xC9P0T3/ESPN-4-logo-svg.png" ,ESPN 4🏆
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://world-qualite.xyz:8080/964427789tv/a6861w/517
 
-#EXTINF:-1,group-title="INTERNACIONAL" tvg-logo="https://i.ibb.co/g4Nd3fs/ESPN-5-logo-svg.png" ,ESPN 5🏆
+#EXTINF:-1,group-title="INTERNACIONAL🏆", tvg-logo="https://i.ibb.co/g4Nd3fs/ESPN-5-logo-svg.png" ,ESPN 5🏆
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://world-qualite.xyz:8080/964427789tv/a6861w/526
 
-#EXTINF:-1,group-title="INTERNACIONAL" tvg-logo="https://i.ibb.co/2cNtqyf/ESPN-6-logo-svg.png" ,ESPN 6🏆 
+#EXTINF:-1,group-title="INTERNACIONAL🏆", tvg-logo="https://i.ibb.co/2cNtqyf/ESPN-6-logo-svg.png" ,ESPN 6🏆 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://world-qualite.xyz:8080/964427789tv/a6861w/539
 
-#EXTINF:-1,group-title="INTERNACIONAL" tvg-logo="https://i.ibb.co/dLvzCJR/ESPN-7-logo-svg.png" ,ESPN 7🏆
+#EXTINF:-1,group-title="INTERNACIONAL🏆", tvg-logo="https://i.ibb.co/dLvzCJR/ESPN-7-logo-svg.png" ,ESPN 7🏆
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://world-qualite.xyz:8080/964427789tv/a6861w/453
 
-#EXTINF:-1,group-title="INTERNACIONAL" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" ,ESPN PREMIUM 1🏆
+#EXTINF:-1,group-title="INTERNACIONAL🏆", tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" ,ESPN PREMIUM 1🏆
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://world-qualite.xyz:8080/964427789tv/a6861w/542
 
-#EXTINF:-1,group-title="INTERNACIONAL" tvg-logo="https://i.ibb.co/4s0Ht69/Logo-Fox-Sports-Argentina-2023.png" ,🏆FOX DEPORTES
+#EXTINF:-1,group-title="INTERNACIONAL🏆", tvg-logo="https://i.ibb.co/4s0Ht69/Logo-Fox-Sports-Argentina-2023.png" ,🏆FOX DEPORTES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=f2f318919c0035b8979153599a90597671eeefc3
 
-#EXTINF:-1,group-title="INTERNACIONAL" tvg-logo="https://i.ibb.co/4s0Ht69/Logo-Fox-Sports-Argentina-2023.png" ,FOX SPORTS 1🏆 
+#EXTINF:-1,group-title="INTERNACIONAL🏆", tvg-logo="https://i.ibb.co/4s0Ht69/Logo-Fox-Sports-Argentina-2023.png" ,FOX SPORTS 1🏆 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://world-qualite.xyz:8080/964427789tv/a6861w/456
 
 
-#EXTINF:-1,group-title="INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" ,DIRECTV SPORTS 1🏆 
+#EXTINF:-1,group-title="INTERNACIONAL🏆", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" ,DIRECTV SPORTS 1🏆 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://world-qualite.xyz:8080/964427789tv/a6861w/480
 
-#EXTINF:-1,group-title="INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" ,DIRECTV SPORTS 2🏆
+#EXTINF:-1,group-title="INTERNACIONAL🏆", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" ,DIRECTV SPORTS 2🏆
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://world-qualite.xyz:8080/964427789tv/a6861w/483
 
-#EXTINF:-1,group-title="INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" ,TUDN 1🏆
+#EXTINF:-1,group-title="INTERNACIONAL🏆", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" ,TUDN 1🏆
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://world-qualite.xyz:8080/964427789tv/a6861w/553
 

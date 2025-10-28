@@ -229,18 +229,15 @@ http://127.0.0.1:6878/ace/getstream?id=b40212c43e96e97542ea00f2129212a054853a57
 
 
 
-
-
-
-#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/2023/07/13/medium/60e1502d7d6098162828bb002e98bdb4.png" tvg-id="GOL PLAY" ,group-title="LA LIGA⚽",GOL PLAY⚽OPC.1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GOL.png" tvg-id="GOL" ,group-title="LA LIGA⚽",GOL PLAY⚽OPC.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=b2d560741c006fc5e4a42412bb52dbd25a6a4a3a
 
-#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/2023/07/13/medium/60e1502d7d6098162828bb002e98bdb4.png" tvg-id="GOL PLAY" ,group-title="LA LIGA⚽",GOL PLAY⚽OPC.2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GOL.png" tvg-id="GOL" ,group-title="LA LIGA⚽",GOL PLAY⚽OPC.2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=9fb99c40a2c45d5c5342b30626eb56140f980612
 
-#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/2023/07/13/medium/60e1502d7d6098162828bb002e98bdb4.png" tvg-id="GOL PLAY" ,group-title="LA LIGA⚽",GOL PLAY⚽OPC.3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GOL.png" tvg-id="GOL" ,group-title="LA LIGA⚽",GOL PLAY⚽OPC.3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=73094658f0a3ed523c0e188de67a7a690c0d4f93
 
@@ -2729,6 +2726,7 @@ http://wolfpackmedia.dog:80/Sanders1/Sanders1/199515
 #EXTINF:-1 tvg-logo="http://wfstrmzone.net:80/images/ObjMyBzxShTBhKQURLDoNsr0TyyMVOCI4n8E-_TgxyBRb12iTjkYHlwI_QOt-1Pkg-ziWVj-QHd12jGM3eBkUw.png" ,group-title="INTERNACIONAL🏆",🏆FOX SPORTS PREMIUM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://wolfpackmedia.dog:80/Sanders1/Sanders1/199518
+
 
 
 

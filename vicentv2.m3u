@@ -880,7 +880,7 @@ http://127.0.0.1:6878/ace/getstream?id=4e401fdceebffdf1f09aef954844d09f6c62f460
 
                    
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="",group-title="DAZN ESPAÑA🏍",DAZN PVV🏀ACB
+#EXTINF:0, tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="",group-title="DAZN ESPAÑA🏍",DAZN PVV🏀ACB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://espeasaea.top:8080/live/es9921755765782304/30b2aa11d6e0/74455.m3u8
 
@@ -2461,6 +2461,7 @@ https://www.youtube.com/results?search_query=liga+endesa+acb
 #EXTINF:-1 tvg-id="MUNDIAL FUTBOL 2026" tvg-logo=""  ,group-title="YOUTUBE📺", tvg-name="MUNDIAL FUTBOL 2026",MUNDIAL FUTBOL 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://www.youtube.com/results?search_query=clasificacion+mundial+2026+europa+partidos
+
 
 
 

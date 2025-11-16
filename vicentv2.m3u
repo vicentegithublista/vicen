@@ -2426,11 +2426,6 @@ https://www.youtube.com/watch?v=ap9RqTwWYcY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://www.youtube.com/watch?v=mkJHnno0gdk
 
-
-#EXTINF:-1 tvg-id="PREMIER PADEL" tvg-logo=""  ,group-title="YOUTUBE📺", tvg-name="PREMIER PADEL",PREMIER PADEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://www.youtube.com/watch?v=JI3hlQcsaMY
-
 #EXTINF:-1 tvg-id="LIGA U-22" tvg-logo=""  ,group-title="YOUTUBE📺", tvg-name="LIGA U-22",LIGA U-22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://www.youtube.com/watch?v=BTJV8DjNkRw
@@ -2440,9 +2435,12 @@ https://www.youtube.com/watch?v=BTJV8DjNkRw
 https://www.youtube.com/watch?v=jHROrfEm0aQ
 
 
-#EXTINF:-1 tvg-id="CMM" tvg-logo=""  ,group-title="YOUTUBE📺", tvg-name="CMM",CMM ENE COMPAÑIA
+#EXTINF:-1 tvg-id="CMM" tvg-logo=""  ,group-title="YOUTUBE📺", tvg-name="CMM",CMM EN COMPAÑIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://www.youtube.com/watch?v=-lQeBdngQ8g&list=PLV7k8K1sta-W1yrm1cCH9uS-BQ0TdgRoA
 
+#EXTINF:-1 tvg-id="PREMIER PADEL" tvg-logo=""  ,group-title="YOUTUBE📺", tvg-name="PREMIER PADEL",PREMIER PADEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://www.youtube.com/results?search_query=premier+padel
 
 

@@ -1395,35 +1395,6 @@ http://127.0.0.1:6878/ace/getstream?id=877eceeaf9f3bd9b392359323d03d0ac3bb27312
 
 
 
-#EXTINF:-1 tvg-logo="https://go4.pw/LATINO/NBA_TV.png" tvg-id="PT | Sport TV NBA",group-title="INTERNACIONAL🏆",🏀NBA 1 EVENTOS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
-
-
-#EXTINF:-1 tvg-logo="https://go4.pw/LATINO/NBA_TV.png" tvg-id="PT | Sport TV NBA",group-title="INTERNACIONAL🏆",🏀NBA 2 EVENTOS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
-
-
-#EXTINF:-1 tvg-logo="https://go4.pw/LATINO/NBA_TV.png" tvg-id="PT | Sport TV NBA",group-title="INTERNACIONAL🏆",🏀NBA 3 EVENTOS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
-
-
-#EXTINF:-1 tvg-logo="https://go4.pw/LATINO/NBA_TV.png" tvg-id="PT | Sport TV NBA",group-title="INTERNACIONAL🏆",🏀NBA 4 EVENTOS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
-
-
-#EXTINF:-1 tvg-logo="https://go4.pw/LATINO/NBA_TV.png" tvg-id="PT | Sport TV NBA",group-title="INTERNACIONAL🏆",🏀NBA 5 EVENTOS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
-
-
-#EXTINF:-1 tvg-logo="https://go4.pw/LATINO/NBA_TV.png" tvg-id="PT | Sport TV NBA",group-title="INTERNACIONAL🏆",🏀NBA 6 EVENTOS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
-
 
 
 
@@ -2274,6 +2245,10 @@ http://wolfpackmedia.dog:80/Sanders1/Sanders1/199518
 
 
 
+
+
+
+
 #EXTINF:0, tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="",group-title="EVENTOS",DAZN PVV🏀ACB 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://117.55.203.190:80/play/r_3c71hRvYhjGGTDUiRCKQhYtLZgrxKMVOjO-d5YMKeQnsp4Shbx6I46GsgTLfoy/ts
@@ -2294,40 +2269,14 @@ http://117.55.203.190:80/play/r_3c71hRvYhjGGTDUiRCKS94aBN5LC5kT5JYXGf-0V9HRobp8p
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://117.55.203.190:80/play/r_3c71hRvYhjGGTDUiRCKezD-ShURJvQV2sOBsJgRubYRE6d-bgZrCcVRWUVDVg3/ts
 
-#EXTINF:0, tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="",group-title="EVENTOS",DAZN 1 BAR
+
+#EXTINF:-1 tvg-logo=""  tvg-id="",group-title="EVENTOS",NBA🏀
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229   
+http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
 
-#EXTINF:0, tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="",group-title="EVENTOS",TNT SPORTS 1
+#EXTINF:-1 tvg-logo=""  tvg-id="",group-title="EVENTOS",NBA🏀
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b   
-
-#EXTINF:0, tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="",group-title="EVENTOS",TNT SPORTS 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
-
-#EXTINF:0, tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="",group-title="EVENTOS",SKY SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e 
-
-#EXTINF:0, tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="",group-title="EVENTOS",SKY SPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=7c12288663069a12aff58f3f62e8ea47ab78c65d   
-
-#EXTINF:0, tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="",group-title="EVENTOS",BEING SPORTS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52   
-
-#EXTINF:0, tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="",group-title="EVENTOS",ESPN 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=3e0ba6867173f345d482d80c771f1a5dc3b37e63   
-
-#EXTINF:0, tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="",group-title="EVENTOS",POLSAT SPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=4ce55db7e578ff52a6e526cf610e477464b8a99f 
-
-
-
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 
 
 
@@ -2374,6 +2323,64 @@ http://127.0.0.1:6878/ace/getstream?id=6058a4c0f2569bd81c687aa7dfb48b8a9569fb29
 #EXTINF:-1 tvg-logo=""  tvg-id="Magenta Sport 11",group-title="EVENTOS",Magenta Sport 11🏀
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6
+
+
+
+#EXTINF:0, tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="",group-title="EVENTOS",DAZN 1 BAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229   
+
+#EXTINF:0, tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="",group-title="EVENTOS",TNT SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b   
+
+#EXTINF:0, tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="",group-title="EVENTOS",TNT SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
+
+#EXTINF:0, tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="",group-title="EVENTOS",SKY SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e 
+
+#EXTINF:0, tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="",group-title="EVENTOS",SKY SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=7c12288663069a12aff58f3f62e8ea47ab78c65d   
+
+#EXTINF:0, tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="",group-title="EVENTOS",BEING SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52   
+
+#EXTINF:-1 tvg-logo=""  tvg-id="",group-title="EVENTOS",BEING SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
+
+
+#EXTINF:0, tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="",group-title="EVENTOS",ESPN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=3e0ba6867173f345d482d80c771f1a5dc3b37e63   
+
+#EXTINF:0, tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="",group-title="EVENTOS",POLSAT SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=4ce55db7e578ff52a6e526cf610e477464b8a99f 
+
+#EXTINF:-1 tvg-logo=""  tvg-id="",group-title="EVENTOS",POLSAT SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
+
+#EXTINF:-1 tvg-logo=""  tvg-id="",group-title="EVENTOS",SANTANA SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2439,6 +2446,7 @@ https://www.youtube.com/results?search_query=nba+en+vivo+hoy
 #EXTINF:-1 tvg-id="LIGA ENDESA ACB" tvg-logo=""  ,group-title="YOUTUBE📺", tvg-name="LIGA ENDESA ACB",LIGA ENDESA ACB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://www.youtube.com/results?search_query=liga+endesa+acb
+
 
 
 

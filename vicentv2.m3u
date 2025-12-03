@@ -5,77 +5,54 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vicentegithublista/vicen/refs/heads/main/IMG_20230505_125507_351.ico"tvg-id="M+ Liga de Campeones HD" ,group-title="AGENDA🏆",Racing Club🆚Tigre⚽️01:30
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vicentegithublista/vicen/refs/heads/main/IMG_20230505_125507_351.ico"tvg-id="Teledeporte",group-title="AGENDA🏆",España🆚Serbia🤾15:30
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vicentegithublista/vicen/refs/heads/main/IMG_20230505_125507_351.ico"tvg-id="La 1 HD" ,group-title="AGENDA🏆",España🆚Alemania⚽️18:30
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://d2jws8nf49xuk0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ikffw175xm6u/La1ES.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vicentegithublista/vicen/refs/heads/main/IMG_20230505_125507_351.ico"tvg-id="M+ LaLiga 3 HD",group-title="AGENDA🏆",Numancia🆚Mallorca⚽️19:30
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=571ce113b9d600a145766443d7417eccab2e1846
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vicentegithublista/vicen/refs/heads/main/IMG_20230505_125507_351.ico"tvg-id="DAZN 1 HD",group-title="AGENDA🏆",Fulham🆚Manchester City⚽️20:30
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vicentegithublista/vicen/refs/heads/main/IMG_20230505_125507_351.ico"tvg-id="DAZN 1 HD",group-title="AGENDA🏆",🆚Napoles-Cagliari⚽️18:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vicentegithublista/vicen/refs/heads/main/IMG_20230505_125507_351.ico"tvg-id="M+ LaLiga HD",group-title="AGENDA🏆",Barcelona🆚At. Madrid⚽️21:00
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vicentegithublista/vicen/refs/heads/main/IMG_20230505_125507_351.ico" tvg-id="DAZN LaLiga HD",group-title="AGENDA🏆",🆚Athletic-Real Madrid⚽️19:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
+http://127.0.0.1:6878/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vicentegithublista/vicen/refs/heads/main/IMG_20230505_125507_351.ico"tvg-id="M+ LaLiga HD",group-title="AGENDA🏆",Barcelona🆚At. Madrid⚽️21:00
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vicentegithublista/vicen/refs/heads/main/IMG_20230505_125507_351.ico" tvg-id="DAZN LaLiga HD",group-title="AGENDA🏆",🆚Athletic-Real Madrid⚽️19:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74
+http://127.0.0.1:6878/ace/getstream?id=1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vicentegithublista/vicen/refs/heads/main/IMG_20230505_125507_351.ico"tvg-id="M+ LaLiga HD",group-title="AGENDA🏆",Barcelona🆚At. Madrid⚽️21:00
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vicentegithublista/vicen/refs/heads/main/IMG_20230505_125507_351.ico" tvg-id="DAZN LaLiga HD",group-title="AGENDA🏆",🆚Athletic-Real Madrid⚽️19:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vicentegithublista/vicen/refs/heads/main/IMG_20230505_125507_351.ico"tvg-id="M+ LaLiga HD",group-title="AGENDA🏆",Barcelona🆚At. Madrid⚽️21:00
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vicentegithublista/vicen/refs/heads/main/IMG_20230505_125507_351.ico" tvg-id="DAZN LaLiga HD",group-title="AGENDA🏆",🆚Athletic-Real Madrid⚽️19:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD",group-title="AGENDA🏆",Barcelona🆚At. Madrid⚽️21:00 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vicentegithublista/vicen/refs/heads/main/IMG_20230505_125507_351.ico" tvg-id="DAZN LaLiga HD",group-title="AGENDA🏆",🆚Athletic-Real Madrid⚽️19:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=99171f30c83bf7ab5df28b39607c91334cc60e4b
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vicentegithublista/vicen/refs/heads/main/IMG_20230505_125507_351.ico" tvg-id="DAZN LaLiga HD",group-title="AGENDA🏆",🆚Athletic-Real Madrid⚽️19:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vicentegithublista/vicen/refs/heads/main/IMG_20230505_125507_351.ico" tvg-id="DAZN LaLiga HD",group-title="AGENDA🏆",🆚Athletic-Real Madrid⚽️19:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vicentegithublista/vicen/refs/heads/main/IMG_20230505_125507_351.ico"tvg-id="Teledeporte",group-title="AGENDA🏆",🆚Torrent-Real Betis⚽️21:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD",group-title="AGENDA🏆",🆚Liverpool-Sunderland⚽️21:15 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vicentegithublista/vicen/refs/heads/main/IMG_20230505_125507_351.ico"tvg-id="M+ LaLiga 3 HD",group-title="AGENDA🏆",Navalcarnero🆚Getafe⚽️21:00
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=571ce113b9d600a145766443d7417eccab2e1846
 
 
 
 
 
 
-
-
-EXTINF:0, tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="",group-title="EVENTOS",DAZN PVV🏀ACB 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://117.55.203.190:80/play/r_3c71hRvYhjGGTDUiRCKQhYtLZgrxKMVOjO-d5YMKeQnsp4Shbx6I46GsgTLfoy/ts
-
-EXTINF:0, tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="",group-title="EVENTOS",DAZN PVV🏀ACB 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://117.55.203.190:80/play/r_3c71hRvYhjGGTDUiRCKZNRdG03_3xo68tTcrfnz8z29cAx3bBIBmzRQTFa1Jh0/ts
-
-EXTINF:0, tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="",group-title="EVENTOS",DAZN PVV🏀ACB 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://117.55.203.190:80/play/r_3c71hRvYhjGGTDUiRCKW8CDGdwO2Y_rMbRBxP1YgrZzFtx6BwiVPgsP_pk1dJ5/ts
-
-EXTINF:0, tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="",group-title="EVENTOS",DAZN PVV🏀ACB 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://117.55.203.190:80/play/r_3c71hRvYhjGGTDUiRCKS94aBN5LC5kT5JYXGf-0V9HRobp8pbElcYp8G_TdHJM/ts
-
-EXTINF:0, tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="",group-title="EVENTOS",DAZN PVV🏀ACB 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://117.55.203.190:80/play/r_3c71hRvYhjGGTDUiRCKezD-ShURJvQV2sOBsJgRubYRE6d-bgZrCcVRWUVDVg3/ts
 
 
 
@@ -844,6 +821,29 @@ http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn4.png" tvg-id="DAZN 4 HD",group-title="DAZN ESPAÑA🏁",🥊⚽️DAZN 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=4e401fdceebffdf1f09aef954844d09f6c62f460
+
+
+#EXTINF:0, tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="",group-title="DAZN ESPAÑA🏁",DAZN PVV🏀ACB 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://117.55.203.190:80/play/r_3c71hRvYhjGGTDUiRCKQhYtLZgrxKMVOjO-d5YMKeQnsp4Shbx6I46GsgTLfoy/ts
+
+#EXTINF:0, tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="",group-title="DAZN ESPAÑA🏁",DAZN PVV🏀ACB 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://117.55.203.190:80/play/r_3c71hRvYhjGGTDUiRCKZNRdG03_3xo68tTcrfnz8z29cAx3bBIBmzRQTFa1Jh0/ts
+
+#EXTINF:0, tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="",group-title="DAZN ESPAÑA🏁",DAZN PVV🏀ACB 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://117.55.203.190:80/play/r_3c71hRvYhjGGTDUiRCKW8CDGdwO2Y_rMbRBxP1YgrZzFtx6BwiVPgsP_pk1dJ5/ts
+
+#EXTINF:0, tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="",group-title="DAZN ESPAÑA🏁",DAZN PVV🏀ACB 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://117.55.203.190:80/play/r_3c71hRvYhjGGTDUiRCKS94aBN5LC5kT5JYXGf-0V9HRobp8pbElcYp8G_TdHJM/ts
+
+#EXTINF:0, tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="",group-title="DAZN ESPAÑA🏁",DAZN PVV🏀ACB 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://117.55.203.190:80/play/r_3c71hRvYhjGGTDUiRCKezD-ShURJvQV2sOBsJgRubYRE6d-bgZrCcVRWUVDVg3/ts
+
+
 
 
 
@@ -2369,6 +2369,7 @@ http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
 EXTINF:-1 tvg-logo=""  tvg-id="",group-title="EVENTOS",SANTANA SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+
 
 
 

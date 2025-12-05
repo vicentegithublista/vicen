@@ -944,10 +944,10 @@ http://117.55.203.190:80/play/r_3c71hRvYhjGGTDUiRCKezD-ShURJvQV2sOBsJgRubYRE6d-b
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" ,group-title="TDT📺",📺LA 1 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=6a54f8fb00406c88f68ac3f3aabc7d084f9573d0
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Onetoro.png" tvg-id="Onetoro",group-title="TDT📺",📺ONETORO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=877eceeaf9f3bd9b392359323d03d0ac3bb27312
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" ,group-title="TDT📺",📺LA 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -961,27 +961,6 @@ https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=f9d2a6d5da8d1f2423a0b6ed0047636a728040e9
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C3yh66tp/cuatro.png" tvg-id="Cuatro HD" ,group-title="TDT📺",📺Cuatro
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=8d66979e705a8b532b9243bbc0862c0f1c734ef0
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/81wJ3GH/telecinco.png" tvg-id="Telecinco HD" ,group-title="TDT📺",📺TELECINCO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=5133d1e8f45095f0b7dabbd78db0ce19a496f7bf
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SX1jhBzy/lasexta.png" tvg-id="La Sexta HD",group-title="TDT📺",📺La Sexta
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=44828a7580cd99fcb36245c327889c47f34b457f
-
-#EXTINF:-1 tvg-logo="" tvg-id="Veo 7",group-title="TDT📺",📺GOL TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=73094658f0a3ed523c0e188de67a7a690c0d4f93
-
-
-#EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" ,group-title="TDT📺",📺Telemadrid
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://new-international-23-secure2.akamaized.net/index.m3u8
-
 
 #EXTINF:-1tvg-logo="https://graph.facebook.com/CanalSurNoticias/picture?width=200&height=200" ,group-title="TDT📺", tvg-name="Canal Sur Más Noticias",📺Canal Sur Más Noticias 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -991,32 +970,24 @@ https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
 
-
-
-#EXTINF:-1,group-title="TDT📺",📺TV3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Originales%20HD.png" tvg-id="M+ Originales HD",group-title="TDT📺",📺MOVISTAR ORIGINALES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=ca20f93ea5d9c15744e48a21b52598b9fce87425
+http://127.0.0.1:6878/ace/getstream?id=096b817fcc836535f608facb15fca6408fae3162
 
-#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Arag%C3%B3n%20TV%20Internacional.png?raw=true" tvg-id="Aragón TV" ,group-title="TDT📺",📺TV ARAGON
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Documentales%20HD.png" tvg-id="M+ Documentales HD",group-title="TDT📺",📺MOVISTAR DOCUMENTALES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=ba4597903f099695e7d6bcc5938f91cb0798006b
+http://127.0.0.1:6878/ace/getstream?id=b3fc9b5647c5933b101c0b6b64322590c68587b9
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Hits.png" tvg-id="M+ Hits HD",group-title="TDT📺",📺MOVISTAR HITS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=50553edb5e8c54d15e0d43161369b3b4cef95065
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Estrenos%20HD.png" tvg-id="M+ Estrenos HD",group-title="TDT📺",📺MOVISTAR ESTRENOS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=192f2ac5b372dfddef694e48edd2d56e308b51e7
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Estrenos%20HD.png" tvg-id="M+ Estrenos HD",group-title="TDT📺",📺MOVISTAR ESTRENOS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=5d35f906b735f25164fa2b9b7a4e6ef91dfed131
 
-#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/M+%20Acci%C3%B3n%20HD.png?raw=true" tvg-id="M+ Acción HD",group-title="TDT📺",📺MOVISTAR ACCION
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=102bcb79ca391e37ac1fc9ee77dc53440d0a59ce
 
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/M+%20Acci%C3%B3n%20HD.png?raw=true" tvg-id="M+ Acción HD",group-title="TDT📺",📺MOVISTAR ACCION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -1026,9 +997,6 @@ http://127.0.0.1:6878/ace/getstream?id=089673779de9fa7a18ac8dc26eb4a79cf5a86f96
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=e4bce95dd4faeb9cb09ade36a0636bc4b22b691c
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JWpf4FcM/clasicos.png" tvg-id="M+ Clásicos HD",group-title="TDT📺",📺MOVISTAR CLASICOS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=cf6ffdfa3c51268c0bd216da6b275fb866160c0c
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWpf4FcM/clasicos.png" tvg-id="M+ Clásicos HD",group-title="TDT📺",📺MOVISTAR CLASICOS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -1054,29 +1022,10 @@ http://127.0.0.1:6878/ace/getstream?id=cf99e99c105162410ec6d1f68cc6f4811560fee7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=7716c9fd5bd4413715e4e26f97efb91802f6ee80
 
-#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/AMC%20HD.png?raw=true" tvg-id="AMC HD",group-title="TDT📺",📺AMC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=55ff9ee631af351f365f51cf3601695bf1fd20f3
 
-#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/AMC%20HD.png?raw=true" tvg-id="AMC HD",group-title="TDT📺",📺DARK
+#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/AMC%20HD.png?raw=true" tvg-id="AMC HD",group-title="TDT📺",📺SOMOS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=25465ea2deba65c623b7659136abf6fcc9f5dc20
-
-#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/SyFy%20HD.png?raw=true" tvg-id="SyFy HD",group-title="TDT📺",📺SyFy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=8e1bbcb6a6b8b9bb0e1144454fda35531107cdb3
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/TEN_2024_Logo.svg/1200px-TEN_2024_Logo.svg.png" tvg-id="Ten",group-title="TDT📺",📺Ten TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=19cab799c86251ae8ae5f4b4faace9b78d784abc
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/TVG%20Europa%20HD.png" tvg-id="TVG Europa HD",group-title="TDT📺",📺TVG EUROPA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=d48b299bbcd811cfd14159224bf5012a305021c1
-
-#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FArchivo%3AXTRM_Espa%25C3%25B1a.png&psig=AOvVaw3MO7LTsUT9-gIyBuLPTnKK&ust=1760139958174000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPiGirimmJADFQAAAAAdAAAAABAE" tvg-id="XTRM",group-title="TDT📺",📺XTRM FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=d7d3830018cfd93c7430c19ba703a053680476a0
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKb6DZpbxOMbN_VANCdenLck4ceg7gxMk5tnkjmM=s200"  ,group-title="TDT📺", tvg-name="Andalucía Cocina",📺Andalucía Cocina 
 #EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
@@ -1105,10 +1054,6 @@ https://multimedia.eitb.eus/live-content/oka1hd-hls/master.m3u8
 #EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" ,group-title="TDT📺",📺ETB EVENTOS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://multimedia.eitb.eus/live-content/oka2hd-hls/master.m3u8
-
-#EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" ,group-title="TDT📺",📺ARAGON TV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://fidel@cartv-streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
 
 
@@ -1305,9 +1250,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aadf373bed30007
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1,group-title="TDT📺",  tvg-id=""📺Stormcast Novelas
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://stormcast-novelas-2-es.rakuten.wurl.tv/playlist.m3u8
+
 
 #EXTINF:-1,group-title="TDT📺",  tvg-id="",📺Zylo Todo Novelas 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -1322,23 +1265,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b4c0671
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acce7f17797000718f9be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1,group-title="TDT📺",📺ENFAMILIA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://world-qualite.xyz:8080/964427789tv/a6861w/236324
-
-#EXTINF:-1,group-title="TDT📺",📺CLAN TVE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://world-qualite.xyz:8080/964427789tv/a6861w/236535
-
-
-#EXTINF:-1,group-title="TDT📺",📺DISNEY JUNIOR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://world-qualite.xyz:8080/964427789tv/a6861w/236525
-
-
-#EXTINF:-1,group-title="TDT📺",📺NICKELODEON
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://world-qualite.xyz:8080/964427789tv/a6861w/236529
 
 
 
@@ -1358,119 +1284,6 @@ http://world-qualite.xyz:8080/964427789tv/a6861w/236529
 
 
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Originales%20HD.png" tvg-id="M+ Originales HD",group-title="ESTILO DE VIDA👨‍👩‍👦‍👦",👨‍👩‍👦‍👦MOVISTAR ORIGINALES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=096b817fcc836535f608facb15fca6408fae3162
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Documentales%20HD.png" tvg-id="M+ Documentales HD",group-title="ESTILO DE VIDA👨‍👩‍👦‍👦",👨‍👩‍👦‍👦MOVISTAR DOCUMENTALES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=b3fc9b5647c5933b101c0b6b64322590c68587b9
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Documentales%20HD.png" tvg-id="M+ Documentales HD",group-title="ESTILO DE VIDA👨‍👩‍👦‍👦",👨‍👩‍👦‍👦MOVISTAR DOCUMENTALES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://world-qualite.xyz:8080/964427789tv/a6861w/236338
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caza%20y%20Pesca%20HD.png" tvg-id="Caza y Pesca HD",group-title="ESTILO DE VIDA👨‍👩‍👦‍👦",👨‍👩‍👦‍👦CAZA Y PESCA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=8b9e46eb3a9b4ef23b7d3d86c73a0851580f8caa
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caza%20y%20Pesca%20HD.png" tvg-id="Caza y Pesca HD",group-title="ESTILO DE VIDA👨‍👩‍👦‍👦",👨‍👩‍👦‍👦CAZA Y PESCA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://world-qualite.xyz:8080/964427789tv/a6861w/236326
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Cocina.png" tvg-id="Canal Cocina",group-title="ESTILO DE VIDA👨‍👩‍👦‍👦",👨‍👩‍👦‍👦CANAL COCINA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=96f092e1fa99062f6da14cae230b877ad3ed849b
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Cocina.png" tvg-id="Canal Cocina",group-title="ESTILO DE VIDA👨‍👩‍👦‍👦",👨‍👩‍👦‍👦CANAL COCINA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://world-qualite.xyz:8080/964427789tv/a6861w/236357
-
-
-#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Be%20Mad%20HD.png?raw=true" tvg-id="Be Mad",group-title="ESTILO DE VIDA👨‍👩‍👦‍👦",👨‍👩‍👦‍👦BeMaD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=6e1b5fd8753352486aa932f802534a17556e1f60
-
-#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Be%20Mad%20HD.png?raw=true" tvg-id="Be Mad",group-title="ESTILO DE VIDA👨‍👩‍👦‍👦",👨‍👩‍👦‍👦BeMaD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://world-qualite.xyz:8080/964427789tv/a6861w/236347
-
-
-#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Be%20Mad%20HD.png?raw=true" tvg-id="Be Mad",group-title="ESTILO DE VIDA👨‍👩‍👦‍👦",👨‍👩‍👦‍👦BeMaD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://world-qualite.xyz:8080/964427789tv/a6861w/236347
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Decasa.png" tvg-id="Decasa",group-title="ESTILO DE VIDA👨‍👩‍👦‍👦",👨‍👩‍👦‍👦DECASA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=155d742120310a0ca80b0c8833d94979aa7f0b08
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Decasa.png" tvg-id="Decasa",group-title="ESTILO DE VIDA👨‍👩‍👦‍👦",👨‍👩‍👦‍👦DECASA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://world-qualite.xyz:8080/964427789tv/a6861w/236339
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Discovery.png" tvg-id="Discovery",group-title="ESTILO DE VIDA👨‍👩‍👦‍👦",👨‍👩‍👦‍👦DISCOVERY CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=670519ffe8db1e20d0c753d4f756c009e71173d8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Discovery.png" tvg-id="Discovery",group-title="ESTILO DE VIDA👨‍👩‍👦‍👦",👨‍👩‍👦‍👦DISCOVERY CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://world-qualite.xyz:8080/964427789tv/a6861w/236369
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Discovery.png" tvg-id="Discovery",group-title="ESTILO DE VIDA👨‍👩‍👦‍👦",👨‍👩‍👦‍👦DISCOVERY CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://world-qualite.xyz:8080/964427789tv/a6861w/236340
-
-#EXTINF:-1 ,group-title="ESTILO DE VIDA👨‍👩‍👦‍👦",👨‍👩‍👦‍👦IBERALIA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://world-qualite.xyz:8080/964427789tv/a6861w/236332
-
-#EXTINF:-1 ,group-title="ESTILO DE VIDA👨‍👩‍👦‍👦",👨‍👩‍👦‍👦IBERALIA 100% PESCA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://world-qualite.xyz:8080/964427789tv/a6861w/236328
-
-#EXTINF:-1 ,group-title="ESTILO DE VIDA👨‍👩‍👦‍👦",👨‍👩‍👦‍👦IBERALIA 100% CAZA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://world-qualite.xyz:8080/964427789tv/a6861w/236330
-
-#EXTINF:-1 ,group-title="ESTILO DE VIDA👨‍👩‍👦‍👦",👨‍👩‍👦‍👦CAZAVISION
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://world-qualite.xyz:8080/964427789tv/a6861w/236320
-
-#EXTINF:-1 ,group-title="ESTILO DE VIDA👨‍👩‍👦‍👦",👨‍👩‍👦‍👦DMAX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://world-qualite.xyz:8080/964427789tv/a6861w/236333
-
-#EXTINF:-1 ,group-title="ESTILO DE VIDA👨‍👩‍👦‍👦",👨‍👩‍👦‍👦ODISEA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://world-qualite.xyz:8080/964427789tv/a6861w/236334
-
-#EXTINF:-1 ,group-title="ESTILO DE VIDA👨‍👩‍👦‍👦",👨‍👩‍👦‍👦HISTORIA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://world-qualite.xyz:8080/964427789tv/a6861w/236342
-
-#EXTINF:-1 ,group-title="ESTILO DE VIDA👨‍👩‍👦‍👦",👨‍👩‍👦‍👦BUEN VIAJE!
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://world-qualite.xyz:8080/964427789tv/a6861w/236353
-
-#EXTINF:-1 ,group-title="ESTILO DE VIDA👨‍👩‍👦‍👦",👨‍👩‍👦‍👦NATIONAL GEOGRAPHIC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://world-qualite.xyz:8080/964427789tv/a6861w/236365
-
-#EXTINF:-1 ,group-title="ESTILO DE VIDA👨‍👩‍👦‍👦",👨‍👩‍👦‍👦NATIONAL GEOGRAPHIC WILD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://world-qualite.xyz:8080/964427789tv/a6861w/236367
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Onetoro.png" tvg-id="Onetoro",group-title="ESTILO DE VIDA👨‍👩‍👦‍👦",👨‍👩‍👦‍👦 ONETORO
-http://127.0.0.1:6878/ace/getstream?id=cd0188292b6b3876ff66c99bd3d25eab88b41079
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Onetoro.png" tvg-id="Onetoro",group-title="ESTILO DE VIDA👨‍👩‍👦‍👦",👨‍👩‍👦‍👦ONETORO
-http://127.0.0.1:6878/ace/getstream?id=877eceeaf9f3bd9b392359323d03d0ac3bb27312
 
 
 
@@ -2460,6 +2273,7 @@ http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
 EXTINF:-1 tvg-logo=""  tvg-id="",group-title="EVENTOS",SANTANA SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+
 
 
 

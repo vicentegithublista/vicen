@@ -2,40 +2,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" refresh="3600"
 #EXTVLCOPT:network-caching=1000
 
-1ª RFEF
-Algeciras - Atlético Madrileño 12:00
-Zamora - Real Madrid Castilla 16:00
-Barakaldo - Avilés 18:15
-Lugo - Tenerife 20:30
-b40212c43e96e97542ea00f2129212a054853a57
-LALIGA HYPERMOTION
-Cádiz - Racing  14:00
-Leganés - Córdoba 16:15
-Deportivo - Castellón 18:30
-Granada - Ceuta 21:00
-Hypermotion 
-8ee52f6208e33706171856f99d2ed2dabd317f3a
-Eibar - Cultural 18:30
-Hypermotion 2
-8a05571c0c8fe53f160fb7d116cdf97243679e86
-LALIGA EA SPORTS
-Elche - Girona 14:00
-Espanyol - Rayo 18:30
-Dzon liga 
-0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
-Valencia - Sevilla 16:15
-Real Madrid - Celta 21:00
-Liga
-31c19ffb3472c289c5bbbbc174449c8ed0d19e38
-PREMIER LEAGUE
-Brighton & Hove Albion - West Ham 15:00
-Fulham - Crystal Palace 17:30
-Dzon 1
-d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-TORNEO CLAUSURA
-Boca - Racing 23:00
-Vmos 
-4e99e755aa32c4bc043a4bb1cd1de35f9bd94dde
 
 
 
@@ -55,7 +21,7 @@ http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD",group-title="AGENDA",14:00 Valencia⚽Sevilla
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD",group-title="AGENDA",16:00 Valencia⚽Sevilla
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 
@@ -2295,6 +2261,7 @@ http://87.255.35.150:18818
 
 #EXTINF:-1 tvg-id="Teledeporte.es@SD" tvg-logo="https://i.imgur.com/b0H5f62.png" group-title="PRUEBA" ,Teledeporte (1080p)
 https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
+
 
 
 

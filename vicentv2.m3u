@@ -66,13 +66,7 @@ http://127.0.0.1:6878/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD",group-title="AGENDA",21:00 Getafe⚽️Español
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD",group-title="AGENDA",,21:00 Getafe⚽️Español
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58
+,21:00 Getafe⚽️Español
 
 
 
@@ -141,7 +135,7 @@ http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=3b5692a70c0d0d1dd23fed31d7886b4aaa64bdaa
 
-
+#EXTINF:-1
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-2-es.png" tvg-id="DAZN LaLiga 2 HD",group-title="LA LIGA⚽",DAZNLaLiga 2⚽️
@@ -2356,6 +2350,7 @@ http://wolfpackmedia.dog:80/Sanders1/Sanders1/199515
 #EXTINF:-1 tvg-logo="http://wfstrmzone.net:80/images/ObjMyBzxShTBhKQURLDoNsr0TyyMVOCI4n8E-_TgxyBRb12iTjkYHlwI_QOt-1Pkg-ziWVj-QHd12jGM3eBkUw.png" ,group-title="INTERNACIONAL🏆",🏆FOX SPORTS PREMIUM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://wolfpackmedia.dog:80/Sanders1/Sanders1/199518
+
 
 
 

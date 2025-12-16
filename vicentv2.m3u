@@ -60,14 +60,6 @@ http://127.0.0.1:6878/ace/getstream?id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Z1Gw82tQ/logo-nba.png",group-title="📆16 Diciembre📆",03:30 Nuggets🏀Rockets
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=217e5f172d4c704c5eec739fed672a53521e8f98
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Z1Gw82tQ/logo-nba.png",group-title="📆16 Diciembre📆",03:30 Nuggets🏀Rockets
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=a5f2161b0cabe910dc866b5abc6efe5d8f41fd7f
-
 
 
 
@@ -944,21 +936,22 @@ https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-ra
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Lh13t8zX/logo-eventos.png" tvg-id="",group-title="DAZN ESPAÑA",PPV DAZN 1 BALONCESTO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lh13t8zX/logo-eventos.png" tvg-id="",group-title="DAZN ESPAÑA",PPV DAZN 1🏀BALONCESTO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=a5f2161b0cabe910dc866b5abc6efe5d8f41fd7f
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Lh13t8zX/logo-eventos.png" tvg-id="",group-title="DAZN ESPAÑA",PPV DAZN 1 BALONCESTO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lh13t8zX/logo-eventos.png" tvg-id="",group-title="DAZN ESPAÑA",PPV DAZN 1🏀BALONCESTO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=217e5f172d4c704c5eec739fed672a53521e8f98
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Lh13t8zX/logo-eventos.png" tvg-id="",group-title="DAZN ESPAÑA",PPV DAZN 2 BALONCESTO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lh13t8zX/logo-eventos.png" tvg-id="",group-title="DAZN ESPAÑA",PPV DAZN 2🏀BALONCESTO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=965b249321adbf3a1459f94c17f624022889fb8d
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Lh13t8zX/logo-eventos.png" tvg-id="",group-title="DAZN ESPAÑA",PPV DAZN 2 BALONCESTO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lh13t8zX/logo-eventos.png" tvg-id="",group-title="DAZN ESPAÑA",PPV DAZN 2🏀BALONCESTO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=965b249321adbf3a1459f94c17f624022889fb8d
+
 
 
 
@@ -1852,6 +1845,7 @@ http://127.0.0.1:6878/ace/getstream?id=35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee
 http://127.0.0.1:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
 #EXTINF:-1 tvg-logo="https://pngimg.com/uploads/ufc/ufc_PNG64.png" tvg-id="" ,group-title="INTERNACIONAL", UFC 
 http://127.0.0.1:6878/ace/getstream?id=d2374e2375a4275738e0dbed2f47d0114ad1cb64
+
 
 
 

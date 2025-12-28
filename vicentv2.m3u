@@ -1824,14 +1824,14 @@ http://127.0.0.1:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg" 
 
 
-
-#EXTINF:-1,group-title="🇪🇺INTERNACIONAL🇪🇺", tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,🏆SPORT 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg",group-title="🇪🇺INTERNACIONAL🇪🇺",🏆SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=acestream://1950633a3723cb52b17c764125decc04445bd5ff
 
-#EXTINF:-1,group-title="🇪🇺INTERNACIONAL🇪🇺", tvg-logo="https://live.staticflickr.com/65535/53977532186_ed6caf7df9_c.jpg" ,🏆SPORT 1+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg",group-title="🇪🇺INTERNACIONAL🇪🇺",🏆SPORT 1+ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=acestream://e61b6538df35e5016635dfa2b3073f5b82ee4c2b
 
@@ -1959,6 +1959,7 @@ http://127.0.0.1:6878/ace/getstream?id=35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg" tvg-id="" ,group-title="🇪🇺INTERNACIONAL🇪🇺", TVP Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
+
 
 
 

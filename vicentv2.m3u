@@ -1494,12 +1494,12 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acce7f
 http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
 
 
-#EXTINF:-1 tvg-logo="https://github.com/vicentegithublista/vicen/blob/88048b4963a5b8df56116bc2f9eccee02b538575/5895deb9cba9841eabab6099.png" tvg-id="" ,group-title="🇺🇸USA🇺🇸",🏈NFL🏈REDZONE
+#EXTINF:-1 tvg-logo="https://github.com/vicentegithublista/vicen/blob/88048b4963a5b8df56116bc2f9eccee02b538575/5895deb9cba9841eabab6099.png" tvg-id="NFL" ,group-title="🇺🇸USA🇺🇸",🏈NFL🏈REDZONE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=21be4fe2052fc66456b4f233428bb40a681bf863
 
 
-#EXTINF:-1 tvg-logo="https://github.com/vicentegithublista/vicen/blob/88048b4963a5b8df56116bc2f9eccee02b538575/5895deb9cba9841eabab6099.png" tvg-id="" ,group-title="🇺🇸USA🇺🇸",🏈NFL🏈NETWORK
+#EXTINF:-1 tvg-logo="https://github.com/vicentegithublista/vicen/blob/88048b4963a5b8df56116bc2f9eccee02b538575/5895deb9cba9841eabab6099.png" tvg-id="NFL" ,group-title="🇺🇸USA🇺🇸",🏈NFL🏈NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=5a71a114fdf460fc90f88b959f83625b964a5d62
 
@@ -2014,6 +2014,7 @@ http://127.0.0.1:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
 
 
 🎶
+
 
 
 

@@ -1444,15 +1444,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acce7f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
 
-#EXTINF:-1, tvg-logo="https://i.ibb.co/Z1Gw82tQ/logo-nba.png",group-title="🇺🇸USA🇺🇸",🏀NBA🏀
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=b0f64a40f333ef5cc02c2b6d4a8c3f4b73dd8073
-
-#EXTINF:-1, tvg-logo="https://i.ibb.co/Z1Gw82tQ/logo-nba.png",group-title="🇺🇸USA🇺🇸",🏀NBA🏀
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=9fcc0140847b1505f00b20c6b16b8205a3dbd8b2&pid=6584
-
-
 
 
 
@@ -1465,13 +1456,12 @@ http://127.0.0.1:6878/ace/getstream?id=5a71a114fdf460fc90f88b959f83625b964a5d62
 http://127.0.0.1:6878/ace/getstream?id=21be4fe2052fc66456b4f233428bb40a681bf863
 
 
+
+
 #EXTINF:-1 tvg-logo="https://logopoppin.com/wp-content/uploads/2021/11/NHL-shield-logo.png" tvg-id="NHL",group-title="🇺🇸USA🇺🇸",🏒NHL🏒
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=14fd4b839fcde795757b79efde9807ccb7adde7a&pid=45614
 
-#EXTINF:-1 tvg-logo="https://logopoppin.com/wp-content/uploads/2021/11/NHL-shield-logo.png" tvg-id="NHL",group-title="🇺🇸USA🇺🇸",🏒NHL🏒
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=14fd4b839fcde795757b79efde9807ccb7adde7a
 
 
 
@@ -1975,6 +1965,7 @@ http://127.0.0.1:6878/ace/getstream?id=35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg" tvg-id="" ,group-title="🇪🇺INTERNACIONAL🇪🇺", TVP Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
+
 
 
 

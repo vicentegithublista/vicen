@@ -1116,7 +1116,9 @@ http://127.0.0.1:6878/ace/getstream?id=f4db7197aa4b9487014ba348fca3f78121ac2cae
 
 
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" ,group-title="TELEVISION",LA 1 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=6a54f8fb00406c88f68ac3f3aabc7d084f9573d0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" ,group-title="TELEVISION",LA 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -1128,19 +1130,27 @@ https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qFgSG92W/antena3.png" tvg-id="Antena 3 HD" ,group-title="TELEVISION",ANTENA 3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://tvhomesmart.xyz:8080/dennisninapaitantv/ly5lku/236483
+http://127.0.0.1:6878/ace/getstream?id=f9d2a6d5da8d1f2423a0b6ed0047636a728040e9
 
 #EXTINF:-1,tvg-logo="https://i.ibb.co/f16y5Tm/C4.png",tvg-id="Cuatro",tvg-name="Cuatro",group-title="TELEVISION",Cuatro 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://tvhomesmart.xyz:8080/dennisninapaitantv/ly5lku/236485
+http://127.0.0.1:6878/ace/getstream?id=8670df538a11c6ec97b3f634981ddc4409ca0333
 
 #EXTINF:-1,tvg-logo="https://i.ibb.co/BzGrr2M/T5.png",tvg-id="Telecinco",tvg-name="Telecinco",group-title="TELEVISION",Telecinco 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://tvhomesmart.xyz:8080/dennisninapaitantv/ly5lku/236487
+http://127.0.0.1:6878/ace/getstream?id=3e7b1911a1f83fd869b6995650a3057778259ca7
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/BzGrr2M/T5.png",tvg-id="Telecinco",tvg-name="Telecinco",group-title="TELEVISION",Telecinco 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=5133d1e8f45095f0b7dabbd78db0ce19a496f7bf
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/BzGrr2M/T5.png",tvg-id="Telecinco",tvg-name="Telecinco",group-title="TELEVISION",Telecinco 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=3d376333ee90d6db3d413fc5764ef635882076f5
 
 #EXTINF:-1,tvg-logo="https://i.ibb.co/txJwjKJ/SEXTA.png",tvg-id="La Sexta",tvg-name="La Sexta",group-title="TELEVISION",La Sexta 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://tvhomesmart.xyz:8080/dennisninapaitantv/ly5lku/236489
+http://127.0.0.1:6878/ace/getstream?id=44828a7580cd99fcb36245c327889c47f34b457f
 
 
 #EXTINF:-1 tvg-id="13.TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200",group-title="TELEVISION",📺TRECE
@@ -1663,6 +1673,36 @@ http://127.0.0.1:6878/ace/getstream?id=6058a4c0f2569bd81c687aa7dfb48b8a9569fb29
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zVNFsy0F/logo-otros.png" tvg-id="Magenta Sport 11",group-title="🇪🇺INTERNACIONAL🇪🇺",🇩🇪Magenta Sport 11🇩🇪
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6
+
+RTL+ SPORT EVENT 1 (DE) --> SPORT TV
+a7319ebd54cb1db9a9db1574929ca8d305a323d3
+RTL+ SPORT EVENT 2 (DE) --> SPORT TV
+e360a96fb4bbe1cb8a7862a6514c4c284eeec466
+RTL+ SPORT EVENT 3 (DE) --> SPORT TV
+8b3c5f9ec938c3d3950bc4c989428d266bd4bd5b
+RTL+ SPORT EVENT 4 (DE) --> SPORT TV
+784da1ced871f6d3f6bf25f29664bfd39f6130a6
+RTL+ SPORT EVENT 5 (DE) --> SPORT TV
+81284e9a279ee23cbc4a7400bd9531f127d20fe5
+RTL+ SPORT EVENT 6 (DE) --> SPORT TV
+c065ab169f75ced1d34fbcab6b84a5fa4ca73e30
+RTL+ SPORT EVENT 7 (DE) --> SPORT TV
+eec3f8107e008cec3679f76e078deeefd1348a3e
+RTL+ SPORT EVENT 8 (DE) --> SPORT TV
+ce4ae0c3491acd4272340029139ba25642e2516b
+RTL+ SPORT EVENT 9 (DE) --> SPORT TV
+a435581e6cba56972e48cf4519d1b2af735eec2f
+RTL+ SPORT EVENT 10 (DE) --> SPORT TV
+e6cce13cb4005ec3c7d77db47865385927a7ab7e
+
+
+
+
+
+
+
+
+
 
 
 
@@ -4876,6 +4916,7 @@ http://pgreatgre.top:8080/movie/8081741587940693/e94f6d1cfba3/36684.mkv
 http://pgreatgre.top:8080/movie/8081741587940693/e94f6d1cfba3/36685.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bad Boys for Life (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXYARspjKpwN9vAOp2F9MF3NWa1.jpg" ,group-title="PELICULAS",Bad Boys for Life (2020)
 http://pgreatgre.top:8080/movie/8081741587940693/e94f6d1cfba3/36686.mp4
+
 
 
 

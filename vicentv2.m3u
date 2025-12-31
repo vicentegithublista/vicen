@@ -1118,21 +1118,29 @@ http://127.0.0.1:6878/ace/getstream?id=f4db7197aa4b9487014ba348fca3f78121ac2cae
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" ,group-title="TELEVISION",📺LA 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" ,group-title="TELEVISION",LA 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://d2jws8nf49xuk0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ikffw175xm6u/La1ES.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YFzzqWw5/la2.png" tvg-id="La 2" ,group-title="TELEVISION",📺LA 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YFzzqWw5/la2.png" tvg-id="La 2" ,group-title="TELEVISION",LA 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qFgSG92W/antena3.png" tvg-id="Antena 3 HD" ,group-title="TELEVISION",📺ANTENA 3 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qFgSG92W/antena3.png" tvg-id="Antena 3 HD" ,group-title="TELEVISION",ANTENA 3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=f9d2a6d5da8d1f2423a0b6ed0047636a728040e9
+http://tvhomesmart.xyz:8080/dennisninapaitantv/ly5lku/236483
 
+#EXTINF:-1,tvg-logo="https://i.ibb.co/f16y5Tm/C4.png",tvg-id="Cuatro",tvg-name="Cuatro",group-title="TELEVISION",Cuatro 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://tvhomesmart.xyz:8080/dennisninapaitantv/ly5lku/236485
 
+#EXTINF:-1,tvg-logo="https://i.ibb.co/BzGrr2M/T5.png",tvg-id="Telecinco",tvg-name="Telecinco",group-title="TELEVISION",Telecinco 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://tvhomesmart.xyz:8080/dennisninapaitantv/ly5lku/236487
 
+#EXTINF:-1,tvg-logo="https://i.ibb.co/txJwjKJ/SEXTA.png",tvg-id="La Sexta",tvg-name="La Sexta",group-title="TELEVISION",La Sexta 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://tvhomesmart.xyz:8080/dennisninapaitantv/ly5lku/236489
 
 
 #EXTINF:-1 tvg-id="13.TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200",group-title="TELEVISION",📺TRECE
@@ -4868,6 +4876,7 @@ http://pgreatgre.top:8080/movie/8081741587940693/e94f6d1cfba3/36684.mkv
 http://pgreatgre.top:8080/movie/8081741587940693/e94f6d1cfba3/36685.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bad Boys for Life (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXYARspjKpwN9vAOp2F9MF3NWa1.jpg" ,group-title="PELICULAS",Bad Boys for Life (2020)
 http://pgreatgre.top:8080/movie/8081741587940693/e94f6d1cfba3/36686.mp4
+
 
 
 

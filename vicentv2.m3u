@@ -1700,7 +1700,7 @@ http://127.0.0.1:6878/ace/getstream?id=7993cecc31917793e2bfa2fe98faa9fe1ab62d47&
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=501141c649a2b78c4965cbf3257224181cc55072
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zVNFsy0F/logo-otros.png" tvg-id="Magenta Sport 2", group-title="🇪🇺INTERNACIONAL🇪🇺",🇩🇪Magenta Sport 2🇩🇪
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zVNFsy0F/logo-otros.png"  tvg-id="Magenta Sport 1",group-title="INTERNACIONAL",🇩🇪Magenta Sport 2🇩🇪
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=ab0d54995bdcea2d8f9f588ef631ebbfb3f5a9ab
 
@@ -1833,11 +1833,11 @@ http://127.0.0.1:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
 
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Sky%20Sport%20Premier League.png",tvg-id="Sky Sport Football"group-title="🇪🇺INTERNACIONAL🇪🇺",🇬🇧SKY SPORTS MAIN EVENT🇬🇧
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Sky%20Sport%20Premier League.png",tvg-id="Sky Sport Football",group-title="INTERNACIONAL",🇬🇧SKY SPORTS MAIN EVENT🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Sky%20Sport%20Premier League.png",tvg-id="Sky Sport Football"group-title="🇪🇺INTERNACIONAL🇪🇺",🇬🇧SKY SPORTS MAIN EVENT🇬🇧
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Sky%20Sport%20Premier League.png",tvg-id="Sky Sport Football",group-title="INTERNACIONAL",🇬🇧SKY SPORTS MAIN EVENT🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 
@@ -1973,7 +1973,7 @@ http://127.0.0.1:6878/ace/getstream?id=acestream://1950633a3723cb52b17c764125dec
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=acestream://e61b6538df35e5016635dfa2b3073f5b82ee4c2b
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zVNFsy0F/logo-otros.png",group-title="🇪🇺INTERNACIONAL🇪🇺" ,🏎🏍 MOTORVISION
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zVNFsy0F/logo-otros.png",group-title="INTERNACIONAL",MOTORVISION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=acestream://acd7e3ae185a376e6596e60a414bebbf3321b37f
 
@@ -8487,6 +8487,7 @@ http://pgreatgre.top:8080/series/8081741587940693/e94f6d1cfba3/38524.mp4
 http://pgreatgre.top:8080/series/8081741587940693/e94f6d1cfba3/38525.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Demasiado viejo para morir joven S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jgoWLkCIsdRdKSo0mAnAWGBhSd0.jpg" ,group-title="🎞️SERIES🎞️",Demasiado viejo para morir joven S01 E10
 http://pgreatgre.top:8080/series/8081741587940693/e94f6d1cfba3/38526.mp4
+
 
 
 

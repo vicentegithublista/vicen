@@ -28,6 +28,7 @@
 #EXTGRP: group-title="NFL" group-logo="https://github.com/vicentegithublista/vicen/blob/88048b4963a5b8df56116bc2f9eccee02b538575/5895deb9cba9841eabab6099.png"
 #EXTGRP: group-title="PREMIER" group-logo="https://www.pngmart.com/files/23/Premier-League-Logo-PNG.png"
 #EXTGRP: group-title="EUROLIGA" group-logo="https://vectorportal.com/storage/euroleague-basketball-vector-logo_12430.jpg"
+#EXTGRP: group-title="DAKAR" group-logo="https://cdn.freebiesupply.com/logos/large/2x/dakar-rally-1-logo-png-transparent.png"
 
 
 
@@ -39,8 +40,7 @@
 
 
 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD",group-title="➡️05/12/2025⬅️",⚽Egipto-Benin            17:00
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD",group-title="➡️05/12/2025⬅️",⚽Egipto-Benin                 17:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
 
@@ -55,7 +55,7 @@ http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte",group-title="➡️05/12/2025⬅️",🏎️Dakar           21:00
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/dakar-rally-1-logo-png-transparent.png" tvg-id="Teledeporte",group-title="➡️05/12/2025⬅️",🏁Dakar                                                     21:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
 
@@ -8330,6 +8330,7 @@ http://pgreatgre.top:8080/series/8081741587940693/e94f6d1cfba3/38515.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jack Ryan S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ASTHPt5T9wXtHn6K763YQqX2HF.jpg" ,group-title="🎞️SERIES🎞️",Jack Ryan S02 E08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://pgreatgre.top:8080/series/8081741587940693/e94f6d1cfba3/38516.mp4
+
 
 
 

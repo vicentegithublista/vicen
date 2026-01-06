@@ -34,45 +34,6 @@
 
 
 
-⚽️ Fútbol - 17:00
-🏆 COPA DE AFRICA
-🆚 Argelia - RD Congo
-🖥 Movistar Plus+
-
-⚽️ Fútbol - 19:00
-🏆 COPA DEL REY
-🆚 Granada - Rayo
-🖥 M+ LALIGA
-
-🏀 Baloncesto - 19:00
-🏆 EUROCUP
-🆚 BAXI Manresa - Aris Thesalonica
-🖥 M+ Vamos
-
-🏀 Baloncesto - 20:00
-🏆 EUROLIGA
-🆚 Estrella Roja - Valencia
-🖥 M+ Deportes 3
-
-🏀 Baloncesto - 20:00
-🏆 EUROLIGA
-🆚 ASVEL - Real Madrid
-🖥 M+ Deportes
-
-⚽️ Fútbol - 20:00
-🏆 COPA DE AFRICA
-🆚 Costa de Marfil - Burkina Faso
-🖥 M+ Liga de Campeones
-
-🏀 Baloncesto - 20:30
-🏆 EUROLIGA
-🆚 Barcelona - Maccabi
-🖥 Movistar Plus+
-
-🏎️ Motor - 21:00
-🏆 DAKAR
-🆚 Al-Ula-Al-Ula, 422.0 km
-🖥 Teledeporte
 
 
 
@@ -82,27 +43,73 @@
 
 
 
-#EXTINF:-1 tvg-logo="" tvg-id="M+ Liga de Campeones HD",group-title="➡️06/12/2025⬅️",⚽Egipto-Benin                 17:00
+
+
+#EXTINF:-1 tvg-logo="" tvg-id="M+ Liga de Campeones HD",group-title="➡️06/12/2025⬅️",⚽Argelia-Congo                 17:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
 
 
+#EXTINF:-1 tvg-logo="" tvg-id="M+ LaLiga HD",group-title="➡️06/12/2025⬅️",⚽Granada-Rayo                 19:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
+
+
+#EXTINF:-1 tvg-logo="" tvg-id="M+ Vamos HD",group-title="➡️06/12/2025⬅️",🏀Manresa-Aris                 19:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=2940120bf034db79a7f5849846ccea0255172eae
 
 
 
+#EXTINF:-1 tvg-logo="" tvg-id="M+ Deportes HD",group-title="➡️06/12/2025⬅️",🏀ASVEL-R.Madrid                 20:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
 
 
 
+#EXTINF:-1 tvg-logo="" tvg-id="M.Deportes3.es",group-title="➡️06/12/2025⬅️",🏀E.Roja-Valencia                 20:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=29d786d72d4b53dbc333af3a50f8fb021aa0296f
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte",group-title="➡️05/12/2025⬅️",🏁Dakar                                                     21:00
+#EXTINF:-1 tvg-logo="" tvg-id="M+ Liga de Campeones HD",group-title="➡️06/12/2025⬅️",⚽C.Marfil-Burkina                 20:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
+
+
+#EXTINF:-1 tvg-logo="" tvg-id="Movistar Plus+ HD",group-title="➡️06/12/2025⬅️",🏀Barcelona-Maccabi                 20:30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464
+
+
+
+#EXTINF:-1 tvg-logo="" tvg-id="Teledeporte",group-title="➡️06/12/2025⬅️",🏁Dakar                                                     21:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="",group-title="➡️05/12/2025⬅️",🏁F1 LA PELICULA🏁
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="",group-title="➡️06/12/2025⬅️",🏁F1 LA PELICULA🏁
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=c721e48a18324928224baa9f19d3bd50acc42daf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -563,7 +570,6 @@ http://127.0.0.1:6878/ace/getstream?id=4e99e755aa32c4bc043a4bb1cd1de35f9bd94dde
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" ,group-title="M. DEPORTES",🏆M.VAMOS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=0e5d8c9724fa9163f49096b70484e315251eb785
-
 
 
 
@@ -8319,6 +8325,7 @@ http://pgreatgre.top:8080/series/8081741587940693/e94f6d1cfba3/38515.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jack Ryan S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ASTHPt5T9wXtHn6K763YQqX2HF.jpg" ,group-title="🎞️SERIES🎞️",Jack Ryan S02 E08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://pgreatgre.top:8080/series/8081741587940693/e94f6d1cfba3/38516.mp4
+
 
 
 

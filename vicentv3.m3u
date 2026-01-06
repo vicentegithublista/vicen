@@ -1,11 +1,11 @@
  
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" refresh="3600"
-#EXTVLCOPT:network-caching=1000
 
 
 
 #EXTINF:-1,tvg-id="La Sexta"group-title="TELEVISION",La Sexta 
 http://127.0.0.1:6878/ace/getstream?id=bd38dba903a3d627fb053c9d907b1635a52fba3b
+
 
 
 

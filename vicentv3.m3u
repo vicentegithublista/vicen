@@ -1,195 +1,361 @@
- 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" refresh="3600"
-#EXTVLCOPT:network-caching=1000
 
 
-
-#EXTGRP: group-title="1RFEF" group-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es"
-#EXTGRP: group-title="BUNDESLIGA" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/180px-Bundesliga_logo_%282017%29.svg.png"
-#EXTGRP: group-title="DAZN" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png"
-#EXTGRP: group-title="DEPORTES" group-logo="https://i.ibb.co/6JGvLDWx/deportes-logo.png"
-#EXTGRP: group-title="EUROSPORT" group-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo.png"
-#EXTGRP: group-title="EVENTOS" group-logo="https://i.ibb.co/Lh13t8zX/logo-eventos.png"
-#EXTGRP: group-title="FORMULA 1" group-logo="https://i.ibb.co/2Ndmtbp/f1.png"
-#EXTGRP: group-title="FUTBOL INT" group-logo="https://i.ibb.co/8nvKsJwL/logo-futbol-internacional.png"
-#EXTGRP: group-title="HYPERMOTION" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/2335px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png"
-#EXTGRP: group-title="LA LIGA" group-logo="https://i.ibb.co/sp6dD8h2/laliga-logo.png"
-#EXTGRP: group-title="LIGA DE CAMPEONES" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/2560px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png"
-#EXTGRP: group-title="LIGA ENDESA" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Liga_Endesa_2019_logo.svg/1200px-Liga_Endesa_2019_logo.svg.png"
-#EXTGRP: group-title="MOTOR" group-logo="https://i.ibb.co/tTrS7848/logo-motor.png"
-#EXTGRP: group-title="MOVISTAR" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png"
-#EXTGRP: group-title="MOVISTAR DEPORTES" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/2560px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png"
-#EXTGRP: group-title="NBA" group-logo="https://i.ibb.co/Z1Gw82tQ/logo-nba.png"
-#EXTGRP: group-title="OTROS" group-logo="https://i.ibb.co/zVNFsy0F/logo-otros.png"
-#EXTGRP: group-title="SPORT TV" group-logo="https://i.ibb.co/WpVvrFT6/logo-sport-tv.png"
-#EXTGRP: group-title="TDT" group-logo="https://i.ibb.co/j9xn42jB/logo-tdt.png"
-#EXTGRP: group-title="TENNIS" group-logo="https://i.ibb.co/ynMKPMw2/logo-tennis.png"
-#EXTGRP: group-title="UFC" group-logo="https://pngimg.com/uploads/ufc/ufc_PNG64.png"
-#EXTGRP: group-title="NFL" group-logo="https://github.com/vicentegithublista/vicen/blob/88048b4963a5b8df56116bc2f9eccee02b538575/5895deb9cba9841eabab6099.png"
-#EXTGRP: group-title="PREMIER" group-logo="https://www.pngmart.com/files/23/Premier-League-Logo-PNG.png"
-#EXTGRP: group-title="EUROLIGA" group-logo="https://vectorportal.com/storage/euroleague-basketball-vector-logo_12430.jpg"
-
-
-
-
-#EXTINF:-1 group-title="F1 Formula " tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" ,F1TV: F1-TV FHD
-http://xxip9.top:8080/KFD8Wv/274022/125947
-#EXTINF:-1 group-title="F1 Formula " tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" ,F1TV: Data
-http://xxip9.top:8080/KFD8Wv/274022/135044
-#EXTINF:-1 group-title="F1 Formula " tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" ,F1TV: Pit Lane
-http://xxip9.top:8080/KFD8Wv/274022/135045
-#EXTINF:-1 group-title="F1 Formula " tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" ,F1TV: Tracker
-http://xxip9.top:8080/KFD8Wv/274022/135046
-#EXTINF:-1 group-title="F1 Formula " tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" ,F1TV: Fernando Alonso Helmet Camera
-http://xxip9.top:8080/KFD8Wv/274022/135047
-#EXTINF:-1 group-title="F1 Formula " tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" ,F1TV: Valtteri Bottas Helmet Camera
-http://xxip9.top:8080/KFD8Wv/274022/135048
-#EXTINF:-1 group-title="F1 Formula " tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" ,F1TV: Pierre Gasly Helmet Camera
-http://xxip9.top:8080/KFD8Wv/274022/135049
-#EXTINF:-1 group-title="F1 Formula " tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" ,F1TV: Antonio Giovinazzi Helmet Camera
-http://xxip9.top:8080/KFD8Wv/274022/135050
-#EXTINF:-1 group-title="F1 Formula " tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" ,F1TV: Lewis Hamilton Helmet Camera
-http://xxip9.top:8080/KFD8Wv/274022/135051
-#EXTINF:-1 group-title="F1 Formula " tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" ,F1TV: Nicholas Latifi Helmet Camera
-http://xxip9.top:8080/KFD8Wv/274022/135052
-#EXTINF:-1 group-title="F1 Formula " tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" ,F1TV: Charles Leclerc Helmet Camera
-http://xxip9.top:8080/KFD8Wv/274022/135053
-#EXTINF:-1 group-title="F1 Formula " tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" ,F1TV: Nikita Mazepin Helmet Camera
-http://xxip9.top:8080/KFD8Wv/274022/135054
-#EXTINF:-1 group-title="F1 Formula " tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" ,F1TV: Mick Schumacher Helmet Camera
-http://xxip9.top:8080/KFD8Wv/274022/135055
-#EXTINF:-1 group-title="F1 Formula " tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" ,F1TV: Lando Norris Helmet Camera
-http://xxip9.top:8080/KFD8Wv/274022/135056
-#EXTINF:-1 group-title="F1 Formula " tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" ,F1TV: Esteban Ocon Helmet Camera
-http://xxip9.top:8080/KFD8Wv/274022/135057
-#EXTINF:-1 group-title="F1 Formula " tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" ,F1TV: Sergio Perez Helmet Camera
-http://xxip9.top:8080/KFD8Wv/274022/135058
-#EXTINF:-1 group-title="F1 Formula " tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" ,F1TV: Kimi Raikkonen Helmet Camera
-http://xxip9.top:8080/KFD8Wv/274022/135059
-#EXTINF:-1 group-title="F1 Formula " tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" ,F1TV: Daniel Ricciardo Helmet Camera
-http://xxip9.top:8080/KFD8Wv/274022/135060
-#EXTINF:-1 group-title="F1 Formula " tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" ,F1TV: George Russell Helmet Camera
-http://xxip9.top:8080/KFD8Wv/274022/135061
-#EXTINF:-1 group-title="F1 Formula " tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" ,F1TV: Carlos Sainz Helmet Camera
-http://xxip9.top:8080/KFD8Wv/274022/135062
-#EXTINF:-1 group-title="F1 Formula " tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" ,F1TV: Lance Stroll Helmet Camera
-http://xxip9.top:8080/KFD8Wv/274022/135063
-#EXTINF:-1 group-title="F1 Formula " tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" ,F1TV: Yuki Tsunoda Helmet Camera
-http://xxip9.top:8080/KFD8Wv/274022/135064
-#EXTINF:-1 group-title="F1 Formula " tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" ,F1TV: Max Verstappen Helmet Camera
-http://xxip9.top:8080/KFD8Wv/274022/135065
-#EXTINF:-1 group-title="F1 Formula " tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" ,F1TV: Sebastian Vettel Helmet Camera
-http://xxip9.top:8080/KFD8Wv/274022/135066
-#EXTINF:-1 group-title="MLB" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fmlb.png" tvg-id="mlb.network.us" ,MLB Network
-http://xxip9.top:8080/KFD8Wv/274022/21360
-#EXTINF:-1 group-title="MLB" ,MLB Strike Zone
-http://xxip9.top:8080/KFD8Wv/274022/65699
-#EXTINF:-1 group-title="NBA" tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" ,CA-NBA TV
-http://xxip9.top:8080/KFD8Wv/274022/22995
-#EXTINF:-1 group-title="NBA" tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" tvg-id="a3cine.us" ,USA: NBA TV
-http://xxip9.top:8080/KFD8Wv/274022/20073
-#EXTINF:-1 group-title="NBA" ,NBA 01: New York Knicks @ Detroit Pistons | Home Stream | 01/05/2026 7:00 PM ET
-http://xxip9.top:8080/KFD8Wv/274022/258593
-#EXTINF:-1 group-title="NBA" ,USA Real NBA 01: New York Knicks vs Detroit Pistons @ 07:00 PM EST
-http://xxip9.top:8080/KFD8Wv/274022/258594
-#EXTINF:-1 group-title="NBA" ,NBA 02: New York Knicks @ Detroit Pistons | Away Stream | 01/05/2026 7:00 PM ET
-http://xxip9.top:8080/KFD8Wv/274022/258595
-#EXTINF:-1 group-title="NBA" ,USA Real NBA 02: Chicago Bulls vs Boston Celtics @ 07:30 PM EST
-http://xxip9.top:8080/KFD8Wv/274022/258596
-#EXTINF:-1 group-title="NBA" ,NBA 03: Atlanta Hawks @ Toronto Raptors | Home Stream | 01/05/2026 7:30 PM ET
-http://xxip9.top:8080/KFD8Wv/274022/258597
-#EXTINF:-1 group-title="NBA" ,USA Real NBA 03: Atlanta Hawks vs Toronto Raptors @ 07:30 PM EST
-http://xxip9.top:8080/KFD8Wv/274022/258598
-#EXTINF:-1 group-title="NBA" ,NBA 04: Atlanta Hawks @ Toronto Raptors | Away Stream | 01/05/2026 7:30 PM ET
-http://xxip9.top:8080/KFD8Wv/274022/258599
-#EXTINF:-1 group-title="NBA" ,USA Real NBA 04: Phoenix Suns vs Houston Rockets @ 08:00 PM EST
-http://xxip9.top:8080/KFD8Wv/274022/258600
-#EXTINF:-1 group-title="NBA" ,NBA 05: Chicago Bulls @ Boston Celtics | Home Stream | 01/05/2026 7:30 PM ET
-http://xxip9.top:8080/KFD8Wv/274022/258601
-#EXTINF:-1 group-title="NBA" ,USA Real NBA 05: Charlotte Hornets vs Oklahoma City Thunder @ 08:00 PM EST
-http://xxip9.top:8080/KFD8Wv/274022/258602
-#EXTINF:-1 group-title="NBA" ,NBA 06: Chicago Bulls @ Boston Celtics | Away Stream | 01/05/2026 7:30 PM ET
-http://xxip9.top:8080/KFD8Wv/274022/258603
-#EXTINF:-1 group-title="NBA" ,USA Real NBA 06: Denver Nuggets vs Philadelphia 76ers @ 08:30 PM EST
-http://xxip9.top:8080/KFD8Wv/274022/258604
-#EXTINF:-1 group-title="NBA" ,NBA 07: Charlotte Hornets @ Oklahoma City Thunder | Home Stream | 01/05/2026 8:00 PM ET
-http://xxip9.top:8080/KFD8Wv/274022/258605
-#EXTINF:-1 group-title="NBA" ,USA Real NBA 07: Golden State Warriors vs LA Clippers @ 10:00 PM EST
-http://xxip9.top:8080/KFD8Wv/274022/258606
-#EXTINF:-1 group-title="NBA" ,NBA 08: Charlotte Hornets @ Oklahoma City Thunder | Away Stream | 01/05/2026 8:00 PM ET
-http://xxip9.top:8080/KFD8Wv/274022/258607
-#EXTINF:-1 group-title="NBA" ,USA Real NBA 08: Utah Jazz vs Portland Trail Blazers @ 10:00 PM EST
-http://xxip9.top:8080/KFD8Wv/274022/258608
-#EXTINF:-1 group-title="NBA" ,NBA 09: Phoenix Suns @ Houston Rockets | Home Stream | 01/05/2026 8:00 PM ET
-http://xxip9.top:8080/KFD8Wv/274022/258609
-#EXTINF:-1 group-title="NBA" ,NBA 10: Phoenix Suns @ Houston Rockets | Away Stream | 01/05/2026 8:00 PM ET
-http://xxip9.top:8080/KFD8Wv/274022/258610
-#EXTINF:-1 group-title="NBA" ,NBA 11: Utah Jazz @ Portland Trail Blazers | Home Stream | 01/05/2026 10:00 PM ET
-http://xxip9.top:8080/KFD8Wv/274022/258611
-#EXTINF:-1 group-title="NBA" ,NBA 12: Utah Jazz @ Portland Trail Blazers | Away Stream | 01/05/2026 10:00 PM ET
-http://xxip9.top:8080/KFD8Wv/274022/258612
-#EXTINF:-1 group-title="NHL" tvg-id="nhlnetwork.us" ,US NHL Network
-http://xxip9.top:8080/KFD8Wv/274022/253636
-#EXTINF:-1 group-title="NHL" ,USA Real NHL 01: UTA VS NYR (MSG Feed ) @ 7:00 pm
-http://xxip9.top:8080/KFD8Wv/274022/258613
-#EXTINF:-1 group-title="NHL" ,USA Real NHL 02: DET VS OTT (Prime Feed ) @ 7:30 pm
-http://xxip9.top:8080/KFD8Wv/274022/258614
-#EXTINF:-1 group-title="NHL" ,USA Real NHL 03: DET VS OTT (TVAS Feed ) @ 7:30 pm
-http://xxip9.top:8080/KFD8Wv/274022/258615
-#EXTINF:-1 group-title="NHL" ,USA Real NHL 04: SEA VS CGY (SNW Feed ) @ 9:30 pm
-http://xxip9.top:8080/KFD8Wv/274022/258616
-#EXTINF:-1 group-title="NHL" ,USA Real NHL 05: Anaheim Ducksxx vs Washington Capitals @ 07:00 PM
-http://xxip9.top:8080/KFD8Wv/274022/258617
-#EXTINF:-1 group-title="NHL" ,USA Real NHL 06: Minnesota Wild vs Los Angeles Kings @ 10:30 PM
-http://xxip9.top:8080/KFD8Wv/274022/258618
-#EXTINF:-1 group-title="NFL" tvg-logo="https://i.dlpng.com/static/png/5438735-nfl-team-logos-transparent-png-history-logos-lists-brands-nfl-logo-png-300_300_preview.png" ,US NFL Network 
-http://xxip9.top:8080/KFD8Wv/274022/83724
-#EXTINF:-1 group-title="NFL" ,USA: NFL NETWORK (1)
-http://xxip9.top:8080/KFD8Wv/274022/159091
-#EXTINF:-1 group-title="NFL" ,USA: NFL NETWORK (2)
-http://xxip9.top:8080/KFD8Wv/274022/159117
-#EXTINF:-1 group-title="NFL" ,USA: NFL REDZONE
-http://xxip9.top:8080/KFD8Wv/274022/159118
-#EXTINF:-1 group-title="NFL" ,USA: NFL REDZONE (2)
-http://xxip9.top:8080/KFD8Wv/274022/159119
-#EXTINF:-1 group-title="NFL" ,NFL REDZONE (US)
-http://xxip9.top:8080/KFD8Wv/274022/159120
-#EXTINF:-1 group-title="NFL" ,USA | NFL REDZONE 3
-http://xxip9.top:8080/KFD8Wv/274022/208830
-#EXTINF:-1 group-title="NFL" ,USA | NFL 
-http://xxip9.top:8080/KFD8Wv/274022/208896
-#EXTINF:-1 group-title="NFL" ,NFL 01: New Orleans Saints vs Atlanta Falcons 1pm
-http://xxip9.top:8080/KFD8Wv/274022/252010
-#EXTINF:-1 group-title="NFL" ,NFL 02: Cleveland Browns vs Cincinnati Bengals 1pm
-http://xxip9.top:8080/KFD8Wv/274022/252011
-#EXTINF:-1 group-title="NFL" ,NFL 03: Indianapolis Colts vs Houston Texans @ 01:00 PM EST
-http://xxip9.top:8080/KFD8Wv/274022/252012
-#EXTINF:-1 group-title="NFL" ,NFL 04: Tennessee Titans vs Jacksonville Jaguars 1pm
-http://xxip9.top:8080/KFD8Wv/274022/252013
-#EXTINF:-1 group-title="NFL" ,NFL 05: Green Bay Packers vs Minnesota Vikings @ 01:00 PM EST
-http://xxip9.top:8080/KFD8Wv/274022/252014
-#EXTINF:-1 group-title="NFL" ,NFL 06:  
-http://xxip9.top:8080/KFD8Wv/274022/252015
-#EXTINF:-1 group-title="NFL" ,NFL 07: 
-http://xxip9.top:8080/KFD8Wv/274022/252016
-#EXTINF:-1 group-title="NFL" ,NFL 08:
-http://xxip9.top:8080/KFD8Wv/274022/252017
-#EXTINF:-1 group-title="NFL" ,NFL 09: 
-http://xxip9.top:8080/KFD8Wv/274022/252018
-#EXTINF:-1 group-title="NFL" ,NFL 10: 
-http://xxip9.top:8080/KFD8Wv/274022/252019
-#EXTINF:-1 group-title="NFL" ,NFL 11: 
-http://xxip9.top:8080/KFD8Wv/274022/252020
-#EXTINF:-1 group-title="NFL" ,NFL 12: 
-http://xxip9.top:8080/KFD8Wv/274022/252021
-#EXTINF:-1 group-title="NFL" ,NFL 13: 
-http://xxip9.top:8080/KFD8Wv/274022/252022
-#EXTINF:-1 group-title="NFL" ,NFL 14: 
-http://xxip9.top:8080/KFD8Wv/274022/253677
-#EXTINF:-1 group-title="NFL" ,NFL 15: 
-http://xxip9.top:8080/KFD8Wv/274022/253678
-
-
+{
+  "generated": "2026-01-06T13:13:16Z",
+  "count": 50,
+  "hashes": [
+    {
+      "title": "La Sexta",
+      "hash": "bd38dba903a3d627fb053c9d907b1635a52fba3b",
+      "group": "TDT",
+      "logo": "https://i.ibb.co/SX1jhBzy/lasexta.png",
+      "tvg_id": "La Sexta HD"
+    },
+    {
+      "title": "M+ Deportes 1080p",
+      "hash": "ebca4a63ce3bfda7b272964a1acc5227218184a4",
+      "group": "MOVISTAR DEPORTES",
+      "logo": "https://i.ibb.co/CV4CLjz/deportes.png",
+      "tvg_id": "M+ Deportes HD"
+    },
+    {
+      "title": "DAZN 1",
+      "hash": "7ba1f321f4d0791b7ebd42f41a07c1cd1479e784",
+      "group": "DAZN",
+      "logo": "https://i.ibb.co/FVzKq1y/dazn1.png",
+      "tvg_id": "DAZN 1 HD"
+    },
+    {
+      "title": "M+ Liga de Campeones 5 1080p",
+      "hash": "5620c0ce3dcbf14a6375cb2c2d681207f45eb97d",
+      "group": "LIGA DE CAMPEONES",
+      "logo": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png",
+      "tvg_id": "M+ Liga de Campeones 5"
+    },
+    {
+      "title": "LaLiga TV Hypermotion",
+      "hash": "16598735f228c6dff542125d0e308150b50fc715",
+      "group": "HYPERMOTION",
+      "logo": "https://i.ibb.co/CBdGc9f/hypermotion1.png",
+      "tvg_id": "LaLiga TV Hypermotion HD"
+    },
+    {
+      "title": "LaLiga TV Hypermotion 1080p",
+      "hash": "87bb542f974b6b9e89d0f2e20ed6dc93426f4be0",
+      "group": "HYPERMOTION",
+      "logo": "https://i.ibb.co/CBdGc9f/hypermotion1.png",
+      "tvg_id": "LaLiga TV Hypermotion HD"
+    },
+    {
+      "title": "DAZN LaLiga 1080p",
+      "hash": "e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05",
+      "group": "LA LIGA",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png",
+      "tvg_id": "DAZN LaLiga HD"
+    },
+    {
+      "title": "Eurosport 1 720p",
+      "hash": "a7b42f9d65636d1b1d9316d3e91ebe12b192658c",
+      "group": "EUROSPORT",
+      "logo": "https://i.ibb.co/r2Yd7xD/euro1.png",
+      "tvg_id": "Eurosport 1 HD"
+    },
+    {
+      "title": "DAZN LIGA FINETWORK 3",
+      "hash": "ede6ddb2d19bbd8b84614dc272549e4ad008e3d7",
+      "group": "LA LIGA",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-3-es.png",
+      "tvg_id": "DAZN LaLiga 3 HD"
+    },
+    {
+      "title": "M+ Ellas Vamos",
+      "hash": "b2ee974d9cd40f2f251656cf5cb9a7a93ed05e97",
+      "group": "MOVISTAR DEPORTES",
+      "logo": "https://i.ibb.co/rx9hnHz/ellas.png",
+      "tvg_id": "M+ Ellas Vamos HD"
+    },
+    {
+      "title": "M+ Liga de Campeones 3 720p",
+      "hash": "cfc371890bfb502737a26de5215e50929c52d0f9",
+      "group": "LIGA DE CAMPEONES",
+      "logo": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png",
+      "tvg_id": "M+ Liga de Campeones 3 HD"
+    },
+    {
+      "title": "M+ Liga de Campeones 720p",
+      "hash": "b028202ff335911db3118bceac027df3e8ef6c32",
+      "group": "LIGA DE CAMPEONES",
+      "logo": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png",
+      "tvg_id": "M+ Liga de Campeones HD"
+    },
+    {
+      "title": "M+ Deportes 2 1080p",
+      "hash": "f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0",
+      "group": "MOVISTAR DEPORTES",
+      "logo": "https://i.ibb.co/q95fBKV/deportes2.png",
+      "tvg_id": "M+ Deportes 2 HD"
+    },
+    {
+      "title": "M+ Liga de Campeones 3 1080p",
+      "hash": "4416843c96b7f7a1bc55c476091a60fff0922bc7",
+      "group": "LIGA DE CAMPEONES",
+      "logo": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png",
+      "tvg_id": "M+ Liga de Campeones 3 HD"
+    },
+    {
+      "title": "M+ LaLiga 2 720p",
+      "hash": "ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8",
+      "group": "LA LIGA",
+      "logo": "https://i.ibb.co/Tc97zSb/liga2.png",
+      "tvg_id": "M+ LaLiga 2 HD"
+    },
+    {
+      "title": "M+ Liga de Campeones 2 1080p",
+      "hash": "74ab4e4ec7e2da001f473ca40893b7307b8029c5",
+      "group": "LIGA DE CAMPEONES",
+      "logo": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png",
+      "tvg_id": "M+ Liga de Campeones 2 HD"
+    },
+    {
+      "title": "DAZN 1",
+      "hash": "9afc89481b721ce6c326c85e47148676077b8e62",
+      "group": "DAZN",
+      "logo": "https://i.ibb.co/FVzKq1y/dazn1.png",
+      "tvg_id": "DAZN 1 HD"
+    },
+    {
+      "title": "M+ Liga de Campeones 2 1080p",
+      "hash": "2b51710cee513e8939785fa3e7980f32d4e0415f",
+      "group": "LIGA DE CAMPEONES",
+      "logo": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png",
+      "tvg_id": "M+ Liga de Campeones 2 HD"
+    },
+    {
+      "title": "DAZN F1 1080p",
+      "hash": "bcf9dc38f92e90a71b87bd54b3bac91b76d09a69",
+      "group": "FORMULA 1",
+      "logo": "https://i.ibb.co/2Ndmtbp/f1.png",
+      "tvg_id": "DAZN F1 HD"
+    },
+    {
+      "title": "M+ Estrenos",
+      "hash": "49d66212748c67bd896fba703585997c6cae5460",
+      "group": "MOVISTAR",
+      "logo": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Estrenos%20HD.png",
+      "tvg_id": "M+ Estrenos HD"
+    },
+    {
+      "title": "DAZN F1 720p",
+      "hash": "ed6188dcbb491efeb2092c1a6199226c27f61727",
+      "group": "FORMULA 1",
+      "logo": "https://i.ibb.co/2Ndmtbp/f1.png",
+      "tvg_id": "DAZN F1 HD"
+    },
+    {
+      "title": "M+ LaLiga 1080p",
+      "hash": "00c9bc9c5d7d87680a5a6bed349edfa775a89947",
+      "group": "LA LIGA",
+      "logo": "https://i.ibb.co/yfV1Q8n/liga.png",
+      "tvg_id": "M+ LaLiga HD"
+    },
+    {
+      "title": "Eurosport 1 1080p",
+      "hash": "0db68ab752b50e6bb257eef22d102c1d29cd92ea",
+      "group": "EUROSPORT",
+      "logo": "https://i.ibb.co/r2Yd7xD/euro1.png",
+      "tvg_id": "Eurosport 1 HD"
+    },
+    {
+      "title": "DAZN LIGA FINETWORK 1",
+      "hash": "7cdc1ff88059fe57346853c63dda99a613d61e9f",
+      "group": "LA LIGA",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png",
+      "tvg_id": "DAZN LaLiga HD"
+    },
+    {
+      "title": "MovistarPlus1080",
+      "hash": "1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78",
+      "group": "OTROS",
+      "logo": "",
+      "tvg_id": ""
+    },
+    {
+      "title": "M+ LaLiga 4 720p",
+      "hash": "1bcee22d5476f2eae9dc2cb24e3685152cf285cb",
+      "group": "LA LIGA",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/laliga-tv-4-por-movistar-plus-es.png",
+      "tvg_id": "M+ LaLiga 4"
+    },
+    {
+      "title": "M+ Deportes 2 720p",
+      "hash": "bfa01c11c5c6b7a616a516de4f2c769a89d26b25",
+      "group": "MOVISTAR DEPORTES",
+      "logo": "https://i.ibb.co/q95fBKV/deportes2.png",
+      "tvg_id": "M+ Deportes 2 HD"
+    },
+    {
+      "title": "M+ Deportes 720p",
+      "hash": "2f3cfd199a49819cbd129689a840dc3d23ab93aa",
+      "group": "MOVISTAR DEPORTES",
+      "logo": "https://i.ibb.co/CV4CLjz/deportes.png",
+      "tvg_id": "M+ Deportes HD"
+    },
+    {
+      "title": "Eurosport 2 1080p",
+      "hash": "24f940fef7e270b6b3ae5d9dc713a80c8345cfba",
+      "group": "EUROSPORT",
+      "logo": "https://i.ibb.co/M6h4Qyd/euro2.png",
+      "tvg_id": "Eurosport 2"
+    },
+    {
+      "title": "DAZN F1 1080p",
+      "hash": "b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1",
+      "group": "FORMULA 1",
+      "logo": "https://i.ibb.co/2Ndmtbp/f1.png",
+      "tvg_id": "DAZN F1 HD"
+    },
+    {
+      "title": "M+ LaLiga 4 1080p",
+      "hash": "2a6b1fd8a24b23747db1ea534a51457708523602",
+      "group": "LA LIGA",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/laliga-tv-4-por-movistar-plus-es.png",
+      "tvg_id": "M+ LaLiga 4"
+    },
+    {
+      "title": "M+ LaLiga 1080p",
+      "hash": "c9321006921967d6258df6945f1d598a5c0cbf1e",
+      "group": "LA LIGA",
+      "logo": "https://i.ibb.co/yfV1Q8n/liga.png",
+      "tvg_id": "M+ LaLiga HD"
+    },
+    {
+      "title": "LaLiga TV Hypermotion 720p",
+      "hash": "a4f072c9b614323ac1258a175f868a909ea3c8cd",
+      "group": "HYPERMOTION",
+      "logo": "https://i.ibb.co/CBdGc9f/hypermotion1.png",
+      "tvg_id": "LaLiga TV Hypermotion HD"
+    },
+    {
+      "title": "RFEFTV FHD",
+      "hash": "854ff9c607101791346111cd2366a392c3b8c351",
+      "group": "OTROS",
+      "logo": "",
+      "tvg_id": ""
+    },
+    {
+      "title": "M+ LaLiga 1080p",
+      "hash": "4b528d10eaad747ddf52251206177573ee3e9f74",
+      "group": "LA LIGA",
+      "logo": "https://i.ibb.co/yfV1Q8n/liga.png",
+      "tvg_id": "M+ LaLiga HD"
+    },
+    {
+      "title": "DAZN LaLiga 1080p",
+      "hash": "74defb8f4ed3a917fd07c21b34f43c17107ec618",
+      "group": "LA LIGA",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png",
+      "tvg_id": "DAZN LaLiga HD"
+    },
+    {
+      "title": "Eurosport 2 720p",
+      "hash": "5c910d614894635153a7d42de98cc2e4a958a53f",
+      "group": "EUROSPORT",
+      "logo": "https://i.ibb.co/M6h4Qyd/euro2.png",
+      "tvg_id": "Eurosport 2"
+    },
+    {
+      "title": "LaLiga TV Hypermotion 3 1080p",
+      "hash": "1fdb405a6942da0941266f24cdd1c71b11552f1f",
+      "group": "HYPERMOTION",
+      "logo": "https://i.ibb.co/826y2Yv/Hypermotion3.png",
+      "tvg_id": "LaLiga TV Hypermotion 3"
+    },
+    {
+      "title": "DAZN LIGA FINETWORK 4",
+      "hash": "7eb030d0011e6af6d3d7a7767e0d6504a67bce53",
+      "group": "LA LIGA",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-4-es.png",
+      "tvg_id": "DAZN LaLiga 4 HD"
+    },
+    {
+      "title": "M+ Liga de Campeones 2 720p",
+      "hash": "38f7b2044e549df2039ff26cefa6f9a60c854d5e",
+      "group": "LIGA DE CAMPEONES",
+      "logo": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png",
+      "tvg_id": "M+ Liga de Campeones 2 HD"
+    },
+    {
+      "title": "LaLiga TV Hypermotion 2 1080p",
+      "hash": "709075831bf5c41ed0a20dfbd640aab6c28971f8",
+      "group": "HYPERMOTION",
+      "logo": "https://i.ibb.co/8K0VrQV/hypermotion2.png",
+      "tvg_id": "LaLiga TV Hypermotion 2"
+    },
+    {
+      "title": "M+ LaLiga 2 1080p",
+      "hash": "51b363b1c4d42724e05240ad068ad219df8042ec",
+      "group": "LA LIGA",
+      "logo": "https://i.ibb.co/Tc97zSb/liga2.png",
+      "tvg_id": "M+ LaLiga 2 HD"
+    },
+    {
+      "title": "DAZN LaLiga 2 720p",
+      "hash": "c976c7b37964322752db562b4ad65515509c8d36",
+      "group": "LA LIGA",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-2-es.png",
+      "tvg_id": "DAZN LaLiga 2 HD"
+    },
+    {
+      "title": "DAZN LIGA FINETWORK 2",
+      "hash": "f4839433d1c39454ef22a219e72c38da778a5a5f",
+      "group": "LA LIGA",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-2-es.png",
+      "tvg_id": "DAZN LaLiga 2 HD"
+    },
+    {
+      "title": "M+ LaLiga 720p",
+      "hash": "14b6cd8769cd485f2cffdca64be9698d9bfeac58",
+      "group": "LA LIGA",
+      "logo": "https://i.ibb.co/yfV1Q8n/liga.png",
+      "tvg_id": "M+ LaLiga HD"
+    },
+    {
+      "title": "M+ Liga de Campeones 3 1080p",
+      "hash": "9db029dff6a9c637d1f670e78dbc1a479b9b406e",
+      "group": "LIGA DE CAMPEONES",
+      "logo": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png",
+      "tvg_id": "M+ Liga de Campeones 3 HD"
+    },
+    {
+      "title": "M+ Liga de Campeones 1080p",
+      "hash": "97df5b7824948972d041d8ca2a4d29c90b641bc9",
+      "group": "LIGA DE CAMPEONES",
+      "logo": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png",
+      "tvg_id": "M+ Liga de Campeones HD"
+    },
+    {
+      "title": "La 1",
+      "hash": "1fddc49dd11ae7bb16f2b94648a9b4f0efc80349",
+      "group": "TDT",
+      "logo": "https://i.ibb.co/Vf2GT70/la1.png",
+      "tvg_id": "La 1 HD"
+    },
+    {
+      "title": "DAZN 2",
+      "hash": "f12038c7fe603ed93fa9475d60692dd95bb7b17f",
+      "group": "DAZN",
+      "logo": "https://i.ibb.co/Kz0GXSX/dazn2.png",
+      "tvg_id": "DAZN 2 HD"
+    },
+    {
+      "title": "M+ Liga de Campeones 4 1080p",
+      "hash": "e9f4493d2d851f4636720f639113e05b4a21a74c",
+      "group": "LIGA DE CAMPEONES",
+      "logo": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png",
+      "tvg_id": "M+ Liga de Campeones 4"
+    }
+  ]
+}
 
 
 

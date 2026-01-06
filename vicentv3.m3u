@@ -31,13 +31,14 @@
 #EXTGRP: group-title="DAKAR" group-logo="https://cdn.freebiesupply.com/logos/large/2x/dakar-rally-1-logo-png-transparent.png"
 
 
+#EXTINF:-1,
+tvg-logo="https://i.ibb.co/txJwjKJ/SEXTA.png",
+tvg-id="La Sexta",
+group-title="TELEVISION",
+La Sexta 
+http://127.0.0.1:6878/ace/getstream?id=bd38dba903a3d627fb053c9d907b1635a52fba3b
 
 
-      "title": "La Sexta",
-      "hash": "bd38dba903a3d627fb053c9d907b1635a52fba3b",
-      "group": "TDT",
-      "logo": "https://i.ibb.co/SX1jhBzy/lasexta.png",
-      "tvg_id": "La Sexta HD"
 
 
 

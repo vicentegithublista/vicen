@@ -1554,36 +1554,41 @@ http://127.0.0.1:6878/ace/getstream?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d
 
 
 
-#EXTINF:-1,group-title="INTERNACIONAL", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",🇩🇪DAZN 1 BAR🇩🇪
+#EXTINF:-1,tvg-logo="",tvg-id="DE | DAZN 1" ,group-title="INTERNACIONAL",🇩🇪DAZN 1 BAR🇩🇪
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 
-#EXTINF:-1,group-title="INTERNACIONAL", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",🇩🇪DAZN 2 BAR🇩🇪
+#EXTINF:-1,tvg-logo="",tvg-id="DE | DAZN 2" ,group-title="INTERNACIONAL",🇩🇪DAZN 2 BAR🇩🇪
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
 
 
 
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo.png" tvg-id="DE | EUROSPORT 1 " ,group-title="INTERNACIONAL",🇩🇪EUROSPORT 1🇩🇪
+#EXTINF:-1 tvg-logo="" tvg-id="DE | Eurosport 1" ,group-title="INTERNACIONAL",🇩🇪EUROSPORT 1🇩🇪
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo.png" tvg-id="DE | EUROSPORT 1 " ,group-title="INTERNACIONAL",🇩🇪EUROSPORT 1🇩🇪
+#EXTINF:-1 tvg-logo="" tvg-id="DE | Eurosport 1" ,group-title="INTERNACIONAL",🇩🇪EUROSPORT 1🇩🇪
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo.png" tvg-id="DE | EUROSPORT 1 " ,group-title="INTERNACIONAL",🇩🇪EUROSPORT 1🇩🇪
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo.png" tvg-id="DE | EUROSPORT 2 " ,group-title="INTERNACIONAL",🇩🇪EUROSPORT 2🇩🇪
+
+
+
+#EXTINF:-1 tvg-logo="" tvg-id="DE | Eurosport 2" ,group-title="INTERNACIONAL",🇩🇪EUROSPORT 2🇩🇪
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=ac675c82d6dfd4a201532c18b42e48dacb7c32c6
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo.png" tvg-id="DE | EUROSPORT 2 " ,group-title="INTERNACIONAL",🇩🇪EUROSPORT 2🇩🇪
+#EXTINF:-1 tvg-logo="" tvg-id="DE | Eurosport 2" ,group-title="INTERNACIONAL",🇩🇪EUROSPORT 2🇩🇪
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=7aa9cc819c6fa781dea6b4de3aa5393258b766d8
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo.png" tvg-id="DE | EUROSPORT 3 " ,group-title="INTERNACIONAL",🇩🇪EUROSPORT 3🇩🇪
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -1722,23 +1727,23 @@ http://127.0.0.1:6878/ace/getstream?id=e6cce13cb4005ec3c7d77db47865385927a7ab7e
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="UK | TNT Sports 1" ,group-title="INTERNACIONAL",🇬🇧TNT SPORTS 1🇬🇧
+#EXTINF:-1 tvg-logo="" tvg-id="UK | TNT Sports 1" ,group-title="INTERNACIONAL",🇬🇧TNT SPORTS 1🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="UK | TNT Sports 1" ,group-title="INTERNACIONAL",🇬🇧TNT SPORTS 1🇬🇧
+#EXTINF:-1 tvg-logo="" tvg-id="UK | TNT Sports 1" ,group-title="INTERNACIONAL",🇬🇧TNT SPORTS 1🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=363f1d119b1971237318c0d953ab6eea5eb7c592
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%202.png" tvg-id="UK | TNT Sports 2" ,group-title="INTERNACIONAL",🇬🇧TNT SPORTS 2🇬🇧
+#EXTINF:-1 tvg-logo="" tvg-id="UK | TNT Sports 2" ,group-title="INTERNACIONAL",🇬🇧TNT SPORTS 2🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%203.png" tvg-id="UK | TNT Sports 3" ,group-title="INTERNACIONAL",🇬🇧TNT SPORTS 3🇬🇧 
+#EXTINF:-1 tvg-logo="" tvg-id="UK | TNT Sports 3" ,group-title="INTERNACIONAL",🇬🇧TNT SPORTS 3🇬🇧 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="UK | TNT SPORTS 4" ,group-title="INTERNACIONAL",🇬🇧TNT SPORTS 4🇬🇧 
+#EXTINF:-1 tvg-logo="" tvg-id="UK | TNT Sports 4" ,group-title="INTERNACIONAL",🇬🇧TNT SPORTS 4🇬🇧 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
 
@@ -1747,24 +1752,24 @@ http://127.0.0.1:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
 
 
 
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Sky%20Sport%20Premier League.png" tvg-id="Sky Sport Premier League",group-title="INTERNACIONAL",🇬🇧SKY SPORT PREMIER LEAGUE🇬🇧 
+#EXTINF:-1,tvg-logo="" tvg-id="UK | Sky Sport Premier League",group-title="INTERNACIONAL",🇬🇧SKY SPORT PREMIER LEAGUE🇬🇧 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
 
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Sky%20Sport%20Premier League.png",tvg-id="Sky Sport Football",group-title="INTERNACIONAL",🇬🇧SKY SPORTS MAIN EVENT🇬🇧
+#EXTINF:-1,tvg-logo="",tvg-id="UK | Sky Sport Main Event",group-title="INTERNACIONAL",🇬🇧SKY SPORTS MAIN EVENT🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Sky%20Sport%20Premier League.png",tvg-id="Sky Sport Football",group-title="INTERNACIONAL",🇬🇧SKY SPORTS MAIN EVENT🇬🇧
+#EXTINF:-1,tvg-logo="",tvg-id="UK | Sky Sport Main Event",group-title="INTERNACIONAL",🇬🇧SKY SPORTS MAIN EVENT🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Sky%20Sport%20Premier League.png",tvg-id="UK | Sky Sport 1" ,group-title="INTERNACIONAL",🇬🇧Sky Sport 1🇬🇧
+#EXTINF:-1,tvg-logo="",tvg-id="UK | Sky Sport Football" ,group-title="INTERNACIONAL",🇬🇧Sky Sport 1🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=7c12288663069a12aff58f3f62e8ea47ab78c65d
 
 
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Sky%20Sport%20Premier League.png",tvg-id="UK | Sky Sport 2" ,group-title="INTERNACIONAL",🇬🇧Sky Sport 2🇬🇧
+#EXTINF:-1,tvg-logo="",tvg-id="UK | Sky Sport Football" ,group-title="INTERNACIONAL",🇬🇧Sky Sport 2🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=fc9f1f580da8f641a5991d44b399982a3a069f69
 
@@ -8290,6 +8295,7 @@ http://pgreatgre.top:8080/series/8081741587940693/e94f6d1cfba3/38515.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jack Ryan S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ASTHPt5T9wXtHn6K763YQqX2HF.jpg" ,group-title="🎞️SERIES🎞️",Jack Ryan S02 E08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://pgreatgre.top:8080/series/8081741587940693/e94f6d1cfba3/38516.mp4
+
 
 
 

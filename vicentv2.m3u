@@ -36,35 +36,54 @@
 
 
 
-#EXTINF:-1 tvg-logo="" tvg-id="M+ LaLiga HD",group-title="➡️07/12/2025⬅️",⚽Barcelona-Athletic                  20:00
+
+
+
+
+#EXTINF:-1 tvg-logo="" tvg-id="M+ LaLiga HD",group-title="➡️EVENTOS HOY⬅️",⚽At. Madrid-Real Madrid                  20:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 
-#EXTINF:-1 tvg-logo="" tvg-id="M+ LaLiga HD",group-title="➡️07/12/2025⬅️",⚽Barcelona-Athletic                  20:00
+#EXTINF:-1 tvg-logo="" tvg-id="M+ LaLiga HD",group-title="➡️EVENTOS HOY⬅️",⚽At. Madrid-Real Madrid                  20:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=8c30b600cc48899991b452805df48b68d998e61c
 
 
-#EXTINF:-1 tvg-logo="" tvg-id="M+ LaLiga HD",group-title="➡️07/12/2025⬅️",⚽Barcelona-Athletic                  20:00
+#EXTINF:-1 tvg-logo="" tvg-id="M+ LaLiga HD",group-title="➡️EVENTOS HOY⬅️",⚽At. Madrid-Real Madrid                  20:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74
 
 
-#EXTINF:-1 tvg-logo="" tvg-id="M+ Vamos HD",group-title="➡️07/12/2025⬅️",🏀Bayer-Baskonia                 20:30
+#EXTINF:-1 tvg-logo="" tvg-id="M+ Vamos HD",group-title="➡️EVENTOS HOY⬅️",🏀Valencia-Mónaco                20:30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=2940120bf034db79a7f5849846ccea0255172eae
 
 
-#EXTINF:-1 tvg-logo="" tvg-id="M+ Vamos HD",group-title="➡️07/12/2025⬅️",🏀Bayer-Baskonia                 20:30
+#EXTINF:-1 tvg-logo="" tvg-id="M+ Vamos HD",group-title="➡️EVENTOS HOY⬅️",🏀Valencia-Mónaco                20:30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=4e99e755aa32c4bc043a4bb1cd1de35f9bd94dde
 
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD",group-title="➡️EVENTOS HOY⬅️",🏀Real Madrid - Maccabi                20:45
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=2f3cfd199a49819cbd129689a840dc3d23ab93aa
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD",group-title="➡️EVENTOS HOY⬅️",🏀Real Madrid - Maccabi                20:45
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
 
 
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1",group-title="➡️EVENTOS HOY⬅️",⚽Arsenal-Liverpool                  21:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1",group-title="➡️EVENTOS HOY⬅️",⚽Arsenal-Liverpool                  21:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=9afc89481b721ce6c326c85e47148676077b8e62
 
 
 
@@ -8297,6 +8316,7 @@ http://pgreatgre.top:8080/series/8081741587940693/e94f6d1cfba3/38515.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jack Ryan S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ASTHPt5T9wXtHn6K763YQqX2HF.jpg" ,group-title="🎞️SERIES🎞️",Jack Ryan S02 E08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://pgreatgre.top:8080/series/8081741587940693/e94f6d1cfba3/38516.mp4
+
 
 
 

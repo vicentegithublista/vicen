@@ -2057,9 +2057,33 @@ http://127.0.0.1:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="",group-title="🎬PELICULAS🎬",🏁F1 LA PELICULA🏁
+#EXTINF:-1 tvg-logo="" tvg-id="",group-title="🎬PELICULAS🎬",F1 LA PELICULA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=c721e48a18324928224baa9f19d3bd50acc42daf
+
+#EXTINF:-1 tvg-logo="" tvg-id="",group-title="🎬PELICULAS🎬",JURASICK WORLD EL RENACER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=2327ccf7643918c2fd27b598f2da40afd295f71a
+
+#EXTINF:-1 tvg-logo="" tvg-id="",group-title="🎬PELICULAS🎬",LOS CUATRO FANTÁSTICOS 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=6c22852ee1be880ab89ae9b3fd3ea8e8945b3d16
+
+#EXTINF:-1 tvg-logo="" tvg-id="",group-title="🎬PELICULAS🎬",FRANKENSTEIN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=93a2725017320015d4224d44a7810f89dfd54522
+
+#EXTINF:-1 tvg-logo="" tvg-id="",group-title="🎬PELICULAS🎬",EL CONJURO 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=daf4902f267fc7a12669695f41db5cccc243e836
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="3 días en Quiberón (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5gsNuEpPOYO6sYcNDXSHEYfvQi0.jpg" ,group-title="🎬PELICULAS🎬",3 días en Quiberón (2018)
 http://pgreatgre.top:8080/movie/8081741587940693/e94f6d1cfba3/35135.mp4
@@ -8328,6 +8352,7 @@ http://pgreatgre.top:8080/series/8081741587940693/e94f6d1cfba3/38515.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jack Ryan S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ASTHPt5T9wXtHn6K763YQqX2HF.jpg" ,group-title="🎞️SERIES🎞️",Jack Ryan S02 E08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://pgreatgre.top:8080/series/8081741587940693/e94f6d1cfba3/38516.mp4
+
 
 
 

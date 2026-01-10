@@ -35,7 +35,7 @@
 
 #EXTINF:-1 tvg-logo="" tvg-id="DAZN LaLiga",group-title="➡️EVENTOS⬅️",⚽Villarreal-Alavés                16:15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 
 
 #EXTINF:-1 tvg-logo="" tvg-id="M+ Liga de Campeones",group-title="➡️EVENTOS⬅️",⚽Argelia-Nigeria                17:00
@@ -77,7 +77,7 @@ http://127.0.0.1:6878/ace/getstream?id=f4db7197aa4b9487014ba348fca3f78121ac2cae
 
 #EXTINF:-1 tvg-logo="" tvg-id="DAZN LaLiga",group-title="➡️EVENTOS⬅️",⚽Valencia-Elche                21:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 
 
 
@@ -194,26 +194,27 @@ http://127.0.0.1:6878/ace/getstream?id=2a6b1fd8a24b23747db1ea534a51457708523602
 
 
 
-#EXTINF:-1 tvg-logo="" tvg-id="DAZN LaLiga",group-title="LA LIGA",DAZNLaLiga⚽️
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 
-#EXTINF:-1 tvg-logo="" tvg-id="DAZN LaLiga",group-title="LA LIGA",DAZNLaLiga⚽️
+
+#EXTINF:-1 tvg-logo=""tvg-id="DAZN LaLiga",group-title="LA LIGA",DAZNLaLiga⚽️
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
 
-#EXTINF:-1 tvg-logo="" tvg-id="DAZN LaLiga",group-title="LA LIGA",DAZNLaLiga⚽️
+#EXTINF:-1 tvg-logo=""tvg-id="DAZN LaLiga",group-title="LA LIGA",DAZNLaLiga⚽️
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 
-#EXTINF:-1 tvg-logo="" tvg-id="DAZN LaLiga",group-title="LA LIGA",DAZNLaLiga⚽️
+#EXTINF:-1 tvg-logo=""tvg-id="DAZN LaLiga",group-title="LA LIGA",DAZNLaLiga⚽️
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 
-#EXTINF:-1 tvg-logo="" tvg-id="DAZN LaLiga",group-title="LA LIGA",DAZNLaLiga⚽️
+#EXTINF:-1 tvg-logo=""tvg-id="DAZN LaLiga",group-title="LA LIGA",DAZNLaLiga⚽️
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884
 
+#EXTINF:-1 tvg-logo=""tvg-id="DAZN LaLiga",group-title="LA LIGA",DAZNLaLiga⚽️
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 
 
 
@@ -6420,6 +6421,7 @@ http://pgreatgre.top:8080/series/8081741587940693/e94f6d1cfba3/38515.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jack Ryan S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ASTHPt5T9wXtHn6K763YQqX2HF.jpg" ,group-title="🎞️SERIES🎞️",Jack Ryan S02 E08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://pgreatgre.top:8080/series/8081741587940693/e94f6d1cfba3/38516.mp4
+
 
 
 

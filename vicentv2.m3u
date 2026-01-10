@@ -1086,6 +1086,11 @@ https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 
 
+#EXTINF:-1,tvg-logo="",tvg-id="Antena 3",tvg-name="Antena 3",group-title="TELEVISION",Antena 3 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=f9d2a6d5da8d1f2423a0b6ed0047636a728040e9
+
+
 #EXTINF:-1,tvg-logo="https://i.ibb.co/BzGrr2M/T5.png",tvg-id="Telecinco",tvg-name="Telecinco",group-title="TELEVISION",Telecinco 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=5133d1e8f45095f0b7dabbd78db0ce19a496f7bf
@@ -1104,6 +1109,19 @@ http://127.0.0.1:6878/ace/getstream?id=bd38dba903a3d627fb053c9d907b1635a52fba3b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=44828a7580cd99fcb36245c327889c47f34b457f
 
+
+#EXTINF:-1,tvg-logo="",tvg-id="Caza y Pesca",tvg-name="Caza y Pesca",group-title="TELEVISION",Caza y Pesca 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=277a6fb47189db801c5b7b05ad89c690571f3e9c
+
+
+#EXTINF:-1,tvg-logo="",tvg-id="BMad",tvg-name="BMad",group-title="TELEVISION",BMad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=6e1b5fd8753352486aa932f802534a17556e1f60
+
+#EXTINF:-1,tvg-logo="",tvg-id="Documentales",tvg-name="Documentales",group-title="TELEVISION",Documentales
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=b3fc9b5647c5933b101c0b6b64322590c68587b9
 
 #EXTINF:-1,tvg-logo="",tvg-id="Onetoro",tvg-name="Onetoro",group-title="TELEVISION",Onetoro 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -6865,6 +6883,7 @@ http://pgreatgre.top:8080/series/8081741587940693/e94f6d1cfba3/38515.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jack Ryan S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ASTHPt5T9wXtHn6K763YQqX2HF.jpg" ,group-title="🎞️SERIES🎞️",Jack Ryan S02 E08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://pgreatgre.top:8080/series/8081741587940693/e94f6d1cfba3/38516.mp4
+
 
 
 

@@ -38,7 +38,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD",group-title="➡️EVENTOS⬅️",⚽Alcaraz-Sinner                08:00
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD",group-title="➡️EVENTOS⬅️",🏆Alcaraz-Sinner                08:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=2f3cfd199a49819cbd129689a840dc3d23ab93aa
 
@@ -48,6 +48,13 @@ http://127.0.0.1:6878/ace/getstream?id=2f3cfd199a49819cbd129689a840dc3d23ab93aa
 🏆 LIGA F
 🆚 Alhama - Eibar
 🖥 DAZN 2
+
+
+
+#EXTINF:-1 tvg-logo="" tvg-id="DAZN Liga F",group-title="➡️EVENTOS⬅️",⚽Alcaraz-Sinner                08:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=f4839433d1c39454ef22a219e72c38da778a5a5f
+
 
 
 ⚽ Fútbol - 14:00
@@ -67,6 +74,21 @@ http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 🖥 DAZN 1
 
 
+#EXTINF:-1 tvg-logo="" tvg-id="DAZN Liga F",group-title="LA LIGA",DAZN Liga F⚽️
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=7cdc1ff88059fe57346853c63dda99a613d61e9f
+
+#EXTINF:-1 tvg-logo="" tvg-id="DAZN Liga F",group-title="LA LIGA",DAZN Liga F⚽️
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=f4839433d1c39454ef22a219e72c38da778a5a5f
+
+#EXTINF:-1 tvg-logo="" tvg-id="DAZN Liga F",group-title="LA LIGA",DAZN Liga F⚽️
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=ede6ddb2d19bbd8b84614dc272549e4ad008e3d7
+
+#EXTINF:-1 tvg-logo="" tvg-id="DAZN Liga F",group-title="LA LIGA",DAZN Liga F⚽️
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=7eb030d0011e6af6d3d7a7767e0d6504a67bce53
 
 ⚽ Fútbol - 16:15
 🏆 LALIGA EA SPORTS
@@ -97,6 +119,22 @@ http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
 🖥 DAZN 2
 
 
+#EXTINF:-1 tvg-logo="" tvg-id="DAZN Liga F",group-title="LA LIGA",DAZN Liga F⚽️
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=7cdc1ff88059fe57346853c63dda99a613d61e9f
+
+#EXTINF:-1 tvg-logo="" tvg-id="DAZN Liga F",group-title="LA LIGA",DAZN Liga F⚽️
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=f4839433d1c39454ef22a219e72c38da778a5a5f
+
+#EXTINF:-1 tvg-logo="" tvg-id="DAZN Liga F",group-title="LA LIGA",DAZN Liga F⚽️
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=ede6ddb2d19bbd8b84614dc272549e4ad008e3d7
+
+#EXTINF:-1 tvg-logo="" tvg-id="DAZN Liga F",group-title="LA LIGA",DAZN Liga F⚽️
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=7eb030d0011e6af6d3d7a7767e0d6504a67bce53
+
 ⚽ Fútbol - 18:30
 🏆 LALIGA EA SPORTS
 🆚 Girona - Osasuna
@@ -123,6 +161,22 @@ http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 🆚 FC Barcelona - Madrid CFF
 🖥 M+ Ellas V
 
+
+#EXTINF:-1 tvg-logo="" tvg-id="DAZN Liga F",group-title="LA LIGA",DAZN Liga F⚽️
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=7cdc1ff88059fe57346853c63dda99a613d61e9f
+
+#EXTINF:-1 tvg-logo="" tvg-id="DAZN Liga F",group-title="LA LIGA",DAZN Liga F⚽️
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=f4839433d1c39454ef22a219e72c38da778a5a5f
+
+#EXTINF:-1 tvg-logo="" tvg-id="DAZN Liga F",group-title="LA LIGA",DAZN Liga F⚽️
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=ede6ddb2d19bbd8b84614dc272549e4ad008e3d7
+
+#EXTINF:-1 tvg-logo="" tvg-id="DAZN Liga F",group-title="LA LIGA",DAZN Liga F⚽️
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=7eb030d0011e6af6d3d7a7767e0d6504a67bce53
 
 ⚽ Fútbol - 20:00
 🏆 COPA DE AFRICA
@@ -6929,6 +6983,7 @@ http://pgreatgre.top:8080/series/8081741587940693/e94f6d1cfba3/38515.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jack Ryan S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ASTHPt5T9wXtHn6K763YQqX2HF.jpg" ,group-title="🎞️SERIES🎞️",Jack Ryan S02 E08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://pgreatgre.top:8080/series/8081741587940693/e94f6d1cfba3/38516.mp4
+
 
 
 

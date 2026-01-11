@@ -171,9 +171,6 @@ http://127.0.0.1:6878/ace/getstream?id=2a6b1fd8a24b23747db1ea534a51457708523602
 
 
 
-
-
-
 #EXTINF:-1 tvg-logo="",tvg-id="DAZN La Liga",,group-title="LA LIGA",DAZN LaLiga⚽️
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
@@ -207,30 +204,6 @@ http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 
 
 
-#EXTINF:-1 tvg-logo="" tvg-id="DAZN Liga F",group-title="LA LIGA",DAZN Liga F⚽️
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=7cdc1ff88059fe57346853c63dda99a613d61e9f
-
-#EXTINF:-1 tvg-logo="" tvg-id="DAZN Liga F",group-title="LA LIGA",DAZN Liga F⚽️
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=f4839433d1c39454ef22a219e72c38da778a5a5f
-
-#EXTINF:-1 tvg-logo="" tvg-id="DAZN Liga F",group-title="LA LIGA",DAZN Liga F⚽️
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=ede6ddb2d19bbd8b84614dc272549e4ad008e3d7
-
-#EXTINF:-1 tvg-logo="" tvg-id="DAZN Liga F",group-title="LA LIGA",DAZN Liga F⚽️
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=7eb030d0011e6af6d3d7a7767e0d6504a67bce53
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="" tvg-id="M+ Liga de Campeones",group-title="LA LIGA",M+ Liga de Campeones⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -260,9 +233,7 @@ http://127.0.0.1:6878/ace/getstream?id=afbf1ef8812e7b0a0977fa3a0a2d3a6d3cbd6c6f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=f3eea003e23f94dc2d527306de9dd386e3ebf4ba
 
-#EXTINF:-1 tvg-logo="" tvg-id="M+ Liga de Campeones",group-title="LA LIGA",M+ Liga de Campeones⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=a3197f5fa9d42f199d5bbe5a5c47ec4cfbf248cb
+
 
 
 
@@ -451,6 +422,21 @@ http://127.0.0.1:6878/ace/getstream?id=599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
 
 
 
+#EXTINF:-1 tvg-logo="" tvg-id="DAZN Liga F",group-title="LA LIGA",DAZN Liga F⚽️
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=7cdc1ff88059fe57346853c63dda99a613d61e9f
+
+#EXTINF:-1 tvg-logo="" tvg-id="DAZN Liga F",group-title="LA LIGA",DAZN Liga F⚽️
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=f4839433d1c39454ef22a219e72c38da778a5a5f
+
+#EXTINF:-1 tvg-logo="" tvg-id="DAZN Liga F",group-title="LA LIGA",DAZN Liga F⚽️
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=ede6ddb2d19bbd8b84614dc272549e4ad008e3d7
+
+#EXTINF:-1 tvg-logo="" tvg-id="DAZN Liga F",group-title="LA LIGA",DAZN Liga F⚽️
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=7eb030d0011e6af6d3d7a7767e0d6504a67bce53
 
 
 
@@ -3125,6 +3111,7 @@ http://pgreatgre.top:8080/series/8081741587940693/e94f6d1cfba3/38515.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jack Ryan S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ASTHPt5T9wXtHn6K763YQqX2HF.jpg" ,group-title="🎞️SERIES🎞️",Jack Ryan S02 E08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://pgreatgre.top:8080/series/8081741587940693/e94f6d1cfba3/38516.mp4
+
 
 
 

@@ -35,26 +35,6 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD",group-title="➡️EVENTOS⬅️",⚽️Rayo-Mallorca                14:00
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
-
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/49/1/dazn-laliga-logo-png_seeklogo-490009.png",group-title="➡️EVENTOS⬅️",⚽️Levante-Espanyol                16:15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
-
-#EXTINF:-1 tvg-logo="" tvg-id="DAZN Baloncesto 2",group-title="➡️EVENTOS⬅️",🏀Barcelona-Granada                17:00
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=965b249321adbf3a1459f94c17f624022889fb8d
-
-#EXTINF:-1 tvg-logo="" tvg-id="DAZN Baloncesto 3",group-title="➡️EVENTOS⬅️",🏀Girona-Baskonia                18:00
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=f4db7197aa4b9487014ba348fca3f78121ac2cae
-
-#EXTINF:-1 tvg-logo="" tvg-id="DAZN Baloncesto",group-title="➡️EVENTOS⬅️",🏀Andorra-Real Madrid                18:00
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=217e5f172d4c704c5eec739fed672a53521e8f98
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2",group-title="➡️EVENTOS⬅️",🏉Jaguars-Bills                19:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=f12038c7fe603ed93fa9475d60692dd95bb7b17f
@@ -70,10 +50,6 @@ http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD",group-title="➡️EVENTOS⬅️",🏆Jets-Devils               20:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=2f3cfd199a49819cbd129689a840dc3d23ab93aa
-
-#EXTINF:-1 tvg-logo="" tvg-id="DAZN Baloncesto 2",group-title="➡️EVENTOS⬅️",🏀Magic-Pelicans                21:00
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=965b249321adbf3a1459f94c17f624022889fb8d
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1",group-title="➡️EVENTOS⬅️",🏉49ers-Eagles                22:30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -2238,18 +2214,25 @@ http://pmetvenmet.top:8080/7721731432304618/e52ae44db33e/5630
 
 #EXTINF:-1 tvg-name="ES: ACB Evento 01" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png",group-title="➡️LISTA PLAN B⬅️",ACB Evento 01
 http://pmetvenmet.top:8080/7721731432304618/e52ae44db33e/63433
+
 #EXTINF:-1 tvg-name="ES: ACB Evento 01" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png",group-title="➡️LISTA PLAN B⬅️",ACB Evento 02
 http://pmetvenmet.top:8080/7721731432304618/e52ae44db33e/63434
+
 #EXTINF:-1 tvg-name="ES: ACB Evento 01" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png",group-title="➡️LISTA PLAN B⬅️",ACB Evento 03
 http://pmetvenmet.top:8080/7721731432304618/e52ae44db33e/63435
+
 #EXTINF:-1 tvg-name="ES: ACB Evento 01" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png",group-title="➡️LISTA PLAN B⬅️",ACB Evento 04
 http://pmetvenmet.top:8080/7721731432304618/e52ae44db33e/63436
+
 #EXTINF:-1 tvg-name="ES: ACB Evento 01" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png",group-title="➡️LISTA PLAN B⬅️",ACB Evento 05
 http://pmetvenmet.top:8080/7721731432304618/e52ae44db33e/63437
+
 #EXTINF:-1 tvg-name="ES: ACB Evento 01" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png",group-title="➡️LISTA PLAN B⬅️",ACB Evento 06
 http://pmetvenmet.top:8080/7721731432304618/e52ae44db33e/64831
+
 #EXTINF:-1 tvg-name="ES: ACB Evento 01" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png",group-title="➡️LISTA PLAN B⬅️",ACB Evento 07
 http://pmetvenmet.top:8080/7721731432304618/e52ae44db33e/64832
+
 #EXTINF:-1 tvg-name="ES: ACB Evento 01" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png",group-title="➡️LISTA PLAN B⬅️",ACB Evento 08
 http://pmetvenmet.top:8080/7721731432304618/e52ae44db33e/64833
 
@@ -3326,6 +3309,7 @@ http://pgreatgre.top:8080/series/8081741587940693/e94f6d1cfba3/38515.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jack Ryan S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ASTHPt5T9wXtHn6K763YQqX2HF.jpg" ,group-title="🎞️SERIES🎞️",Jack Ryan S02 E08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://pgreatgre.top:8080/series/8081741587940693/e94f6d1cfba3/38516.mp4
+
 
 
 

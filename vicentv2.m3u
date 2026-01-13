@@ -37,14 +37,24 @@
 
 
 
-EXTINF:-1,tvg-logo="https://coimobile.com/uploads/2024/1/ace-stream-icon.jpg",group-title="➡️EVENTOS⬅️",🏀Valencia-Zaragoza               20:30
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=217e5f172d4c704c5eec739fed672a53521e8f98
+
+⚽ Fútbol - 21:00
+🏆 COPA DEL REY
+🆚 Real Sociedad - Osasuna
+🖥 M+ LALIGA 2
+
+⚽ Fútbol - 21:00
+🏆 COPA DEL REY
+🆚 Cultural - Athletic
+🖥 M+ LALIGA 3
 
 
 
 
-EXTINF:-1,tvg-logo="https://coimobile.com/uploads/2024/1/ace-stream-icon.jpg",group-title="➡️EVENTOS⬅️",⚽️Sevilla-Celta               21:00
+
+
+
+#EXTINF:-1,tvg-logo="https://coimobile.com/uploads/2024/1/ace-stream-icon.jpg",group-title="➡️EVENTOS⬅️"⚽Deportivo -A.Madrid              21:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 

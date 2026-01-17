@@ -37,14 +37,37 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
 
-
-
-
 #EXTINF:-1 tvg-logo="" tvg-id="DAZN Baloncesto",group-title="➡️EVENTOS⬅️",⚽️Bilbao-Tenerife                         21:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=53962d7fb865aff73b34a3afb2905cd492f60d75 
 
+#EXTINF:-1 tvg-logo="" tvg-id="",group-title="➡️EVENTOS⬅️",🎬🎬JURASIC PARK EL RENACER🎬🎬
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=2327ccf7643918c2fd27b598f2da40afd295f71a
 
+#EXTINF:-1 tvg-logo="" tvg-id="",group-title="➡️EVENTOS⬅️",🎬🎬LOS 4 FANTASTICOS🎬🎬
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=6c22852ee1be880ab89ae9b3fd3ea8e8945b3d16
+
+#EXTINF:-1 tvg-logo="" tvg-id="",group-title="➡️EVENTOS⬅️",🎬🎬DEMONIC🎬🎬
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=046ee806771fea126d620b8a3fb6fe9730254d74
+
+#EXTINF:-1 tvg-logo="" tvg-id="",group-title="➡️EVENTOS⬅️",🎬🎬PADRE NO HAY MAS QUE UNO 5🎬🎬
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=4be1c70bc80a170b976d3bf0d7014e8ebdcc819f
+
+#EXTINF:-1 tvg-logo="" tvg-id="",group-title="➡️EVENTOS⬅️",🎬🎬FRANKESTEIN🎬🎬
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=93a2725017320015d4224d44a7810f89dfd54522
+
+#EXTINF:-1 tvg-logo="" tvg-id="",group-title="➡️EVENTOS⬅️",🎬🎬EL CONJURO 3🎬🎬
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=daf4902f267fc7a12669695f41db5cccc243e836
+
+#EXTINF:-1 tvg-logo="" tvg-id="",group-title="➡️EVENTOS⬅️",🎬🎬F1 LA PELICULA🎬🎬
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=c721e48a18324928224baa9f19d3bd50acc42daf
 
 
 
@@ -1363,7 +1386,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acce7f
 
 
 
-
+#EXTINF:-1,group-title="TELEVISION",  tvg-id="",📺Relax 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=4b7237f2e654d6c1e03ece1d2fffc249e0324ae6
 
 
 
@@ -2245,21 +2270,6 @@ http://pmetvenmet.top:8080/7721731432304618/e52ae44db33e/64833
 
 
 
-EXTINF:-1 tvg-logo="https://coimobile.com/uploads/2024/1/ace-stream-icon.jpg" tvg-id="",group-title="🎬PELICULAS🎬",F1 LA PELICULA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=c721e48a18324928224baa9f19d3bd50acc42daf
-
-EXTINF:-1 tvg-logo="https://coimobile.com/uploads/2024/1/ace-stream-icon.jpg" tvg-id="",group-title="🎬PELICULAS🎬",JURASICK WORLD EL RENACER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=2327ccf7643918c2fd27b598f2da40afd295f71a
-
-EXTINF:-1 tvg-logo="https://coimobile.com/uploads/2024/1/ace-stream-icon.jpg" tvg-id="",group-title="🎬PELICULAS🎬",LOS CUATRO FANTÁSTICOS 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=6c22852ee1be880ab89ae9b3fd3ea8e8945b3d16
-
-EXTINF:-1 tvg-logo="https://coimobile.com/uploads/2024/1/ace-stream-icon.jpg" tvg-id="",group-title="🎬PELICULAS🎬",FRANKENSTEIN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=93a2725017320015d4224d44a7810f89dfd54522
 
 #EXTINF:-1 tvg-id="" tvg-name="11M (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuhSpdStKgnB0biWBctOYFgLeF3.jpg" ,group-title="🎬PELICULAS🎬",11M (2022)
 http://pgreatgre.top:8080/movie/8081741587940693/e94f6d1cfba3/35143.mp4
@@ -3312,6 +3322,7 @@ http://pgreatgre.top:8080/series/8081741587940693/e94f6d1cfba3/38515.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jack Ryan S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ASTHPt5T9wXtHn6K763YQqX2HF.jpg" ,group-title="🎞️SERIES🎞️",Jack Ryan S02 E08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://pgreatgre.top:8080/series/8081741587940693/e94f6d1cfba3/38516.mp4
+
 
 
 

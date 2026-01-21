@@ -77,20 +77,6 @@ http://127.0.0.1:6878/ace/getstream?id=7993cecc31917793e2bfa2fe98faa9fe1ab62d47&
 
 
 
-
-
-
-Ciriaco, [20/01/2026 9:31]
-🇪🇺 Champions: Fase Liga
-👉 16:30 FC Kairat vs Club Brugge
-M+ Liga de Campeones
-1080: 97df5b7824948972d041d8ca2a4d29c90b641bc9, 9db029dff6a9c637d1f670e78dbc1a479b9b406e, 2b51710cee513e8939785fa3e7980f32d4e0415f
-720: b028202ff335911db3118bceac027df3e8ef6c32
-New Era I: 778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a, afbf2a479c5a5072698139f0f556ef3e77a99bd0, c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc
-New Era II: afbf1ef8812e7b0a0977fa3a0a2d3a6d3cbd6c6f
-New Era VI: 0f7842f8b6c26571e5a974407b61623e56e6a052, f3eea003e23f94dc2d527306de9dd386e3ebf4ba
-New Loop: e572a5178ff72eed7d1d751a18b4b3419699f370, a3197f5fa9d42f199d5bbe5a5c47ec4cfbf248cb
-👉 18:45 Bodø/Glimt vs Manchester City
 M+ Liga de Campeones 2
 1080: 74ab4e4ec7e2da001f473ca40893b7307b8029c5
 720: 38f7b2044e549df2039ff26cefa6f9a60c854d5e
@@ -319,6 +305,75 @@ http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="DAZN LaLiga 2" tvg-name="ES: DAZN LALIGA 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA_2.png",group-title="LA LIGA",DAZNLaLiga 2⚽️
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="  M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png",group-title="LA LIGA",M+ Liga de Campeones⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9
+
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="  M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png",group-title="LA LIGA",M+ Liga de Campeones⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=9db029dff6a9c637d1f670e78dbc1a479b9b406e
+
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="  M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png",group-title="LA LIGA",M+ Liga de Campeones⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=2b51710cee513e8939785fa3e7980f32d4e0415f
+
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="  M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png",group-title="LA LIGA",M+ Liga de Campeones⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=b028202ff335911db3118bceac027df3e8ef6c32
+
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="  M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png",group-title="LA LIGA",M+ Liga de Campeones⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a
+
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="  M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png",group-title="LA LIGA",M+ Liga de Campeones⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc
+
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="  M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png",group-title="LA LIGA",M+ Liga de Campeones⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=afbf1ef8812e7b0a0977fa3a0a2d3a6d3cbd6c6f
+
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="  M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png",group-title="LA LIGA",M+ Liga de Campeones⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=0f7842f8b6c26571e5a974407b61623e56e6a052
+
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="  M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png",group-title="LA LIGA",M+ Liga de Campeones⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=f3eea003e23f94dc2d527306de9dd386e3ebf4ba
+
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="  M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png",group-title="LA LIGA",M+ Liga de Campeones⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
+
+
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="  M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png",group-title="LA LIGA",M+ Liga de Campeones⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=a3197f5fa9d42f199d5bbe5a5c47ec4cfbf248cb
+
+
+
+
+
+
+
 
 
 
@@ -3461,6 +3516,7 @@ http://pgreatgre.top:8080/series/8081741587940693/e94f6d1cfba3/38515.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jack Ryan S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ASTHPt5T9wXtHn6K763YQqX2HF.jpg" ,group-title="🎞️SERIES🎞️",Jack Ryan S02 E08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://pgreatgre.top:8080/series/8081741587940693/e94f6d1cfba3/38516.mp4
+
 
 
 

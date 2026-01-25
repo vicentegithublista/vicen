@@ -6,10 +6,37 @@ EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ H
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD",group-title="LA LIGA",Movistar Plus⚽️
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD",group-title="LA LIGA",Movistar Plus⚽️
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 
+
+
+
+LALIGA EA SPORTS
+Barcelona - Oviedo 16:15
+Alavés - Betis 21:00
+Dzon liga 
+dda5d2cace9bc4cb0918e62bc50d657d4a10496a
+PREMIER LEAGUE
+Newcastle - Aston Villa 15:00
+Dzon 1
+d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+Crystal Palace - Chelsea 15:00
+Dzon 2
+b0eabe0fdd02fdd165896236765a9b753a2ff516
+LIGA SAUDÍ
+Al Riyadh - Al Hilal 18:30
+Vmos 
+4e99e755aa32c4bc043a4bb1cd1de35f9bd94dde
+TORNEO APERTURA
+Boca Juniors - Deportivo Riestra 22:30
+Campeones 
+e572a5178ff72eed7d1d751a18b4b3419699f370
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" ,group-title="LA LIGA",M+ LaLiga⚽️
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" ,group-title="LA LIGA",M+ LaLiga⚽️
@@ -2844,6 +2871,7 @@ http://pgreatgre.top:8080/series/8081741587940693/e94f6d1cfba3/38515.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jack Ryan S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ASTHPt5T9wXtHn6K763YQqX2HF.jpg" ,group-title="🎞️SERIES🎞️",Jack Ryan S02 E08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://pgreatgre.top:8080/series/8081741587940693/e94f6d1cfba3/38516.mp4
+
 
 
 

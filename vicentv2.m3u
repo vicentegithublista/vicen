@@ -17,22 +17,22 @@ http://127.0.0.1:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9
 
 #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="  M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png",group-title="LA LIGA",M+ Liga de Campeones⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=b028202ff335911db3118bceac027df3e8ef6c32
-
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="  M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png",group-title="LA LIGA",M+ Liga de Campeones⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=2b51710cee513e8939785fa3e7980f32d4e0415f
-
 
 #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="  M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png",group-title="LA LIGA",M+ Liga de Campeones⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=9db029dff6a9c637d1f670e78dbc1a479b9b406e
 
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="  M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png",group-title="LA LIGA",M+ Liga de Campeones⚽
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD",group-title="LA LIGA",Movistar Plus⚽️
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=85a8e0675bc27ddfd403b8f72953c606d07a8de8
+http://127.0.0.1:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD",group-title="LA LIGA",Movistar Plus⚽️
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 
 
 
@@ -95,10 +95,6 @@ http://127.0.0.1:6878/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
 
 #EXTINF:-1 tvg-logo=""tvg-id="M+ Liga de Campeones 4" ",group-title="LA LIGA",M+ Liga de Campeones 4⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=64f01629d4a19e70efd9e6778c397282ba087547
-
-#EXTINF:-1 tvg-logo=""tvg-id="M+ Liga de Campeones 4" ",group-title="LA LIGA",M+ Liga de Campeones 4⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c
 
 #EXTINF:-1 tvg-logo=""tvg-id="M+ Liga de Campeones 4" ",group-title="LA LIGA",M+ Liga de Campeones 4⚽
@@ -115,7 +111,7 @@ http://127.0.0.1:6878/ace/getstream?id=5bed693c6a22de55f1061c509bba5e3aeb2ea2aa
 
 
 
-#EXTINF:-1 tvg-logo="" tvg-id="M+ Liga de Campeones 6" ",group-title="LA LIGA",M+ Liga de Campeones 6⚽
+#EXTINF:-1 tvg-logo="" tvg-id="M+ Liga de Campeones 6" ",group-title="LA LIGA",Multichampions⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=bf10192dc72a98ee835a1b7ccac8b27737d02f25
 
@@ -133,15 +129,6 @@ http://127.0.0.1:6878/ace/getstream?id=bf10192dc72a98ee835a1b7ccac8b27737d02f25
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD",group-title="LA LIGA",Movistar Plus⚽️
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD",group-title="LA LIGA",Movistar Plus⚽️
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 
 
 
@@ -2869,5 +2856,6 @@ http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/406881.ts
       
      
     
+
 
 

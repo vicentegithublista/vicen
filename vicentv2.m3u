@@ -1657,7 +1657,6 @@ http://127.0.0.1:6878/ace/getstream?id=201eff8028934b71444bd0d9bf6e20269bf4f18b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=046ee806771fea126d620b8a3fb6fe9730254d74
 
-
 #EXTINF:-1,tvg-logo="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/netflix-icon.png" ,group-title="ESTRENOS",PADRE NO HAY MAS QUE UNO 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=4be1c70bc80a170b976d3bf0d7014e8ebdcc819f
@@ -1665,10 +1664,6 @@ http://127.0.0.1:6878/ace/getstream?id=4be1c70bc80a170b976d3bf0d7014e8ebdcc819f
 #EXTINF:-1,tvg-logo="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/netflix-icon.png" ,group-title="ESTRENOS",FRANKESTEIN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=93a2725017320015d4224d44a7810f89dfd54522
-
-#EXTINF:-1,tvg-logo="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/netflix-icon.png" ,group-title="ESTRENOS",EL CONJURO 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=daf4902f267fc7a12669695f41db5cccc243e836
 
 #EXTINF:-1,tvg-logo="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/netflix-icon.png" ,group-title="ESTRENOS",F1 LA PELICULA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -1710,9 +1705,6 @@ http://127.0.0.1:6878/ace/getstream?id=046ee806771fea126d620b8a3fb6fe9730254d74
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=f5832f07843545f60148a41c7920caf4813f60ef
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/netflix-icon.png" ,group-title="ESTRENOS",SISU 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=dec24aaebd2d98a07145ea223daa8057688c525e
 
 
 
@@ -2841,4 +2833,5 @@ http://pgreatgre.top:8080/series/8081741587940693/e94f6d1cfba3/38515.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jack Ryan S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ASTHPt5T9wXtHn6K763YQqX2HF.jpg"  ,group-title="➡️LISTA IPTV",Jack Ryan S02 E08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://pgreatgre.top:8080/series/8081741587940693/e94f6d1cfba3/38516.mp4
+
 

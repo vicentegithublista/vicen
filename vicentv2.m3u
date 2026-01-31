@@ -476,9 +476,9 @@ http://127.0.0.1:6878/ace/getstream?id=35e17cc84abc5e393b5acd688536a9681105f2d5
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 
 
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="  DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png",group-title="LA LIGA",DAZN EVENTS
+#EXTINF:-1 tvg-logo="" tvg-id="UK | TNT Sports 1" ,group-title="DAZN",🥊TNT SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=635b61c1f240449163260cd914d10d886a54fee3
+http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 
 #EXTINF:-1 tvg-logo="" tvg-id="Fight Box",group-title="DAZN",🥊Fight Box
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -489,20 +489,20 @@ http://127.0.0.1:6878/ace/getstream?id=d2374e2375a4275738e0dbed2f47d0114ad1cb64
 
 
 
-#EXTINF:-1 tvg-logo="" tvg-id="DAZN Baloncesto",group-title="DAZN",DAZN 1🏀BALONCESTO
+EXTINF:-1 tvg-logo="" tvg-id="DAZN Baloncesto",group-title="DAZN",DAZN 1🏀BALONCESTO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=7af3d01607359fd1777de3d34d8d505ee5591b82
 
-#EXTINF:-1 tvg-logo="" tvg-id="DAZN Baloncesto",group-title="DAZN",DAZN 1🏀BALONCESTO
+EXTINF:-1 tvg-logo="" tvg-id="DAZN Baloncesto",group-title="DAZN",DAZN 1🏀BALONCESTO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=a5f2161b0cabe910dc866b5abc6efe5d8f41fd7f
 
 
-#EXTINF:-1 tvg-logo="" tvg-id="DAZN Baloncesto",group-title="DAZN",DAZN 2🏀BALONCESTO
+EXTINF:-1 tvg-logo="" tvg-id="DAZN Baloncesto",group-title="DAZN",DAZN 2🏀BALONCESTO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=965b249321adbf3a1459f94c17f624022889fb8d
 
-#EXTINF:-1 tvg-logo="" tvg-id="DAZN Baloncesto",group-title="DAZN",DAZN 3🏀BALONCESTO
+EXTINF:-1 tvg-logo="" tvg-id="DAZN Baloncesto",group-title="DAZN",DAZN 3🏀BALONCESTO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=f4db7197aa4b9487014ba348fca3f78121ac2cae
 
@@ -1258,10 +1258,6 @@ http://127.0.0.1:6878/ace/getstream?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d
 #EXTINF:-1 tvg-logo="" tvg-id="UK | TNT Sports 1" ,group-title="INTERNACIONAL",🇬🇧TNT SPORTS 1🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-
-#EXTINF:-1 tvg-logo="" tvg-id="UK | TNT Sports 1" ,group-title="INTERNACIONAL",🇬🇧TNT SPORTS 1🇬🇧
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=363f1d119b1971237318c0d953ab6eea5eb7c592
 
 #EXTINF:-1 tvg-logo="" tvg-id="UK | TNT Sports 2" ,group-title="INTERNACIONAL",🇬🇧TNT SPORTS 2🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -2703,6 +2699,7 @@ http://pgreatgre.top:8080/series/8081741587940693/e94f6d1cfba3/38515.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jack Ryan S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ASTHPt5T9wXtHn6K763YQqX2HF.jpg",group-title="⏩LISTA⏪,Jack Ryan S02 E08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://pgreatgre.top:8080/series/8081741587940693/e94f6d1cfba3/38516.mp4
+
 
 
 

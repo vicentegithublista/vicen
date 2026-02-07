@@ -134,20 +134,20 @@ http://127.0.0.1:6878/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661&
 
 
 
-#EXTINF:-1 tvg-logo="" tvg-id="LaLiga TV Hypermotion",group-title="LA LIGA",LaLiga TV Hypermotion⚽
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png" tvg-id="LaLiga TV Hypermotion HD",group-title="LA LIGA",LaLiga TV Hypermotion⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=4636ed75106cb00e9c70cc2029edf0a4df7ad73f&pid=19419
 
-#EXTINF:-1 tvg-logo="" tvg-id="LaLiga TV Hypermotion",group-title="LA LIGA",LaLiga TV Hypermotion⚽
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png" tvg-id="LaLiga TV Hypermotion HD",group-title="LA LIGA",LaLiga TV Hypermotion⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=8ee52f6208e33706171856f99d2ed2dabd317f3a&pid=19419
 
-#EXTINF:-1 tvg-logo="" tvg-id="LaLiga TV Hypermotion",group-title="LA LIGA",LaLiga TV Hypermotion⚽
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png" tvg-id="LaLiga TV Hypermotion HD",group-title="LA LIGA",LaLiga TV Hypermotion⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=70f22be1286ef224b5e4e9451d9a42468152cda4&pid=19419
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Primera%20Federaci%C3%B3n.png" tvg-id=""Primera Federación""  ,group-title="LA LIGA",Primera Federación⚽
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Primera%20Federaci%C3%B3n.png" tvg-id="Primera Federación",group-title="LA LIGA",Primera Federación⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=599a2fda91aa55703e2c5a51562d9dbf5d3d31d9&pid=19419
 
@@ -156,13 +156,11 @@ http://127.0.0.1:6878/ace/getstream?id=599a2fda91aa55703e2c5a51562d9dbf5d3d31d9&
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-id="Real Madrid TV",group-title="LA LIGA",REAL MADRID TV⚽
+#EXTINF:-1 tvg-logo="" tvg-id="Real Madrid TV",group-title="LA LIGA",🇬🇧REAL MADRID TV⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-id="Real Madrid TV",group-title="LA LIGA",REAL MADRID TV⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://player.twitch.tv/?channel=realmadrid&parent=play.tdtchannels.com
+
 
 
 
@@ -2511,6 +2509,7 @@ http://pgreatgre.top:8080/series/8081741587940693/e94f6d1cfba3/38515.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jack Ryan S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ASTHPt5T9wXtHn6K763YQqX2HF.jpg",group-title="⏩LISTA⏪,Jack Ryan S02 E08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://pgreatgre.top:8080/series/8081741587940693/e94f6d1cfba3/38516.mp4
+
 
 
 

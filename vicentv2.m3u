@@ -5,6 +5,17 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD",group-title="✔️EVENTOS✔️",13:54 ALAVES⚽️GETAFE
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38&pid=19419
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD",group-title="✔️EVENTOS✔️"
+#EXTINF:-1 ,13:54 ALAVES⚽️GETAFE
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38&pid=19419
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD",group-title="✔️EVENTOS✔️",13:54 ALAVES⚽️GETAFE
@@ -37,21 +48,6 @@ http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38&
 http://127.0.0.1:6878/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a&pid=19419
 
 
-
-#EXTINF:1,tvg-logo="" tvg-id="DAZN Baloncesto",group-title="✔️EVENTOS✔️",🏀BALONCESTO
-#EXTVLCOPT:network-caching=1000
-http://127.0.0.1:6878/ace/getstream?id=5b5e0a59ea2c0ab00189def5927d66d709835d15
-
-
-#EXTINF:1,tvg-logo="" tvg-id="DAZN Baloncesto",group-title="✔️EVENTOS✔️",🏀BALONCESTO
-#EXTVLCOPT:network-caching=1000
-http://127.0.0.1:6878/ace/getstream?id=bed372c0cfd3c24090bf8c479719b5765d74be6d
-
-
-
-#EXTINF:1,tvg-logo="" tvg-id="DAZN Baloncesto",group-title="✔️EVENTOS✔️",🏀BALONCESTO
-#EXTVLCOPT:network-caching=1000
-http://127.0.0.1:6878/ace/getstream?id=b30a0318f531cae1233a11e8cda12f4cc39941c3
 
 
 
@@ -2549,6 +2545,7 @@ http://pgreatgre.top:8080/series/8081741587940693/e94f6d1cfba3/38515.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jack Ryan S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ASTHPt5T9wXtHn6K763YQqX2HF.jpg",group-title="⏩LISTA⏪,Jack Ryan S02 E08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://pgreatgre.top:8080/series/8081741587940693/e94f6d1cfba3/38516.mp4
+
 
 
 

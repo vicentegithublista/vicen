@@ -1,29 +1,13 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" refresh="3600"
 #EXTVLCOPT:network-caching=1000
 
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte",group-title="✔️EVENTOS✔️",JJ OO⛷️                                                                                MILANO CORTINA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD",group-title="✔️EVENTOS✔️",21:00⚽️                                                                WEST/UNITED
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151&pid=19419
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" tvg-id="DAZN 2",group-title="✔️EVENTOS✔️",20:20⚽️                                                                CHELSEA/LEEDS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516&pid=19419
-
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203.png" tvg-id="DAZN 3",group-title="✔️EVENTOS✔️",20:20⚽️                                                                TOTTENHAM/NEWCASTLE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -32,6 +16,14 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9&
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204.png" tvg-id="DAZN 4",group-title="✔️EVENTOS✔️",20:20⚽️                                                                EVERTON/BOURNEMOUTH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8&pid=19419
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte",group-title="✔️EVENTOS✔️",JJ OO⛷️                                                                                MILANO CORTINA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
 
 
 ⚽️ Fútbol - 20:30
@@ -1252,9 +1244,6 @@ http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/110057.ts
 https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8
 
 
-#EXTINF:-1tvg-id="Clan.TV"tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200",group-title="⏩LISTA⏪",Clan
-https://rtvelivestream.rtve.es/rtvesec/clan/clan_main_dvr.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Sur%20Andaluc%C3%ADa.png",tvg-id="Canal Sur Andalucía",⏩LISTA⏪",Canal Sur Andalucía
 https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
@@ -1296,19 +1285,64 @@ http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/316488.ts
 #EXTINF:-1tvg-id="LA1"tvg-name="CANALCOCINAFHD"tvg-logo="https://101blogdecocina.com/contentimg/18455820170716_281214_canal-cocina.png",group-title="⏩LISTA⏪",CANALCOCINA
 http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/110243.ts
 
-
-
 #EXTINF:-1 tvg-id="LA 1" tvg-name="A3SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png",group-title="⏩LISTA⏪",A3SERIES
 http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/110058.ts
 
+#EXTINF:-1tvg-id="Clan.TV"tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200",group-title="⏩LISTA⏪",Clan
+https://rtvelivestream.rtve.es/rtvesec/clan/clan_main_dvr.m3u8
+
+#EXTINF:-1,group-title="⏩LISTA⏪,Baby First
+http://181.198.105.69:8111/play/a1wm/index.m3u8
+
+#EXTINF:-1,group-title="⏩LISTA⏪,Baby TV
+http://181.198.105.69:8111/play/a13o/index.m3u8
+
+#EXTINF:-1,group-title="⏩LISTA⏪,Cartoon Network
+http://181.198.105.69:8111/play/a25b/index.m3u8
+
+#EXTINF:-1,group-title="⏩LISTA⏪,CNN Espanol
+http://181.198.105.69:8111/play/a2fu/index.m3u8
+
+#EXTINF:-1,group-title="⏩LISTA⏪,BBC News
+http://181.198.105.69:8111/play/a29v/index.m3u8
+
+#EXTINF:-1,group-title="⏩LISTA⏪,BBC World
+http://181.198.105.69:8111/play/a11j/index.m3u8
 
 
 
+#EXTINF:-1,group-title="⏩LISTA⏪,Claro Cinema
+http://181.198.105.69:8111/play/a2i7/index.m3u8
 
+#EXTINF:-1,group-title="⏩LISTA⏪,AMC 
+http://181.198.105.69:8111/play/a196/index.m3u8
 
+#EXTINF:-1,group-title="⏩LISTA⏪,AMC Series
+http://181.198.105.69:8111/play/a2al/index.m3u8
 
+#EXTINF:-1,group-title="⏩LISTA⏪,AXN
+http://181.198.105.69:8111/play/a1sa/index.m3u8
 
+#EXTINF:-1,group-title="⏩LISTA⏪,UNIVERSAL CHANNEL
+http://181.198.105.69:8111/play/a1up/index.m3u8
 
+#EXTINF:-1,group-title="⏩LISTA⏪,Universal
+http://181.198.105.69:8111/play/a1w9/index.m3u8
+
+#EXTINF:-1,group-title="⏩LISTA⏪,Universal Cinema 
+http://181.198.105.69:8111/play/a2gc/index.m3u8
+
+#EXTINF:-1,group-title="⏩LISTA⏪,Universal Comedy 
+http://181.198.105.69:8111/play/a2gd/index.m3u8
+
+#EXTINF:-1,group-title="⏩LISTA⏪,Universal Premiere
+http://181.198.105.69:8111/play/a2gb/index.m3u8
+
+#EXTINF:-1,group-title="⏩LISTA⏪,Warner Channel 
+http://181.198.105.69:8111/play/a1sx/index.m3u8
+
+#EXTINF:-1,group-title="⏩LISTA⏪,Animal Planet 
+http://181.198.105.69:8111/play/a1sp/index.m3u8
 
 
 
@@ -1321,6 +1355,31 @@ http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/110165.ts
 
 #EXTINF:-1 tvg-name="SKYSP0RTS L∆ LlG∆ HD" tvg-logo="http://mundo2.pro:80/images/9b522a6209596c2b7b32657412962238.png",group-title="⏩LISTA⏪",SKYSP0RTS
 http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/406837.ts
+
+
+#EXTINF:-1,group-title="⏩LISTA⏪,Claro Sports
+http://181.198.105.69:8111/play/a1wh/index.m3u8
+
+#EXTINF:-1,group-title="⏩LISTA⏪,DSPORTS 
+http://181.198.105.69:8111/play/a277/index.m3u8
+
+
+#EXTINF:-1,group-title="⏩LISTA⏪,DSPORTS 2 
+http://181.198.105.69:8111/play/a275/index.m3u8
+
+#EXTINF:-1,group-title="⏩LISTA⏪,TyC
+http://181.198.105.69:8111/play/a2gp/index.m3u8
+
+#EXTINF:-1,group-title="⏩LISTA⏪,Via X Esports
+http://181.198.105.69:8111/play/a12y/index.m3u8
+
+#EXTINF:-1,group-title="⏩LISTA⏪,Win Sports+
+http://181.198.105.69:8111/play/a2bz/index.m3u8
+
+#EXTINF:-1,group-title="⏩LISTA⏪,ZAPPING SPORTS 
+http://181.198.105.69:8111/play/a27b/index.m3u8
+
+
 
 
 
@@ -2405,96 +2464,4 @@ http://pgreatgre.top:8080/series/8081741587940693/e94f6d1cfba3/38515.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jack Ryan S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ASTHPt5T9wXtHn6K763YQqX2HF.jpg",group-title="⏩LISTA⏪,Jack Ryan S02 E08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://pgreatgre.top:8080/series/8081741587940693/e94f6d1cfba3/38516.mp4
-
-
-#EXTINF:-1 group-title="-",AMC 
-http://181.198.105.69:8111/play/a196/index.m3u8
-
-#EXTINF:-1 group-title="-",AMC Series
-http://181.198.105.69:8111/play/a2al/index.m3u8
-
-#EXTINF:-1 group-title="-",AXN
-http://181.198.105.69:8111/play/a1sa/index.m3u8
-
-#EXTINF:-1 group-title="-",Animal Planet 
-http://181.198.105.69:8111/play/a1sp/index.m3u8
-
-#EXTINF:-1 group-title="-",BBC News
-http://181.198.105.69:8111/play/a29v/index.m3u8
-
-#EXTINF:-1 group-title="-",BBC World
-http://181.198.105.69:8111/play/a11j/index.m3u8
-
-#EXTINF:-1 group-title="-",Baby First
-http://181.198.105.69:8111/play/a1wm/index.m3u8
-
-#EXTINF:-1 group-title="-",Baby TV
-http://181.198.105.69:8111/play/a13o/index.m3u8
-
-#EXTINF:-1 group-title="-",CNN Espanol
-http://181.198.105.69:8111/play/a2fu/index.m3u8
-
-
-#EXTINF:-1 group-title="-",Canal Las Estrellas
-http://181.198.105.69:8111/play/a2h5/index.m3u8
-
-
-#EXTINF:-1 group-title="-",Cartoon Network
-http://181.198.105.69:8111/play/a25b/index.m3u8
-
-
-#EXTINF:-1 group-title="-",Claro Cinema
-http://181.198.105.69:8111/play/a2i7/index.m3u8
-
-#EXTINF:-1 group-title="-",Claro Sports
-http://181.198.105.69:8111/play/a1wh/index.m3u8
-
-#EXTINF:-1 group-title="-",Comedy Central HD
-http://181.198.105.69:8111/play/a0zb/index.m3u8
-
-#EXTINF:-1 group-title="-",DSPORTS 2 
-http://181.198.105.69:8111/play/a275/index.m3u8
-
-#EXTINF:-1 group-title="-",DSPORTS 
-http://181.198.105.69:8111/play/a277/index.m3u8
-
-#EXTINF:-1 group-title="-",DSPORTS+ 
-http://181.198.105.69:8111/play/a276/index.m3u8
-
-#EXTINF:-1 group-title="-",TyC
-http://181.198.105.69:8111/play/a2gp/index.m3u8
-
-#EXTINF:-1 group-title="-",UNIVERSAL CHANNEL
-http://181.198.105.69:8111/play/a1up/index.m3u8
-
-
-#EXTINF:-1 group-title="-",Universal
-http://181.198.105.69:8111/play/a1ui/index.m3u8
-
-
-#EXTINF:-1 group-title="-",Universal
-http://181.198.105.69:8111/play/a1w9/index.m3u8
-
-#EXTINF:-1 group-title="-",Universal Cinema 
-http://181.198.105.69:8111/play/a2gc/index.m3u8
-
-#EXTINF:-1 group-title="-",Universal Comedy 
-http://181.198.105.69:8111/play/a2gd/index.m3u8
-
-#EXTINF:-1 group-title="-",Universal Premiere
-http://181.198.105.69:8111/play/a2gb/index.m3u8
-
-#EXTINF:-1 group-title="-",Via X Esports
-http://181.198.105.69:8111/play/a12y/index.m3u8
-
-#EXTINF:-1 group-title="-",Warner Channel 
-http://181.198.105.69:8111/play/a1sx/index.m3u8
-
-#EXTINF:-1 group-title="-",Win Sports+
-http://181.198.105.69:8111/play/a2bz/index.m3u8
-
-#EXTINF:-1 group-title="-",ZAPPING SPORTS 
-http://181.198.105.69:8111/play/a27b/index.m3u8
-
-
 

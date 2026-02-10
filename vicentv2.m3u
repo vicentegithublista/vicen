@@ -2,16 +2,9 @@
 #EXTVLCOPT:network-caching=1000
 
 
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png" tvg-id="LaLiga TV Hypermotion HD",group-title="✔️EVENTOS✔️",20:30⚽️                                                     RACING/MIRANDES
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte",group-title="✔️EVENTOS✔️",⛷️                                                                                MILANO CORTINA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=1f75d92098580443857caa95a719103cb83781b0&pid=19419
-
-
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="  DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png",group-title="✔️EVENTOS✔️",21:00⚽️                                                                          VILLARREAL/ESPAÑOL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a&pid=19419
+http://svipapi1.top:8080/movie/VODMAX2171736346336001/e5be38a0beb7/36460.mkv
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte",group-title="✔️EVENTOS✔️",JJ OO⛷️                                                                                MILANO CORTINA
@@ -1313,8 +1306,6 @@ https://ztnr.rtve.es/ztnr/6924117.m3u8
 https://ztnr.rtve.es/ztnr/16510071.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="La 7 MURCIA " tvg-logo="http://dplatino.net:8080/images/4af52202f77beb11ba59ce2056aa7878.png" group-title="(TV) Europa",La 7 MURCIA
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/244149.ts
 
 
 
@@ -2373,6 +2364,7 @@ http://pgreatgre.top:8080/series/8081741587940693/e94f6d1cfba3/38515.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jack Ryan S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ASTHPt5T9wXtHn6K763YQqX2HF.jpg",group-title="⏩LISTA⏪,Jack Ryan S02 E08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://pgreatgre.top:8080/series/8081741587940693/e94f6d1cfba3/38516.mp4
+
 
 
 

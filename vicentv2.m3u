@@ -26,30 +26,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8&
 https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
 
 
-⚽️ Fútbol - 20:30
-🏆 PREMIER LEAGUE
-🆚 Chelsea - Leeds
-🖥 DAZN 2
 
-⚽️ Fútbol - 20:30
-🏆 PREMIER LEAGUE
-🆚 Tottenham - Newcastle
-🖥 DAZN 3
 
-⚽️ Fútbol - 20:30
-🏆 PREMIER LEAGUE
-🆚 Everton - Bournemouth
-🖥 DAZN 4
-
-⚽️ Fútbol - 20:45
-🏆 COPA DE ALEMANIA
-🆚 Hertha Berlín - Friburgo
-🖥 GOL
-
-⚽️ Fútbol - 21:15
-🏆 PREMIER LEAGUE
-🆚 West Ham - Manchester Utd.
-🖥 Movistar Plus+
 
 
 
@@ -1344,6 +1322,8 @@ http://181.198.105.69:8111/play/a1sx/index.m3u8
 #EXTINF:-1,group-title="⏩LISTA⏪,Animal Planet 
 http://181.198.105.69:8111/play/a1sp/index.m3u8
 
+#EXTINF:-1,group-title="⏩LISTA⏪,Via X Esports
+http://181.198.105.69:8111/play/a12y/index.m3u8
 
 
 
@@ -1360,24 +1340,13 @@ http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/406837.ts
 #EXTINF:-1,group-title="⏩LISTA⏪,Claro Sports
 http://181.198.105.69:8111/play/a1wh/index.m3u8
 
-#EXTINF:-1,group-title="⏩LISTA⏪,DSPORTS 
-http://181.198.105.69:8111/play/a277/index.m3u8
-
-
-#EXTINF:-1,group-title="⏩LISTA⏪,DSPORTS 2 
-http://181.198.105.69:8111/play/a275/index.m3u8
 
 #EXTINF:-1,group-title="⏩LISTA⏪,TyC
 http://181.198.105.69:8111/play/a2gp/index.m3u8
 
-#EXTINF:-1,group-title="⏩LISTA⏪,Via X Esports
-http://181.198.105.69:8111/play/a12y/index.m3u8
 
 #EXTINF:-1,group-title="⏩LISTA⏪,Win Sports+
 http://181.198.105.69:8111/play/a2bz/index.m3u8
-
-#EXTINF:-1,group-title="⏩LISTA⏪,ZAPPING SPORTS 
-http://181.198.105.69:8111/play/a27b/index.m3u8
 
 
 
@@ -2464,4 +2433,5 @@ http://pgreatgre.top:8080/series/8081741587940693/e94f6d1cfba3/38515.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jack Ryan S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ASTHPt5T9wXtHn6K763YQqX2HF.jpg",group-title="⏩LISTA⏪,Jack Ryan S02 E08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://pgreatgre.top:8080/series/8081741587940693/e94f6d1cfba3/38516.mp4
+
 

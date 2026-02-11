@@ -15,6 +15,10 @@ http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553&
 
 
 
+
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" tvg-id="DAZN 2",group-title="✔️EVENTOS✔️",20:30⚽️                                                    City-Fulham
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516&pid=19419
@@ -23,9 +27,19 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516&
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9&pid=19419
 
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD",group-title="✔️EVENTOS✔️",21:00⚽️                                                                Athletic-Real
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38&pid=19419
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" tvg-id="Movistar Plus+ HD",group-title="✔️EVENTOS✔️",21:00⚽️                                                                Athletic-Real
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD",group-title="✔️EVENTOS✔️",21:15⚽️                                                                  Sunderland-Liverpool
@@ -2460,6 +2474,7 @@ http://pgreatgre.top:8080/series/8081741587940693/e94f6d1cfba3/38515.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jack Ryan S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ASTHPt5T9wXtHn6K763YQqX2HF.jpg",group-title="⏩LISTA⏪,Jack Ryan S02 E08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://pgreatgre.top:8080/series/8081741587940693/e94f6d1cfba3/38516.mp4
+
 
 
 

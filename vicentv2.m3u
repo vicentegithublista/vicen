@@ -1401,7 +1401,8 @@ http://181.198.105.69:8111/play/a1sp/index.m3u8
 #EXTINF:-1,group-title="⏩LISTA⏪,Via X Esports
 http://181.198.105.69:8111/play/a12y/index.m3u8
 
-
+#EXTINF:-1 tvg-name="ES: (FHD) M+ DEPORTES",group-title="⏩LISTA⏪,M+ DEPORTES
+http://vipgerretger.top:8080/live/VIP0141169518110921/3bf64771cd10/286.m3u8
 
 
 #EXTINF:-1 tvg-id="LA 1" tvg-name="M0VISTAR VAMOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png.png",group-title="⏩LISTA⏪",M0VISTAR VAMOS
@@ -1430,11 +1431,6 @@ http://vipgerretger.top:8080/live/VIP0141169518110921/3bf64771cd10/265.m3u8
 http://vipgerretger.top:8080/live/VIP0141169518110921/3bf64771cd10/97195.m3u8
 
 
-
-
-
-
-
 #EXTINF:-1 tvg-name="ES: (FHD REPUESTO) DAZN F1",group-title="⏩LISTA⏪,DAZN F1
 http://vipgerretger.top:8080/live/VIP0141169518110921/3bf64771cd10/97194.m3u8
 
@@ -1442,24 +1438,9 @@ http://vipgerretger.top:8080/live/VIP0141169518110921/3bf64771cd10/97194.m3u8
 http://vipgerretger.top:8080/live/VIP0141169518110921/3bf64771cd10/251.m3u8
 
 
-#EXTINF:-1 tvg-name=" DAZN F1",group-title="⏩LISTA⏪,DAZN F1
-http://vipgerretger.top:8080/live/VIP0141169518110921/3bf64771cd10/97147.m3u8
 
 
 
-#EXTINF:-1 tvg-name="ES: (HD) DAZN F1",group-title="⏩LISTA⏪,DAZN F1
-http://vipgerretger.top:8080/live/VIP0141169518110921/3bf64771cd10/56469.m3u8
-
-
-
-
-#EXTINF:-1 tvg-name="ES: (FHD) M+ DEPORTES",group-title="⏩LISTA⏪,M+ DEPORTES
-http://vipgerretger.top:8080/live/VIP0141169518110921/3bf64771cd10/286.m3u8
-
-
-
-#EXTINF:-1 tvg-name="ES: (FHD) M+ VAMOS",group-title="⏩LISTA⏪,M+ VAMOS
-http://vipgerretger.top:8080/live/VIP0141169518110921/3bf64771cd10/632.m3u8
 
 
 
@@ -2828,6 +2809,7 @@ http://pgreatgre.top:8080/series/8081741587940693/e94f6d1cfba3/38515.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jack Ryan S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ASTHPt5T9wXtHn6K763YQqX2HF.jpg",group-title="⏩LISTA⏪,Jack Ryan S02 E08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://pgreatgre.top:8080/series/8081741587940693/e94f6d1cfba3/38516.mp4
+
 
 
 

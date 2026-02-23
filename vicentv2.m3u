@@ -1369,7 +1369,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1596a3988b84a4d2711fd380eb8a53256ad74ae&
 
 
 
-
+#EXTINF:-1 ,group-title="ESTRENOS", tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9PXZIUsSDh4alB80jheWX4fhZmy.jpg",F1 La pelicula (2025) Web dl Hd 1080p  (7.7)
+acestream://1b9f1939215752a3032656187b2fc2532f84808c
 
 #EXTINF:-1 ,group-title="ESTRENOS", tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg",Mision Imposible Sentencia Final (2025) BluRay 4k 2160P (7.2)
 acestream://f0dac0a70856a55c140b385305b3c050d04cffe0
@@ -1448,9 +1449,6 @@ acestream://ed5ff1a2ebe0ef6a6f261ff31d8b2d51b3f86c4c
 
 #EXTINF:-1 ,group-title="ESTRENOS", tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",Sonic 3 La pelicula (2025) BluRay 4k 2160P (7.8)
 acestream://e9b212a0ce0d7565f49083b0b0b0bff3735a461a
-
-#EXTINF:-1 ,group-title="ESTRENOS", tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iEscED4NZCHsbA5maY4jnd3Z7xh.jpg",Sniper La Ultima Resistencia (2025) BluRay 720p (6.2*)
-acestream://9225617bcb27e1398a8ad7795f6a3ab62c103839
 
 #EXTINF:-1 ,group-title="ESTRENOS", tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iEscED4NZCHsbA5maY4jnd3Z7xh.jpg",Sniper La Ultima Resistencia (2025) BluRay 1080p (6.2*)
 acestream://43f6fb1fc670d989b5ab07f2228a228de646fb74
@@ -1803,9 +1801,6 @@ acestream://f9f685741bcebfaf45845929dd4b7f04e8058d7a
 #EXTINF:-1 ,group-title="ESTRENOS", tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8DyAgM340pP402ABl1Jt0uQ7tgZ.jpg",Amenaza a la Casa Blanca (2025) BluRay 720pRip (5.5)
 acestream://01e04cf5599caa9956f909eac33c98642940b382
 
-#EXTINF:-1 ,group-title="ESTRENOS", tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9PXZIUsSDh4alB80jheWX4fhZmy.jpg",F1 La pelicula (2025) Web dl Hd 1080p  (7.7)
-acestream://1b9f1939215752a3032656187b2fc2532f84808c
-
 
 
 
@@ -2019,4 +2014,5 @@ https://ztnr.rtve.es/ztnr/6924117.m3u8
 
 #EXTINF:-1tvg-id="RTVE_Viajes.TV"tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200",group-title="⏩LISTA⏪",tvg-name="RTVETalent",RTVETalent
 https://ztnr.rtve.es/ztnr/16510071.m3u8
+
 

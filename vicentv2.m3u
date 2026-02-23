@@ -166,10 +166,6 @@ http://127.0.0.1:6878/ace/getstream?id=b63fcadc2390455d8a328f6c16b8b0a9adec21a3
 http://127.0.0.1:6878/ace/getstream?id=a70a1605f69c8379e04094df96922a42adfbb431
 
 
-#EXTINF:0,tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sports%2016.png",group-title="LA LIGA",⚽️SKY SPORTS LA LIGA   
-#EXTVLCOPT:network-caching=1000
-http://127.0.0.1:6878/ace/getstream?id=d58f619d860d29cd47720055b9bb842199971da1
-
 
 
 #EXTINF:0,tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sports%2016.png",group-title="LA LIGA",⚽️SKY SPORTS LA LIGA 
@@ -1745,6 +1741,7 @@ https://ztnr.rtve.es/ztnr/6924117.m3u8
 
 #EXTINF:-1tvg-id="RTVE_Viajes.TV"tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200",group-title="⏩LISTA⏪",tvg-name="RTVETalent",RTVETalent
 https://ztnr.rtve.es/ztnr/16510071.m3u8
+
 
 
 

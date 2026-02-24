@@ -1,42 +1,80 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" refresh="3600"
 
 
+#EXTINF:0tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png"tvg-id="M+ LIGA DE CAMPEONES"group-title="✔️EVENTOS✔️",18:45⚽️Atletico-Brujas                                                                                          
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
 
+#EXTINF:0tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png"tvg-id="M+ LIGA DE CAMPEONES"group-title="✔️EVENTOS✔️",18:45⚽️Atletico-Brujas                                                                                          
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920
 
-⚽ Fútbol - 18:45
-🏆 CHAMPIONS LEAGUE
-🆚 At. Madrid - Brujas
-🖥 M+ Liga de Campeones
+#EXTINF:0tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png"tvg-id="M+ LIGA DE CAMPEONES"group-title="✔️EVENTOS✔️",18:45⚽️Atletico-Brujas                                                                                          
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439
 
+#EXTINF:0tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png"tvg-id="M+ LIGA DE CAMPEONES"group-title="✔️EVENTOS✔️",18:45⚽️Atletico-Brujas                                                                                          
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=2b51710cee513e8939785fa3e7980f32d4e0415f
 
-⚽ Fútbol - 21:00
-🏆 CHAMPIONS LEAGUE
-🆚 Bayer Leverkusen - Olympiacos
-🖥 M+ Liga de Campeones 2
-
-⚽ Fútbol - 21:00
-🏆 CHAMPIONS LEAGUE
-🆚 Inter - Bodo/Glimt
-🖥 M+ Liga de Campeones 3
-
-⚽ Fútbol - 21:00
-🏆 CHAMPIONS LEAGUE
-🆚 Newcastle - Qarabag
-🖥 M+ Liga de Campeones 5
+#EXTINF:0tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png"tvg-id="M+ LIGA DE CAMPEONES"group-title="✔️EVENTOS✔️",18:45⚽️Atletico-Brujas                                                                                          
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc
 
 
 
-#EXTINF:0,tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_2.png" tvg-id="M+ Deportes 2 HD",group-title="✔️EVENTOS✔️",11:00🎾Torneo de Dubai
+
+#EXTINF:0tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png"tvg-id="M+ Liga de Campeones 2 HD"group-title="✔️EVENTOS✔️",21:00⚽️Bayer-Olympiacos 
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
+
+#EXTINF:0tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png"tvg-id="M+ Liga de Campeones 2 HD"group-title="✔️EVENTOS✔️",21:00⚽️Bayer-Olympiacos 
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb
+
+
+
+
+
+#EXTINF:0tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png"tvg-id="M+ Liga de Campeones 3"group-title="✔️EVENTOS✔️",21:00⚽️Inter-Bodo 
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+
+
+
+
+
+
+#EXTINF:0tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png"tvg-id="M+ Liga de Campeones 4"group-title="✔️EVENTOS✔️",21:00⚽️MULTICHAMPIONS 
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
+
+#EXTINF:0tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png"tvg-id="M+ Liga de Campeones 4"group-title="✔️EVENTOS✔️",21:00⚽️MULTICHAMPIONS 
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=53cd86466d1faed03a607be92af601f7e8da128f
+
+
+
+
+#EXTINF:0tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png"tvg-id="M+ Liga de Campeones 5"group-title="✔️EVENTOS✔️",21:00⚽️Newcastle-Qarabag
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=5620c0ce3dcbf14a6375cb2c2d681207f45eb97d
+
+
+
+
+
+EXTINF:0,tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_2.png" tvg-id="M+ Deportes 2 HD",group-title="✔️EVENTOS✔️",11:00🎾Torneo de Dubai
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=6b15368775693c33c49fab02e7900c1976a5da90
                          
-#EXTINF:0,tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD",group-title="✔️EVENTOS✔️",21:00⚽️Alaves-Girona    
+EXTINF:0,tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD",group-title="✔️EVENTOS✔️",21:00⚽️Alaves-Girona    
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 
 
 
-#EXTINF:0,tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD",group-title="✔️EVENTOS✔️",21:00⚽️Everton-M.United
+EXTINF:0,tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD",group-title="✔️EVENTOS✔️",21:00⚽️Everton-M.United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151&pid=19419
 
@@ -1778,6 +1816,7 @@ https://ztnr.rtve.es/ztnr/6924117.m3u8
 
 #EXTINF:-1tvg-id="RTVE_Viajes.TV"tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200",group-title="⏩LISTA⏪",tvg-name="RTVETalent",RTVETalent
 https://ztnr.rtve.es/ztnr/16510071.m3u8
+
 
 
 

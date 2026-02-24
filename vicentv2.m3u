@@ -1,40 +1,13 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" refresh="3600"
 
-Programación de Eventos Deportivos by @Quillito
 
-📆Martes 24 de Febrero de 2026📆
 
-🏆 Número total de eventos hoy: 9
-
-🏀 NBA - 01:00
-🏆 LIGA REGULAR
-🆚 San Antonio Spurs - Detroit Pistons
-🖥 DAZN Baloncesto 2
-
-⚽ Fútbol - 14:00
-🏆 YOUTH LEAGUE
-🆚 Inter - Betis
-🖥 M+ Liga de Campeones
 
 ⚽ Fútbol - 18:45
 🏆 CHAMPIONS LEAGUE
 🆚 At. Madrid - Brujas
 🖥 M+ Liga de Campeones
 
-⚽ Fútbol - 20:00
-🏆 LIGA SAUDÍ
-🆚 Al Taawoun - Al Hilal
-🖥 M+ Vamos
-
-🤾 Balonmano - 20:45
-🏆 EUROPEAN LEAGUE
-🆚 Granollers - Oporto
-🖥 DAZN 1
-
-🤾 Balonmano - 20:45
-🏆 EUROPEAN LEAGUE
-🆚 Bidasoa - Kiel
-🖥 DAZN 2
 
 ⚽ Fútbol - 21:00
 🏆 CHAMPIONS LEAGUE
@@ -52,9 +25,6 @@ Programación de Eventos Deportivos by @Quillito
 🖥 M+ Liga de Campeones 5
 
 
-Fuente: MARCA.com
-
-🤖: @eventos_deportivos_bot
 
 #EXTINF:0,tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_2.png" tvg-id="M+ Deportes 2 HD",group-title="✔️EVENTOS✔️",11:00🎾Torneo de Dubai
 #EXTVLCOPT:network-caching=1000
@@ -1808,6 +1778,7 @@ https://ztnr.rtve.es/ztnr/6924117.m3u8
 
 #EXTINF:-1tvg-id="RTVE_Viajes.TV"tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200",group-title="⏩LISTA⏪",tvg-name="RTVETalent",RTVETalent
 https://ztnr.rtve.es/ztnr/16510071.m3u8
+
 
 
 

@@ -46,11 +46,6 @@ http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b
 
 
 
-#EXTINF:0tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png"tvg-id="M+ Liga de Campeones HD"group-title="✔️EVENTOS✔️",21:00⚽️R.Madrid-Benfica                                                                                                          
-#EXTVLCOPT:network-caching=1000
-http://127.0.0.1:6878/ace/getstream?id=91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920
-
-
 #EXTINF:0tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png"tvg-id="M+ Liga de Campeones 2 HD"group-title="✔️EVENTOS✔️",21:00⚽️PSG-Mónaco
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
@@ -94,22 +89,17 @@ http://127.0.0.1:6878/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
 
 
 
-
-
-
-
-
 #EXTINF:0tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png"tvg-id="M+ Liga de Campeones HD"group-title="LA LIGA",⚽M+ Liga de Campeones                                                                                                          
-#EXTVLCOPT:network-caching=1000
-http://127.0.0.1:6878/ace/getstream?id=91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920
-
-#EXTINF:0tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png"tvg-id="M+ Liga de Campeones HD"group-title="LA LIGA",⚽M+ Liga de Campeones                                                                                                           
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9
 
 #EXTINF:0tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png"tvg-id="M+ Liga de Campeones HD"group-title="LA LIGA",⚽M+ Liga de Campeones                                                                                                           
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=9db029dff6a9c637d1f670e78dbc1a479b9b406e
+
+#EXTINF:0tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png"tvg-id="M+ Liga de Campeones HD"group-title="LA LIGA",⚽M+ Liga de Campeones                                                                                                           
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
 
 
 
@@ -1728,6 +1718,7 @@ https://ztnr.rtve.es/ztnr/6924117.m3u8
 
 #EXTINF:-1tvg-id="RTVE_Viajes.TV"tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200",group-title="⏩LISTA⏪",tvg-name="RTVETalent",RTVETalent
 https://ztnr.rtve.es/ztnr/16510071.m3u8
+
 
 
 

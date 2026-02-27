@@ -1590,14 +1590,34 @@ https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 
 
-#EXTINF:-1 tvg-id="LA 1" tvg-name="LA SEXTA FHD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_TDT/La_Sexta.png",group-title="⏩LISTA⏪",LA SEXTA
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/110057.ts
-
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/24%20Horas.png" tvg-id="24 Horas",group-title="⏩LISTA⏪",24 Horas
 https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8
 
+#EXTINF:-1 tvg-id="RTVE_Conciertos_R3.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Conciertos Radio 3 (RTVE)",Conciertos Radio 3 (RTVE)
+https://ztnr.rtve.es/ztnr/6924117.m3u8
+#EXTINF:-1 tvg-id="RTVE_Cuentame.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Cuéntame (RTVE)",Cuéntame (RTVE)
+https://ztnr.rtve.es/ztnr/6909843.m3u8
+#EXTINF:-1 tvg-id="RTVE_Promesa.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="La promesa (RTVE)",La promesa (RTVE)
+https://ztnr.rtve.es/ztnr/2472039.m3u8
+#EXTINF:-1 tvg-id="RTVE_Epoca.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="La Revuelta (RTVE)",La Revuelta (RTVE)
+https://ztnr.rtve.es/ztnr/16464388.m3u8
+#EXTINF:-1 tvg-id="RTVE_Series.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Saber y ganar (RTVE)",Saber y ganar (RTVE)
+https://ztnr.rtve.es/ztnr/6922467.m3u8
+#EXTINF:-1 tvg-id="RTVE_SomosCine.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Somos Cine (RTVE)",Somos Cine (RTVE)
+https://ztnr.rtve.es/ztnr/6909845.m3u8
+#EXTINF:-1 tvg-id="RTVE_Cocina.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Cocina (RTVE)",Cocina (RTVE)
+https://ztnr.rtve.es/ztnr/16656232.m3u8
+#EXTINF:-1 tvg-id="RTVE_Moderna.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="La moderna (RTVE)",La moderna (RTVE)
+https://ztnr.rtve.es/ztnr/16464377.m3u8
+#EXTINF:-1 tvg-id="RTVE_En_Play.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="En Play (RTVE)",En Play (RTVE)
+https://ztnr.rtve.es/ztnr/6712399.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Premios Goya (RTVE)",Premios Goya (RTVE)
+https://ztnr.rtve.es/ztnr/16824261.m3u8
+
+
+#EXTINF:-1 tvg-id="LA 1" tvg-name="LA SEXTA FHD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_TDT/La_Sexta.png",group-title="⏩LISTA⏪",LA SEXTA
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/110057.ts
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Sur%20Andaluc%C3%ADa.png",tvg-id="Canal Sur Andalucía",⏩LISTA⏪",Canal Sur Andalucía
@@ -1736,26 +1756,7 @@ http://181.198.105.69:8111/play/a2bz/index.m3u8
 
 
 
-#EXTINF:-1tvg-id="RTVE_Cuentame.TV"tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200",group-title="⏩LISTA⏪",tvg-name="RTVECuéntame",RTVECuéntame
-https://ztnr.rtve.es/ztnr/6909843.m3u8
 
-#EXTINF:-1tvg-id="RTVE_SomosCine.TV"tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200",group-title="⏩LISTA⏪",tvg-name="RTVESomosCine",RTVESomosCine
-https://ztnr.rtve.es/ztnr/6909845.m3u8
-
-#EXTINF:-1tvg-id="RTVE_Promesa.TV"tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200",group-title="⏩LISTA⏪",tvg-name="RTVELapromesa",RTVELapromesa
-https://ztnr.rtve.es/ztnr/2472039.m3u8
-
-#EXTINF:-1tvg-id="RTVE_Epoca.TV"tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200",group-title="⏩LISTA⏪",tvg-name="RTVELaRevuelta",RTVELaRevuelta
-https://ztnr.rtve.es/ztnr/16464388.m3u8
-
-#EXTINF:-1tvg-id="RTVE_Series.TV"tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200",group-title="⏩LISTA⏪",tvg-name="RTVESaberyganar",RTVESaberyganar
-https://ztnr.rtve.es/ztnr/6922467.m3u8
-
-#EXTINF:-1tvg-id="RTVE_Conciertos_R3.TV"tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200",group-title="⏩LISTA⏪",tvg-name="RTVEConciertosRadio3",🎬RTVEConciertosRadio3
-https://ztnr.rtve.es/ztnr/6924117.m3u8
-
-#EXTINF:-1tvg-id="RTVE_Viajes.TV"tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200",group-title="⏩LISTA⏪",tvg-name="RTVETalent",RTVETalent
-https://ztnr.rtve.es/ztnr/16510071.m3u8
 
 #EXTINF:-1 tvg-id="13.TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="TRECE",TRECE
 https://live-edge-ff-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
@@ -1871,26 +1872,8 @@ https://ztnr.rtve.es/ztnr/6712411.m3u8
 https://ztnr.rtve.es/ztnr/6712456.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Hd2WYs49wYCBMAphVpvvpBzd-EJFU8XFQgccPIw=s200" group-title="⏩LISTA⏪", tvg-name="¡HOLA! Play",¡HOLA! Play
 https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
-#EXTINF:-1 tvg-id="RTVE_Conciertos_R3.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Conciertos Radio 3 (RTVE)",Conciertos Radio 3 (RTVE)
-https://ztnr.rtve.es/ztnr/6924117.m3u8
-#EXTINF:-1 tvg-id="RTVE_Cuentame.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Cuéntame (RTVE)",Cuéntame (RTVE)
-https://ztnr.rtve.es/ztnr/6909843.m3u8
-#EXTINF:-1 tvg-id="RTVE_Promesa.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="La promesa (RTVE)",La promesa (RTVE)
-https://ztnr.rtve.es/ztnr/2472039.m3u8
-#EXTINF:-1 tvg-id="RTVE_Epoca.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="La Revuelta (RTVE)",La Revuelta (RTVE)
-https://ztnr.rtve.es/ztnr/16464388.m3u8
-#EXTINF:-1 tvg-id="RTVE_Series.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Saber y ganar (RTVE)",Saber y ganar (RTVE)
-https://ztnr.rtve.es/ztnr/6922467.m3u8
-#EXTINF:-1 tvg-id="RTVE_SomosCine.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Somos Cine (RTVE)",Somos Cine (RTVE)
-https://ztnr.rtve.es/ztnr/6909845.m3u8
-#EXTINF:-1 tvg-id="RTVE_Cocina.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Cocina (RTVE)",Cocina (RTVE)
-https://ztnr.rtve.es/ztnr/16656232.m3u8
-#EXTINF:-1 tvg-id="RTVE_Moderna.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="La moderna (RTVE)",La moderna (RTVE)
-https://ztnr.rtve.es/ztnr/16464377.m3u8
-#EXTINF:-1 tvg-id="RTVE_En_Play.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="En Play (RTVE)",En Play (RTVE)
-https://ztnr.rtve.es/ztnr/6712399.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Premios Goya (RTVE)",Premios Goya (RTVE)
-https://ztnr.rtve.es/ztnr/16824261.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Canal Parlamento",Canal Parlamento
 https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Congreso de los Diputados",Congreso de los Diputados
@@ -2474,6 +2457,7 @@ https://directo.tuwebtv.es/canal1.m3u8
 https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/RegiondeMurciaRM/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Consejo de Gobierno de la Región de Murcia",Consejo de Gobierno de la Región de Murcia
 https://crmlive.redctnet.es/liveedge/ConsejoGob/playlist.m3u8
+
 
 
 

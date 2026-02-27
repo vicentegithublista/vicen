@@ -351,6 +351,9 @@ https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist.m
 https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8?ads_amagi_channel_id=941&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB17&ads_content_genre=sports&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=149.102.236.246&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_content_id=6347&ads_rtv_content_language=es&ads_rtvid=271859&ads_streaming_id=f7305b6e-1ba6-4ff5-a1e8-85bebd5a4971&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
 
+#EXTINF:0tvg-logo="https://graph.facebook.com/futsalmafer.tv/picture?width=200&height=200"tvg-name="Futsalmafer.tv"group-title="LA LIGA",Futsalmafer.tv⚽
+#EXTVLCOPT:network-caching=1000
+https://play.agenciastreaming.com:8081/futsalmafertv/index.m3u8
 
 
 
@@ -1601,28 +1604,50 @@ acestream://0091345d940c59b6c82424bde7731d39c1a6160f
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" tvg-id="La 1 HD",group-title="⏩LISTA⏪",La 1
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 
-
-#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/2008842210414915584/zIp_go25_200x200.jpg" group-title="⏩LISTA⏪", tvg-name="La 1",La 1
-https://ztnr.rtve.es/ztnr/1688877.m3u8
-#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/2008842210414915584/zIp_go25_200x200.jpg" group-title="⏩LISTA⏪", tvg-name="La 1",La 1
-https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
-#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/2008842210414915584/zIp_go25_200x200.jpg" group-title="⏩LISTA⏪", tvg-name="La 1",La 1
-https://d2jws8nf49xuk0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ikffw175xm6u/La1ES.m3u8
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kqgHWySi5xprs1VFCNCX0IKNT8yXBLZC43JMoB8j0JUto=s200" group-title="⏩LISTA⏪", tvg-name="La 2",La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
-#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kqgHWySi5xprs1VFCNCX0IKNT8yXBLZC43JMoB8j0JUto=s200" group-title="⏩LISTA⏪", tvg-name="La 2",La 2
-https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
-#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kqgHWySi5xprs1VFCNCX0IKNT8yXBLZC43JMoB8j0JUto=s200" group-title="⏩LISTA⏪", tvg-name="La 2",La 2
-https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
 
+#EXTINF:-1 tvg-id="LA 1" tvg-name="LA SEXTA FHD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_TDT/La_Sexta.png",group-title="⏩LISTA⏪",LA SEXTA
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/110057.ts
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Sur%20Andaluc%C3%ADa.png",tvg-id="Canal Sur Andalucía",⏩LISTA⏪",Canal Sur Andalucía
+https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
 
+#EXTINF:-1 tvg-id="LA 1" tvg-name="LA SEXTA FHD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_TDT/La_Sexta.png",group-title="⏩LISTA⏪",LA SEXTA
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/110057.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Sur%20Andaluc%C3%ADa.png",tvg-id="Canal Sur Andalucía",⏩LISTA⏪",Canal Sur Andalucía
+https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/24%20Horas.png" tvg-id="24 Horas",group-title="⏩LISTA⏪",24 Horas
 https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8
+
+#EXTINF:-1tvg-id="Clan.TV"tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200",group-title="⏩LISTA⏪",Clan
+https://rtvelivestream.rtve.es/rtvesec/clan/clan_main_dvr.m3u8
+
+#EXTINF:-1,group-title="⏩LISTA⏪,Baby First
+http://181.198.105.69:8111/play/a1wm/index.m3u8
+
+#EXTINF:-1,group-title="⏩LISTA⏪,Baby TV
+http://181.198.105.69:8111/play/a13o/index.m3u8
+
+#EXTINF:-1,group-title="⏩LISTA⏪,Cartoon Network
+http://181.198.105.69:8111/play/a25b/index.m3u8
 
 #EXTINF:-1 tvg-id="RTVE_Conciertos_R3.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Conciertos Radio 3 (RTVE)",Conciertos Radio 3 (RTVE)
 https://ztnr.rtve.es/ztnr/6924117.m3u8
@@ -1645,17 +1670,6 @@ https://ztnr.rtve.es/ztnr/6712399.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Premios Goya (RTVE)",Premios Goya (RTVE)
 https://ztnr.rtve.es/ztnr/16824261.m3u8
 
-
-#EXTINF:-1 tvg-id="LA 1" tvg-name="LA SEXTA FHD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_TDT/La_Sexta.png",group-title="⏩LISTA⏪",LA SEXTA
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/110057.ts
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Sur%20Andaluc%C3%ADa.png",tvg-id="Canal Sur Andalucía",⏩LISTA⏪",Canal Sur Andalucía
-https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
-
-
-
-
 #EXTINF:-1tvg-id=""tvg-name="IberaliaFHD|opc-1|"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThRYIPmekP-0RicarqfH1RSy_OkgbkzSbt9A&s",group-title="⏩LISTA⏪",Iberalia
 http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/316531.ts
 
@@ -1670,7 +1684,6 @@ http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/316540.ts
 
 #EXTINF:-1tvg-id=""tvg-name="DiscoveryFHD|opc-1|"tvg-logo="https://www.pngkey.com/png/full/719-7191160_logo-discovery-channel-png-discovery-channel-logo.png",group-title="⏩LISTA⏪",Discovery
 http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/316467.ts
-
 
 #EXTINF:-1tvg-id=""tvg-name="HistoriaFHD|opc-1|"tvg-logo="https://www.kindpng.com/picc/m/36-361282_historia-tv-logo-hd-png-download.png",group-title="⏩LISTA⏪",Historia
 http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/316475.ts
@@ -1693,804 +1706,54 @@ http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/110243.ts
 #EXTINF:-1 tvg-id="LA 1" tvg-name="A3SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png",group-title="⏩LISTA⏪",A3SERIES
 http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/110058.ts
 
-#EXTINF:-1tvg-id="Clan.TV"tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200",group-title="⏩LISTA⏪",Clan
-https://rtvelivestream.rtve.es/rtvesec/clan/clan_main_dvr.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,group-title="⏩LISTA⏪,Baby First
-http://181.198.105.69:8111/play/a1wm/index.m3u8
-
-#EXTINF:-1,group-title="⏩LISTA⏪,Baby TV
-http://181.198.105.69:8111/play/a13o/index.m3u8
-
-#EXTINF:-1,group-title="⏩LISTA⏪,Cartoon Network
-http://181.198.105.69:8111/play/a25b/index.m3u8
-
-#EXTINF:-1,group-title="⏩LISTA⏪,CNN Espanol
-http://181.198.105.69:8111/play/a2fu/index.m3u8
-
-#EXTINF:-1,group-title="⏩LISTA⏪,BBC News
-http://181.198.105.69:8111/play/a29v/index.m3u8
-
-#EXTINF:-1,group-title="⏩LISTA⏪,BBC World
-http://181.198.105.69:8111/play/a11j/index.m3u8
-
-
-
-#EXTINF:-1,group-title="⏩LISTA⏪,Claro Cinema
-http://181.198.105.69:8111/play/a2i7/index.m3u8
-
-#EXTINF:-1,group-title="⏩LISTA⏪,AMC 
-http://181.198.105.69:8111/play/a196/index.m3u8
-
-#EXTINF:-1,group-title="⏩LISTA⏪,AMC Series
-http://181.198.105.69:8111/play/a2al/index.m3u8
-
-#EXTINF:-1,group-title="⏩LISTA⏪,AXN
-http://181.198.105.69:8111/play/a1sa/index.m3u8
-
-#EXTINF:-1,group-title="⏩LISTA⏪,UNIVERSAL CHANNEL
-http://181.198.105.69:8111/play/a1up/index.m3u8
-
-#EXTINF:-1,group-title="⏩LISTA⏪,Universal
-http://181.198.105.69:8111/play/a1w9/index.m3u8
-
-#EXTINF:-1,group-title="⏩LISTA⏪,Universal Cinema 
-http://181.198.105.69:8111/play/a2gc/index.m3u8
-
-#EXTINF:-1,group-title="⏩LISTA⏪,Universal Comedy 
-http://181.198.105.69:8111/play/a2gd/index.m3u8
-
-#EXTINF:-1,group-title="⏩LISTA⏪,Universal Premiere
-http://181.198.105.69:8111/play/a2gb/index.m3u8
-
-#EXTINF:-1,group-title="⏩LISTA⏪,Warner Channel 
-http://181.198.105.69:8111/play/a1sx/index.m3u8
-
-#EXTINF:-1,group-title="⏩LISTA⏪,Animal Planet 
-http://181.198.105.69:8111/play/a1sp/index.m3u8
-
-#EXTINF:-1,group-title="⏩LISTA⏪,Via X Esports
-http://181.198.105.69:8111/play/a12y/index.m3u8
-
-
-
-
-#EXTINF:-1,group-title="⏩LISTA⏪,Claro Sports
-http://181.198.105.69:8111/play/a1wh/index.m3u8
-
-
-#EXTINF:-1,group-title="⏩LISTA⏪,TyC
-http://181.198.105.69:8111/play/a2gp/index.m3u8
-
-
-#EXTINF:-1,group-title="⏩LISTA⏪,Win Sports+
-http://181.198.105.69:8111/play/a2bz/index.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="13.TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="TRECE",TRECE
-https://live-edge-ff-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
-#EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="El Toro TV",El Toro TV
-https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
-#EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="El Toro TV",El Toro TV
-https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
-#EXTINF:-1 tvg-id="RNE.TV" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="RNE para todos",RNE para todos
-https://ztnr.rtve.es/ztnr/6688753.m3u8
-#EXTINF:-1 tvg-id="RNE.TV" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="RNE para todos",RNE para todos
-https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8
-#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg"group-title="⏩LISTA⏪",tvg-name="24h",24h
-https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg"group-title="⏩LISTA⏪",tvg-name="24h",24h
-https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
-#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg"group-title="⏩LISTA⏪",tvg-name="24h",24h
-https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8
-#EXTINF:-1 tvg-id="Euronews.TV" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200"group-title="⏩LISTA⏪",tvg-name="Euronews",Euronews
-https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8
-#EXTINF:-1 tvg-id="324.TV" tvg-logo="https://pbs.twimg.com/profile_images/1968163923477098496/blka6O_j_200x200.jpg"group-title="⏩LISTA⏪",tvg-name="3Cat Info",3Cat Info
-https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
-#EXTINF:-1 tvg-id="ElPais.TV" tvg-logo="https://graph.facebook.com/elpais/picture?width=200&height=200"group-title="⏩LISTA⏪",tvg-name="El País",El País
-https://d2uerfl96fh0y6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-98b4w85lugvp4/fast-channel-el-pais/fast-channel-el-pais.m3u8
-#EXTINF:-1 tvg-id="Negocios.TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg"group-title="⏩LISTA⏪",tvg-name="Negocios TV",Negocios TV
-https://streaming013.gestec-video.com/hls/negociostv.m3u8
-#EXTINF:-1 tvg-id="ElConfidencial.TV" tvg-logo="https://graph.facebook.com/elconfidencial/picture?width=200&height=200"group-title="⏩LISTA⏪",tvg-name="El Confidencial",El Confidencial
-https://dgrfwaj8stp69.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hmbd9k13g6zsa/live/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
-#EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Teledeporte",Teledeporte GEO
-https://ztnr.rtve.es/ztnr/1712295.m3u8
-#EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Teledeporte",Teledeporte GEO
-https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
-#EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Teledeporte",Teledeporte
-https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
-#EXTINF:-1 tvg-id="E3.TV" tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Esport 3",Esport 3 GEO CAT
-https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
-#EXTINF:-1 tvg-id="E3.TV" tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Esport 3",Esport 3 GEO
-https://directes-tv-es.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
-#EXTINF:-1 tvg-id="ETBD.TV" tvg-logo="https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="ETB Deportes",ETB Deportes
-https://multimedia.eitb.eus/live-content/oka1hd-hls/master.m3u8
-#EXTINF:-1 tvg-id="ETBD.TV" tvg-logo="https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="ETB Deportes",ETB Deportes
-https://multimedia.eitb.eus/live-content/oka2hd-hls/master.m3u8
-#EXTINF:-1 tvg-id="ETBD.TV" tvg-logo="https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="ETB Deportes",ETB Deportes
-https://multimedia.eitb.eus/live-content/oka3hd-hls/master.m3u8
-#EXTINF:-1 tvg-id="AragonD.TV" tvg-logo="https://graph.facebook.com/aragondeporte/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Aragón Deporte",Aragón Deporte
-https://cartv-streaming.aranova.es/hls/live/adeportes_deporte7.m3u8
-#EXTINF:-1 tvg-id="AragonD.TV" tvg-logo="https://graph.facebook.com/aragondeporte/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Aragón Deporte",Aragón Deporte
-https://cartv.streaming.aranova.es/hls/live/adeportes_deporte6.m3u8
-#EXTINF:-1 tvg-id="AragonD.TV" tvg-logo="https://graph.facebook.com/aragondeporte/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Aragón Deporte",Aragón Deporte
-https://cartv.streaming.aranova.es/hls/live/adeportes_deporte5.m3u8
-#EXTINF:-1 tvg-id="AragonD.TV" tvg-logo="https://graph.facebook.com/aragondeporte/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Aragón Deporte",Aragón Deporte
-https://cartv.streaming.aranova.es/hls/live/adeportes_deporte4.m3u8
-#EXTINF:-1 tvg-id="AragonD.TV" tvg-logo="https://graph.facebook.com/aragondeporte/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Aragón Deporte",Aragón Deporte
-https://cartv.streaming.aranova.es/hls/live/adeportes_deporte3.m3u8
-#EXTINF:-1 tvg-id="AragonD.TV" tvg-logo="https://graph.facebook.com/aragondeporte/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Aragón Deporte",Aragón Deporte
-https://cartv.streaming.aranova.es/hls/live/adeportes_deporte2.m3u8
-#EXTINF:-1 tvg-id="AragonD.TV" tvg-logo="https://graph.facebook.com/aragondeporte/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Aragón Deporte",Aragón Deporte
-https://cartv-streaming.aranova.es/hls/live/adeportes_deporte1.m3u8
-#EXTINF:-1 tvg-id="Vinx.TV" tvg-logo="https://graph.facebook.com/VinxTV/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Vinx TV Asturias",Vinx TV Asturias
-https://live.astreaming.es/Vinx/index.m3u8
-#EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Real Madrid TV",Real Madrid TV
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-#EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Real Madrid TV",Real Madrid TV EN
-https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/MundoNautica/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Mundo Náutica",Mundo Náutica
-https://mundonautica.tv/playout/segments/live.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/futsalmafer.tv/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Futsalmafer.tv",Futsalmafer.tv
-https://play.agenciastreaming.com:8081/futsalmafertv/index.m3u8
-#EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Clan",Clan GEO
-https://ztnr.rtve.es/ztnr/5466990.m3u8
-#EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Clan",Clan GEO
-https://rtvelivestream.rtve.es/rtvesec/clan/clan_main_dvr.m3u8
-#EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Clan",Clan
-https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
-#EXTINF:-1 tvg-id="SX3.TV" tvg-logo="https://graph.facebook.com/SomSX3/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="SX3",SX3 GEO CAT
-https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8
-#EXTINF:-1 tvg-id="SX3.TV" tvg-logo="https://graph.facebook.com/SomSX3/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="SX3",SX3 GEO
-https://directes-tv-es.3catdirectes.cat/live-content/super3-hls/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Pequeradio TV",Pequeradio TV
-https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/-DMt5SrP3ObIrid5EHGZLUebeQLvRZeA64LWW3DaWd75gtK_JHjCe22Mn4EuxdlFa_EzqReCVg=s200" group-title="⏩LISTA⏪", tvg-name="ZAZ TV",ZAZ TV
-https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=16110&live=1&avod=0&hls_marker=1&pod_duration=120&ssai_enabled=1&content_network=streamingconnect&position=preroll&app_bundle=com.streamingconnect.viva&app_domain=mirametv.live&app_category=linear_tv&content_cat=IAB9-11,IAB1-7,IAB1&content_channel=zaztv&content_genre=tv_broadcaster&content_rating=TV-G&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&ifa_type=[IFA_TYPE]&content_id=mirametv_live&min_ad_duration=6&max_ad_duration=120
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Q8ajooLoUcC8rieersHieiDPHToDjytGCrECP_DxknEPRfnQgMdwcQ22ncDGuf4CffgEcpJaDw=s200" group-title="⏩LISTA⏪", tvg-name="What a Toon TV",What a Toon TV EN
-https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=16111&live=1&avod=0&hls_marker=1&pod_duration=120&ssai_enabled=1&content_network=streamingconnect&position=preroll&app_bundle=com.streamingconnect.viva&app_domain=mirametv.live&app_category=linear_tv&content_cat=IAB9-11,IAB1-7,IAB1&content_channel=zaztv&content_genre=tv_broadcaster&content_id=mirametv_live&content_rating=TV-G&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&min_ad_duration=6&max_ad_duration=120&ifa_type=[IFA_TYPE]
-#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="⏩LISTA⏪", tvg-name="+24",+24
-https://ztnr.rtve.es/ztnr/6108696.m3u8
-#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="⏩LISTA⏪", tvg-name="+24",+24
-https://ztnr.rtve.es/ztnr/6108703.m3u8
-#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="⏩LISTA⏪", tvg-name="+24",+24
-https://ztnr.rtve.es/ztnr/6108704.m3u8
-#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="⏩LISTA⏪", tvg-name="+24",+24
-https://ztnr.rtve.es/ztnr/6108706.m3u8
-#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="⏩LISTA⏪", tvg-name="+24",+24
-https://ztnr.rtve.es/ztnr/6108720.m3u8
-#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="⏩LISTA⏪", tvg-name="+24",+24
-https://ztnr.rtve.es/ztnr/6108721.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="+tdp",+tdp
-https://ztnr.rtve.es/ztnr/6712432.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="+tdp",+tdp
-https://ztnr.rtve.es/ztnr/6712453.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="+tdp",+tdp
-https://ztnr.rtve.es/ztnr/6712402.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="+tdp",+tdp
-https://ztnr.rtve.es/ztnr/6712407.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="+tdp",+tdp
-https://ztnr.rtve.es/ztnr/6712431.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="+tdp",+tdp
-https://ztnr.rtve.es/ztnr/6712410.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="+tdp",+tdp
-https://ztnr.rtve.es/ztnr/6712426.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="+tdp",+tdp
-https://ztnr.rtve.es/ztnr/6712411.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="+tdp",+tdp
-https://ztnr.rtve.es/ztnr/6712456.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Hd2WYs49wYCBMAphVpvvpBzd-EJFU8XFQgccPIw=s200" group-title="⏩LISTA⏪", tvg-name="¡HOLA! Play",¡HOLA! Play
 https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Canal Parlamento",Canal Parlamento
-https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Congreso de los Diputados",Congreso de los Diputados
-https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Congreso de los Diputados",Congreso de los Diputados
-https://congresodirecto.akamaized.net/hls/live/2038275/canal2/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Congreso de los Diputados",Congreso de los Diputados
-https://congresodirecto.akamaized.net/hls/live/2038276/canal3/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Congreso de los Diputados",Congreso de los Diputados
-https://congresodirecto.akamaized.net/hls/live/2038277/canal4/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Congreso de los Diputados",Congreso de los Diputados
-https://congresodirecto.akamaized.net/hls/live/2038278/canal5/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/PalaciodelaMoncloa/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="La Moncloa (Presidente)",La Moncloa (Presidente)
-https://cdnswitch-mediahub.overon.es/stream/stream.m3u8?key=R6w5wbcxW3dLF9aNOGEsHuoNhqfSJoiRWNDWLLfNslI&pwd=QheEdHkaeHFGDHJgIwzUDoqcVjjFMef8TMGuGvkMets&stream=y3-IxQxNk4XjlfJDtBjIh7tfO628d9gbkd010uKioms&output=ginkIjHWeyffMLRZNMVovht3RnH_feedjshkMm7sr14&channel=D1tXjvcs_5NeEEMxP6mrmSggh3Uyu3kE5jyqGlgCZ4A&protocol=4CMm-Q0epGZ0SHQGeELoqqA2gfzFVCFwoiACYszyPM4&type=3pIgQ1TALsxZg7Zf0kZLkA4InWPfKONROAImuoufxKg
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/PalaciodelaMoncloa/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="La Moncloa (Ministros)",La Moncloa (Ministros)
-https://cdnswitch-mediahub.overon.es/stream/stream.m3u8?key=R6w5wbcxW3dLF9aNOGEsHuoNhqfSJoiRWNDWLLfNslI&pwd=QheEdHkaeHFGDHJgIwzUDoqcVjjFMef8TMGuGvkMets&stream=o0RCNMRf-BPdBiuDSId7vbxANj4YFVpbXkxNkFKm35s&output=z3mwepuDBMOnja63VsgAcCGwmmOPD-I5yFYOiyCvBcc&channel=FBDoImE2NP77XpNbdycjnwCkI0YjxLeqTKr8QGV9bAI&protocol=4CMm-Q0epGZ0SHQGeELoqqA2gfzFVCFwoiACYszyPM4&type=3pIgQ1TALsxZg7Zf0kZLkA4InWPfKONROAImuoufxKg
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2015722457508810752/NpsKmNCK_200x200.jpg" group-title="⏩LISTA⏪", tvg-name="Senado",Senado
-https://senadolive.akamaized.net/hls/live/2006589/punto7/master.m3u8
-#EXTINF:-1 tvg-id="RNE.TV" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Radio Nacional",Radio Nacional
-https://ztnr.rtve.es/ztnr/6982891.m3u8
-#EXTINF:-1 tvg-id="RNE_Radio3.TV" tvg-logo="https://graph.facebook.com/radio3/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Radio 3",Radio 3
-https://ztnr.rtve.es/ztnr/6982918.m3u8
 #EXTINF:-1 tvg-id="CanalSurA.TV" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Canal Sur Andalucía",Canal Sur Andalucía
 https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
-#EXTINF:-1 tvg-id="CanalSurA.TV" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Canal Sur Andalucía",Canal Sur Andalucía
-https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
+
 #EXTINF:-1 tvg-id="CanalSurA.TV" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Canal Sur 2 Accesible",Canal Sur 2 Accesible
 https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalSurNoticias/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Canal Sur Más Noticias",Canal Sur Más Noticias
 https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="7TV_Andalucía.TV" tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="7TV Andalucía",7TV Andalucía
 https://especial7tv.gestec-video.com/hls/regional.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="7TV Almería",7TV Almería
-https://streaming004.gestec-video.com/hls/7TVALMERIA.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="7TV Cádiz",7TV Cádiz
-https://streaming004.gestec-video.com/hls/7TVCADIZ.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="7TV Córdoba",7TV Córdoba
-https://streaming004.gestec-video.com/hls/7TVCORDOBA.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="7TV Granada",7TV Granada
-https://streaming004.gestec-video.com/hls/7TVGRANADA.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="7TV Huelva",7TV Huelva
-https://streaming004.gestec-video.com/hls/regional.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="7TV Jaén",7TV Jaén
-https://streaming004.gestec-video.com/hls/7TVJAEN.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&0height=200" group-title="⏩LISTA⏪", tvg-name="7TV Málaga",7TV Málaga
-https://streaming004.gestec-video.com/hls/7TVMALAGA.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="7TV Sevilla",7TV Sevilla
-https://especial7tv.gestec-video.com/hls/7TVSEVILLA.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="7TV Aljarafe",7TV Aljarafe
-https://streaming004.gestec-video.com/hls/7TVALJARAFE.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="7TV Arcos",7TV Arcos
-https://streaming004.gestec-video.com/hls/7TVARCOS.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="7TV Campo de Gibraltar",7TV Campo de Gibraltar
-https://streaming004.gestec-video.com/hls/7TVALGECIRAS.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="7TV Linares",7TV Linares
-https://streaming004.gestec-video.com/hls/7TVLINARES.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="7TV Jerez",7TV Jerez
-https://streaming004.gestec-video.com/hls/7TVJEREZ.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="7TV San Fernando",7TV San Fernando
-https://streaming004.gestec-video.com/hls/7TVSANFERNANDO.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="7TV Rota",7TV Rota
-https://streaming004.gestec-video.com/hls/7TVROTA.m3u8
-#EXTINF:-1 tvg-id="101Malaga.TV" tvg-logo="https://graph.facebook.com/101tvmalaga/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="101TV Málaga",101TV Málaga
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
-https://liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="OndaCadiz.TV" tvg-logo="https://graph.facebook.com/ondacadiz/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Onda Cádiz",Onda Cádiz
-https://ondacadiztv.es:30443/octv/directo_multi/playlist.m3u8
-#EXTINF:-1 tvg-id="OndaCadiz.TV" tvg-logo="https://graph.facebook.com/ondacadiz/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Onda Cádiz",Onda Cádiz
-https://ondacadiztv.es:30443/octv/24h/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKb6DZpbxOMbN_VANCdenLck4ceg7gxMk5tnkjmM=s200" group-title="⏩LISTA⏪", tvg-name="Andalucía Cocina",Andalucía Cocina
 #EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
 https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYsl5e6jEIMtXIoTUHvkJqXxDfASrvQP_QFRRww=s200" group-title="⏩LISTA⏪", tvg-name="Andalucía Turismo",Andalucía Turismo
 https://stream-us-east-1.getpublica.com/playlist.m3u8?&network_id=12685&live=1
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/8tvChiclana/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="8TV Sierra de Cádiz",8TV Sierra de Cádiz
-https://s.emisoras.tv:8081/sierradecadiz/index.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/8tvChiclana/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="8TV Chiclana",8TV Chiclana
-https://s.emisoras.tv:8081/chiclana/index.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/m95tvmarbella/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="M95 Marbella",M95 Marbella
-https://limited2.todostreaming.es/live/m95-livestream.m3u8
-#EXTINF:-1 tvg-id="PTV_Malaga.TV" tvg-logo="https://graph.facebook.com/PTVMalaga/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="PTV Málaga",PTV Málaga
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://streamer.zapitv.com/PTV-malaga/index.m3u8
-#EXTINF:-1 tvg-id="TuyaLaJanda.TV" tvg-logo="https://graph.facebook.com/tuyalajandatv/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Tuya La Janda TV",Tuya La Janda TV
-https://nimble.tuyapro.es/app/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="OndaAlgeciras.TV" tvg-logo="https://graph.facebook.com/ondaalgecirastv/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Onda Algeciras TV",Onda Algeciras TV
-https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/canal45television/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Canal 45 TV",Canal 45 TV
-https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
-#EXTINF:-1 tvg-id="CostaNO.TV" tvg-logo="https://graph.facebook.com/Costanoroestetv/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Costa Noroeste TV",Costa Noroeste TV
-https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
-#EXTINF:-1 tvg-id="Teleonuba.TV" tvg-logo="https://graph.facebook.com/Teleonuba/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Teleonuba",Teleonuba
-https://5f71743aa95e4.streamlock.net:1936/Teleonuba/endirecto/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/101TVSevilla/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="101TV Sevilla",101TV Sevilla
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
-https://liveingesta318.cdnmedia.tv/101weblive/smil:sevilla.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalCosta.TV" tvg-logo="https://graph.facebook.com/canalcosta/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="CanalCosta",CanalCosta
-https://5f71743aa95e4.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8
-#EXTINF:-1 tvg-id="Condavision.TV" tvg-logo="https://graph.facebook.com/condavision/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Condavisión",Condavisión
-https://5f71743aa95e4.streamlock.net:1936/Condavision/endirecto/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/donanacomunica/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Canal Doñana",Canal Doñana
-https://secure5.todostreaming.es/live/division-alm.m3u8
-#EXTINF:-1 tvg-id="InterAlmeria.TV" tvg-logo="https://graph.facebook.com/Interalmeriatv/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Interalmería TV",Interalmería TV
-https://interalmeria.tv/directo/live.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/107654981928274/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Almería 24h TV",Almería 24h TV
-https://broadcast.radioponiente.org:9443/live/smil:almeria24h.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MarbellaTV.TV" tvg-logo="https://graph.facebook.com/RTVMarbella/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Marbella TV",Marbella TV
-https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/esteponatelevision/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Estepona TV",Estepona TV
-https://cloudvideo.servers10.com:8081/8022/index.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/TVCentroAndalucia/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="TV Centro Andalucía",TV Centro Andalucía
-https://video0.rogohosting.com:19360/8050/8050.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/6SgTMpyVCJlMGBcip6gvloYy2u-BP4vY-H2paJ2zO471owJq_YcgPhUUB0tBaKIKlNUKzeRf=s200" group-title="⏩LISTA⏪", tvg-name="Canal San Roque",Canal San Roque
-https://cdnlivevlc.codev8.net/aytosanroquelive/smil:channel1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/Rtvalhaurin/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Televisión Alhaurín",Televisión Alhaurín
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=13354&live=1
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/canalluztelevision/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Canal Luz Televisión",Canal Luz Televisión
-https://5f71743aa95e4.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8
-#EXTINF:-1 tvg-id="101Antequera.TV" tvg-logo="https://graph.facebook.com/101tvAntequera/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="101TV Antequera",101TV Antequera
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
-https://liveingesta318.cdnmedia.tv/101weblive/smil:antequera.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PTV_Linares.TV" tvg-logo="https://graph.facebook.com/tvlinares/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="PTV Linares",PTV Linares
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://streamer.zapitv.com/ptv-linarez/index.m3u8
-#EXTINF:-1 tvg-id="Torrevision.TV" tvg-logo="https://graph.facebook.com/torremolinostv/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Torremolinos TV",Torremolinos TV
-https://cdnlivevlc.codev8.net/canaltorremolinoslive/smil:channel1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Telemotril.TV" tvg-logo="https://graph.facebook.com/telemotriltv/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Telemotril",Telemotril
-https://5940924978228.streamlock.net/8431/8431/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/TG7tv/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="TG7",TG7
-https://flu-01.hucame.es/TG7/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/SalTelevision/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Sal TV",Sal TV
-https://play.agenciastreaming.com:8081/saltv/index.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/rtvmanilva/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Manilva TV",Manilva TV
-#EXTVLCOPT:http-referrer=https://player.castr.com/
-https://stream.castr.com/627a72d21914543be01c1720/live_e2ae1780dc2a11eca660b7b17b7952a5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="CanalMalaga.TV" tvg-logo="https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Canal Málaga",Canal Málaga
-https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="101Axarquía.TV" tvg-logo="https://graph.facebook.com/101tvandalucia/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="101TV Axarquía",101TV Axarquía
-https://www.streaming101tv.es:19360/axarquia/axarquia.m3u8
-#EXTINF:-1 tvg-id="9LaLoma.TV" tvg-logo="https://graph.facebook.com/9laloma/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="9 la Loma TV",9 la Loma TV
-https://9laloma.tv/live.m3u8
-#EXTINF:-1 tvg-id="PTV_Sevilla.TV" tvg-logo="https://graph.facebook.com/SevillaPTV/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="PTV Sevilla",PTV Sevilla
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://streamer.zapitv.com/PTV_sevilla/index.m3u8
-#EXTINF:-1 tvg-id="FuengirolaTV.TV" tvg-logo="https://graph.facebook.com/fuengirolatvoficial/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Fuengirola TV",Fuengirola TV
-https://streaming004.gestec-video.com/hls/FTV.m3u8
-#EXTINF:-1 tvg-id="PTV_Granada.TV" tvg-logo="https://graph.facebook.com/PTVGranada/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="PTV Granada",PTV Granada
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://streamer.zapitv.com/PTV-granada/index.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/PTVCOR/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="PTV Córdoba",PTV Córdoba
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8
-#EXTINF:-1 tvg-id="Mijas340TV.TV" tvg-logo="https://graph.facebook.com/Mijas340TV/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Mijas 3.40 TV",Mijas 3.40 TV
-https://streaming004.gestec-video.com/hls/MIJAS.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/101tvAntequera/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="101TV Cádiz",101TV Cádiz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
-https://liveingesta318.cdnmedia.tv/101weblive/smil:Cofrade.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalCoin.TV" tvg-logo="https://graph.facebook.com/106272064368271/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Canal Coín",Canal Coín
-https://canalcoin.garjim.es/hls/directo.m3u8
-#EXTINF:-1 tvg-id="DiezTV.TV" tvg-logo="https://graph.facebook.com/dieztv/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Diez TV Andújar",Diez TV Andújar
-https://streaming.cloud.innovasur.es/mmj_andujar/index.m3u8
-#EXTINF:-1 tvg-id="DiezTV.TV" tvg-logo="https://graph.facebook.com/dieztv/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Diez TV Las Villas",Diez TV Las Villas
-https://streaming.cloud.innovasur.es/mmj2/index.m3u8
-#EXTINF:-1 tvg-id="DiezTV.TV" tvg-logo="https://graph.facebook.com/dieztv/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Diez TV Úbeda",Diez TV Úbeda
-https://streaming.cloud.innovasur.es/mmj/index.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/TVM.Cordoba/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="TVM Córdoba",TVM Córdoba
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://d16pwlnz9msuji.cloudfront.net/wct-dad9c712-1c61-4a61-aeee-8be9f5c9e6e9/continuous/8fbfd2f5-30c2-4d48-a24e-73f5d35ba491/index.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/101tvmalaga/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="101TV Costa del Sol",101TV Costa del Sol
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
-https://liveingesta318.cdnmedia.tv/101weblive/smil:sol.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/101tvgranada/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="101TV Granada",101TV Granada
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
-https://liveingesta318.cdnmedia.tv/101weblive/smil:granada.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nKBwD3C_DqADS-cD9choTd0NDkCsF_EcNtXWmFd7XDQw=s200" group-title="⏩LISTA⏪", tvg-name="Cancionero TV",Cancionero TV
-http://37.130.151.51/hls1/cancionero.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1612490465005142019/AU1R7Q6q_200x200.jpg" group-title="⏩LISTA⏪", tvg-name="PTV Almería",PTV Almería
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://streamer.zapitv.com/ptv_almeria/index.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/Telegranada/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="TeleGranada",TeleGranada
-https://telegranada.es/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/parlamentodeandalucia.es/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Parlamento de Andalucía",Parlamento de Andalucía
-https://stream1.parlamentodeandalucia.es/realizacion1/realizacion1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/parlamentodeandalucia.es/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Parlamento de Andalucía",Parlamento de Andalucía
-https://stream2.parlamentodeandalucia.es/realizacion2/realizacion2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/parlamentodeandalucia.es/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Parlamento de Andalucía",Parlamento de Andalucía
-https://stream2.parlamentodeandalucia.es/realizacion3/realizacion3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/parlamentodeandalucia.es/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Parlamento de Andalucía",Parlamento de Andalucía
-https://stream2.parlamentodeandalucia.es/realizacion4/realizacion4/playlist.m3u8
-#EXTINF:-1 tvg-id="AragonTV.TV" tvg-logo="https://graph.facebook.com/AragonTV/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Aragón TV",Aragón TV
-https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/AragonNoticias/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Aragón Noticias",Aragón Noticias
-https://cartv-streaming.aranova.es/hls/live/anoticias_canal3.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/tvbarbastro/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Canal 25 Barbastro TV",Canal 25 Barbastro TV
-https://limited49.todostreaming.es/live/tvbarbastro-livestream.m3u8
-#EXTINF:-1 tvg-id="La1_CAN.TV" tvg-logo="https://pbs.twimg.com/profile_images/2008842210414915584/zIp_go25_200x200.jpg" group-title="⏩LISTA⏪", tvg-name="La 1 Canarias",La 1 Canarias
-https://ztnr.rtve.es/ztnr/5190066.m3u8
-#EXTINF:-1 tvg-id="La2_CAN.TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kqgHWySi5xprs1VFCNCX0IKNT8yXBLZC43JMoB8j0JUto=s200" group-title="⏩LISTA⏪", tvg-name="La 2 Canarias",La 2 Canarias
-https://ztnr.rtve.es/ztnr/5468585.m3u8
-#EXTINF:-1 tvg-id="24H_CAN.TV" tvg-logo="https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg" group-title="⏩LISTA⏪", tvg-name="24h Canarias",24h Canarias
-https://ztnr.rtve.es/ztnr/5473142.m3u8
-#EXTINF:-1 tvg-id="MirameTV.TV" tvg-logo="https://graph.facebook.com/mirametvcom/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Mírame TV",Mírame TV
-https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=16100&live=1&avod=0&hls_marker=1&position=preroll&pod_duration=120&app_bundle=com.streamingconnect.viva&ssai_enabled=true&content_channel=mirametv&app_domain=mirametv.live&app_category=linear_tv&content_cat=IAB1&content_genre=tv_broadcaster&content_network=streamingconnect&content_rating=TV-G&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&ifa_type=[IFA_TYPE]&min_ad_duration=6&max_ad_duration=120&content_id=mirametv_live
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CANAL4TENERIFE/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Canal 4 Tenerife",Canal 4 Tenerife
-https://videoserver.tmcreativos.com:19360/wwzthqpupr/wwzthqpupr.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/LancelotTelevision/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Lancelot TV",Lancelot TV
-https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/tenerifeplustv/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Tenerife Plus+ TV",Tenerife Plus+ TV
-https://k20.usastreams.com:8081/tenerifeplus/index.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/aljoamyvisual/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="NORTEvisión",NORTEvisión
-http://amaru.dyndns.org:8870/0.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/radiotelevisionmogan/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="RTV Mogán",RTV Mogán
-https://cloudvideo.servers10.com:8081/8028/index.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/estecanaltv/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Este Canal TV",Este Canal TV
-http://synclosdragos1.syncsolutions.es:8008/live3/emision/index.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/noroestetvladesiempre/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Noroeste TV",Noroeste TV
-#EXTVLCOPT:http-referrer=https://player.castr.com/
-https://stream.castr.com/5d1f649bed75c92e40481734/live_19364d50fbcd11ed91bd012c3488eabc/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/qj92f7GsPI7R-YCYzsFj5mDoSCduHSgh8lwCWHFXbHAx6rNmLsB78RZlmfiqbjYzQdNh1Fj9sQ=s200" group-title="⏩LISTA⏪", tvg-name="Fuerteventura TV",Fuerteventura TV
-https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1498617906560737281/iOri7Ujk_200x200.jpg" group-title="⏩LISTA⏪", tvg-name="Factoría de Carnaval",Factoría de Carnaval
-https://eu1.servers10.com:8081/8116/index.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/afortunadastv/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Afortunadas TV",Afortunadas TV
-https://cloudvideo.servers10.com:8081/8108/index.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/calimafm/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Radio Calima TV",Radio Calima TV
-https://nrvideo1.newradio.it:443/calimafm/calimafm/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/delaredulintv/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="De Laredu Lin TV",De Laredu Lin TV
-https://eu1.servers10.com:8081/8034/index.m3u8
-#EXTINF:-1 tvg-id="PopularTV_S.TV" tvg-logo="https://graph.facebook.com/populartvcantabria/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Popular TV Cantabria",Popular TV Cantabria
-https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/4d3432_610170cea6c747a986bbea4137f5c15f~mv2.png/v1/fill/w_200,h_200,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/mosca%20logo%209_transparente.png" group-title="⏩LISTA⏪", tvg-name="Tevecan 9",Tevecan 9
-https://streamlov.alsolnet.com/jarbhouse/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/ondaoccidental/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Saja Nansa TV",Saja Nansa TV
-https://streamlov.alsolnet.com/sajanansatv/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CMM.TV" tvg-logo="https://graph.facebook.com/CMMediaes/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Castilla-La Mancha Media",Castilla-La Mancha Media
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/RadioCLMes/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Castilla-La Mancha Radio",Castilla-La Mancha Radio
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_belryxvp/protocol/https/format/applehttp/a.m3u8
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tvhellin/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="TV Hellín",TV Hellín
 https://5940924978228.streamlock.net/directohellin/directohellin/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/GuadaTV.TV/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Guada TV Media",Guada TV Media
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12689&live=1
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/104927246235553/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Visión 6 TV",Visión 6 TV
 https://streaming.proceso.info:8888/vision6-web/stream.m3u8
+
 #EXTINF:-1 tvg-id="Imas.TV" tvg-logo="https://graph.facebook.com/television.imas/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Imás TV",Imás TV
 https://secure3.todostreaming.es/live/imastv-livestream.m3u8
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/AlcarriaTV/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Alcarria TV",Alcarria TV
 https://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/AlcarriaTV/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Alcarria TV",Alcarria TV
-http://217.182.77.27/live/alcarriatv-livestream.m3u8
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canal4villarrobledo/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Canal 4 Mancha Centro",Canal 4 Mancha Centro
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canal2000/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Canal 2000",Canal 2000
 http://canal2000.berkano-systems.net/streaming/streams/canal2000-720p.m3u8
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Teletoledo/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="TeleToledo",TeleToledo
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12688&live=1
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/575943555801687/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="TV Aranda",TV Aranda
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12686&live=1
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/cortesdecastillayleon/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Cortes de Castilla y León",Cortes de Castilla y León
-https://directo.ccyl.es/Hemiciclo/smil:Hemiciclo.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/cortesdecastillayleon/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Cortes de Castilla y León",Cortes de Castilla y León
-https://directo.ccyl.es/CortesDeLeon/smil:CortesDeLeon.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/cortesdecastillayleon/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Cortes de Castilla y León",Cortes de Castilla y León
-https://directo.ccyl.es/CamposDeCastilla/smil:CamposDeCastilla.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/cortesdecastillayleon/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Cortes de Castilla y León",Cortes de Castilla y León
-https://directo.ccyl.es/CastilloDeFuensaldana/smil:CastilloDeFuensaldana.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/juntadecastillayleon/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Junta Castilla y León",Junta Castilla y León
-https://16escalones-live2.flumotion.com/chunks.m3u8
-#EXTINF:-1 tvg-id="TV3.TV" tvg-logo="https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png" group-title="⏩LISTA⏪", tvg-name="TV3",TV3 GEO CAT
-https://directes3-tv-cat.3catdirectes.cat/live-content/tv3-hls/master.m3u8
-#EXTINF:-1 tvg-id="C33.TV" tvg-logo="https://graph.facebook.com/Canal33/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="33",33 GEO CAT
-https://directes-tv-cat.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8
-#EXTINF:-1 tvg-id="C33.TV" tvg-logo="https://graph.facebook.com/Canal33/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="33",33 GEO
-https://directes-tv-es.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="3CAT Exclusiu 1",3CAT Exclusiu 1 GEO CAT
-https://directes-tv-cat.3catdirectes.cat/live-content/oca1-hls/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="3CAT Exclusiu 1",3CAT Exclusiu 1 GEO
-https://directes-tv-es.3catdirectes.cat/live-content/oca1-hls/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="3CAT Exclusiu 2",3CAT Exclusiu 2 GEO CAT
-https://directes-tv-cat.3catdirectes.cat/live-content/oca2-hls/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="3CAT Exclusiu 2",3CAT Exclusiu 2 GEO
-https://directes-tv-es.3catdirectes.cat/live-content/oca2-hls/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="3CAT Exclusiu 3",3CAT Exclusiu 3 GEO CAT
-https://directes-tv-cat.3catdirectes.cat/live-content/oca3-hls/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="3CAT Exclusiu 3",3CAT Exclusiu 3 GEO
-https://directes-tv-es.3catdirectes.cat/live-content/oca1-hls/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="3CAT El búnquer",3CAT El búnquer
-https://fast-tailor.3catdirectes.cat/v1/channel/bunquer/hls.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="3CAT Plats bruts",3CAT Plats bruts
-https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="3CAT Vinagreta",3CAT Vinagreta
-https://fast-tailor.3catdirectes.cat/v1/channel/vinagreta/hls.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="3CAT Joc de Cartes",3CAT Joc de Cartes
-https://fast-tailor.3catdirectes.cat/v1/channel/joc-de-cartes/hls.m3u8
-#EXTINF:-1 tvg-id="La1_CAT.TV" tvg-logo="https://pbs.twimg.com/profile_images/2008842210414915584/zIp_go25_200x200.jpg" group-title="⏩LISTA⏪", tvg-name="La 1 Catalunya",La 1 Catalunya
-https://ztnr.rtve.es/ztnr/3293681.m3u8
-#EXTINF:-1 tvg-id="La1_CAT.TV" tvg-logo="https://pbs.twimg.com/profile_images/2008842210414915584/zIp_go25_200x200.jpg" group-title="⏩LISTA⏪", tvg-name="La 1 Catalunya",La 1 Catalunya
-https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8
-#EXTINF:-1 tvg-id="La2_CAT.TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kqgHWySi5xprs1VFCNCX0IKNT8yXBLZC43JMoB8j0JUto=s200" group-title="⏩LISTA⏪", tvg-name="La 2 Catalunya",La 2 Catalunya
-https://ztnr.rtve.es/ztnr/3987218.m3u8
-#EXTINF:-1 tvg-id="La2_CAT.TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kqgHWySi5xprs1VFCNCX0IKNT8yXBLZC43JMoB8j0JUto=s200" group-title="⏩LISTA⏪", tvg-name="La 2 Catalunya",La 2 Catalunya
-https://rtvelivestream.rtve.es/rtvesec/cat/la2_cat_main_dvr.m3u8
-#EXTINF:-1 tvg-id="24H_CAT" tvg-logo="https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg" group-title="⏩LISTA⏪", tvg-name="24h Catalunya",24h Catalunya
-https://ztnr.rtve.es/ztnr/4952053.m3u8
-#EXTINF:-1 tvg-id="RNE_Radio4.TV" tvg-logo="https://graph.facebook.com/Radio4RNE/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Ràdio 4",Ràdio 4
-https://ztnr.rtve.es/ztnr/6982935.m3u8
-#EXTINF:-1 tvg-id="BonDiaTV_CAT.TV" tvg-logo="https://i2.wp.com/blocs.mesvilaweb.cat/wp-content/uploads/sites/1858/2018/11/BONDIA.png" group-title="⏩LISTA⏪", tvg-name="Bon Dia TV",Bon Dia TV
-https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
-#EXTINF:-1 tvg-id="BTV.TV" tvg-logo="https://graph.facebook.com/betevecat/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="betevé",betevé
-https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_vfibi2fe/protocol/https/format/applehttp/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/GRUP4COM/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Canal 4 TV Cataluña",Canal 4 TV Cataluña
-https://5caf24a595d94.streamlock.net:1937/8014/8014/playlist.m3u8
-#EXTINF:-1 tvg-id="Xarxa_Canal_Terres_Ebre.TV" tvg-logo="https://graph.facebook.com/canal.terresdelebre/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Canal Terres de l'Ebre",Canal Terres de l'Ebre
-https://ingest1-video.streaming-pro.com/canalteABR/ctestream/playlist.m3u8
-#EXTINF:-1 tvg-id="Xarxa_Canal_Reus_TV.TV" tvg-logo="https://graph.facebook.com/canalreus.cat/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Canal Reus TV",Canal Reus TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
-https://ingest2-video.streaming-pro.com/creus/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Xarxa_El_9_TV.TV" tvg-logo="https://graph.facebook.com/el9nou/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="El 9 TV",El 9 TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
-https://liveingesta318.cdnmedia.tv/9tvlive/smil:live.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="Xarxa_EmpordaTV.TV" tvg-logo="https://graph.facebook.com/empordatv/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Empordà TV",Empordà TV
-https://video3.lhdserver.es/empordatv2/live.m3u8
-#EXTINF:-1 tvg-id="Xarxa_Televisio_BDN.TV" tvg-logo="https://pbs.twimg.com/profile_images/1993636082642976768/7YX0mFB8_200x200.jpg" group-title="⏩LISTA⏪", tvg-name="BDN",BDN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
-https://liveingesta318.cdnmedia.tv/badalonatvlive/smil:live.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="Xarxa_TAC12.TV" tvg-logo="https://graph.facebook.com/tacdotze/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="TAC 12",TAC 12
-https://ingest1-video.streaming-pro.com/tac12_ABR/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Xarxa_Canal_Terrassa.TV" tvg-logo="https://graph.facebook.com/canalterrassa/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Canal Terrassa",Canal Terrassa
-https://ingest2-video.streaming-pro.com/canalterrassa/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Xarxa_LleidaTV.TV" tvg-logo="https://graph.facebook.com/LleidaTV/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Lleida TV",Lleida TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
-https://liveingesta318.cdnmedia.tv/lleidatvlive/smil:live.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="Xarxa_TV_Costa_Brava.TV" tvg-logo="https://graph.facebook.com/tvcostabrava/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="TV Costa Brava",TV Costa Brava
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
-https://liveingesta318.cdnmedia.tv/costabravatvlive/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Xarxa_Canal_Taronja_Central.TV" tvg-logo="https://graph.facebook.com/taronja.cat/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Canal Taronja Central",Canal Taronja Central
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
-https://ingest1-video.streaming-pro.com/canaltaronja/central/playlist.m3u8
-#EXTINF:-1 tvg-id="Xarxa_Televisio_Hospitalet.TV" tvg-logo="https://graph.facebook.com/lhdigital/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="TV L'Hospitalet",TV L'Hospitalet
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
-https://liveingesta318.cdnmedia.tv/tvhospitaletlive/smil:tvhospitalet.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/rtvelvendrell/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="RTV El Vendrell",RTV El Vendrell
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
-https://liveingesta318.cdnmedia.tv/tvvendrelllive/smil:directe.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Xarxa_Canal_Taronja_Anoia.TV" tvg-logo="https://graph.facebook.com/canaltaronjaanoia/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Canal Taronja Anoia",Canal Taronja Anoia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
-https://ingest1-video.streaming-pro.com/canaltaronja/anoia/playlist.m3u8
-#EXTINF:-1 tvg-id="Xarxa_VOTV.TV" tvg-logo="https://graph.facebook.com/votv.cat/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="VOTV",VOTV
-https://ingest2-video.streaming-pro.com/votv/streaming_web/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/TaronjaTV/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Canal Taronja Osona i Moianés",Canal Taronja Osona i Moianés
-https://ingest1-video.streaming-pro.com/canaltaronja/osona/playlist.m3u8
-#EXTINF:-1 tvg-id="Xarxa_Penedes_TV.TV" tvg-logo="https://graph.facebook.com/rtvvilafranca/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Penedès TV",Penedès TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
-https://liveingesta318.cdnmedia.tv/rtvvilafrancalive/smil:live.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Yo_LIch5OT5hTA24FMlshk7MtHpuUbVoOd8U2HJGw6el7-cCkAhH8_ISKmww17wHn37FCOF_rg=s200" group-title="⏩LISTA⏪", tvg-name="Piera TV",Piera TV
-https://5d776b1861da1.streamlock.net/piera/smil:piera.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/TelevisioCardedeu/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="RTV Cardedeu",RTV Cardedeu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
-https://liveingesta318.cdnmedia.tv/tvcardedeulive/smil:rtmp01.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="Xarxa_Canal_10_Emporda.TV" tvg-logo="https://graph.facebook.com/canal10emporda/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Canal 10 Empordà",Canal 10 Empordà
-https://ventdelnord.tv:8080/escala/directe.m3u8
-#EXTINF:-1 tvg-id="Xarxa_Valles_Visio.TV" tvg-logo="https://graph.facebook.com/tvvallesvisio/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Vallès Visió",Vallès Visió
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
-https://liveingesta318.cdnmedia.tv/vallesvisiotvlive/smil:live.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="Xarxa_ETV.TV" tvg-logo="https://graph.facebook.com/etv.llobregat/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="etv",etv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
-https://liveingesta318.cdnmedia.tv/tvetvlive/smil:rtmp01.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/martelevisio/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Mar TV",Mar TV
-https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
-#EXTINF:-1 tvg-id="Xarxa_TV_Sabadell_Valles.TV" tvg-logo="https://graph.facebook.com/tvsabadellvalles/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="TV Sabadell Vallès",TV Sabadell Vallès
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
-https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="3CAT Càmeres del temps",3CAT Càmeres del temps
-https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/1423419417957760/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Teleganés",Teleganés
-https://live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8
-#EXTINF:-1 tvg-id="Distrito.TV" tvg-logo="https://graph.facebook.com/2004860103163343/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Distrito TV",Distrito TV
-https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
-#EXTINF:-1 tvg-id="Dejate.TV" tvg-logo="https://graph.facebook.com/DejateDeHistoriasTV/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Déjate de Historias TV",Déjate de Historias TV
-https://limited44.todostreaming.es/live/dejatedeh-livestream.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/Estutele/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="EsTuTele",EsTuTele
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=16818&live=1&avod=1&cb=[CACHEBUSTER]&site_page=https%3A%2F%2Ftdtchannels.com&site_name=tdtchannels&hls_marker=1&content_cat=IAB1&content_genre=Entertainment&content_id=Estutele&content_language=es&content_rating=TV-G&content_title=Estutele&coppa=0&ssai_enabled=1
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/iprotvspain/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="iPROtv",iPROtv
-https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=16112&live=1&avod=0&hls_marker=1&pod_duration=120&app_bundle=com.streamingconnect.viva&ssai_enabled=1&position=preroll&app_domain=mirametv.live&app_category=linear_tv&content_cat=IAB1&content_channel=iprotv&content_genre=tv_broadcaster&content_rating=TV-G&content_network=streamingconnect&content_id=mirametv_live&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&min_ad_duration=6&max_ad_duration=120&ifa_type=[IFA_TYPE]
-#EXTINF:-1 tvg-id="C33M.TV" tvg-logo="https://graph.facebook.com/Canal33Madrid/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="C33 Madrid",C33 Madrid
-https://media2.streambrothers.com:1936/8140/8140/.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/liratvlive/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="LIRA TV",LIRA TV
-https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/780539549239902208/g2MfVVuY_200x200.jpg" group-title="⏩LISTA⏪", tvg-name="TeleRibera",TeleRibera
-https://video3.lhdserver.es/teleribera/live.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1517046445030924289/r4OIw84T_200x200.jpg" group-title="⏩LISTA⏪", tvg-name="Parlamento de Navarra",Parlamento de Navarra
-https://broadcasting.parlamentodenavarra.es/live/canal1/playlist.m3u8?DVR
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1517046445030924289/r4OIw84T_200x200.jpg" group-title="⏩LISTA⏪", tvg-name="Parlamento de Navarra",Parlamento de Navarra
-https://broadcasting.parlamentodenavarra.es/live/canal2/playlist.m3u8?DVR
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1517046445030924289/r4OIw84T_200x200.jpg" group-title="⏩LISTA⏪", tvg-name="Parlamento de Navarra",Parlamento de Navarra
-https://broadcasting.parlamentodenavarra.es/live/canal3/playlist.m3u8?DVR
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/8lamarinatelevision/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="8 La Marina TV",8 La Marina TV
-https://streaming005.gestec-video.com/hls/canal24.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/Intercomarcal.Television/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Intercomarcal TV",Intercomarcal TV
-https://streamingtvi.gestec-video.com/hls/tvixa.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/Intercomarcal.Television/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Intercomarcal TV",Intercomarcal TV
-https://streamingtvi.gestec-video.com/hls/tvixa1.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/Intercomarcal.Television/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Intercomarcal TV",Intercomarcal TV
-https://streamingtvi.gestec-video.com/hls/tvixa3.m3u8
-#EXTINF:-1 tvg-id="7Televalencia.TV" tvg-logo="https://pbs.twimg.com/profile_images/1876660632478437376/rbEqYeqC_200x200.jpg" group-title="⏩LISTA⏪", tvg-name="7 TeleValencia",7 TeleValencia
-https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleElx.TV" tvg-logo="https://graph.facebook.com/teleelx/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="TeleElx",TeleElx
-https://tvdirecto.teleelx.es/stream/teleelx.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/grup.televisio/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Ribera TV",Ribera TV
-https://common01.todostreaming.es/live/ribera-livestream.m3u8
-#EXTINF:-1 tvg-id="8M.TV" tvg-logo="https://graph.facebook.com/la8mediterraneo/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="La 8 Mediterráneo",La 8 Mediterráneo
-https://newscript.gestec-video.com/hls/8TVEVENTOS.m3u8
-#EXTINF:-1 tvg-id="Alacanti.TV" tvg-logo="https://graph.facebook.com/alacantitv/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Alacantí TV",Alacantí TV
-https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/12tv.es/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="12TV Alicante",12TV Alicante
-https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=16126&live=1&avod=0&hls_marker=1&position=preroll&pod_duration=120&app_bundle=com.streamingconnect.viva&ssai_enabled=1&content_channel=12tv&app_domain=mirametv.live&app_category=linear_tv&content_cat=IAB1&content_genre=tv_broadcaster&content_network=streamingconnect&content_rating=TV-G&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&ifa_type=[IFA_TYPE]&min_ad_duration=6&max_ad_duration=120&content_id=mirametv_live
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/tvArtequatre/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="TV Artequatre",TV Artequatre
-https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/maestrat.tv/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Maestrat TV",Maestrat TV
-https://stream.maestrat.tv/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/burrianateve/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Burriana TV",Burriana TV
-https://www.burrianateve.com/hls/btv.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/TV4LaVall/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="TV 4 La Vall",TV 4 La Vall
-https://valldeuxo.gestec-video.com/hls/lavall.m3u8
-#EXTINF:-1 tvg-id="Distrito.TV" tvg-logo="https://graph.facebook.com/2004860103163343/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Distrito TV Valencia",Distrito TV Valencia
-https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
-#EXTINF:-1 tvg-id="Elche7.TV" tvg-logo="https://pbs.twimg.com/profile_images/1543985670066245632/cX_NvIkT_200x200.jpg" group-title="⏩LISTA⏪", tvg-name="Elche 7 TV",Elche 7 TV
-https://elche7tv.gestec-video.com/hls/canal2.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/APkrFKZ5UffEAeHVZWc1fbQsPu4VNureSfNMwlMoRmgH=s200" group-title="⏩LISTA⏪", tvg-name="Tele Safor",Tele Safor
-https://video.telesafor.com/hls/video.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/canal56televisio/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Canal 56",Canal 56
-https://videos.canal56.com/directe/stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/UniversValenciaDigital/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Univers TV",Univers TV
-https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/radiobunyol/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Radio Buñol TV",Radio Buñol TV
-https://castor.streamthatvideo.co:8081/radiobunyol/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/IYhYKEgINXNgQGLhReOrma2Pcl151M7Ray9SYDWissgAAZQJUhrRPEe7tLBT9XlsjwChuTNW=s200" group-title="⏩LISTA⏪", tvg-name="TV Almassora",TV Almassora
-https://www.tvalmassora.com/hls/tvalmassora.m3u8
-#EXTINF:-1 tvg-id="Punt3.TV" tvg-logo="https://graph.facebook.com/Punt3Television/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Punt 3 Vall Uixó",Punt 3 Vall Uixó
-https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/452144347593465856/NWj5Y9hn_200x200.png" group-title="⏩LISTA⏪", tvg-name="Onda 15 TV",Onda 15 TV
-https://cloudvideo.servers10.com:8081/8034/index.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nQt5rluj5KRX0HGcMvHLxSUJuhjZe4Y1GfuA0NjpHf5Q=s200" group-title="⏩LISTA⏪", tvg-name="Canal 3 Biar",Canal 3 Biar
-https://avantstreaming.es/hls/canal3.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CiudadesDelOcioTV/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Ciudades Del Ocio TV",Ciudades Del Ocio TV
-https://cloudvideo.servers10.com:8081/8024/index.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/ondavalenciatv/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Onda Valencia",Onda Valencia
-https://cloudvideo.servers10.com:8081/8116/index.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/UneVinalopo/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Une Vinalopó",Une Vinalopó
-https://streamingtvi.gestec-video.com/hls/unesd.m3u8
-#EXTINF:-1 tvg-logo="https://karyganet.com/wp-content/uploads/tv-33.jpg" group-title="⏩LISTA⏪", tvg-name="33TV Valencia",33TV Valencia
-https://limited43.todostreaming.es/live/simbana-livestream.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/cortsval/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Corts Valencianes",Corts Valencianes
-https://streamserver3.seneca.tv/cval_live/cdn_enc_3/master.m3u8
-#EXTINF:-1 tvg-id="Extremadura.TV" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Canal Extremadura",Canal Extremadura
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="TVGAL.TV" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="TVG",TVG
-https://crtvg-europa.flumotion.cloud/playlist.m3u8
-#EXTINF:-1 tvg-id="TVG2.TV" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="TVG 2",TVG 2
-https://crtvg-tvg2.flumotion.cloud/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/oxabarinclub/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="TVG Xabarin",TVG Xabarin
-https://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/oxabarinclub/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="TVG Pequerrech@s",TVG Pequerrech@s
-https://crtvg-xabarinr1-schlive.flumotion.cloud/crtvglive/smil:channel6PRG.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/oxabarinclub/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="TVG Cativ@s",TVG Cativ@s
-https://crtvg-xabarinr2-schlive.flumotion.cloud/crtvglive/smil:channel7PRG.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/oxabarinclub/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="TVG Mociñ@s",TVG Mociñ@s
-https://crtvg-xabarinr3-schlive.flumotion.cloud/crtvglive/smil:channel8PRG.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="TVG Eventos",TVG Eventos
-https://crtvg-events1.flumotion.cloud/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="TVG Eventos",TVG Eventos
-https://crtvg-events2.flumotion.cloud/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="TVG Eventos",TVG Eventos
-https://crtvg-events3.flumotion.cloud/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="TVG Mira Radio Galega",TVG Mira Radio Galega
-https://crtvg-mirarg-schlive.flumotion.cloud/crtvglive/smil:channel1PRG.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Corenta anos da TVG",Corenta anos da TVG
-https://crtvg-40-anos-crtvg-schlive.flumotion.cloud/crtvglive/smil:channel9PRG.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/tvferrol/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="TV Ferrol",TV Ferrol
-https://directo.tvferrol.es/tv.m3u8
-#EXTINF:-1 tvg-id="TeleVigo.TV" tvg-logo="https://graph.facebook.com/televigo/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="TeleVigo",TeleVigo
-https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=16113&live=1&avod=0&hls_marker=1&position=preroll&pod_duration=120&app_bundle=com.streamingconnect.viva&app_domain=mirametv.live&app_category=linear_tv&ssai_enabled=1&content_cat=IAB1&content_channel=televigo&content_genre=tv_broadcaster&content_network=streamingconnect&content_rating=TV-G&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&ifa_type=[IFA_TYPE]&min_ad_duration=6&max_ad_duration=120&content_id=[CONTENT_ID]
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/teleminho/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Telemiño",Telemiño
-https://laregionlive.flumotion.cloud/laregionlive/smil:channel1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/anove.tv/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Anove TV",Anove TV
-https://cloud.streamingconnect.tv/hls/anove/anove.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/parlamentodegalicia/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Parlamento de Galicia",Parlamento de Galicia
-https://pgalicia-live.akamaized.net/hls/live/2040697/pleno/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/@xuntadegalicia/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Xunta de Galicia",Xunta de Galicia
-https://xuntalive.akamaized.net/hls/live/2032287/streamxunta/bitrate_2.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/TEFTV/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="TEF",TEF
-https://tef.servertv.online:3268/live/teflive.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/GRUP4COM/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Canal 4 TV Mallorca",Canal 4 TV Mallorca
-https://5caf24a595d94.streamlock.net:1937/8110/8110/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/Fibwidiario/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Fibwi Diario",Fibwi Diario
-https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="TVR.TV" tvg-logo="https://graph.facebook.com/tvrtelevision/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="TV Rioja",TV Rioja
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/ParlamentodeLaRioja/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Parlamento de La Rioja",Parlamento de La Rioja
-https://media.parlamento-larioja.org/live/parlarioja/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/ParlamentodeLaRioja/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Parlamento de La Rioja",Parlamento de La Rioja
-https://media.parlamento-larioja.org/live/parlarioja_subtitulado/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/cocinafamiliarjr/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Cocina Familiar",Cocina Familiar
-https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=16114&live=1&avod=0&hls_marker=1&pod_duration=120&position=preroll&app_bundle=com.streamingconnect.viva&app_category=linear_tv&content_cat=IAB8&content_channel=cocinafamiliar&content_genre=tv_broadcaster&content_network=streamingconnect&content_rating=TV-G&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&ifa_type=[IFA_TYPE]&ssai_enabled=1&content_id=mirametv_live&min_ad_duration=6&max_ad_duration=120&app_domain=mirametv.live
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/61224728/populartvtwitter_200x200.png" group-title="⏩LISTA⏪", tvg-name="Popular TV Melilla",Popular TV Melilla
-https://5940924978228.streamlock.net/8009/ngrp:8009_all/playlist.m3u8
-#EXTINF:-1 tvg-id="ETB1.TV" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="ETB 1",ETB 1
-https://cdn1.etbon.eus/etb1/index.m3u8
-#EXTINF:-1 tvg-id="ETB2.TV" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="ETB 2",ETB 2
-https://cdn1.etbon.eus/etb2/index.m3u8
-#EXTINF:-1 tvg-id="ETBON_Oca1.TV" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="ETB Eventos 1",ETB Eventos 1
-https://cdn1.etbon.eus/oc1/index.m3u8
-#EXTINF:-1 tvg-id="ETBON_Oca2.TV" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="ETB Eventos 2",ETB Eventos 2 GEO
-https://cdn1.etbon.eus/oc2/index.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/GUW-ipQpsCCLhoJwWarfUDYO_vr3-5rpxhfipNSHAAvlaaWdfBwdUtVVUzs3PPyQzrSBVepKSqPzNAwDHvljII0=w200" group-title="⏩LISTA⏪", tvg-name="Euskadi Meteo (ETB On)",Euskadi Meteo (ETB On)
-https://cdn1.etbon.eus/meteo/index.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/HamaikaTb/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Hamaika TV",Hamaika TV
-https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/Tele7Radio7/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Tele 7",Tele 7
-https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/goiena.eus/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Goiena Eus",Goiena Eus
-https://zuzenean.goienamedia.eus/goiena-telebista.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/dotbDurangaldekoTelebista/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Durangaldeko TV",Durangaldeko TV
-https://live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/GoierriIrratiTelebista/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Goierri Irrati TV",Goierri Irrati TV
-https://streaming.gitb.eus/hls/z.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/28kanala/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="28 Kanala",28 Kanala
-https://streaming.28kanala.eus/hls/z.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/312994995454199/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="TeleBilbao",TeleBilbao
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-#EXTVLCOPT:http-referrer=https://www.telebilbao.es/directo/
-https://player.telebilbao.es/hls/web-public/live.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/guka.eus/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="GUKA TB",GUKA TB
-https://streaming.ukt.eus/hls/test.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/oizmenditelebista/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Oizmendi TV",Oizmendi TV
-https://zuzenean.oizmendi.eus/hls/z.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/urolatelebista/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Urola TV",Urola TV
-https://5940924978228.streamlock.net/j_Directo2/j_Directo2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/StzGrupo/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="STZ Telebista",STZ Telebista
-https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/legebiltzarra/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Eusko Legebiltzarra",Eusko Legebiltzarra
-https://bideoak.legebiltzarra.eus/zuzenean/stream-3_channel-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/legebiltzarra/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Eusko Legebiltzarra",Eusko Legebiltzarra
-https://bideoak.legebiltzarra.eus/zuzenean/stream-3_channel-2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1993571481008181248/sSTU9gqW_200x200.jpg" group-title="⏩LISTA⏪", tvg-name="Junta General del Principado de Asturias",Junta General del Principado de Asturias
-https://wmserver.jgpa.es/live/_definst_/livestream2/playlist.m3u8
-#EXTINF:-1 tvg-id="7RM.TV" tvg-logo="https://graph.facebook.com/la7tele/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="7 R. de Murcia",7 R. de Murcia
-https://www.youtube.com/channel/UCXi-7dpQ1mnf8kxIVCe9mCA/live
-#EXTINF:-1 tvg-id="7RM.TV" tvg-logo="https://graph.facebook.com/la7tele/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="7 R. de Murcia",7 R. de Murcia
-https://rtv-murcia-live.globalmest.com/secundario/smil:secundario.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PopularMU.TV" tvg-logo="https://pbs.twimg.com/profile_images/61224728/populartvtwitter_200x200.png" group-title="⏩LISTA⏪", tvg-name="Popular TV Murcia",Popular TV Murcia
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12690&live=1
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/tuwebtv/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Canal 1 Mar Menor Torre Pacheco",Canal 1 Mar Menor Torre Pacheco
-https://directo.tuwebtv.es/canal1.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/arabitvyecla/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Arabí TV",Arabí TV
-https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/RegiondeMurciaRM/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Consejo de Gobierno de la Región de Murcia",Consejo de Gobierno de la Región de Murcia
-https://crmlive.redctnet.es/liveedge/ConsejoGob/playlist.m3u8
-
-
-
-
-
-
 

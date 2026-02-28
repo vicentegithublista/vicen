@@ -2,28 +2,28 @@
 
 
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Moto%20GP.png"tvg-id="DAZN Moto GP"group-title="✔️EVENTOS✔️",09:00🏍️DAZN Moto GP
+EXTINF:0 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Moto%20GP.png"tvg-id="DAZN Moto GP"group-title="✔️EVENTOS✔️",03:35🏍️DAZN Moto GP
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=5548659c188e1d4d3b6e756e6c56485eb242abac
 
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Moto%20GP.png"tvg-id="DAZN Moto GP"group-title="✔️EVENTOS✔️",09:00🏍️DAZN Moto GP
+EXTINF:0 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Moto%20GP.png"tvg-id="DAZN Moto GP"group-title="✔️EVENTOS✔️",03:35🏍️DAZN Moto GP
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=ef341794651e00b7fcc5b5da8570ea37418c5406
 
 
-#EXTINF:0 tvg-logo="https://tv.assets.pressassociation.io/4a35f45e-79c6-5da0-b2fb-c9192eb9f24b.png"tvg-id="DAZN Moto GP"group-title="✔️EVENTOS✔️",09:00🏍️SKY MotoGP
+EXTINF:0 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Main%20Event.png"tvg-id="DAZN Moto GP"group-title="✔️EVENTOS✔️",03:35🏍️SKY MotoGP
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c
 
-#EXTINF:0 tvg-logo="https://tv.assets.pressassociation.io/4a35f45e-79c6-5da0-b2fb-c9192eb9f24b.png"tvg-id="DAZN Moto GP"group-title="✔️EVENTOS✔️",09:00🏍️SKY MotoGP
+EXTINF:0 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Main%20Event.png"tvg-id="DAZN Moto GP"group-title="✔️EVENTOS✔️",03:35🏍️SKY MotoGP
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=20d4b3586bb822c3618cf8fb665a304869c5e1a5
 
 
 
-#EXTINF:-1 tvg-logo="" tvg-id="UK | TNT Sports 2"group-title="✔️EVENTOS✔️",09:00🏍️TNT MotoGP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+EXTINF:0tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%202.png"tvg-id="UK | TNT Sports 2"group-title="✔️EVENTOS✔️",03:35🏍️TNT MotoGP
+#EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
 
 
@@ -674,11 +674,11 @@ http://127.0.0.1:6878/ace/getstream?id=5548659c188e1d4d3b6e756e6c56485eb242abac
 http://127.0.0.1:6878/ace/getstream?id=ef341794651e00b7fcc5b5da8570ea37418c5406
 
 
-#EXTINF:0 tvg-logo="https://tv.assets.pressassociation.io/4a35f45e-79c6-5da0-b2fb-c9192eb9f24b.png"tvg-id="DAZN Moto GP"group-title="DAZN",🏍️SKY MotoGP
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Main%20Event.png"tvg-id="DAZN Moto GP"group-title="DAZN",🏍️SKY MotoGP
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c
 
-#EXTINF:0 tvg-logo="https://tv.assets.pressassociation.io/4a35f45e-79c6-5da0-b2fb-c9192eb9f24b.png"tvg-id="DAZN Moto GP"group-title="DAZN",🏍️SKY MotoGP
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Main%20Event.png"tvg-id="DAZN Moto GP"group-title="DAZN",🏍️SKY MotoGP
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=20d4b3586bb822c3618cf8fb665a304869c5e1a5
 
@@ -2014,6 +2014,7 @@ https://media.profesionalhosting.com:8047/stream
 
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/urbanrevolution.es/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="La Urban Radio",La Urban Radio
 https://st1.urbanrevolution.es:8443/laurbanfm.mp3
+
 
 
 

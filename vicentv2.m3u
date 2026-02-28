@@ -2,25 +2,17 @@
 
 
 
-G.P. TAILANDIA
-MotoGP
-20d4b3586bb822c3618cf8fb665a304869c5e1a5
-
-20d4b3586bb822c3618cf8fb665a304869c5e1a5
-
-0c30255a5b56d67fbd253753b86d8afea0ddeb00
 
 
+#EXTINF:0 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD"group-title="✔️EVENTOS✔️",🏍️Dazn MotoGP
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD"group-title="✔️EVENTOS✔️",🏍️MGP
+#EXTINF:0 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD"group-title="✔️EVENTOS✔️",🏍️Dazn MotoGP
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=20d4b3586bb822c3618cf8fb665a304869c5e1a5
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD"group-title="✔️EVENTOS✔️",🏍️MGP
-#EXTVLCOPT:network-caching=1000
-http://127.0.0.1:6878/ace/getstream?id=20d4b3586bb822c3618cf8fb665a304869c5e1a5
-
-#EXTINF:0 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD"group-title="✔️EVENTOS✔️",🏍️MGP
+#EXTINF:0 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD"group-title="✔️EVENTOS✔️",🏍️Dazn MotoGP
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=0c30255a5b56d67fbd253753b86d8afea0ddeb00
 
@@ -1944,6 +1936,7 @@ https://media.profesionalhosting.com:8047/stream
 
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/urbanrevolution.es/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="La Urban Radio",La Urban Radio
 https://st1.urbanrevolution.es:8443/laurbanfm.mp3
+
 
 
 

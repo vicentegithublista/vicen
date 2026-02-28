@@ -2,59 +2,6 @@
 
 
 
-EXTINF:0 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Moto%20GP.png"tvg-id="DAZN Moto GP"group-title="✔️EVENTOS✔️",03:35🏍️DAZN Moto GP
-#EXTVLCOPT:network-caching=1000
-http://127.0.0.1:6878/ace/getstream?id=5548659c188e1d4d3b6e756e6c56485eb242abac
-
-
-EXTINF:0 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Moto%20GP.png"tvg-id="DAZN Moto GP"group-title="✔️EVENTOS✔️",03:35🏍️DAZN Moto GP
-#EXTVLCOPT:network-caching=1000
-http://127.0.0.1:6878/ace/getstream?id=ef341794651e00b7fcc5b5da8570ea37418c5406
-
-
-EXTINF:0 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Main%20Event.png"tvg-id="DAZN Moto GP"group-title="✔️EVENTOS✔️",03:35🏍️SKY MotoGP
-#EXTVLCOPT:network-caching=1000
-http://127.0.0.1:6878/ace/getstream?id=e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c
-
-EXTINF:0 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Main%20Event.png"tvg-id="DAZN Moto GP"group-title="✔️EVENTOS✔️",03:35🏍️SKY MotoGP
-#EXTVLCOPT:network-caching=1000
-http://127.0.0.1:6878/ace/getstream?id=20d4b3586bb822c3618cf8fb665a304869c5e1a5
-
-
-
-EXTINF:0tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%202.png"tvg-id="UK | TNT Sports 2"group-title="✔️EVENTOS✔️",03:35🏍️TNT MotoGP
-#EXTVLCOPT:network-caching=1000
-http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
-
-
-
-
-
-
-
-#EXTINF:0 tvg-id="IberaliaTV.es" tvg-name="  DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png"group-title="✔️EVENTOS✔️",18:30⚽️Mallorca-Real 
-#EXTVLCOPT:network-caching=1000
-http://127.0.0.1:6878/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
-
-#EXTINF:0 tvg-id="IberaliaTV.es" tvg-name="  DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png"group-title="✔️EVENTOS✔️",18:30⚽️Mallorca-Real 
-#EXTVLCOPT:network-caching=1000
-http://127.0.0.1:6878/ace/getstream?id=4955867fad3bc92e5b4c36045699fc277800fb18
-
-
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD"group-title="✔️EVENTOS✔️",18:30⚽️Leeds-City 
-#EXTVLCOPT:network-caching=1000
-http://127.0.0.1:6878/ace/getstream?id=dddff67edfa7061f643ec5ae0be110169850363d
-
-#EXTINF:0 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD"group-title="✔️EVENTOS✔️",18:30⚽️Leeds-City 
-#EXTVLCOPT:network-caching=1000
-http://127.0.0.1:6878/ace/getstream?id=a116ce3ff95c41c60e987e2b1aa247007f707884
-
-#EXTINF:0 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD"group-title="✔️EVENTOS✔️",18:30⚽️Leeds-City 
-#EXTVLCOPT:network-caching=1000
-http://127.0.0.1:6878/ace/getstream?id=9afc89481b721ce6c326c85e47148676077b8e62
-
 
 
 
@@ -76,6 +23,14 @@ http://127.0.0.1:6878/ace/getstream?id=0febfb5cac3384f487d55c559bbfc877db2d0357
 http://127.0.0.1:6878/ace/getstream?id=b8eb9c9868d487402569bba2d97a8af113d033fe
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png"tvg-id="Movistar Plus+ HD"group-title="✔️EVENTOS✔️",21:00⚽️Oviedo-Atletico
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=ed74406ccdb3c21941b919db6bffca7f1de015bb
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png",tvg-id="Eurosport 2"group-title="✔️EVENTOS✔️",00:00🥊UFC México 
@@ -85,6 +40,33 @@ http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png",tvg-id="Eurosport 2"group-title="✔️EVENTOS✔️",00:00🥊UFC México 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=d01d255aaaf2fb91c0a8c98a826b4bd4769d81c1
+
+
+
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Moto%20GP.png"tvg-id="DAZN Moto GP"group-title="✔️EVENTOS✔️",03:35🏍️DAZN Moto GP
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=5548659c188e1d4d3b6e756e6c56485eb242abac
+
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Moto%20GP.png"tvg-id="DAZN Moto GP"group-title="✔️EVENTOS✔️",03:35🏍️DAZN Moto GP
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=ef341794651e00b7fcc5b5da8570ea37418c5406
+
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Main%20Event.png"tvg-id="DAZN Moto GP"group-title="✔️EVENTOS✔️",03:35🏍️SKY MotoGP
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Main%20Event.png"tvg-id="DAZN Moto GP"group-title="✔️EVENTOS✔️",03:35🏍️SKY MotoGP
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=20d4b3586bb822c3618cf8fb665a304869c5e1a5
+
+
+
+#EXTINF:0tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%202.png"tvg-id="UK | TNT Sports 2"group-title="✔️EVENTOS✔️",03:35🏍️TNT MotoGP
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
 
 
 
@@ -400,18 +382,9 @@ https://play.agenciastreaming.com:8081/futsalmafertv/index.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png"tvg-id="Movistar Plus+ HD" ,group-title="M. DEPORTES",🏆Movistar Plus+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b&pid=19419
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png"tvg-id="Movistar Plus+ HD" ,group-title="M. DEPORTES",🏆Movistar Plus+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=ed74406ccdb3c21941b919db6bffca7f1de015bb
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png"tvg-id="Movistar Plus+ HD" ,group-title="M. DEPORTES",🏆Movistar Plus+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 
 
 
@@ -1995,6 +1968,7 @@ https://media.profesionalhosting.com:8047/stream
 
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/urbanrevolution.es/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="La Urban Radio",La Urban Radio
 https://st1.urbanrevolution.es:8443/laurbanfm.mp3
+
 
 
 

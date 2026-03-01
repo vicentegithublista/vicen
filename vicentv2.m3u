@@ -8,21 +8,6 @@
 
 
 
-#EXTINF:0tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",16:15⚽Valencia-Osasuna
-#EXTVLCOPT:network-caching=1000
-http://127.0.0.1:6878/ace/getstream?id=0febfb5cac3384f487d55c559bbfc877db2d0357
-
-
-
-#EXTINF:0tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",16:15⚽Valencia-Osasuna
-#EXTVLCOPT:network-caching=1000
-http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
-
-#EXTINF:0tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",16:15⚽Valencia-Osasuna
-#EXTVLCOPT:network-caching=1000
-http://127.0.0.1:6878/ace/getstream?id=f863873de9f7b2996dde19a0657dd89835af3007
-
-
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD"group-title="✔️EVENTOS✔️",17:30⚽Arsenal-Chelsea
 #EXTVLCOPT:network-caching=1000
@@ -2002,6 +1987,7 @@ acestream://181fcc443b953d54b00a1bf6320ccbb097e85d64
 
 #EXTINF:-1 tvg-logo="" group-title="⏩LISTA⏪", tvg-name="La Urban Radio",1
 acestream://ca20f93ea5d9c15744e48a21b52598b9fce87425
+
 
 
 

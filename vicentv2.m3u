@@ -22,8 +22,6 @@ http://127.0.0.1:6878/ace/getstream?id=e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=20d4b3586bb822c3618cf8fb665a304869c5e1a5
 
-
-
 #EXTINF:0tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%202.png"tvg-id="UK | TNT Sports 2"group-title="✔️EVENTOS✔️",09:00🏍️TNT MotoGP
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
@@ -31,166 +29,114 @@ http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
 
 
 
-🏆 Saltos - 01:00
-🏆 COPA DEL MUNDO
-🆚 Final 10 metros Masculinos (Montreal)
-🖥 Teledeporte
 
-🥊 Boxeo - 02:00
-🏆 PESO SUPERPLUMA
-🆚 Emanuel Navarrete vs Eduardo Núñez
-🖥 DAZN 2
 
-🏀 NBA - 02:30
-🏆 LIGA REGULAR
-🆚 Golden State Warriors - Los Angeles Lakers
-🖥 DAZN Baloncesto
+#EXTINF:0tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",14:00⚽️Elche-Espanyol
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 
-🎾 Tenis - 04:00
-🏆 ATP ACAPULCO
-🆚 Cobolli - Tiafoe
-🖥 M+ Vamos
+#EXTINF:0tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",14:00⚽️Elche-Espanyol
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=f863873de9f7b2996dde19a0657dd89835af3007
 
-🏆 Motos - 06:00
-🏆 G.P. TAILANDIA
-🆚 Moto3
-🖥 DAZN MotoGP
+#EXTINF:0tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",14:00⚽️Elche-Espanyol
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=0febfb5cac3384f487d55c559bbfc877db2d0357
 
-🏆 Motos - 07:15
-🏆 G.P. TAILANDIA
-🆚 Moto2
-🖥 DAZN MotoGP
 
-🏆 Motos - 09:00
-🏆 G.P. TAILANDIA
-🆚 MotoGP
-🖥 DAZN MotoGP
 
-⚽ Fútbol - 12:00
-🏆 1ª RFEF
-🆚 Real Madrid Castilla - Ponferradina
-🖥 Movistar Primera Federación
 
-🏆 H. Patines - 12:15
-🏆 OK LIGA
-🆚 Sant Just - Reus
-🖥 Esport 3
 
-🤾 Balonmano - 12:30
-🏆 LIGA GUERRERAS IBERDROLA
-🆚 Cicar Lanzarote Ciudad de Arrecife - KH7 Granollers
-🖥 Teledeporte
 
-⚽ Fútbol - 14:00
-🏆 LALIGA EA SPORTS
-🆚 Elche - Espanyol
-🖥 Teledeporte
 
-⚽ Fútbol - 14:00
-🏆 LALIGA HYPERMOTION
-🆚 Real Sociedad B - Deportivo
-🖥 GOL
 
-🚴‍♂️ Ciclismo - 14:30
-🏆 KUURNE - BRUSELAS - KUURNE
-🆚 Kortrijk-Kuurne (194.9 km)
-🖥 Eurosport 2
+#EXTINF:0tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD"group-title="✔️EVENTOS✔️",15:00⚽M.United-C.Palace
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=dddff67edfa7061f643ec5ae0be110169850363d
 
-⚽ Fútbol - 15:00
-🏆 PREMIER LEAGUE
-🆚 Manchester United - Crystal Palace
-🖥 DAZN 1
+#EXTINF:0tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD"group-title="✔️EVENTOS✔️",15:00⚽M.United-C.Palace
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=a116ce3ff95c41c60e987e2b1aa247007f707884
 
-⚽ Fútbol - 15:00
-🏆 PREMIER LEAGUE
-🆚 Fulham - Tottenham
-🖥 DAZN 2
+#EXTINF:0tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD"group-title="✔️EVENTOS✔️",15:00⚽M.United-C.Palace
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=9afc89481b721ce6c326c85e47148676077b8e62
 
-⚽ Fútbol - 15:00
-🏆 PREMIER LEAGUE
-🆚 Brighton & Hove Albion - Nottingham Forest
-🖥 DAZN 3
 
-⚽ Fútbol - 16:00
-🏆 1ª RFEF
-🆚 Cartagena - Sabadell
-🖥 Teledeporte
 
-⚽ Fútbol - 16:15
-🏆 LALIGA EA SPORTS
-🆚 Valencia - Osasuna
-🖥 M+ LALIGA
 
-⚽ Fútbol - 16:15
-🏆 LALIGA HYPERMOTION
-🆚 Sporting - Leganés
-🖥 LALIGA TV HYPERMOTION
+#EXTINF:0tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",16:15⚽Valencia-Osasuna
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 
-⚽ Fútbol - 16:15
-🏆 LALIGA HYPERMOTION
-🆚 Mirandés - Ceuta
-🖥 LALIGA TV HYPERMOTION 2
+#EXTINF:0tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",16:15⚽Valencia-Osasuna
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=f863873de9f7b2996dde19a0657dd89835af3007
 
-⚽ Fútbol - 17:30
-🏆 PREMIER LEAGUE
-🆚 Arsenal - Chelsea
-🖥 Movistar Plus+
-</a>
+#EXTINF:0tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",16:15⚽Valencia-Osasuna
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=0febfb5cac3384f487d55c559bbfc877db2d0357
 
-🏀 Baloncesto - 18:00
-🏆 LIGA FEMENINA ENDESA
-🆚 Movistar Estudiantes - Hozono Global Jairis
-🖥 Teledeporte
 
-⚽ Fútbol - 18:15
-🏆 1ª RFEF
-🆚 Zamora - Guadalajara
-🖥 Movistar Primera Federación
 
-⚽ Fútbol - 18:30
-🏆 LALIGA EA SPORTS
-🆚 Betis - Sevilla
-🖥 DAZN LALIGA
 
-⚽ Fútbol - 18:30
-🏆 LALIGA HYPERMOTION
-🆚 Cultural - Las Palmas
-🖥 LALIGA TV HYPERMOTION
+#EXTINF:0tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD"group-title="✔️EVENTOS✔️",17:30⚽Arsenal-Chelsea
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=dddff67edfa7061f643ec5ae0be110169850363d
 
-⚽ Fútbol - 19:30
-🏆 BUNDESLIGA
-🆚 Hamburgo - Leipzig
-🖥 M+ Vamos 2
+#EXTINF:0tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD"group-title="✔️EVENTOS✔️",17:30⚽Arsenal-Chelsea
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=a116ce3ff95c41c60e987e2b1aa247007f707884
 
-🤾 Balonmano - 20:00
-🏆 LIGA ASOBAL
-🆚 Cangas - Barcelona
-🖥 Esport 3
+#EXTINF:0tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD"group-title="✔️EVENTOS✔️",17:30⚽Arsenal-Chelsea
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=9afc89481b721ce6c326c85e47148676077b8e62
 
-🏀 Baloncesto - 20:30
-🏆 CLASIFICACIÓN MUNDIAL
-🆚 Polonia - Letonia
-🖥 M+ Deportes
 
-⚽ Fútbol - 20:30
-🏆 1ª RFEF
-🆚 Villarreal B - Murcia
-🖥 Movistar Primera Federación
 
-⚽ Fútbol - 21:00
-🏆 LALIGA EA SPORTS
-🆚 Girona - Celta
-🖥 M+ LALIGA
+#EXTINF:0 tvg-id="IberaliaTV.es" tvg-name="  DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png"group-title="✔️EVENTOS✔️",18:30⚽️Betis-Sevilla
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
 
-⚽ Fútbol - 21:00
-🏆 LALIGA HYPERMOTION
-🆚 Eibar - Cádiz
-🖥 LALIGA TV HYPERMOTION
+#EXTINF:0 tvg-id="IberaliaTV.es" tvg-name="  DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png"group-title="✔️EVENTOS✔️",18:30⚽️Betis-Sevilla 
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=4955867fad3bc92e5b4c36045699fc277800fb18
 
-⚽ Fútbol - 21:00
-🏆 TORNEO APERTURA
-🆚 Newell's Old Boys - Rosario Central
-🖥 M+ Vamos
+#EXTINF:0 tvg-id="IberaliaTV.es" tvg-name="  DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png"group-title="✔️EVENTOS✔️",18:30⚽️Betis-Sevilla 
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+
+
+
+#EXTINF:0tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",21:00⚽️Girona-Celta
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
+
+#EXTINF:0tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",21:00⚽️Girona-Celta
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=f863873de9f7b2996dde19a0657dd89835af3007
+
+#EXTINF:0tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",21:00⚽️Girona-Celta
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=0febfb5cac3384f487d55c559bbfc877db2d0357
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2088,6 +2034,7 @@ https://media.profesionalhosting.com:8047/stream
 
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/urbanrevolution.es/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="La Urban Radio",La Urban Radio
 https://st1.urbanrevolution.es:8443/laurbanfm.mp3
+
 
 
 

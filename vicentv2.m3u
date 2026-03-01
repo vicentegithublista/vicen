@@ -17,10 +17,6 @@ LaLiga TV Hypermotion 720p **	a4f072c9b614323ac1258a175f868a909ea3c8cd	LALIGA TV
 LaLiga TV Hypermotion 1080p **	87bb542f974b6b9e89d0f2e20ed6dc93426f4be0	LALIGA TV Hypermotion (M56 O119)
 LaLiga TV Hypermotion 2 1080p *	a5b9d834ad92bfb80fe01bf89cc20bd68be199fb	LALIGA TV Hypermotion 2 (M59 O121)
 
-DAZN LaLiga 720p *	eb4975702ceadca7ed74f8707e17a9f55569dbb9	DAZN LaLiga (M55 O113)
-DAZN LaLiga 720p **	4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f	DAZN LaLiga (M55 O113)
-DAZN LaLiga 1080p *	cc108ae39f92c48f6c946763047bd1c9b7b7d889	DAZN LaLiga (M55 O113)
-DAZN LaLiga 1080p **	4955867fad3bc92e5b4c36045699fc277800fb18	DAZN LaLiga (M55 O113)
 
 
 M+ Liga de Campeones 720p *	63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439	M+ Liga de Campeones (M60 O115)
@@ -193,7 +189,17 @@ http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=cc108ae39f92c48f6c946763047bd1c9b7b7d889
 
+#EXTINF:0 tvg-id="IberaliaTV.es" tvg-name="  DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png",group-title="LA LIGA",DAZN LaLiga⚽️
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=eb4975702ceadca7ed74f8707e17a9f55569dbb9	
 
+#EXTINF:0 tvg-id="IberaliaTV.es" tvg-name="  DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png",group-title="LA LIGA",DAZN LaLiga⚽️
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f	
+
+
+
+	
 
 
 
@@ -2034,6 +2040,7 @@ https://media.profesionalhosting.com:8047/stream
 
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/urbanrevolution.es/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="La Urban Radio",La Urban Radio
 https://st1.urbanrevolution.es:8443/laurbanfm.mp3
+
 
 
 

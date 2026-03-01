@@ -10,9 +10,7 @@
 
 
 
-M+ Liga de Campeones 720p *	63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439	M+ Liga de Campeones (M60 O115)
-M+ Liga de Campeones 1080p *	91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920	M+ Liga de Campeones (M60 O115)
-M+ Liga de Campeones 2 1080p *	8156912ae14f6174a19c8a4efcf36a06e847f632	M+ Liga de Campeones 2 (M61 O117)
+
 
 
 
@@ -23,12 +21,7 @@ M+ Deportes 2 1080p *	3774d8feab016ca766b35ea8488e7514ca30e0ee	M+ Deportes 2 (64
 
 M+ Deportes 3 720p *	e9ce6e62ff97f1da7f10fd449a3c8e8ee90b253d	M+ Deportes 3 (65)
 
-M+ Golf 720p *	f60535a458b3c114283e2f433379144345beddd6	Movistar Golf (M67)
-M+ Golf 1080p *	9bb2a7dc6c6a296609df8cc50e742a78194f7530	Movistar Golf (M67)
-M+ Golf 1080p **	8121478d3d3e563ad6b98018bc1c0aeb2f6166eb	Movistar Golf (M67)
 
-M+ Golf 2 1080p **	882074140fca664e119a43294afa2fb4a64917ef	Movistar Golf 2 (M68)
-M+ Golf 2 *	ac321484243571f59e077f2a2521e648dc0c7b03	Movistar Golf 2 (M68)
 
 M+ Vamos 1080p *	ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc	M+ Vamos (8 y 50)
 M+ Vamos 1080p **	476b6f6583517bd75c15c4663bf45fab7c8da9cf	M+ Vamos (8 y 50)
@@ -228,6 +221,12 @@ http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439
 
+#EXTINF:0tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png"tvg-id="M+ Liga de Campeones HD"group-title="LA LIGA",⚽M+ Liga de Campeones                                                                                                           
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920
+
+
+
 
 
 
@@ -251,7 +250,7 @@ http://127.0.0.1:6878/ace/getstream?id=8156912ae14f6174a19c8a4efcf36a06e847f632
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=bb26037a253866d341778181eff5c8637240d615
 
-
+	
 
 
 
@@ -625,7 +624,31 @@ https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD" ,group-title="M. DEPORTES",🏆M.GOLF⛳️
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb&pid=19419
+http://127.0.0.1:6878/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD" ,group-title="M. DEPORTES",🏆M.GOLF⛳️
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=f60535a458b3c114283e2f433379144345beddd6
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD" ,group-title="M. DEPORTES",🏆M.GOLF⛳️
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=9bb2a7dc6c6a296609df8cc50e742a78194f7530
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD" ,group-title="M. DEPORTES",🏆M.GOLF⛳️
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=8121478d3d3e563ad6b98018bc1c0aeb2f6166eb	
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD" ,group-title="M. DEPORTES",🏆M.GOLF⛳️2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=882074140fca664e119a43294afa2fb4a64917ef
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD" ,group-title="M. DEPORTES",🏆M.GOLF⛳️2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=ac321484243571f59e077f2a2521e648dc0c7b03
+
 
 
 
@@ -2080,6 +2103,7 @@ https://media.profesionalhosting.com:8047/stream
 
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/urbanrevolution.es/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="La Urban Radio",La Urban Radio
 https://st1.urbanrevolution.es:8443/laurbanfm.mp3
+
 
 
 

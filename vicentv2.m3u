@@ -46,12 +46,7 @@ Teledeporte 720p **	b0d1489c9f3239349665ad5ab423363f2b02e5ae	Teledeporte
 Teledeporte 1080p *	b35b3eb8e22365bf3469efd6d1f3b82618a6e18a	Teledeporte
 Teledeporte 1080p **	77cf022557c56cdf8d8115f50e61f846ad72ee05	Teledeporte
 
-Dazn MotoGP 720p *	ac33342ccf7d40d46174229085461d95000b9137	DAZN MotoGP (M70 O105)
-Dazn MotoGP 720p **	129c707eb4854171d178a566f36d90b7f2b5e624	DAZN MotoGP (M70 O105)
-Dazn MotoGP 1080p *	e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c	DAZN MotoGP (M70 O105)
-Dazn MotoGP 1080p *	20d4b3586bb822c3618cf8fb665a304869c5e1a5	DAZN MotoGP (M70 O105)
-Dazn MotoGP 1080p **	342ca6975a4884d81f9fec5c4085a47060bd2028	DAZN MotoGP (M70 O105)
-Dazn MotoGP 1080p **	c53bdb3be55d12c5188d25085f1bb16911c15cea	DAZN MotoGP (M70 O105)
+
 
 
 
@@ -689,8 +684,6 @@ https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist/amg01935-a
 
 
 
-
-
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Moto%20GP.png"tvg-id="DAZN Moto GP"group-title="DAZN",🏍️DAZN Moto GP
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=5548659c188e1d4d3b6e756e6c56485eb242abac
@@ -699,14 +692,34 @@ http://127.0.0.1:6878/ace/getstream?id=5548659c188e1d4d3b6e756e6c56485eb242abac
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=ef341794651e00b7fcc5b5da8570ea37418c5406
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Moto%20GP.png"tvg-id="DAZN Moto GP"group-title="DAZN",🏍️DAZN Moto GP
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=ac33342ccf7d40d46174229085461d95000b9137
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Moto%20GP.png"tvg-id="DAZN Moto GP"group-title="DAZN",🏍️DAZN Moto GP
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=129c707eb4854171d178a566f36d90b7f2b5e624
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Moto%20GP.png"tvg-id="DAZN Moto GP"group-title="DAZN",🏍️DAZN Moto GP
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=342ca6975a4884d81f9fec5c4085a47060bd2028	
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Moto%20GP.png"tvg-id="DAZN Moto GP"group-title="DAZN",🏍️DAZN Moto GP
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=c53bdb3be55d12c5188d25085f1bb16911c15cea	
+
+
+
+
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Main%20Event.png"tvg-id="DAZN Moto GP"group-title="DAZN",🏍️SKY MotoGP
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=20d4b3586bb822c3618cf8fb665a304869c5e1a5
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Main%20Event.png"tvg-id="DAZN Moto GP"group-title="DAZN",🏍️SKY MotoGP
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Main%20Event.png"tvg-id="DAZN Moto GP"group-title="DAZN",🏍️SKY MotoGP
-#EXTVLCOPT:network-caching=1000
-http://127.0.0.1:6878/ace/getstream?id=20d4b3586bb822c3618cf8fb665a304869c5e1a5
 
 
 
@@ -2070,6 +2083,7 @@ https://media.profesionalhosting.com:8047/stream
 
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/urbanrevolution.es/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="La Urban Radio",La Urban Radio
 https://st1.urbanrevolution.es:8443/laurbanfm.mp3
+
 
 
 

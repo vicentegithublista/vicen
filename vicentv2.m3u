@@ -23,8 +23,6 @@ DAZN LaLiga 1080p *	cc108ae39f92c48f6c946763047bd1c9b7b7d889	DAZN LaLiga (M55 O1
 DAZN LaLiga 1080p **	4955867fad3bc92e5b4c36045699fc277800fb18	DAZN LaLiga (M55 O113)
 
 
-M+ LaLiga 2 720p **	ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8	M+ LALIGA 2 (M57 O112)
-
 M+ Liga de Campeones 720p *	63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439	M+ Liga de Campeones (M60 O115)
 M+ Liga de Campeones 1080p *	91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920	M+ Liga de Campeones (M60 O115)
 M+ Liga de Campeones 2 1080p *	8156912ae14f6174a19c8a4efcf36a06e847f632	M+ Liga de Campeones 2 (M61 O117)
@@ -113,32 +111,43 @@ http://127.0.0.1:6878/ace/getstream?id=f863873de9f7b2996dde19a0657dd89835af3007
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" ,group-title="LA LIGA",M+ LaLiga⚽️
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38&pid=19419
+#EXTINF:0tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="LA LIGA",M+ LaLiga⚽️
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" ,group-title="LA LIGA",M+ LaLiga⚽️
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=f863873de9f7b2996dde19a0657dd89835af3007&pid=19419
+#EXTINF:0tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="LA LIGA",M+ LaLiga⚽️
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=f863873de9f7b2996dde19a0657dd89835af3007
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" ,group-title="LA LIGA",M+ LaLiga⚽️
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=0febfb5cac3384f487d55c559bbfc877db2d0357&pid=19419
+#EXTINF:0tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="LA LIGA",M+ LaLiga⚽️
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=0febfb5cac3384f487d55c559bbfc877db2d0357
+
+#EXTINF:0tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="LA LIGA",M+ LaLiga⚽️
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=0febfb5cac3384f487d55c559bbfc877db2d0357
+
+#EXTINF:0tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="LA LIGA",M+ LaLiga⚽️
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74	
+
+#EXTINF:0tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="LA LIGA",M+ LaLiga⚽️
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947	
+
+#EXTINF:0tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="LA LIGA",M+ LaLiga⚽️
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e	
 
 
 
+#EXTINF:0tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" tvg-id="M+ LaLiga 2 HD"group-title="LA LIGA",M+ LaLiga 2⚽
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=b8eb9c9868d487402569bba2d97a8af113d033fe
 
-M+ LaLiga 1080p *	0febfb5cac3384f487d55c559bbfc877db2d0357	M+ LALIGA (M54 O110)
-M+ LaLiga 1080p **	4b528d10eaad747ddf52251206177573ee3e9f74	M+ LALIGA (M54 O110)
-M+ LaLiga 1080p **	00c9bc9c5d7d87680a5a6bed349edfa775a89947	M+ LALIGA (M54 O110)
-M+ LaLiga 1080p **	c9321006921967d6258df6945f1d598a5c0cbf1e	M+ LALIGA (M54 O110)
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" tvg-id="M+ LaLiga 2 HD",group-title="LA LIGA",M+ LaLiga 2⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=b8eb9c9868d487402569bba2d97a8af113d033fe&pid=19419
-
+#EXTINF:0tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" tvg-id="M+ LaLiga 2 HD"group-title="LA LIGA",M+ LaLiga 2⚽
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8
 
 
 
@@ -2025,6 +2034,7 @@ https://media.profesionalhosting.com:8047/stream
 
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/urbanrevolution.es/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="La Urban Radio",La Urban Radio
 https://st1.urbanrevolution.es:8443/laurbanfm.mp3
+
 
 
 

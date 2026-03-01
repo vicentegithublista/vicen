@@ -25,6 +25,10 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 
 
 
+#EXTINF:0tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",14:00⚽️Elche-Espanyol
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=0febfb5cac3384f487d55c559bbfc877db2d0357
+
 
 #EXTINF:0tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",14:00⚽️Elche-Espanyol
 #EXTVLCOPT:network-caching=1000
@@ -33,10 +37,6 @@ http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 #EXTINF:0tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",14:00⚽️Elche-Espanyol
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=f863873de9f7b2996dde19a0657dd89835af3007
-
-#EXTINF:0tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",14:00⚽️Elche-Espanyol
-#EXTVLCOPT:network-caching=1000
-http://127.0.0.1:6878/ace/getstream?id=0febfb5cac3384f487d55c559bbfc877db2d0357
 
 
 
@@ -64,6 +64,11 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 
 
 
+#EXTINF:0tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",16:15⚽Valencia-Osasuna
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=0febfb5cac3384f487d55c559bbfc877db2d0357
+
+
 
 #EXTINF:0tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",16:15⚽Valencia-Osasuna
 #EXTVLCOPT:network-caching=1000
@@ -72,11 +77,6 @@ http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 #EXTINF:0tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",16:15⚽Valencia-Osasuna
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=f863873de9f7b2996dde19a0657dd89835af3007
-
-#EXTINF:0tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",16:15⚽Valencia-Osasuna
-#EXTVLCOPT:network-caching=1000
-http://127.0.0.1:6878/ace/getstream?id=0febfb5cac3384f487d55c559bbfc877db2d0357
-
 
 
 
@@ -112,6 +112,12 @@ http://127.0.0.1:6878/ace/getstream?id=4955867fad3bc92e5b4c36045699fc277800fb18
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 
 
+#EXTINF:0tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",21:00⚽️Girona-Celta
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=0febfb5cac3384f487d55c559bbfc877db2d0357
+
+
+
 
 #EXTINF:0tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",21:00⚽️Girona-Celta
 #EXTVLCOPT:network-caching=1000
@@ -120,12 +126,6 @@ http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 #EXTINF:0tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",21:00⚽️Girona-Celta
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=f863873de9f7b2996dde19a0657dd89835af3007
-
-#EXTINF:0tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",21:00⚽️Girona-Celta
-#EXTVLCOPT:network-caching=1000
-http://127.0.0.1:6878/ace/getstream?id=0febfb5cac3384f487d55c559bbfc877db2d0357
-
-
 
 
 

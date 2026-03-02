@@ -1395,7 +1395,7 @@ http://127.0.0.1:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg" 
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg",group-title="INTERNACIONAL",SPORT 1
@@ -1737,9 +1737,9 @@ acestream://44bb58c24b0246c85d4600625d37b62ebe9052f9
 #EXTINF:-1 ,group-title="PELICULAS", tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jT9xDRGD9lg0b4LSqbrdgAyicd5.jpg",Nosferatu (2024) BluRay 4k 2160P (6.7*)
 acestream://0091345d940c59b6c82424bde7731d39c1a6160f
 
-#EXTINF:0,28 AÑOS DESPUES
+#EXTINF:-1,28 AÑOS DESPUESS
 #EXTVLCOPT:network-caching=1000
-http://127.0.0.1:6878/ace/getstream?id=19e4c31747f3c8bffe4925591ad57c955f8d5789
+http://127.0.0.1:6878/ace/getstream?id=19e4c31747f3c8bffe4925591ad57c955f8d5789&pid=19419
 
 
 
@@ -2075,6 +2075,7 @@ https://media.profesionalhosting.com:8047/stream
 
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/urbanrevolution.es/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="La Urban Radio",La Urban Radio
 https://st1.urbanrevolution.es:8443/laurbanfm.mp3
+
 
 
 

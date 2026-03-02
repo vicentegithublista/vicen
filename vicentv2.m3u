@@ -1737,9 +1737,9 @@ acestream://44bb58c24b0246c85d4600625d37b62ebe9052f9
 #EXTINF:-1 ,group-title="PELICULAS", tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jT9xDRGD9lg0b4LSqbrdgAyicd5.jpg",Nosferatu (2024) BluRay 4k 2160P (6.7*)
 acestream://0091345d940c59b6c82424bde7731d39c1a6160f
 
-#EXTINF:-1,28 AÑOS DESPUESS
+#EXTINF:-1,28 AÑOS DESPUES
 #EXTVLCOPT:network-caching=1000
-http://127.0.0.1:6878/ace/getstream?id=19e4c31747f3c8bffe4925591ad57c955f8d5789&pid=19419
+acestream://19e4c31747f3c8bffe4925591ad57c955f8d5789
 
 
 
@@ -2075,6 +2075,7 @@ https://media.profesionalhosting.com:8047/stream
 
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/urbanrevolution.es/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="La Urban Radio",La Urban Radio
 https://st1.urbanrevolution.es:8443/laurbanfm.mp3
+
 
 
 

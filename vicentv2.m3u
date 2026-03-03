@@ -7,6 +7,12 @@
 #EXTVLCOPT:network-caching=1000
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 
+
+#EXTINF:0tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",21:00⚽️Barça-Atletico
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=0febfb5cac3384f487d55c559bbfc877db2d0357
+
+
 #EXTINF:0tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",21:00⚽️Barça-Atletico
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=f863873de9f7b2996dde19a0657dd89835af3007
@@ -2094,6 +2100,7 @@ https://media.profesionalhosting.com:8047/stream
 
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/urbanrevolution.es/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="La Urban Radio",La Urban Radio
 https://st1.urbanrevolution.es:8443/laurbanfm.mp3
+
 
 
 

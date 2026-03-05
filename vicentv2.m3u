@@ -828,7 +828,7 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203.png" tvg-id="DAZN 3",group-title="DAZN",DAZN 3 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+#EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=908bc5e7ae52afc06e40793b6db749dba11a1780
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203.png" tvg-id="DAZN 3",group-title="DAZN",DAZN 3 
@@ -857,37 +857,71 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1" ,group-title="DAZN",DAZN F1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2&pid=19419
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1" ,group-title="DAZN",DAZN F1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=895d08633bb22c2573281655cf3ca44de476cc73&pid=19419
+#EXTINF:0tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1"group-title="DAZN",🏎️DAZN F1
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=27d11bbeb3026231d52de16b1fac48da7a099247
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1" ,group-title="DAZN",DAZN F1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=d719181097d256073844390b3e094fbcb1bceaa4&pid=19419
+#EXTINF:0tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1"group-title="DAZN",🏎️DAZN F1
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1" ,group-title="DAZN",DAZN F1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69&pid=19419
+#EXTINF:0tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1"group-title="DAZN",🏎️DAZN F1
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=88d7cdd80be237ae21314f7f1b6582991498e8ba
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1" ,group-title="DAZN",DAZN F1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55&pid=19419
+#EXTINF:0tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1"group-title="DAZN",🏎️DAZN F1
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=d719181097d256073844390b3e094fbcb1bceaa4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1" ,group-title="DAZN",DAZN F1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=27d11bbeb3026231d52de16b1fac48da7a099247&pid=19419
+#EXTINF:0tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1"group-title="DAZN",🏎️DAZN F1
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=895d08633bb22c2573281655cf3ca44de476cc73
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1" ,group-title="DAZN",DAZN F1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2&pid=19419
+#EXTINF:0tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1"group-title="DAZN",🏎️DAZN F1
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1" ,group-title="DAZN",SKY SPORT F1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076&pid=19419
+#EXTINF:0tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1"group-title="DAZN",🏎️DAZN F1
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
+
+#EXTINF:0tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1"group-title="DAZN",🏎️DAZN F1
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69	
+
+#EXTINF:0tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1"group-title="DAZN",🏎️DAZN F1
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2
+
+#EXTINF:0tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1"group-title="DAZN",🏎️DAZN F1
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=895d08633bb22c2573281655cf3ca44de476cc73
+
+#EXTINF:0tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1"group-title="DAZN",🏎️DAZN F1
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=d719181097d256073844390b3e094fbcb1bceaa4
+
+#EXTINF:0tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1"group-title="DAZN",🏎️DAZN F1
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
+
+#EXTINF:0tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1"group-title="DAZN",🏎️DAZN F1
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
+
+#EXTINF:0tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1"group-title="DAZN",🏎️DAZN F1
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=27d11bbeb3026231d52de16b1fac48da7a099247
+
+#EXTINF:0tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1"group-title="DAZN",🏎️DAZN F1
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2
+
+
+#EXTINF:0tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20F1.png" tvg-id="UK | Sky Sport F1"group-title="DAZN",🏎️Sky Sport F1
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 
 
                   
@@ -2159,6 +2193,7 @@ https://media.profesionalhosting.com:8047/stream
 
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/urbanrevolution.es/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="La Urban Radio",La Urban Radio
 https://st1.urbanrevolution.es:8443/laurbanfm.mp3
+
 
 
 

@@ -1,30 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" refresh="3600"
 
 
-#EXTINF:0tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="✔️EVENTOS✔️",11:40🏎️Clasificacion
-#EXTVLCOPT:network-caching=1000
-http://127.0.0.1:6878/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2
-
-#EXTINF:0tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="✔️EVENTOS✔️",11:40🏎️Clasificacion
-#EXTVLCOPT:network-caching=1000
-http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
-
-
-#EXTINF:0tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="✔️EVENTOS✔️",11:40🏎️Clasificacion
-#EXTVLCOPT:network-caching=1000
-http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69	
-
-#EXTINF:0tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="✔️EVENTOS✔️",11:40🏎️Clasificacion
-#EXTVLCOPT:network-caching=1000
-http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-
-#EXTINF:0tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="✔️EVENTOS✔️",11:40🏎️Clasificacion
-#EXTVLCOPT:network-caching=1000
-http://127.0.0.1:6878/ace/getstream?id=88d7cdd80be237ae21314f7f1b6582991498e8ba
-
-#EXTINF:0tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="✔️EVENTOS✔️",11:40🏎️Clasificacion
-#EXTVLCOPT:network-caching=1000
-http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 
 
 
@@ -2277,6 +2253,7 @@ https://media.profesionalhosting.com:8047/stream
 
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/urbanrevolution.es/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="La Urban Radio",La Urban Radio
 https://st1.urbanrevolution.es:8443/laurbanfm.mp3
+
 
 
 

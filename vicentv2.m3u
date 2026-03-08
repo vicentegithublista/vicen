@@ -4,25 +4,6 @@
 
 
 
-
-#EXTINF:0tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" tvg-id="M+ LaLiga 2 HD"group-title="✔️EVENTOS✔️",13:54⚽️Villarreal-Elche
-#EXTVLCOPT:network-caching=1000
-http://127.0.0.1:6878/ace/getstream?id=ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8
-
-#EXTINF:0tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" tvg-id="M+ LaLiga 2 HD"group-title="✔️EVENTOS✔️",13:54⚽️Villarreal-Elche
-#EXTVLCOPT:network-caching=1000
-http://127.0.0.1:6878/ace/getstream?id=b8eb9c9868d487402569bba2d97a8af113d033fe
-
-#EXTINF:0tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" tvg-id="M+ LaLiga 2 HD"group-title="✔️EVENTOS✔️",13:54⚽️Villarreal-Elche
-#EXTVLCOPT:network-caching=1000
-http://127.0.0.1:6878/ace/getstream?id=51b363b1c4d42724e05240ad068ad219df8042ec
-
-
-
-
-
-
-
 #EXTINF:0tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD"group-title="✔️EVENTOS✔️",15:00🎾PREMIER PADEL
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=476b6f6583517bd75c15c4663bf45fab7c8da9cf
@@ -185,11 +166,15 @@ http://127.0.0.1:6878/ace/getstream?id=02ebda412e14f77f0a9e1e5ca50cb1617fb812c6
 
 #EXTINF:0tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" tvg-id="M+ LaLiga 2 HD"group-title="LA LIGA",M+ LaLiga 2⚽
 #EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8
+
+#EXTINF:0tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" tvg-id="M+ LaLiga 2 HD"group-title="LA LIGA",M+ LaLiga 2⚽
+#EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=b8eb9c9868d487402569bba2d97a8af113d033fe
 
-
-
-
+#EXTINF:0tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" tvg-id="M+ LaLiga 2 HD"group-title="LA LIGA",M+ LaLiga 2⚽
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=51b363b1c4d42724e05240ad068ad219df8042ec
 
 
 
@@ -2270,6 +2255,7 @@ https://media.profesionalhosting.com:8047/stream
 
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/urbanrevolution.es/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="La Urban Radio",La Urban Radio
 https://st1.urbanrevolution.es:8443/laurbanfm.mp3
+
 
 
 

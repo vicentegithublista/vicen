@@ -3,53 +3,6 @@
 
 
 
-M+ LALIGA --> NEW ERA VI
-54a6c913e889457ad5a9b84b221d696a138b92ff
-DAZN LALIGA --> NEW ERA VI
-231d153b9121e15e45a7a85ac4b16940c72a43b6
-HYPERMOTION --> NEW ERA VI
-fb41eb754604131e2d64cc7072d7f86e169e62aa
-DAZN MOTOGP --> NEW ERA VI
-7ae5a9423be4020f3dd38601a6dcb46bef866792
-EVENTUAL (SOLO EVENTOS) --> NEW ERA VI
-02ebda412e14f77f0a9e1e5ca50cb1617fb812c6
-
-
-
-#EXTINF:-1 tvg-logo=""https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="UK | TNT Sports 1"group-title="✔️EVENTOS✔️",01:00🥊UFC 326
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
-
-
-
-#EXTINF:-1 tvg-logo=""https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="UK | TNT Sports 1"group-title="✔️EVENTOS✔️",01:00🥊UFC 326
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-
-
-XTINF:-1 tvg-logo=""https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="UK | TNT Sports 1"group-title="✔️EVENTOS✔️",01:00🥊UFC 326
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f
-
-
-
-
-
-
-
-
-XTINF:-1 tvg-logo=""https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="UK | TNT Sports 1"group-title="✔️EVENTOS✔️",01:00🥊UFC 326
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=d01d255aaaf2fb91c0a8c98a826b4bd4769d81c1
-
-
-
-
-
-
-
-
-
 
 #EXTINF:0tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="✔️EVENTOS✔️",03:00🏎️F1 Australia
 #EXTVLCOPT:network-caching=1000
@@ -125,6 +78,9 @@ http://127.0.0.1:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
 
 
 
+#EXTINF:0tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="LA LIGA",M+ LaLiga⚽️
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=54a6c913e889457ad5a9b84b221d696a138b92ff
 
 
 
@@ -193,6 +149,12 @@ http://127.0.0.1:6878/ace/getstream?id=2a6b1fd8a24b23747db1ea534a51457708523602&
 
 
 
+
+
+
+#EXTINF:0 tvg-id="IberaliaTV.es" tvg-name="  DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png",group-title="LA LIGA",DAZN LaLiga⚽️ 
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=fb41eb754604131e2d64cc7072d7f86e169e62aa
 
 
 
@@ -374,6 +336,11 @@ http://127.0.0.1:6878/ace/getstream?id=95ced66c1268717c19c1e3e020e3b23b0f02e504
 http://127.0.0.1:6878/ace/getstream?id=97f8a84212fe6b3d2ab15aadc83c7b5e6af656c9
 
 
+
+
+#EXTINF:0tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion2.png"tvg-id="LaLiga TV Hypermotion HD"group-title="LA LIGA",⚽LaLiga TV Hypermotion
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=231d153b9121e15e45a7a85ac4b16940c72a43b6
 
 
 
@@ -798,6 +765,29 @@ http://127.0.0.1:6878/ace/getstream?id=c53bdb3be55d12c5188d25085f1bb16911c15cea
 #EXTINF:0tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2e554vbpw7g0ykhl0rziuabxl/fill/center/top/none/100/0/0/png/image/25/g" tvg-id="DAZN MotoGP"group-title="DAZN",🏍️DAZN MotoGP
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=20d4b3586bb822c3618cf8fb665a304869c5e1a5
+
+
+
+
+
+
+
+
+#EXTINF:0tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2e554vbpw7g0ykhl0rziuabxl/fill/center/top/none/100/0/0/png/image/25/g" tvg-id="DAZN MotoGP"group-title="DAZN",🏍️DAZN MotoGP
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=7ae5a9423be4020f3dd38601a6dcb46bef866792
+
+
+
+#EXTINF:0tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2e554vbpw7g0ykhl0rziuabxl/fill/center/top/none/100/0/0/png/image/25/g" tvg-id="DAZN MotoGP"group-title="DAZN",🏍️DAZN MotoGP
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=02ebda412e14f77f0a9e1e5ca50cb1617fb812c6
+
+
+
+
+
+
 
 
 
@@ -2216,6 +2206,7 @@ https://media.profesionalhosting.com:8047/stream
 
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/urbanrevolution.es/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="La Urban Radio",La Urban Radio
 https://st1.urbanrevolution.es:8443/laurbanfm.mp3
+
 
 
 

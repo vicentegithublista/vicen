@@ -3,6 +3,11 @@
 
 
 
+#EXTINF:0tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",21:00⚽️Athletic-Barça
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=02ebda412e14f77f0a9e1e5ca50cb1617fb812c6
+
+
 
 
 

@@ -1,34 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" refresh="3600"
 
-
-#EXTINF:0tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png"tvg-id="M+ Liga de Campeones 2 HD"group-title="✔️EVENTOS✔️",18:45⚽️Galata-Liverpool
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
-
-#EXTINF:0tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png"tvg-id="M+ Liga de Campeones 2 HD"group-title="✔️EVENTOS✔️",18:45⚽️Galata-Liverpool
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=38f7b2044e549df2039ff26cefa6f9a60c854d5e
-
-#EXTINF:0tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png"tvg-id="M+ Liga de Campeones 2 HD"group-title="✔️EVENTOS✔️",18:45⚽️Galata-Liverpool
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=8156912ae14f6174a19c8a4efcf36a06e847f632
-
-#EXTINF:0tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png"tvg-id="M+ Liga de Campeones 2 HD"group-title="✔️EVENTOS✔️",18:45⚽️Galata-Liverpool
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=74ab4e4ec7e2da001f473ca40893b7307b8029c5	
-
-#EXTINF:0tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png"tvg-id="M+ Liga de Campeones 2 HD"group-title="✔️EVENTOS✔️",18:45⚽️Galata-Liverpool 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=47188da7d2e4beaee82cff174f223fdd23f78fa6
-
-#EXTINF:0tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png"tvg-id="M+ Liga de Campeones 2 HD"group-title="✔️EVENTOS✔️",18:45⚽️Galata-Liverpool  
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=bb26037a253866d341778181eff5c8637240d615
-
-
-
-
-
+
 
 #EXTINF:0tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png"tvg-id="M+ Liga de Campeones HD"group-title="✔️EVENTOS✔️",21:00⚽️Newcastle-Barça                                                                                                           
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160

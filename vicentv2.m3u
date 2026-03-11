@@ -38,9 +38,7 @@ M+ Vamos 720p **	0e5d8c9724fa9163f49096b70484e315251eb785	M+ Vamos (8 y 50)
 M+ Vamos 1080p **	476b6f6583517bd75c15c4663bf45fab7c8da9cf	M+ Vamos (8 y 50)
 RFEF TV 1080p *	177796041773be99b489dd3ce86144f243e7355f	Primera Federación (M52 O125)
 RFEF TV 1080p *	7b742628b9f7e82902bdbc1ff92eba1988875cfc	Primera Federación (M52 O125)
-Esport3 720p *	739792a3225e5eb3056f4faa7b1137c7f161f23c	Esport3 (Cataluña)
-Esport3 720p **	ed6524f8f73c30cf102fde66f2cb520f4b5842e3	Esport3 (Cataluña)
-Esport3 1080p **	8f59ce96e4c902ba2f5193af07546d7ff17fc3bc	Esport3 (Cataluña)
+
 Teledeporte 1080p *	b35b3eb8e22365bf3469efd6d1f3b82618a6e18a	Teledeporte
 Teledeporte 1080p **	3b50a1dca0977e3761d016edd79314ab797f74f6	Teledeporte
 Teledeporte 1080p **	77cf022557c56cdf8d8115f50e61f846ad72ee05	Teledeporte
@@ -921,7 +919,9 @@ http://127.0.0.1:6878/ace/getstream?id=739792a3225e5eb3056f4faa7b1137c7f161f23c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=ed6524f8f73c30cf102fde66f2cb520f4b5842e3
 
-
+#EXTINF:-1 tvg-logo="" tvg-id="",group-title="M. DEPORTES",🏆Esport3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
 
 
 
@@ -2359,6 +2359,7 @@ https://media.profesionalhosting.com:8047/stream
 
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/urbanrevolution.es/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="La Urban Radio",La Urban Radio
 https://st1.urbanrevolution.es:8443/laurbanfm.mp3
+
 
 
 

@@ -1940,8 +1940,20 @@ https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kqgHWySi5xprs1VFCNCX0IKNT8yXBLZC43JMoB8j0JUto=s200" group-title="⏩LISTA⏪", tvg-name="La 2",La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 
+#EXTINF:-1 tvg-id="0" tvg-name="ES: ANTENA 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Antena_3.png" group-title="⏩LISTA⏪", ANTENA 3
+http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/646
+
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="ES: CUATRO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Cuatro.png" group-title="⏩LISTA⏪", CUATRO
+http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/651
+
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="ES: TELECINCO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Telecinco.png" group-title="⏩LISTA⏪", TELECINCO
+http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/647
+
 #EXTINF:-1 tvg-id="LA 1" tvg-name="LA SEXTA FHD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_TDT/La_Sexta.png",group-title="⏩LISTA⏪",LA SEXTA
 http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/110057.ts
+
+#EXTINF:-1tvg-id=""tvg-name="OneToroTVFHD|opc-2|"tvg-logo="https://play-lh.googleusercontent.com/7BADGsWeaNJthEqqn5SyFAX3PGCXkujj-_1hQNq5AB804jlQ2HPO8WVFJ5qu-VOhyg",group-title="⏩LISTA⏪",OneToro
+http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/316540.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Sur%20Andaluc%C3%ADa.png",tvg-id="Canal Sur Andalucía",⏩LISTA⏪",Canal Sur Andalucía
 https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
@@ -1949,13 +1961,32 @@ https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af54
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/24%20Horas.png" tvg-id="24 Horas",group-title="⏩LISTA⏪",24 Horas
 https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8
 
-#EXTINF:-1tvg-id="Clan.TV"tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200",group-title="⏩LISTA⏪",Clan
-https://rtvelivestream.rtve.es/rtvesec/clan/clan_main_dvr.m3u8
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ ACCIÓN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Accion.png" group-title="⏩LISTA⏪", M+ ACCIÓN
+http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/656
 
+#EXTINF:-1 tvg-id="CanalPlusComedia.es" tvg-name="ES: M+ COMEDIA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Comedia.png" group-title="⏩LISTA⏪", M+ COMEDIA
+http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/657
 
-#EXTINF:-1,group-title="⏩LISTA⏪,Baby TV
-http://181.198.105.69:8111/play/a13o/index.m3u8
+#EXTINF:-1 tvg-id="M+ Cine Espanol" tvg-name="ES: M+ CINE ESPAÑOL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Cine_Espaol.png" group-title="⏩LISTA⏪", M+ CINE ESPAÑOL
+http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/658
 
+#EXTINF:-1 tvg-id="M+ Clasicos" tvg-name="ES: M+ CLÁSICOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Clasicos.png" group-title="⏩LISTA⏪", M+ CLÁSICOS
+http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/659
+
+#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="ES: M+ ESTRENOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/ESTRENOS.png" group-title="⏩LISTA⏪", M+ ESTRENOS
+http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/87110
+
+#EXTINF:-1 tvg-id="MovistarDrama.es" tvg-name="ES: M+ DRAMA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Drama.png" group-title="⏩LISTA⏪", M+ DRAMA
+http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/660
+
+#EXTINF:-1 tvg-id="CanalPlusSeries.sp" tvg-name="ES: M+ HITS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_HITS.png" group-title="⏩LISTA⏪", M+ HITS
+http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/663
+
+#EXTINF:-1 tvg-id="es.#0" tvg-name="ES: M+ ORIGINALES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Originales.png" group-title="⏩LISTA⏪", M+ ORIGINALES
+http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/87107
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ INDIE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Indie.png" group-title="⏩LISTA⏪", M+ INDIE
+http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/87106
 
 #EXTINF:-1 tvg-id="RTVE_Conciertos_R3.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Conciertos Radio 3 (RTVE)",Conciertos Radio 3 (RTVE)
 https://ztnr.rtve.es/ztnr/6924117.m3u8
@@ -1978,6 +2009,52 @@ https://ztnr.rtve.es/ztnr/6712399.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Premios Goya (RTVE)",Premios Goya (RTVE)
 https://ztnr.rtve.es/ztnr/16824261.m3u8
 
+
+#EXTINF:-1 tvg-id="Factoria de Ficcion" tvg-name="ES: FACTORÍA DE FICCIÓN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Factoria_de_Ficcion.png" group-title="⏩LISTA⏪", FACTORÍA DE FICCIÓN
+http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/652
+
+#EXTINF:-1 tvg-id="Nova.es" tvg-name="ES: NOVA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nova.png" group-title="⏩LISTA⏪", NOVA
+http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/653
+
+#EXTINF:-1 tvg-id="Energy.es" tvg-name="ES: ENERGY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Energy.png" group-title="⏩LISTA⏪", ENERGY
+http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/654
+
+#EXTINF:-1 tvg-id="TRECE" tvg-name="ES: TRECE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TRECE.png" group-title="⏩LISTA⏪", TRECE
+http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/655
+
+#EXTINF:-1 tvg-id="Xtrm.es" tvg-name="ES: XTRM" tvg-logo="https://docdog.top/logo/countries/spain/movistar/XTRM.png" group-title="⏩LISTA⏪", XTRM
+http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/767
+#EXTINF:-1 tvg-id="BE MAD" tvg-name="ES: BE MAD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/BE_MAD.png" group-title="⏩LISTA⏪", BE MAD
+http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/737
+#EXTINF:-1 tvg-id="Hollywood" tvg-name="ES: HOLLYWOOD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Hollywood.png" group-title="⏩LISTA⏪", HOLLYWOOD
+http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/665
+#EXTINF:-1 tvg-id="Paramount.es" tvg-name="ES: PARAMOUNT CHANNEL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Paramount_Network.png" group-title="⏩LISTA⏪", PARAMOUNT CHANNEL
+http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/666
+#EXTINF:-1 tvg-id="Somos.es" tvg-name="ES: SOMOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Somos.png" group-title="⏩LISTA⏪", SOMOS
+http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/667
+#EXTINF:-1 tvg-id="TNT.sp" tvg-name="ES: WARNER TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Warner_TV.png" group-title="⏩LISTA⏪", WARNER TV
+http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/668
+#EXTINF:-1 tvg-id="es.TCM" tvg-name="ES: TCM" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TCM.png" group-title="⏩LISTA⏪", TCM
+http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/669
+#EXTINF:-1 tvg-id="AXN.es" tvg-name="ES: AXN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AXN.png" group-title="⏩LISTA⏪", AXN
+http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/735
+#EXTINF:-1 tvg-id="AXNWhite.es" tvg-name="ES: AXN MOVIES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AXN_Movies.png" group-title="⏩LISTA⏪", AXN MOVIES
+http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/736
+#EXTINF:-1 tvg-id="Calle13.es" tvg-name="ES: CALLE 13" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Calle_13.png" group-title="⏩LISTA⏪", CALLE 13
+http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/740
+#EXTINF:-1 tvg-id="Dark.es" tvg-name="ES: DARK" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DARK.png" group-title="⏩LISTA⏪", DARK
+http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/782
+#EXTINF:-1 tvg-id="MXC| ATRES SERIES FHD" tvg-name="ES: ATRESERIES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Atreseries.png" group-title="⏩LISTA⏪", ATRESERIES
+http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/800
+
+#EXTINF:-1tvg-id="Clan.TV"tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200",group-title="⏩LISTA⏪",Clan
+https://rtvelivestream.rtve.es/rtvesec/clan/clan_main_dvr.m3u8
+
+#EXTINF:-1,group-title="⏩LISTA⏪,Baby TV
+http://181.198.105.69:8111/play/a13o/index.m3u8
+
+
+
 #EXTINF:-1tvg-id=""tvg-name="IberaliaFHD|opc-1|"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThRYIPmekP-0RicarqfH1RSy_OkgbkzSbt9A&s",group-title="⏩LISTA⏪",Iberalia
 http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/316531.ts
 
@@ -1987,8 +2064,7 @@ http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/110274.ts
 #EXTINF:-1tvg-id=""tvg-name="CazaVisionFHD|opc-1|"tvg-logo="https://sincroguia-tv.expansion.com/uploads/channels/logo-cazavision-656.jpg",group-title="⏩LISTA⏪",CazaVision
 http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/316528.ts
 
-#EXTINF:-1tvg-id=""tvg-name="OneToroTVFHD|opc-2|"tvg-logo="https://play-lh.googleusercontent.com/7BADGsWeaNJthEqqn5SyFAX3PGCXkujj-_1hQNq5AB804jlQ2HPO8WVFJ5qu-VOhyg",group-title="⏩LISTA⏪",OneToro
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/316540.ts
+
 
 #EXTINF:-1tvg-id=""tvg-name="DiscoveryFHD|opc-1|"tvg-logo="https://www.pngkey.com/png/full/719-7191160_logo-discovery-channel-png-discovery-channel-logo.png",group-title="⏩LISTA⏪",Discovery
 http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/316467.ts

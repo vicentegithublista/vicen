@@ -66,6 +66,20 @@ http://127.0.0.1:6878/ace/getstream?id=9afc89481b721ce6c326c85e47148676077b8e62
 
 
 
+
+#EXTINF:0,tvg-id="DAZN LaLiga 2 HD",tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png"group-title="✔️EVENTOS✔️",16:15⚽Español-Getafe  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=b63fcadc2390455d8a328f6c16b8b0a9adec21a3
+
+#EXTINF:0,tvg-id="DAZN LaLiga 2 HD",tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png"group-title="✔️EVENTOS✔️",16:15⚽Español-Getafe  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
+
+
+
+
+
+
 #EXTINF:0 tvg-id="IberaliaTV.es" tvg-name="  DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png"group-title="✔️EVENTOS✔️",18:30⚽Levante-Oviedo        
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=eb4975702ceadca7ed74f8707e17a9f55569dbb9
@@ -288,14 +302,6 @@ http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:0,tvg-id="DAZN LaLiga 2 HD",tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png",group-title="LA LIGA",⚽️DAZNLaLiga 2   
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=635b61c1f240449163260cd914d10d886a54fee3
-
-#EXTINF:0,tvg-id="DAZN LaLiga 2 HD",tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png",group-title="LA LIGA",⚽️DAZNLaLiga 2   
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=a70a1605f69c8379e04094df96922a42adfbb431
-
-#EXTINF:0,tvg-id="DAZN LaLiga 2 HD",tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png",group-title="LA LIGA",⚽️DAZNLaLiga 2   
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 
 
 

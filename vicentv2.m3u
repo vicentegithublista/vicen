@@ -1684,6 +1684,13 @@ http://127.0.0.1:6878/ace/getstream?id=d1596a3988b84a4d2711fd380eb8a53256ad74ae&
 
 
 
+
+#EXTINF:-1 ,group-title="PELICULAS", tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYfMTSiFFK7ffbY2lay4zyvTkEk.jpg",Los pecadores (2025) BluRay 4k 2160P (7.5)
+acestream://a185aaa245fb495dd9e6322742162fbc1ff08c54
+
+#EXTINF:-1 ,group-title="PELICULAS",tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9PXZIUsSDh4alB80jheWX4fhZmy.jpg",F1 La pelicula (2025) Web dl Hd 1080p  [7.7]
+http://127.0.0.1:6878/ace/getstream?id=1b9f1939215752a3032656187b2fc2532f84808c
+
 #EXTINF:-1 ,group-title="PELICULAS",tvg-logo="https://image.tmdb.org/t/p/w1280/31CKSlZdsvdY8bysV5WeR2YvTim.jpg",La resistencia invisible (2025) BluRay 720pRip [7.2]
 http://127.0.0.1:6878/ace/getstream?id=71db1de867fb2f35060b14a1aea3a5c5f1716fcf
 
@@ -1695,7 +1702,6 @@ http://127.0.0.1:6878/ace/getstream?id=5c2602d7c01d24ec650f0677cb7eb0ed874d008e
 
 #EXTINF:-1 ,group-title="PELICULAS",tvg-logo="https://image.tmdb.org/t/p/w1280/jRuiKL4S9UpLma2ZlM47xIu2gbe.jpg",Turbulencias (2025) BluRay 720pRip [5.8]
 http://127.0.0.1:6878/ace/getstream?id=30a34fed909d4f7dda1563ec7361e47bf00b3593
-
 
 #EXTINF:-1 ,group-title="PELICULAS",tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yzqHt4m1SeY9FbPrfZ0C2Hi9x1s.jpg",Culpa nuestra (2025) BluRay 4k 2160P [7.6]
 http://127.0.0.1:6878/ace/getstream?id=c15dc56e1dfa23fa302e726dac0b363a05b9d587
@@ -1738,9 +1744,6 @@ http://127.0.0.1:6878/ace/getstream?id=1cd970f5cfe3fe0e8bf19e892f316b64a5ba2265
 
 #EXTINF:-1 ,group-title="PELICULAS",tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A06yXys3hrCWu8xiNoHCFLTG5SH.jpg",Se lo que hicisteis el ultimo verano (2025) BluRay 4k 2160P [5.9]
 http://127.0.0.1:6878/ace/getstream?id=f9f685741bcebfaf45845929dd4b7f04e8058d7a
-
-#EXTINF:-1 ,group-title="PELICULAS",tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9PXZIUsSDh4alB80jheWX4fhZmy.jpg",F1 La pelicula (2025) Web dl Hd 1080p  [7.7]
-http://127.0.0.1:6878/ace/getstream?id=1b9f1939215752a3032656187b2fc2532f84808c
 
 #EXTINF:-1 ,group-title="PELICULAS",tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg",Mision Imposible Sentencia Final (2025) BluRay 4k 2160P [7.2]
 http://127.0.0.1:6878/ace/getstream?id=f0dac0a70856a55c140b385305b3c050d04cffe0
@@ -1838,9 +1841,6 @@ http://127.0.0.1:6878/ace/getstream?id=1680dd765087a820ef46d1414181d1d0b8b9c068
 #EXTINF:-1 ,group-title="PELICULAS",tvg-logo="https://image.tmdb.org/t/p/w1280/hrze9JXp2QJpc2WjLfSUtRxyYSb.jpg",Afterburn  (2025) BluRay 4k 2160P [6.6]
 http://127.0.0.1:6878/ace/getstream?id=02801a6cf9b36f9446a89c0b9aeef0b6829739c0
 
-#EXTINF:-1 ,group-title="PELICULAS", tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9PXZIUsSDh4alB80jheWX4fhZmy.jpg",F1 La pelicula (2025) Web dl Hd 1080p  (7.7)
-acestream://1b9f1939215752a3032656187b2fc2532f84808c
-
 #EXTINF:-1 ,group-title="PELICULAS", tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg",Mision Imposible Sentencia Final (2025) BluRay 4k 2160P (7.2)
 acestream://f0dac0a70856a55c140b385305b3c050d04cffe0
 
@@ -1873,12 +1873,6 @@ acestream://38ab7dd9ba0ef46f5ca1e6a21ba283707e299bd4
 
 #EXTINF:-1 ,group-title="PELICULAS", tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGnpjUPdFWGj3spbsnjGGAakaaG.jpg",Wolfgang (2025) BluRay 720pRip (6.7)
 acestream://983d55add4a906b4c0e57be3c3458e9ca98bdf32
-
-#EXTINF:-1 ,group-title="PELICULAS", tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/SNEoUInCa5fAgwuEBMIMBGvkkh.jpg",Amateur (2025) Web dl Hd 1080p  (6.8)
-acestream://94871cc6623e1c2e24dd3df28f5c65fe43183fd8
-
-#EXTINF:-1 ,group-title="PELICULAS", tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYfMTSiFFK7ffbY2lay4zyvTkEk.jpg",Los pecadores (2025) BluRay 4k 2160P (7.5)
-acestream://a185aaa245fb495dd9e6322742162fbc1ff08c54
 
 #EXTINF:-1 ,group-title="PELICULAS", tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg",A Working Man (2025) Web dl Hd 1080p  (6.5)
 acestream://10587c075c452d5d27b7faed245d816aa1e9ae9b
@@ -1991,9 +1985,6 @@ acestream://9a22d723f989235e84e9448c92d831f2ed8c5273
 #EXTINF:-1 ,group-title="PELICULAS", tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Mu73AnUmBpSI8W0bNCgaCVwzOa.jpg",Agarralo como puedas (2025) web dl Hd 1080p (6.7*)
 acestream://cff595291a5139121adc56e9aeb33350d80e5b6c
 
-#EXTINF:-1 ,group-title="PELICULAS", tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yJdD07IbCI0WwzuqkMp1MkUVjiD.jpg",Sirat (2025) web dl Hd 1080p (7.2*)
-acestream://642559f5d8fd729cc89a2cf9e5b835513ad81a95
-
 #EXTINF:-1 ,group-title="PELICULAS", tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aYPlrLJWjVkixwrJXA0f4V3D7Ab.jpg",Nadie 2 (2025) BluRay 4k 2160P (7.3*)
 acestream://f0a0658ec10e44b41f296afcd4e6bb8539d8d87e
 
@@ -2009,10 +2000,6 @@ acestream://f9f685741bcebfaf45845929dd4b7f04e8058d7a
 #EXTINF:-1 ,group-title="PELICULAS", tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8DyAgM340pP402ABl1Jt0uQ7tgZ.jpg",Amenaza a la Casa Blanca (2025) BluRay 720pRip (5.5)
 acestream://01e04cf5599caa9956f909eac33c98642940b382
 
-
-
-
-
 #EXTINF:-1 ,group-title="PELICULAS", tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/23BTYMJKjWk6EJEGL1KgTB3lZrO.jpg",La sustancia (2024) BluRay 4k 2160P (7.1*)
 acestream://2c7f809e2d1ad60ba0738d7fbd0d83e84c0b0219
 
@@ -2021,7 +2008,6 @@ acestream://6e7dc16540118013d947510e2e8528df766ca29d
 
 #EXTINF:-1 ,group-title="PELICULAS", tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bit1B5F7IQydiWqdwAAD8f9TkXs.jpg",Vaiana 2 (2024) BluRay 4k 2160P (7.1*)
 acestream://44bb58c24b0246c85d4600625d37b62ebe9052f9
-
 
 #EXTINF:-1 ,group-title="PELICULAS", tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jT9xDRGD9lg0b4LSqbrdgAyicd5.jpg",Nosferatu (2024) BluRay 4k 2160P (6.7*)
 acestream://0091345d940c59b6c82424bde7731d39c1a6160f

@@ -7,6 +7,71 @@ group-title="✔️EVENTOS✔️",20:00🥊Liddard-Denny
 group-title="✔️EVENTOS✔️",15:15🚴‍♂VOLTA CATALUNYA
 
 
+⚽️ Fútbol - 14:00
+🏆 LALIGA HYPERMOTION
+🆚 Ceuta - Cádiz
+🖥 LALIGA TV HYPERMOTION
+
+
+
+
+
+
+
+🏆 Padel - 17:00
+🏆 PREMIER PADEL
+🆚 Miami (Semifinales)
+🖥 M+ Deportes 2
+
+
+⚽️ Fútbol - 18:30
+🏆 LALIGA HYPERMOTION
+🆚 Málaga - Leganés
+🖥 LALIGA TV HYPERMOTION
+
+
+
+🥊 Boxeo - 18:45
+🏆 PESO PESADO
+🆚 Itauma vs Franklin
+🖥 DAZN 3
+
+
+⚽️ Fútbol - 21:00
+🏆 LALIGA HYPERMOTION
+🆚 Sporting - Deportivo
+🖥 GOL
+
+⚽️ Fútbol - 21:00
+🏆 LALIGA HYPERMOTION
+🆚 Albacete - Castellón
+🖥 LALIGA TV HYPERMOTION 2
+
+
+🏀 Baloncesto - 21:00
+🏆 LIGA ENDESA
+🆚 Bàsquet Girona - Real Madrid
+🖥 DAZN Baloncesto
+
+🏆 Motos - 21:00
+🏆 G.P. AUSTIN
+🆚 MotoGP (Sprint)
+🖥 DAZN MotoGP
+
+
+🏀 NBA - 23:00
+🏆 LIGA REGULAR
+🆚 Philadelphia 76ers - Charlotte Hornets
+🖥 DAZN Baloncesto 2
+
+🥊 UFC - 23:00
+🏆 PESO MEDIO
+🆚 Adesanya-Pyfer
+🖥 Eurosport 2
+
+
+
+
 #EXTINF:0🏎️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="✔️EVENTOS✔️",11:15🏎️GP de Japon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
@@ -64,6 +129,20 @@ http://127.0.0.1:6878/ace/getstream?id=c53bdb3be55d12c5188d25085f1bb16911c15cea
 http://127.0.0.1:6878/ace/getstream?id=342ca6975a4884d81f9fec5c4085a47060bd2028
 
 
+
+
+
+#EXTINF:-1🏆tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png",tvg-id="Eurosport 2"group-title="✔️EVENTOS✔️",23:00🥊UFC Adesanya-Pyfer
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f
+
+#EXTINF:-1🏆tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png",tvg-id="Eurosport 2"group-title="✔️EVENTOS✔️",23:00🥊UFC Adesanya-Pyfer
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=24f940fef7e270b6b3ae5d9dc713a80c8345cfba
+
+#EXTINF:-1🏆tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png",tvg-id="Eurosport 2"group-title="✔️EVENTOS✔️",23:00🥊UFC Adesanya-Pyfer 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=f5908690485ae2facecf3074446ba4315f07a193
 
 
 
@@ -758,10 +837,6 @@ http://127.0.0.1:6878/ace/getstream?id=0db68ab752b50e6bb257eef22d102c1d29cd92ea
 #EXTINF:-1🏆tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png",tvg-id="Eurosport 2",group-title="M. DEPORTES",🏆🄴🅄🅁🄾🅂🄿🄾🅁🅃 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f
-
-#EXTINF:-1🏆tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png",tvg-id="Eurosport 2",group-title="M. DEPORTES",🏆🄴🅄🅁🄾🅂🄿🄾🅁🅃 2 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=d01d255aaaf2fb91c0a8c98a826b4bd4769d81c1
 
 #EXTINF:-1🏆tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png",tvg-id="Eurosport 2",group-title="M. DEPORTES",🏆🄴🅄🅁🄾🅂🄿🄾🅁🅃 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160

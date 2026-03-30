@@ -1981,47 +1981,12 @@ http://127.0.0.1:6878/ace/getstream?id=a7fa9c3479fda90812c18d2e2bc573ab09d3f682
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1📺tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" tvg-id="La 1 HD",group-title="⏩LISTA⏪",La 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 
-
-
-
 #EXTINF:-1📺tvg-id="La2.TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kqgHWySi5xprs1VFCNCX0IKNT8yXBLZC43JMoB8j0JUto=s200" group-title="⏩LISTA⏪", tvg-name="La 2",La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
-
-
 
 #EXTINF:-1 tvg-id="0" tvg-name="ES: ANTENA 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Antena_3.png" group-title="⏩LISTA⏪", ANTENA 3
 http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/646
@@ -2035,19 +2000,8 @@ http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/647
 #EXTINF:-1 tvg-id="LA 1" tvg-name="LA SEXTA FHD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_TDT/La_Sexta.png",group-title="⏩LISTA⏪",LA SEXTA
 http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/110057.ts
 
-
-
 #EXTINF:-1 xui-id="72571" tvg-id="OneToro" tvg-name="Onetoro TV ᴴᴰ" tvg-logo="https://www.lyngsat.com/logo/tv/oo/onetoro-tv-es.png",group-title="⏩LISTA⏪",OneToro
 https://vida.lol:443/play/JooXTNKWxKTfOGG2mP2foDiY_Ss7jzfBWl85hlT5t1s
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Sur%20Andaluc%C3%ADa.png",tvg-id="Canal Sur Andalucía",group-title="⏩LISTA⏪",Canal Sur Andalucía
 https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
@@ -2088,6 +2042,8 @@ http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/87106
 
 #EXTINF:-1 tvg-id="RTVE_Conciertos_R3.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Conciertos Radio 3 (RTVE)",Conciertos Radio 3 (RTVE)
 https://ztnr.rtve.es/ztnr/6924117.m3u8
+
+
 #EXTINF:-1 tvg-id="RTVE_Cuentame.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Cuéntame (RTVE)",Cuéntame (RTVE)
 https://ztnr.rtve.es/ztnr/6909843.m3u8
 
@@ -2095,7 +2051,7 @@ https://ztnr.rtve.es/ztnr/6909843.m3u8
 https://ztnr.rtve.es/ztnr/2472039.m3u8
 
 
-EXTINF:-1 tvg-id="RTVE_Promesa.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="La promesa (RTVE)",La promesa (RTVE)
+#EXTINF:-1 tvg-id="RTVE_Promesa.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="La promesa (RTVE)",La promesa (RTVE)
 https://ztnr.rtve.es/ztnr/2472039.m3u8
 
 

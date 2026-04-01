@@ -1,11 +1,13 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" refresh="3600"
 
-group-title="✔️EVENTOS✔️",18:40🏀Zalgiris-R.Madrid  
+ 
 group-title="✔️EVENTOS✔️",20:30⚽Leipzig-Hoffenheim
 group-title="✔️EVENTOS✔️",22:00🎾PREMIER PADEL
 group-title="✔️EVENTOS✔️",20:00🥊Liddard-Denny
 group-title="✔️EVENTOS✔️",15:15🚴‍♂VOLTA CATALUNYA
 
+
+group-title="✔️EVENTOS✔️",EUROLIGA Jornada/35                                                                                               18:40🏀Zalgiris-R.Madrid 
 group-title="✔️EVENTOS✔️",LIGA Jornada/33                                                                                                   19:00⚽Andorra-Málaga                                                                                            
 group-title="✔️EVENTOS✔️",Champions 1/4 de Final                                                                                            18:20🏀AEK-Joventud
 
@@ -43,11 +45,11 @@ https://ztnr.rtve.es/ztnr/1712295.m3u8
 https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
 
 
-#EXTINF:-1🏀tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto.png" tvg-id="DAZN Baloncesto"group-title="✔️EVENTOS✔️",ACB Jornada/19                                                                                            20:21🏀Badkonia-Zaragoza
+#EXTINF:-1🏀tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto.png" tvg-id="DAZN Baloncesto"group-title="✔️EVENTOS✔️",Liga Endesa Jornada/19                                                                                            20:21🏀Badkonia-Zaragoza
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=53962d7fb865aff73b34a3afb2905cd492f60d75
 
-#EXTINF:-1🏀tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto.png" tvg-id="DAZN Baloncesto"group-title="✔️EVENTOS✔️",ACB Jornada/19                                                                                            20:21🏀Badkonia-Zaragoza
+#EXTINF:-1🏀tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto.png" tvg-id="DAZN Baloncesto"group-title="✔️EVENTOS✔️",Liga Endesa Jornada/19                                                                                            20:21🏀Badkonia-Zaragoza
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=8faa686a99697b99261346e479ead172b1d9d5d2
 

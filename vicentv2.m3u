@@ -14,7 +14,8 @@ group-title="✔️EVENTOS✔️",La Liga Jornada/33                            
 group-title="✔️EVENTOS✔️",Liga Brasil Jornada/19                                                                                            00:25⚽Inter-Sao Paulo
 
 
-
+
+
 
 #EXTINF:0⚽️tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",La Liga Jornada/30                                                                                            16:09⚽Mallorca-R.Madrid                                                
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -65,9 +66,6 @@ http://127.0.0.1:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=571ce113b9d600a145766443d7417eccab2e1846
 
-#EXTINF:-1⚽️tvg-logo="https://i.ibb.co/BZF0xG9/liga3.png" tvg-id="M+ LaLiga 3 HD"group-title="✔️EVENTOS✔️",Liga Multicamara                                                                                            16:09⚽Mallorca-R.Madrid
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=22178d72e0f255dedd7e56f9474fea879289a6f1
 
 #EXTINF:-1🌍tvg-logo="",tvg-id="DE | DAZN 2"group-title="✔️EVENTOS✔️", La Liga Jornada/30                                                                                            16:09⚽Mallorca-R.Madrid               
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160

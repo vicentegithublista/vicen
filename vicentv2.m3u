@@ -6,7 +6,7 @@
 group-title="✔️EVENTOS✔️",T.Miami Padel Tour                                                                                                22:00🎾1/4 de Final
 group-title="✔️EVENTOS✔️",UFC Fight Night                                                                                                   20:00🥊Liddard-Denny
 group-title="✔️EVENTOS✔️",Volta a Catalunya                                                                                                 15:15🚴‍♂1ªEtapa
-group-title="✔️EVENTOS✔️",Liga Endesa Jornada/19                                                                                            20:21🏀Badkonia-Zaragoza
+group-title="✔️EVENTOS✔️",LIGA ENDESA Jornada/19                                                                                            20:21🏀Badkonia-Zaragoza
 group-title="✔️EVENTOS✔️",Euroliga Jornada/35                                                                                               18:40🏀Zalgiris-R.Madrid
 group-title="✔️EVENTOS✔️",Champions 1/4 de Final                                                                                            18:20🏀AEK-Joventud
 group-title="✔️EVENTOS✔️",Champions 1/4 de Final                                                                                            18:20⚽Leipzig-Hoffenheim
@@ -15,93 +15,212 @@ group-title="✔️EVENTOS✔️",Liga Brasil Jornada/19                        
 
 
 
-🏀 Baloncesto - 12:15
-🏆 LIGA ENDESA
-🆚 Manresa - Baskonia
-🖥 DAZN Baloncesto
 
-🏀 Baloncesto - 12:30
-🏆 LIGA ENDESA
-🆚 Hiopos Lleida - La Laguna Tenerife
-🖥 DAZN Baloncesto 2
 
-🎾 Tenis - 13:00
-🏆 ATP BUCAREST
-🆚 Navone - Daniel Mérida
-🖥 M+ Deportes 3
+#EXTINF:-1🏀tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto.png" tvg-id="DAZN Baloncesto"group-title="✔️EVENTOS✔️",LIGA ENDESA                                                                                            12:15🏀Manresa-Baskonia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=53962d7fb865aff73b34a3afb2905cd492f60d75
 
-⚽ Fútbol - 14:00
-🏆 LALIGA EA SPORTS
-🆚 Getafe - Athletic
-🖥 M+ LALIGA
+#EXTINF:-1🏀tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto.png" tvg-id="DAZN Baloncesto"group-title="✔️EVENTOS✔️",LIGA ENDESA                                                                                            12:15🏀Manresa-Baskonia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=8faa686a99697b99261346e479ead172b1d9d5d2
+
+#EXTINF:-1🏀tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto.png" tvg-id="DAZN Baloncesto"group-title="✔️EVENTOS✔️",LIGA ENDESA                                                                                            12:15🏀Manresa-Baskonia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=0995b9b77ac6198dd92141369707fb99da09bdb2
 
 
 
-⚽ Fútbol - 16:15
-🏆 LALIGA EA SPORTS
-🆚 Valencia - Celta
-🖥 DAZN LALIGA 2
+
+#EXTINF:-1🏀tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%202.png" tvg-id="DAZN Baloncesto 2"group-title="✔️EVENTOS✔️",LIGA ENDESA                                                                                            12:30🏀Lleida-Tenerife
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=d7e6b6bb1666740a21099fe6ceb0178a14f58e0c
 
 
 
-🏀 Baloncesto - 17:00
-🏆 LIGA ENDESA
-🆚 Real Madrid - Morabanc Andorra
-🖥 DAZN Baloncesto 3
-
-⚽ Fútbol - 17:30
-🏆 FA CUP
-🆚 West Ham - Leeds United
-🖥 M+ Vamos
 
 
 
-🏀 Baloncesto - 18:00
-🏆 LIGA ENDESA
-🆚 Valencia Basket - Río Breogán
-🖥 DAZN Baloncesto
-
-
-⚽ Fútbol - 18:30
-🏆 LALIGA EA SPORTS
-🆚 Oviedo - Sevilla
-🖥 Teledeporte
 
 
 
-🏀 Baloncesto - 19:00
-🏆 LIGA ENDESA
-🆚 Casademont Zaragoza - Barça
-🖥 DAZN Baloncesto 2
-
-🏆 NHL - 19:00
-🏆 TEMPORADA REGULAR
-🆚 Detroit Red Wings - Minnesota Wild
-🖥 M+ Deportes
+#EXTINF:0🏆tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_3.png" tvg-id="M+ Deportes 3"group-title="✔️EVENTOS✔️",ATP BUCAREST                                                                                               13:00🎾Navone-Mérida
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=39fefdecfc953dcf6e7c589739bf486c2e605ed0
 
 
 
-⚽ Fútbol - 21:00
-🏆 LALIGA EA SPORTS
-🆚 Alavés - Osasuna
-🖥 M+ LALIGA
-
-⚽ Fútbol - 21:00
-🏆 LALIGA HYPERMOTION
-🆚 Zaragoza - Mirandés
-🖥 LALIGA TV HYPERMOTION
-
-🏀 NCAA - 21:30
-🏆 FINAL FEMENINA
-🆚 South Carolina - UCLA
-🖥 M+ Vamos 3
-
-⚽ Fútbol - 23:00
-🏆 APERTURA
-🆚 River Plate - Belgrano
-🖥 M+ Vamos
 
 
+
+
+
+
+
+
+
+
+#EXTINF:0⚽️tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",LALIGA EA SPORTS                                                                                                14:00⚽Getafe-Athletic                                                 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
+
+#EXTINF:0⚽️tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",LALIGA EA SPORTS                                                                                                14:00⚽Getafe-Athletic             
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=b3bdd6ef7f795c4f321a3ce5cf4907338f462929
+
+#EXTINF:0⚽️tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",LALIGA EA SPORTS                                                                                                14:00⚽Getafe-Athletic         
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
+
+#EXTINF:0⚽️tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",LALIGA EA SPORTS                                                                                                14:00⚽Getafe-Athletic             
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74
+
+#EXTINF:0⚽️tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",LALIGA EA SPORTS                                                                                                14:00⚽Getafe-Athletic             
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=f863873de9f7b2996dde19a0657dd89835af3007
+
+#EXTINF:0⚽️tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",LALIGA EA SPORTS                                                                                                14:00⚽Getafe-Athletic            
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=f863873de9f7b2996dde19a0657dd89835af3007
+
+#EXTINF:0⚽️tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",LALIGA EA SPORTS                                                                                                14:00⚽Getafe-Athletic            
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=af458073c3096293a4dea9f369d4f308e7125bd6
+
+
+
+
+
+
+
+
+
+#EXTINF:0⚽️tvg-id="DAZN LaLiga 2 HD",tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png"group-title="✔️EVENTOS✔️",LALIGA EA SPORTS                                                                                                16:15⚽Valencia-Celta              
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
+
+#EXTINF:0⚽️tvg-id="DAZN LaLiga 2 HD",tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png"group-title="✔️EVENTOS✔️",LALIGA EA SPORTS                                                                                                16:15⚽Valencia-Celta   
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=b63fcadc2390455d8a328f6c16b8b0a9adec21a3
+
+
+
+
+
+#EXTINF:-1🏀tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%203.png"tvg-id="DAZN Baloncesto 3"group-title="✔️EVENTOS✔️",LIGA ENDESA                                                                                            17:00🏀R.Madrid-Andorra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=119087e842ea8857124b9405b10bb6cfffd2900c
+
+#EXTINF:-1🏀tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%203.png"tvg-id="DAZN Baloncesto 3"group-title="✔️EVENTOS✔️",LIGA ENDESA                                                                                            17:00🏀R.Madrid-Andorra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=02ec118ee4586d96df9115ffc486be9a499d00d9
+
+
+
+
+
+
+
+
+#EXTINF:0🏆tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD"group-title="✔️EVENTOS✔️",FA CUP                                                                                                17:30⚽West Ham-Leeds
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=476b6f6583517bd75c15c4663bf45fab7c8da9cf
+
+#EXTINF:0🏆tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD"group-title="✔️EVENTOS✔️",FA CUP                                                                                                17:30⚽West Ham-Leeds
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=0e5d8c9724fa9163f49096b70484e315251eb785
+
+#EXTINF:0🏆tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD"group-title="✔️EVENTOS✔️",FA CUP                                                                                                17:30⚽West Ham-Leeds
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
+
+
+
+
+
+
+#EXTINF:-1🏀tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto.png" tvg-id="DAZN Baloncesto"group-title="✔️EVENTOS✔️",LIGA ENDESA                                                                                            18:00🏀Valencia-Breogán
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=53962d7fb865aff73b34a3afb2905cd492f60d75
+
+#EXTINF:-1🏀tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto.png" tvg-id="DAZN Baloncesto"group-title="✔️EVENTOS✔️",LIGA ENDESA                                                                                            18:00🏀Valencia-Breogán
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=8faa686a99697b99261346e479ead172b1d9d5d2
+
+#EXTINF:-1🏀tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto.png" tvg-id="DAZN Baloncesto"group-title="✔️EVENTOS✔️",LIGA ENDESA                                                                                            18:00🏀Valencia-Breogán
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=0995b9b77ac6198dd92141369707fb99da09bdb2
+
+
+
+
+
+
+#EXTINF:-1🏆tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte"group-title="✔️EVENTOS✔️",LALIGA EA SPORTS                                                                                                18:30⚽Oviedo-Sevilla
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://ztnr.rtve.es/ztnr/1712295.m3u8
+
+#EXTINF:-1🏆tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte"group-title="✔️EVENTOS✔️",LALIGA EA SPORTS                                                                                                18:30⚽Oviedo-Sevilla
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
+
+
+
+
+
+#EXTINF:-1🏀tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%202.png" tvg-id="DAZN Baloncesto 2"group-title="✔️EVENTOS✔️",LIGA ENDESA                                                                                            19:00🏀Zaragoza-Barça
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=d7e6b6bb1666740a21099fe6ceb0178a14f58e0c
+
+
+
+
+
+
+#EXTINF:0⚽️tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",LALIGA EA SPORTS                                                                                                21:00⚽Alavés-Osasuna                                                  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
+
+#EXTINF:0⚽️tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",LALIGA EA SPORTS                                                                                                21:00⚽Alavés-Osasuna            
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=b3bdd6ef7f795c4f321a3ce5cf4907338f462929
+
+#EXTINF:0⚽️tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",LALIGA EA SPORTS                                                                                                21:00⚽Alavés-Osasuna        
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
+
+#EXTINF:0⚽️tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",LALIGA EA SPORTS                                                                                                21:00⚽Alavés-Osasuna            
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74
+
+#EXTINF:0⚽️tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",LALIGA EA SPORTS                                                                                                21:00⚽Alavés-Osasuna            
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=f863873de9f7b2996dde19a0657dd89835af3007
+
+#EXTINF:0⚽️tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",LALIGA EA SPORTS                                                                                                21:00⚽Alavés-Osasuna           
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=f863873de9f7b2996dde19a0657dd89835af3007
+
+#EXTINF:0⚽️tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",LALIGA EA SPORTS                                                                                                21:00⚽Alavés-Osasuna          
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=af458073c3096293a4dea9f369d4f308e7125bd6
+
+
+
+
+
+#EXTINF:0🏆tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD"group-title="✔️EVENTOS✔️",LIGA APERTURA                                                                                                23:00⚽River-Belgrano
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=476b6f6583517bd75c15c4663bf45fab7c8da9cf
+
+#EXTINF:0🏆tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD"group-title="✔️EVENTOS✔️",LIGA APERTURA                                                                                                23:00⚽River-Belgrano
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=0e5d8c9724fa9163f49096b70484e315251eb785
+
+#EXTINF:0🏆tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD"group-title="✔️EVENTOS✔️",LIGA APERTURA                                                                                                23:00⚽River-Belgrano
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
 
 
 
@@ -963,6 +1082,9 @@ http://127.0.0.1:6878/ace/getstream?id=0995b9b77ac6198dd92141369707fb99da09bdb2
 #EXTINF:-1🏀tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%202.png" tvg-id="DAZN Baloncesto 2",group-title="DAZN",🏀DAZN Baloncesto 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=d7e6b6bb1666740a21099fe6ceb0178a14f58e0c
+
+
+
 
 
 #EXTINF:-1🏀tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%203.png"tvg-id="DAZN Baloncesto 3",group-title="DAZN",🏀DAZN Baloncesto 3

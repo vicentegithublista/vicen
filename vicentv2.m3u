@@ -19,26 +19,6 @@ group-title="✔️EVENTOS✔️",Liga Brasil Jornada/19                        
 
 
 
-#EXTINF:0🏆tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_3.png" tvg-id="M+ Deportes 3"group-title="✔️EVENTOS✔️",TORNEO DE MARRAKECH                                                                                                16:05🎾Trungelliti-Jodar
-#EXTVLCOPT:network-caching=1000
-http://127.0.0.1:6878/ace/getstream?id=39fefdecfc953dcf6e7c589739bf486c2e605ed0
-
-
-
-
-#EXTINF:0🏆tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png"tvg-id="Movistar Plus+ HD"group-title="✔️EVENTOS✔️",TORNEO DE MARRAKECH                                                                                                16:05🎾Trungelliti-Jodar                                                                                                         
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=c1b7f54af0de256d1ac0fcac4c130e62660089f4
-
-#EXTINF:0🏆tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png"tvg-id="Movistar Plus+ HD"group-title="✔️EVENTOS✔️",TORNEO DE MARRAKECH                                                                                                16:05🎾Trungelliti-Jodar                                                                                                          
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70
-
-
-
-
-
-
 
 
 #EXTINF:0⚽️tvg-id="DAZN LaLiga 2 HD",tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png"group-title="✔️EVENTOS✔️",LALIGA EA SPORTS                                                                                                16:15⚽Valencia-Celta              
@@ -65,6 +45,15 @@ http://127.0.0.1:6878/ace/getstream?id=119087e842ea8857124b9405b10bb6cfffd2900c
 
 
 
+
+
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png"tvg-id="M+ Liga de Campeones HD"group-title="✔️EVENTOS✔️",FA CUP                                                                                                17:30⚽West Ham-Leeds                                                                                                                            
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
+
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png"tvg-id="M+ Liga de Campeones HD"group-title="✔️EVENTOS✔️",FA CUP                                                                                                17:30⚽West Ham-Leeds                                                                                                                             
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9
 
 
 

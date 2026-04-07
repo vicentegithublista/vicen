@@ -76,11 +76,11 @@ https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
 🆚 Olympiacos-R.Madrid
 🖥 M+ Vamos
 
-#EXTINF:0🏆tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD"group-title="✔️EVENTOS✔️",EUROLIGA                                                                                                  20:15🏀Olympiacos-R.Madrid
+#EXTINF:0🏆tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD"group-title="✔️EVENTOS✔️",EUROLIGA                                                                                                  20:15🏀Olym-R.Madrid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=0e5d8c9724fa9163f49096b70484e315251eb785
 
-#EXTINF:0🏆tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD"group-title="✔️EVENTOS✔️",EUROLIGA                                                                                                  20:15🏀Olympiacos-R.Madrid
+#EXTINF:0🏆tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD"group-title="✔️EVENTOS✔️",EUROLIGA                                                                                                  20:15🏀Olym-R.Madrid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
 
@@ -110,7 +110,7 @@ http://127.0.0.1:6878/ace/getstream?id=c6a824a81b36f6c3529826477caf2ad94b45776d
 🆚 Barça-Panathinaikos
 🖥 M+ Vamos 2
 
-#EXTINF:0🏆tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%202.png" tvg-id="M+ Vamos 2"group-title="✔️EVENTOS✔️",EUROLIGA                                                                                                  20:30🏀Barça-Panathinaikos
+#EXTINF:0🏆tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%202.png" tvg-id="M+ Vamos 2"group-title="✔️EVENTOS✔️",EUROLIGA                                                                                                  20:30🏀Barça-Panathi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=5e310dbffed8c941d20ad819cb8ef43c34b07884
 
@@ -2010,14 +2010,6 @@ https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:-1📺tvg-id="La2.TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kqgHWySi5xprs1VFCNCX0IKNT8yXBLZC43JMoB8j0JUto=s200" group-title="⏩LISTA⏪", tvg-name="La 2",La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 
-#EXTINF:-1📺tvg-id="0" tvg-name="ES: ANTENA 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Antena_3.png" group-title="⏩LISTA⏪", ANTENA 3
-http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/646
-
-#EXTINF:-1📺tvg-id="Cuatro.es" tvg-name="ES: CUATRO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Cuatro.png" group-title="⏩LISTA⏪", CUATRO
-http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/651
-
-#EXTINF:-1📺tvg-id="Telecinco.es" tvg-name="ES: TELECINCO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Telecinco.png" group-title="⏩LISTA⏪", TELECINCO
-http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/647
 
 #EXTINF:-1📺tvg-id="LA 1" tvg-name="LA SEXTA FHD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_TDT/La_Sexta.png",group-title="⏩LISTA⏪",LA SEXTA
 http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/110057.ts
@@ -2028,32 +2020,6 @@ https://vida.lol:443/play/JooXTNKWxKTfOGG2mP2foDiY_Ss7jzfBWl85hlT5t1s
 #EXTINF:-1📺tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Sur%20Andaluc%C3%ADa.png",tvg-id="Canal Sur Andalucía",group-title="⏩LISTA⏪",Canal Sur Andalucía
 https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
 
-#EXTINF:-1📺tvg-id="IberaliaTV.es" tvg-name="ES: M+ ACCIÓN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Accion.png" group-title="⏩LISTA⏪", M+ ACCIÓN
-http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/656
-
-#EXTINF:-1📺tvg-id="CanalPlusComedia.es" tvg-name="ES: M+ COMEDIA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Comedia.png" group-title="⏩LISTA⏪", M+ COMEDIA
-http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/657
-
-#EXTINF:-1📺tvg-id="M+ Cine Espanol" tvg-name="ES: M+ CINE ESPAÑOL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Cine_Espaol.png" group-title="⏩LISTA⏪", M+ CINE ESPAÑOL
-http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/658
-
-#EXTINF:-1📺tvg-id="M+ Clasicos" tvg-name="ES: M+ CLÁSICOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Clasicos.png" group-title="⏩LISTA⏪", M+ CLÁSICOS
-http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/659
-
-#EXTINF:-1📺tvg-id="MovistarEstrenos.es" tvg-name="ES: M+ ESTRENOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/ESTRENOS.png" group-title="⏩LISTA⏪", M+ ESTRENOS
-http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/87110
-
-#EXTINF:-1📺tvg-id="MovistarDrama.es" tvg-name="ES: M+ DRAMA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Drama.png" group-title="⏩LISTA⏪", M+ DRAMA
-http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/660
-
-#EXTINF:-1📺tvg-id="CanalPlusSeries.sp" tvg-name="ES: M+ HITS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_HITS.png" group-title="⏩LISTA⏪", M+ HITS
-http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/663
-
-#EXTINF:-1📺tvg-id="es.#0" tvg-name="ES: M+ ORIGINALES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Originales.png" group-title="⏩LISTA⏪", M+ ORIGINALES
-http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/87107
-
-#EXTINF:-1📺tvg-id="" tvg-name="ES: M+ INDIE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Indie.png" group-title="⏩LISTA⏪", M+ INDIE
-http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/87106
 
 #EXTINF:-1📺tvg-id="RTVE_Conciertos_R3.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Conciertos Radio 3 (RTVE)",Conciertos Radio 3 (RTVE)
 https://ztnr.rtve.es/ztnr/6924117.m3u8
@@ -2079,53 +2045,6 @@ https://ztnr.rtve.es/ztnr/16656232.m3u8
 #EXTINF:-1📺tvg-id="RTVE_Moderna.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="La moderna (RTVE)",La moderna (RTVE)
 https://ztnr.rtve.es/ztnr/16464377.m3u8
 
-#EXTINF:-1📺tvg-id="Factoria de Ficcion" tvg-name="ES: FACTORÍA DE FICCIÓN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Factoria_de_Ficcion.png" group-title="⏩LISTA⏪", FACTORÍA DE FICCIÓN
-http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/652
-
-#EXTINF:-1📺tvg-id="Nova.es" tvg-name="ES: NOVA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nova.png" group-title="⏩LISTA⏪", NOVA
-http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/653
-
-#EXTINF:-1📺tvg-id="Energy.es" tvg-name="ES: ENERGY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Energy.png" group-title="⏩LISTA⏪", ENERGY
-http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/654
-
-#EXTINF:-1📺tvg-id="TRECE" tvg-name="ES: TRECE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TRECE.png" group-title="⏩LISTA⏪", TRECE
-http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/655
-
-#EXTINF:-1📺tvg-id="Xtrm.es" tvg-name="ES: XTRM" tvg-logo="https://docdog.top/logo/countries/spain/movistar/XTRM.png" group-title="⏩LISTA⏪", XTRM
-http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/767
-
-#EXTINF:-1📺tvg-id="BE MAD" tvg-name="ES: BE MAD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/BE_MAD.png" group-title="⏩LISTA⏪", BE MAD
-http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/737
-
-#EXTINF:-1📺tvg-id="Hollywood" tvg-name="ES: HOLLYWOOD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Hollywood.png" group-title="⏩LISTA⏪", HOLLYWOOD
-http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/665
-
-#EXTINF:-1📺tvg-id="Paramount.es" tvg-name="ES: PARAMOUNT CHANNEL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Paramount_Network.png" group-title="⏩LISTA⏪", PARAMOUNT CHANNEL
-http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/666
-
-#EXTINF:-1📺tvg-id="Somos.es" tvg-name="ES: SOMOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Somos.png" group-title="⏩LISTA⏪", SOMOS
-http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/667
-
-#EXTINF:-1📺tvg-id="TNT.sp" tvg-name="ES: WARNER TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Warner_TV.png" group-title="⏩LISTA⏪", WARNER TV
-http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/668
-
-#EXTINF:-1📺tvg-id="es.TCM" tvg-name="ES: TCM" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TCM.png" group-title="⏩LISTA⏪", TCM
-http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/669
-
-#EXTINF:-1📺tvg-id="AXN.es" tvg-name="ES: AXN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AXN.png" group-title="⏩LISTA⏪", AXN
-http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/735
-
-#EXTINF:-1📺tvg-id="AXNWhite.es" tvg-name="ES: AXN MOVIES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AXN_Movies.png" group-title="⏩LISTA⏪", AXN MOVIES
-http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/736
-
-#EXTINF:-1📺tvg-id="Calle13.es" tvg-name="ES: CALLE 13" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Calle_13.png" group-title="⏩LISTA⏪", CALLE 13
-http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/740
-
-#EXTINF:-1📺tvg-id="Dark.es" tvg-name="ES: DARK" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DARK.png" group-title="⏩LISTA⏪", DARK
-http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/782
-
-#EXTINF:-1📺tvg-id="MXC| ATRES SERIES FHD" tvg-name="ES: ATRESERIES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Atreseries.png" group-title="⏩LISTA⏪", ATRESERIES
-http://vipwettbornwet.top:8080/VIP012601746460758427/cff1522edc0b/800
 
 #EXTINF:-1📺tvg-id="Clan.TV"tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200",group-title="⏩LISTA⏪",Clan
 https://rtvelivestream.rtve.es/rtvesec/clan/clan_main_dvr.m3u8
@@ -2407,48 +2326,6 @@ https://media.profesionalhosting.com:8047/stream
 #EXTINF:-1📻radio="true" tvg-logo="https://graph.facebook.com/urbanrevolution.es/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="La Urban Radio",La Urban Radio
 https://st1.urbanrevolution.es:8443/laurbanfm.mp3
 
-
-
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png"group-title="⏩LISTA⏪",DAZN LALIGA
-http://ag154.pjoejsvp.top:8080/vip6381766433177/b31f632e9b7a/243
-#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (HD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png"group-title="⏩LISTA⏪",DAZN LALIGA
-http://ag154.pjoejsvp.top:8080/vip6381766433177/b31f632e9b7a/244
-#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (HD REPUESTO2) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png"group-title="⏩LISTA⏪",DAZN LALIGA
-http://ag154.pjoejsvp.top:8080/vip6381766433177/b31f632e9b7a/147167
-#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (FHD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png"group-title="⏩LISTA⏪",DAZN LALIGA
-http://ag154.pjoejsvp.top:8080/vip6381766433177/b31f632e9b7a/97138
-#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (FHD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png"group-title="⏩LISTA⏪",DAZN LALIGA
-http://ag154.pjoejsvp.top:8080/vip6381766433177/b31f632e9b7a/97193
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (HD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png"group-title="⏩LISTA⏪",M+ LALIGA
-http://ag154.pjoejsvp.top:8080/vip6381766433177/b31f632e9b7a/252
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (HD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png"group-title="⏩LISTA⏪",M+ LALIGA
-http://ag154.pjoejsvp.top:8080/vip6381766433177/b31f632e9b7a/253
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (FHD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png"group-title="⏩LISTA⏪",M+ LALIGA
-http://ag154.pjoejsvp.top:8080/vip6381766433177/b31f632e9b7a/254
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (FHD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png"group-title="⏩LISTA⏪",M+ LALIGA
-http://ag154.pjoejsvp.top:8080/vip6381766433177/b31f632e9b7a/97192
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ LALIGA TV BAR" tvg-logo="https://docdog.top/logo/countries/spain/movistar/laligabares.png"group-title="⏩LISTA⏪",M+ LALIGA TV BAR
-http://ag154.pjoejsvp.top:8080/vip6381766433177/b31f632e9b7a/283
-#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-name="ES: LALIGA TV HYPERMOTION" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION.png"group-title="⏩LISTA⏪",LALIGA TV HYPERMOTION
-http://ag154.pjoejsvp.top:8080/vip6381766433177/b31f632e9b7a/246
-#EXTINF:-1 tvg-id="LaLiga SmartbankTV 2" tvg-name="ES: LALIGA TV HYPERMOTION 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_2.png"group-title="⏩LISTA⏪",LALIGA TV HYPERMOTION 2
-http://ag154.pjoejsvp.top:8080/vip6381766433177/b31f632e9b7a/634
-#EXTINF:-1 tvg-id="LaLiga SmartbankTV 3" tvg-name="ES: LALIGA TV HYPERMOTION 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_3.png"group-title="⏩LISTA⏪",LALIGA TV HYPERMOTION 3
-http://ag154.pjoejsvp.top:8080/vip6381766433177/b31f632e9b7a/635
-#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="ES: DAZN LALIGA 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA_2.png"group-title="⏩LISTA⏪",DAZN LALIGA 2
-http://ag154.pjoejsvp.top:8080/vip6381766433177/b31f632e9b7a/128942
-#EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="ES: (FHD) M+ LALIGA TV 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_2_NEW.png"group-title="⏩LISTA⏪",M+ LALIGA TV 2
-http://ag154.pjoejsvp.top:8080/vip6381766433177/b31f632e9b7a/255
-#EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="ES: (FHD) M+ LALIGA TV 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_3_NEW.png"group-title="⏩LISTA⏪",M+ LALIGA TV 3
-http://ag154.pjoejsvp.top:8080/vip6381766433177/b31f632e9b7a/256
-#EXTINF:-1 tvg-id="mlaliga4.es" tvg-name="ES: M+ LALIGA TV 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_4_NEW.png"group-title="⏩LISTA⏪",M+ LALIGA TV 4
-http://ag154.pjoejsvp.top:8080/vip6381766433177/b31f632e9b7a/56470
-
-
-
-EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/vicentegithublista/vicen/refs/heads/main/IMG_20230505_125507_351.ico" tvg-id=""group-title="✔️EVENTOS✔️",⚽️⚽️FUTBOL⚽️⚽️
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=4b7237f2e654d6c1e03ece1d2fffc249e0324ae6&pid=19419
 
 
 EXTINF:0🏆tvg-logo="https://raw.githubusercontent.com/vicentegithublista/vicen/refs/heads/main/IMG_20230505_125507_351.ico" tvg-id=""group-title="✔️EVENTOS✔️",🏀🏀BALONCESTO🏀🏀

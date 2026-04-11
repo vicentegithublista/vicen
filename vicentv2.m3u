@@ -20,7 +20,7 @@ group-title="✔️EVENTOS✔️",CHAMPIONS LEAGUE                              
 group-title="✔️EVENTOS✔️",EUROLIGA                                                                                                  20:15🏀Olympiacos-R.Madrid
 group-title="✔️EVENTOS✔️",LIGA ENDESA                                                                                               20:15🏀Olympiacos-R.Madrid
 group-title="✔️EVENTOS✔️",UFC FIGHT NIGHT                                                                                           20:00🥊Liddard-Denny
-
+group-title="✔️EVENTOS✔️",WOW 29 VALENCIA                                                                                           18:00🥊Velada T2026
 
 
 
@@ -183,6 +183,26 @@ http://127.0.0.1:6878/ace/getstream?id=4636ed75106cb00e9c70cc2029edf0a4df7ad73f
 #EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png"tvg-id="LaLiga TV Hypermotion 2"group-title="✔️EVENTOS✔️",LALIGA HYPERMOTION                                                                                        16:15⚽Leganés-Albacete
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=a5b9d834ad92bfb80fe01bf89cc20bd68be199fb
+
+⚽️ MMA - 18:00
+🏆 LALIGA HYPERMOTION
+🆚 Leganés-Albacete
+🖥 LALIGA TV HYPERMOTION 2
+
+
+#EXTINF:0🏆tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"group-title="✔️EVENTOS✔️",WOW 29 VALENCIA                                                                                           18:00🥊Velada T2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=c6a824a81b36f6c3529826477caf2ad94b45776d
+
+#EXTINF:0🏆tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"group-title="✔️EVENTOS✔️",WOW 29 VALENCIA                                                                                           18:00🥊Velada T2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=2f3cfd199a49819cbd129689a840dc3d23ab93aa
+
+#EXTINF:0🏆tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"group-title="✔️EVENTOS✔️",WOW 29 VALENCIA                                                                                           18:00🥊Velada T2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
+
+
 
 ⚽️ Fútbol - 18:00
 🏆 SERIE A
@@ -733,9 +753,6 @@ http://127.0.0.1:6878/ace/getstream?id=2f3cfd199a49819cbd129689a840dc3d23ab93aa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
 
-#EXTINF:0🏆tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"group-title="M. DEPORTES",🏆M.DEPORTES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5
 
 
 

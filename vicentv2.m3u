@@ -24,119 +24,180 @@ group-title="✔️EVENTOS✔️",WOW 29 VALENCIA                               
 
 
 
-🏀 Baloncesto - 21:00
-🏆 CHAMPIONS LEAGUE
-🆚 Tenerife-Galata
-🖥 Teledeporte
 
-#EXTINF:-1🏆tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte"group-title="✔️EVENTOS✔️",CHAMPIONS LEAGUE                                                                                          21:00🏀Tenerife-Galata
+🏆 Padel - 10:00
+🏆 PREMIER PADEL
+🆚 Newgiza (Cuartos de Final)
+🖥 M+ Vamos
+
+#EXTINF:0🏆tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD"group-title="✔️EVENTOS✔️",PREMIER PADEL                                                                                   10:00🎾Newgiza 1/4 Final
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
+
+#EXTINF:0🏆tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD"group-title="✔️EVENTOS✔️",PREMIER PADEL                                                                                   10:00🎾Newgiza 1/4 Final
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=0e5d8c9724fa9163f49096b70484e315251eb785
+
+
+#EXTINF:-1🏆tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte"group-title="✔️EVENTOS✔️",CONDE GODO                                                                                   13:30🎾Barcelona 1/8 Final
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://ztnr.rtve.es/ztnr/1712295.m3u8
 
-#EXTINF:-1🏆tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte"group-title="✔️EVENTOS✔️",CHAMPIONS LEAGUE                                                                                          21:00🏀Tenerife-Galata
+#EXTINF:-1🏆tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte"group-title="✔️EVENTOS✔️",CONDE GODO                                                                                   13:30🎾Barcelona 1/8 Final
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
 
-#EXTINF:-1🏆tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte"group-title="✔️EVENTOS✔️",CHAMPIONS LEAGUE                                                                                          21:00🏀Tenerife-Galata
+#EXTINF:-1🏆tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte"group-title="✔️EVENTOS✔️",CONDE GODO                                                                                   13:30🎾Barcelona 1/8 Final
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=77cf022557c56cdf8d8115f50e61f846ad72ee05
 
-⚽️ Fútbol - 21:00
-🏆 CHAMPIONS LEAGUE
-🆚 Bayern-R.Madrid
+🚴‍♂ Ciclismo - 15:30
+🏆 O GRAN CAMIÑO
+🆚 Etapa 3 - Carballo - Padrón
+🖥 Eurosport 1
+
+#EXTINF:-1🏆tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" tvg-id="Eurosport 1 HD"group-title="✔️EVENTOS✔️",O GRAN CAMIÑO                                                                                     15:30🚴‍♂E/3 Carballo-Padrón
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=48a589dbeab3544662fafd79888aada7d834cfe9
+
+⚽ Fútbol - 18:45
+🏆 EUROPA LEAGUE
+🆚 Celta-Friburgo
 🖥 M+ Liga de Campeones
 
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png"tvg-id="M+ Liga de Campeones HD"group-title="✔️EVENTOS✔️",CHAMPIONS LEAGUE                                                                                          21:00⚽Bayern-R.Madrid                                                                                                                              
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png"tvg-id="M+ Liga de Campeones HD"group-title="✔️EVENTOS✔️",EUROPA LEAGUE                                                                                          18:45⚽Celta-Friburgo                                                                                                                             
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
 
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png"tvg-id="M+ Liga de Campeones HD"group-title="✔️EVENTOS✔️",CHAMPIONS LEAGUE                                                                                          21:00⚽Bayern-R.Madrid                                                                                                                               
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png"tvg-id="M+ Liga de Campeones HD"group-title="✔️EVENTOS✔️",EUROPA LEAGUE                                                                                          18:45⚽Celta-Friburgo                                                                                                                               
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9
 
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png"tvg-id="M+ Liga de Campeones HD"group-title="✔️EVENTOS✔️",CHAMPIONS LEAGUE                                                                                          21:00⚽Bayern-R.Madrid                                                                                                                               
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png"tvg-id="M+ Liga de Campeones HD"group-title="✔️EVENTOS✔️",EUROPA LEAGUE                                                                                          18:45⚽Celta-Friburgo                                                                                                                              
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439
 
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png"tvg-id="M+ Liga de Campeones HD"group-title="✔️EVENTOS✔️",CHAMPIONS LEAGUE                                                                                          21:00⚽Bayern-R.Madrid                                                                                                                               
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png"tvg-id="M+ Liga de Campeones HD"group-title="✔️EVENTOS✔️",EUROPA LEAGUE                                                                                          18:45⚽Celta-Friburgo                                                                                                                               
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9
 
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png"tvg-id="M+ Liga de Campeones HD"group-title="✔️EVENTOS✔️",CHAMPIONS LEAGUE                                                                                          21:00⚽Bayern-R.Madrid                                                                                                                               
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png"tvg-id="M+ Liga de Campeones HD"group-title="✔️EVENTOS✔️",EUROPA LEAGUE                                                                                          18:45⚽Celta-Friburgo                                                                                                                               
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=afbf2a479c5a5072698139f0f556ef3e77a99bd0
 
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png"tvg-id="M+ Liga de Campeones HD"group-title="✔️EVENTOS✔️",CHAMPIONS LEAGUE                                                                                          21:00⚽Bayern-R.Madrid                                                                                    
+Baloncesto - 20:30
+🏆 EUROLIGA
+🆚 Partizán-Baskonia
+🖥 M+ Deportes
 
-#EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" tvg-id="PT | DAZN 1"group-title="✔️EVENTOS✔️",CHAMPIONS LEAGUE                                                                                          21:00⚽Bayern-R.Madrid   
+#EXTINF:0🏆tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"group-title="✔️EVENTOS✔️",EUROLIGA                                                                                                  20:30🏀Partizán-Baskonia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
 
-⚽️ Fútbol - 21:00
-🏆 CHAMPIONS LEAGUE
-🆚 Arsenal-Sporting
-🖥 M+ Liga de Campeones 2
-
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png"tvg-id="M+ Liga de Campeones 2 HD"group-title="✔️EVENTOS✔️",CHAMPIONS LEAGUE                                                                                          21:00⚽Arsenal-Sporting 
+#EXTINF:0🏆tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"group-title="✔️EVENTOS✔️",EUROLIGA                                                                                                  20:30🏀Partizán-Baskonia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
+http://127.0.0.1:6878/ace/getstream?id=c6a824a81b36f6c3529826477caf2ad94b45776d
 
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png"tvg-id="M+ Liga de Campeones 2 HD"group-title="✔️EVENTOS✔️",CHAMPIONS LEAGUE                                                                                          21:00⚽Arsenal-Sporting 
+#EXTINF:0🏆tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"group-title="✔️EVENTOS✔️",EUROLIGA                                                                                                  20:30🏀Partizán-Baskonia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb
+http://127.0.0.1:6878/ace/getstream?id=2f3cfd199a49819cbd129689a840dc3d23ab93aa
 
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png"tvg-id="M+ Liga de Campeones 2 HD"group-title="✔️EVENTOS✔️",CHAMPIONS LEAGUE                                                                                          21:00⚽Arsenal-Sporting 
+🏀 Baloncesto - 20:45
+🏆 EUROLIGA
+🆚 R.Madrid-E.Roja
+🖥 M+ Vamos
+
+#EXTINF:0🏆tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD"group-title="✔️EVENTOS✔️",EUROLIGA                                                                                                  20:45🏀R.Madrid-E.Roja
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=4fc6d0331830ad8743abab2fe2473b63bdfbc49f
+http://127.0.0.1:6878/ace/getstream?id=ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
 
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png"tvg-id="M+ Liga de Campeones 2 HD"group-title="✔️EVENTOS✔️",CHAMPIONS LEAGUE                                                                                          21:00⚽Arsenal-Sporting  
+#EXTINF:0🏆tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD"group-title="✔️EVENTOS✔️",EUROLIGA                                                                                                  20:45🏀R.Madrid-E.Roja
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=38f7b2044e549df2039ff26cefa6f9a60c854d5e
+http://127.0.0.1:6878/ace/getstream?id=0e5d8c9724fa9163f49096b70484e315251eb785
 
-#EXTINF:-1🌍tvg-logo=""https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="UK | TNT Sports 1"group-title="✔️EVENTOS✔️",CHAMPIONS LEAGUE                                                                                          21:00⚽Arsenal-Sporting   
+⚽ Fútbol - 21:00
+🏆 EUROPA LEAGUE
+🆚 Betis-Sporting
+🖥 Movistar Plus+
+
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png"tvg-id="M+ Liga de Campeones HD"group-title="✔️EVENTOS✔️",EUROPA LEAGUE                                                                                          21:00⚽Betis-Sporting                                                                                                                             
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
 
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png"tvg-id="M+ Liga de Campeones HD"group-title="✔️EVENTOS✔️",EUROPA LEAGUE                                                                                         21:00⚽Betis-Sporting                                                                                                                               
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9
 
-⚽️ Fútbol - 21:00
-🏆 CHAMPIONS LEAGUE
-🆚 Multichampions
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png"tvg-id="M+ Liga de Campeones HD"group-title="✔️EVENTOS✔️",EUROPA LEAGUE                                                                                          21:00⚽Betis-Sporting                                                                                                                              
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439
+
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png"tvg-id="M+ Liga de Campeones HD"group-title="✔️EVENTOS✔️",EUROPA LEAGUE                                                                                          21:00⚽Betis-Sporting                                                                                                                               
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9
+
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png"tvg-id="M+ Liga de Campeones HD"group-title="✔️EVENTOS✔️",EUROPA LEAGUE                                                                                          21:00⚽Betis-Sporting                                                                                                                               
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=afbf2a479c5a5072698139f0f556ef3e77a99bd0
+
+⚽ Fútbol - 21:00
+🏆 CONFERENCE LEAGUE
+🆚 AEK-Rayo
 🖥 M+ Liga de Campeones 3
 
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png"tvg-id="M+ Liga de Campeones 3 HD"group-title="✔️EVENTOS✔️",CHAMPIONS LEAGUE                                                                                          21:00⚽Multichampions
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png"tvg-id="M+ Liga de Campeones 3 HD"group-title="✔️EVENTOS✔️",CONFERENCE LEAGUE                                                                                          21:00⚽AEK-Rayo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
 
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png"tvg-id="M+ Liga de Campeones 3 HD"group-title="✔️EVENTOS✔️",CHAMPIONS LEAGUE                                                                                          21:00⚽Multichampions
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png"tvg-id="M+ Liga de Campeones 3 HD"group-title="✔️EVENTOS✔️",CONFERENCE LEAGUE                                                                                          21:00⚽AEK-Rayo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
 
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png"tvg-id="M+ Liga de Campeones 3 HD"group-title="✔️EVENTOS✔️",CHAMPIONS LEAGUE                                                                                          21:00⚽Multichampions
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png"tvg-id="M+ Liga de Campeones 3 HD"group-title="✔️EVENTOS✔️",CONFERENCE LEAGUE                                                                                          21:00⚽AEK-Rayo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=85a8e0675bc27ddfd403b8f72953c606d07a8de8
 
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png"tvg-id="M+ Liga de Campeones 3 HD"group-title="✔️EVENTOS✔️",CHAMPIONS LEAGUE                                                                                          21:00⚽Multichampions
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png"tvg-id="M+ Liga de Campeones 3 HD"group-title="✔️EVENTOS✔️",CONFERENCE LEAGUE                                                                                          21:00⚽AEK-Rayo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
 
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png"tvg-id="M+ Liga de Campeones 3 HD"group-title="✔️EVENTOS✔️",CHAMPIONS LEAGUE                                                                                          21:00⚽Multichampions
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png"tvg-id="M+ Liga de Campeones 3 HD"group-title="✔️EVENTOS✔️",CONFERENCE LEAGUE                                                                                          21:00⚽AEK-Rayo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=07976f79d17a439d7aff46cf0d4cfdf80311caf5
 
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png"tvg-id="M+ Liga de Campeones 3 HD"group-title="✔️EVENTOS✔️",CHAMPIONS LEAGUE                                                                                          21:00⚽Multichampions
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png"tvg-id="M+ Liga de Campeones 3 HD"group-title="✔️EVENTOS✔️",CONFERENCE LEAGUE                                                                                          21:00⚽AEK-Rayo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=66b373c0da20ac615996dbd1c340087f50a9a39e
 
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png"tvg-id="M+ Liga de Campeones 3 HD"group-title="✔️EVENTOS✔️",CHAMPIONS LEAGUE                                                                                          21:00⚽Multichampions
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png"tvg-id="M+ Liga de Campeones 3 HD"group-title="✔️EVENTOS✔️",CONFERENCE LEAGUE                                                                                          21:00⚽AEK-Rayo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
 
-#EXTINF:-1🌍tvg-logo="",tvg-id="DE | DAZN 2"group-title="✔️EVENTOS✔️",CHAMPIONS LEAGUE                                                                                          21:00⚽Multichampions
+🥊 MMA - 21:00
+🏆 PROFESSIONAL FIGHTERS LEAGUE
+🆚 Belfast
+🖥 M+ Vamos 2
+
+#EXTINF:0🏆tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%202.png" tvg-id="M+ Vamos 2"group-title="✔️EVENTOS✔️",FIGHTERS LEAGUE                                                                                           21:00🥊MMA Belfast
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
+http://127.0.0.1:6878/ace/getstream?id=4ee16a7f854219fa2974ef1468e6b2f8574189dd
 
+#EXTINF:0🏆tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%202.png" tvg-id="M+ Vamos 2"group-title="✔️EVENTOS✔️",FIGHTERS LEAGUE                                                                                           21:00🥊MMA Belfast2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=f51674b1dd1ab5a668fa97a0f13a490632f0d7ca
 
+#EXTINF:0🏆tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%202.png" tvg-id="M+ Vamos 2"group-title="✔️EVENTOS✔️",FIGHTERS LEAGUE                                                                                           21:00🥊MMA Belfast
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=0cd11c1f51b84ebe9954496b3ef9b6aeccf7307c
 
+🏌️‍♀️ Golf - 22:00
+🏆 LIV MÉXICO CITY
+🆚 Jornada 1
+🖥 M+ Golf
+
+#EXTINF:-1🏆tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD" group-title="✔️EVENTOS✔️",LIV MÉXICO CITY                                                                                           22:00⛳️Jornada 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb
 
 
 

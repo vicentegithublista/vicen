@@ -32,16 +32,6 @@ group-title="✔️EVENTOS✔️",WOW 29 VALENCIA                               
 
 
 
-🎾 Tenis - 11:00
-🏆 CONDE DE GODÓ
-🆚 Medjedovic - Borges
-🖥 Teledeporte
-
-🎾 Tenis - 13:00
-🏆 CONDE DE GODÓ
-🆚 Machac - Rublev
-🖥 Teledeporte
-
 🚴‍♂ Ciclismo - 13:30
 🏆 O GRAN CAMIÑO
 🆚 Etapa 4 - Xinzo De Limia - Cabeza De Meda
@@ -93,16 +83,9 @@ group-title="✔️EVENTOS✔️",WOW 29 VALENCIA                               
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=4ee16a7f854219fa2974ef1468e6b2f8574189dd
 
-#EXTINF:0🏆tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%202.png" tvg-id="M+ Vamos 2"group-title="✔️EVENTOS✔️",PREMIER PADEL                                                                                   09:30🎾Newgiza
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=4ee16a7f854219fa2974ef1468e6b2f8574189dd
-
-
-
-
 #EXTINF:-1🏆tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_5.png" tvg-id="M+ Deportes 5"group-title="✔️EVENTOS✔️",PREMIER PADEL                                                                                   09:30🎾Newgiza
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=3230cdca852a10325222e3c546e499e31d547a90&pid=19419
+http://127.0.0.1:6878/ace/getstream?id=3230cdca852a10325222e3c546e499e31d547a90
 
 #EXTINF:-1🏆tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_5.png" tvg-id="M+ Deportes 5"group-title="✔️EVENTOS✔️",PREMIER PADEL                                                                                   09:30🎾Newgiza
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -117,9 +100,6 @@ http://127.0.0.1:6878/ace/getstream?id=7b361369a40046ad3011086f9d4ae2982fb4d5aa
 http://127.0.0.1:6878/ace/getstream?id=837883625d40e1eb5566eefaf74811046491f53a
 
 
-
-
-
 #EXTINF:0🏆tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%203.png" tvg-id="M+ Vamos 3"group-title="✔️EVENTOS✔️",PREMIER PADEL                                                                                   09:30🎾Newgiza
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=5e310dbffed8c941d20ad819cb8ef43c34b07884
@@ -130,12 +110,129 @@ http://127.0.0.1:6878/ace/getstream?id=b7b1c1eeb4be09c63fbc2f319c9760851c274455
 
 
 
+🎾 Tenis - 11:00
+🏆 CONDE DE GODÓ
+🆚 Medjedovic - Borges
+🖥 Teledeporte
+
+#EXTINF:-1🏆tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte"group-title="✔️EVENTOS✔️",CONDE DE GODÓ                                                                                        11:00🎾1/4 Final
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://ztnr.rtve.es/ztnr/1712295.m3u8
+
+#EXTINF:-1🏆tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte"group-title="✔️EVENTOS✔️",CONDE DE GODÓ                                                                                        11:00🎾1/4 Final
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
+
+#EXTINF:-1🏆tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte"group-title="✔️EVENTOS✔️",CONDE DE GODÓ                                                                                        11:00🎾1/4 Final
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=77cf022557c56cdf8d8115f50e61f846ad72ee05
+
+#EXTINF:-1🏆tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte"group-title="✔️EVENTOS✔️",CONDE DE GODÓ                                                                                        11:00🎾1/4 Final
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=b0d1489c9f3239349665ad5ab423363f2b02e5ae
+
+#EXTINF:-1🏆tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte"group-title="✔️EVENTOS✔️",CONDE DE GODÓ                                                                                        11:00🎾1/4 Final
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=3b50a1dca0977e3761d016edd79314ab797f74f6
+
+#EXTINF:-1🏆tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte"group-title="✔️EVENTOS✔️",CONDE DE GODÓ                                                                                        11:00🎾1/4 Final
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
 
 
 
 
+https://www.rtve.es/play/videos/directo/deportes
+[17/04/2026 7:27] José Manuel Kp: MOVISTAR PLUS 720p *
 
+d23497596720b47b096ec0f850d6d26a19d1a336
 
+MOVISTAR PLUS 1080p *
+
+ed74406ccdb3c21941b919db6bffca7f1de015bb
+
+MOVISTAR PLUS 1080p **
+
+1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+
+M+ Deportes 2 720p **
+
+bfa01c11c5c6b7a616a516de4f2c769a89d26b25
+
+M+ Deportes 2 1080p **
+
+f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
+[17/04/2026 7:27] José Manuel Kp: Esport3 720p *
+
+739792a3225e5eb3056f4faa7b1137c7f161f23c
+
+Esport3 720p **
+
+ed6524f8f73c30cf102fde66f2cb520f4b5842e3
+
+Esport3 1080p *
+
+21bc11d195f5753c396e390c215952d21541d04d
+
+Esport3 1080p **
+
+8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
+
+https://iteleflix.com/ver/esport-3-en-directo-online/
+
+https://www.ccma.cat/tv3/directe/esport3
+
+ESPORTS 3
+
+ca20f93ea5d9c15744e48a21b52598b9fce87425
+
+ESPORTS 3 
+
+181fcc443b953d54b00a1bf6320ccbb097e85d64
+[17/04/2026 7:27] José Manuel Kp: Tennis Channel (UK) (720p) 
+
+52a526d748e26ff0827635b3932d9f49aee14a25
+
+Vlc
+
+http://35.225.33.206:8000/pid/52a526d748e26ff0827635b3932d9f49aee14a25/stream.mp4
+
+Tennis Channel HD
+
+039fae21c9e7e5214d3d898cba80863e37e623ac
+
+Vlc
+
+http://35.225.33.206:8000/pid/039fae21c9e7e5214d3d898cba80863e37e623ac/stream.mp4
+
+SuperTennis HD 
+
+ b58dbf92765976b308695f62dea94b00b40730ee
+
+Vlc
+
+http://35.225.33.206:8000/pid/b58dbf92765976b308695f62dea94b00b40730ee/stream.mp4
+
+Canal+ Sport 2 PL 
+
+6390b1ab967a25777ea2dde1d41b7400cc0601d3
+
+Sky Sports Arena
+
+d317a003e8047da2c36a2a2bb2289578c9a3b79c
+
+Canal de Tenis HD (ES) 
+ SPORT TV HD
+
+039fae21c9e7e5214d3d898cba80863e37e623ac
+
+Polsat Sport (PL) SPORT TV
+
+92b6ba09dae4bbb8a67a405125d08ca8d15380ee
+
+Polsat Sport Premium 1 (PL) SPORT TV
+
+4ce55db7e578ff52a6e526cf610e477464b8a99f
 
 
 

@@ -1660,7 +1660,8 @@ http://127.0.0.1:6878/ace/getstream?id=4b7237f2e654d6c1e03ece1d2fffc249e0324ae6&
 
 
 #EXTINF:-1🎞️,group-title="PELICULAS", tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYfMTSiFFK7ffbY2lay4zyvTkEk.jpg",Los pecadores (2025) BluRay 4k 2160P (7.5)
-acestream://a185aaa245fb495dd9e6322742162fbc1ff08c54
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=a185aaa245fb495dd9e6322742162fbc1ff08c54&pid=19419
 
 #EXTINF:-1🎞️,group-title="PELICULAS",tvg-logo="https://image.tmdb.org/t/p/w1280/31CKSlZdsvdY8bysV5WeR2YvTim.jpg",La resistencia invisible (2025) BluRay 720pRip [7.2]
 http://127.0.0.1:6878/ace/getstream?id=71db1de867fb2f35060b14a1aea3a5c5f1716fcf

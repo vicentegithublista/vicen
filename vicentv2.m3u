@@ -16,6 +16,7 @@ group-title="✔️EVENTOS✔️",LALIGA EA SPORTS                              
 group-title="✔️EVENTOS✔️",MASTERS MONTECARLO                                                                                        12:30🎾Humbert-Sinner
 group-title="✔️EVENTOS✔️",HOMENAJE CAROLINA MARÍN                                                                                   11:10🎾Huelva
 group-title="✔️EVENTOS✔️",VUELTA AL PAÌS VASCO                                                                                      15:30🚴‍♂Etapa 2 Pamplona
+group-title="✔️EVENTOS✔️",NBA 1ª ROUND GAME 4                                                                                       19:00🏀Raptors-Cavs
 group-title="✔️EVENTOS✔️",CHAMPIONS LEAGUE                                                                                          19:30🏀Joventud-AEK
 group-title="✔️EVENTOS✔️",EUROLIGA                                                                                                  20:15🏀Olympiacos-R.Madrid
 group-title="✔️EVENTOS✔️",LIGA ENDESA                                                                                               20:15🏀Olympiacos-R.Madrid
@@ -132,6 +133,21 @@ http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=cc108ae39f92c48f6c946763047bd1c9b7b7d889
 
+
+#EXTINF:-1🏀tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%202.png" tvg-id="DAZN Baloncesto 2"group-title="✔️EVENTOS✔️",NBA 1ª ROUND GAME 4                                                                                          19:00🏀Raptors-Cavs
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=22b702984a0db43fd371c30e2df150b2336551cd
+
+
+
+#EXTINF:-1🏀tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%203.png"tvg-id="DAZN Baloncesto 3",group-title="DAZN",🏀DAZN Baloncesto 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=02ec118ee4586d96df9115ffc486be9a499d00d9
+
+
+
+
+
 ⚽️ Fútbol - 21:00
 🏆 LALIGA EA SPORTS
 🆚 Villareal-Celta
@@ -150,6 +166,9 @@ http://127.0.0.1:6878/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74
 http://127.0.0.1:6878/ace/getstream?id=b3bdd6ef7f795c4f321a3ce5cf4907338f462929
 
 
+#EXTINF:-1🏀tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%203.png"tvg-id="DAZN Baloncesto 3"group-title="✔️EVENTOS✔️",NBA 1ª ROUND GAME 4                                                                                          21:30🏀Blazers-Spurs
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=02ec118ee4586d96df9115ffc486be9a499d00d9
 
 
 
@@ -243,22 +262,6 @@ http://127.0.0.1:6878/ace/getstream?id=b3bdd6ef7f795c4f321a3ce5cf4907338f462929
 #EXTINF:0⚽️tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD"group-title="LA LIGA",⚽️M+ LaLiga            
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=f863873de9f7b2996dde19a0657dd89835af3007
-
-
-
-
-
-
-
-
-#EXTINF:0⚽️tvg-id="Sky Sports 16" tvg-name="Sky Sports 16" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sports%2016.png"group-title="LA LIGA",⚽️SKY Sports LaLiga                                                                                           
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=a9bddffdff085cdc18b34218d5dc1093b88e3c0a
-
-
-#EXTINF:0⚽️tvg-id="Sky Sports 16" tvg-name="Sky Sports 16" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sports%2016.png"group-title="LA LIGA",⚽️SKY Sports LaLiga                                                                                           
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=e9975d38aaa4475ac0b1fa0faa541bbadd85a662
 
 
 
@@ -935,36 +938,19 @@ http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 
 
 
-#EXTINF:-1🏀tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto.png" tvg-id="DAZN Baloncesto",group-title="DAZN",🏀DAZN Baloncesto
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=8faa686a99697b99261346e479ead172b1d9d5d2
 
 #EXTINF:-1🏀tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto.png" tvg-id="DAZN Baloncesto",group-title="DAZN",🏀DAZN Baloncesto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=53962d7fb865aff73b34a3afb2905cd492f60d75
 
-#EXTINF:-1🏀tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto.png" tvg-id="DAZN Baloncesto",group-title="DAZN",🏀DAZN Baloncesto
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=0995b9b77ac6198dd92141369707fb99da09bdb2
 
 
-
-
-
-#EXTINF:-1🏀tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%202.png" tvg-id="DAZN Baloncesto 2",group-title="DAZN",🏀DAZN Baloncesto 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=d7e6b6bb1666740a21099fe6ceb0178a14f58e0c
 
 #EXTINF:-1🏀tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%202.png" tvg-id="DAZN Baloncesto 2",group-title="DAZN",🏀DAZN Baloncesto 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=22b702984a0db43fd371c30e2df150b2336551cd
 
 
-
-
-#EXTINF:-1🏀tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%203.png"tvg-id="DAZN Baloncesto 3",group-title="DAZN",🏀DAZN Baloncesto 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=119087e842ea8857124b9405b10bb6cfffd2900c
 
 #EXTINF:-1🏀tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%203.png"tvg-id="DAZN Baloncesto 3",group-title="DAZN",🏀DAZN Baloncesto 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160

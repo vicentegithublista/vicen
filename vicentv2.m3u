@@ -62,16 +62,6 @@ group-title="✔️EVENTOS✔️",SAN ISIDRO 08-05                              
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=a7b42f9d65636d1b1d9316d3e91ebe12b192658
 
-
-🏆 Padel - 15:00
-🏆 PREMIER PADEL
-🆚 Asunción (Cuartos de Final)
-🖥 M+ Vamos
-
-#EXTINF:0🏆tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD"group-title="✔️EVENTOS✔️",PREMIER PADEL                                                                                        15:00🎾Asunción 1/4                                                                                                 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=86262568aa72b956b06ac67b1c310a32248a0e98
-
 🎾 Tenis - 15:10
 🏆 MASTERS ROMA
 🆚 Prizmic-Djokovic
@@ -80,6 +70,10 @@ http://127.0.0.1:6878/ace/getstream?id=86262568aa72b956b06ac67b1c310a32248a0e98
 #EXTINF:0🏆tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_3.png" tvg-id="M+ Deportes 3"group-title="✔️EVENTOS✔️",MASTERS ROMA                                                                                        15:10🎾Prizmic-Djokovic 
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=39fefdecfc953dcf6e7c589739bf486c2e605ed0
+
+#EXTINF:-1♉tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telemadrid.png" tvg-id="Telemadrid"group-title="✔️EVENTOS✔️",S.ISIDRO♉19:00                                                                                          Talavante.Ortega.Barroso
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/55869
 
 🏌️‍♀️ Golf - 19:00
 🏆 LIV VIRGINIA

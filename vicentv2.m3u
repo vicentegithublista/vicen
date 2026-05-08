@@ -2297,17 +2297,33 @@ https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:-1📺tvg-id="La2.TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kqgHWySi5xprs1VFCNCX0IKNT8yXBLZC43JMoB8j0JUto=s200" group-title="⏩LISTA⏪", tvg-name="La 2",La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 
+#EXTINF:-1 tvg-id="Antena3.TV" tvg-name="ESP | ANTENA 3 HD " tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="⏩LISTA⏪",ANTENA 3
+http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/55885
 
-#EXTINF:-1📺tvg-id="LA 1" tvg-name="LA SEXTA FHD" tvg-logo="http://logos.ti7an.net/logos/spain/EU_Espana_TDT/La_Sexta.png",group-title="⏩LISTA⏪",LA SEXTA
-http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/110057.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESP | CUATRO (X) " tvg-logo="http://visualservice.xyz:80/images/488e788a513046c2ac746ccf3399cce5.png" group-title="⏩LISTA⏪",CUATRO 
+http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/31907
+",TELECINCO HD (A)
+#EXTINF:-1 tvg-id="LA 1" tvg-name="ESP | TELECINCO HD (A)" tvg-logo="http://visualservice.xyz:80/images/2d2024ab719bece688ccd21240e45e2f.png" group-title="⏩LISTA⏪",TELECINCO
+http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/68748
+
+#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="ESP | SEXTA " tvg-logo="http://visualservice.xyz:80/images/7f601cdc04f348e922bda4c3391a7c94.png" group-title="⏩LISTA⏪",SEXTA 
+http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/31908
+
+#EXTINF:-1 tvg-id="" tvg-name="ESP | FDF." tvg-logo="http://visualservice.xyz:80/images/750a409b263a679451a040f65734d886.png" group-title="⏩LISTA⏪",FDF
+http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/55893
+
+#EXTINF:-1 tvg-id="" tvg-name="ESP | NEOX" tvg-logo="https://static.epg.best/es/Neox.es.png" group-title="⏩LISTA⏪",NEOX
+http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/55889
+
+#EXTINF:-1 tvg-id="" tvg-name="ESP | NOVA" tvg-logo="http://visualservice.xyz:80/images/b53daea2e4ba67233019cb88e8d0566c.png" group-title="⏩LISTA⏪",NOVA
+http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/67484
+
+#EXTINF:-1 tvg-id="" tvg-name="ESP | A3SERIES HD" tvg-logo="http://visualservice.xyz:80/images/32356bb9ff7b4c26ff7030716e870afa.png" group-title="⏩LISTA⏪",A3SERIES
+http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/67507
 
 
-#EXTINF:-1📺tvg-id="OneToro" tvg-name="Onetoro TV ᴴᴰ" tvg-logo="https://www.lyngsat.com/logo/tv/oo/onetoro-tv-es.png",group-title="⏩LISTA⏪",OneToro
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=889db6c87a28fd5b3092333b63bcdddf05d26216
 
-#EXTINF:-1📺tvg-id="OneToro" tvg-name="Onetoro TV ᴴᴰ" tvg-logo="https://www.lyngsat.com/logo/tv/oo/onetoro-tv-es.png",group-title="⏩LISTA⏪",OneToro
-https://vida.lol:443/play/JooXTNKWxKTfOGG2mP2foDiY_Ss7jzfBWl85hlT5t1s
+
 
 #EXTINF:-1📺tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Sur%20Andaluc%C3%ADa.png",tvg-id="Canal Sur Andalucía",group-title="⏩LISTA⏪",Canal Sur Andalucía
 https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8

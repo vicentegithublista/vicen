@@ -59,21 +59,29 @@ group-title="✔️EVENTOS✔️",SAN ISIDRO 08-05                              
 🖥 M+ Deportes 3
 
 #EXTINF:0🏆tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_3.png" tvg-id="M+ Deportes 3"group-title="✔️EVENTOS✔️",MASTERS ROMA                                                                                        15:10🎾Prizmic-Djokovic 
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=39fefdecfc953dcf6e7c589739bf486c2e605ed0
+
+#EXTINF:0🏆tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_3.png" tvg-id="M+ Deportes 3"group-title="✔️EVENTOS✔️",MASTERS ROMA                                                                                        15:10🎾Prizmic-Djokovic 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=e9ce6e62ff97f1da7f10fd449a3c8e8ee90b253d
+
+#EXTINF:0🏆tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_3.png" tvg-id="M+ Deportes 3"group-title="✔️EVENTOS✔️",MASTERS ROMA                                                                                        15:10🎾Prizmic-Djokovic 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=2fd410c5d89e7a627cd3785685b7915b8e4bd534
+
+#EXTINF:0🏆tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_3.png" tvg-id="M+ Deportes 3"group-title="✔️EVENTOS✔️",MASTERS ROMA                                                                                        15:10🎾Prizmic-Djokovic 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=f4d9011721fad5098febbe4d7c078a582e176a01
+
+#EXTINF:0🏆tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_3.png" tvg-id="M+ Deportes 3"group-title="✔️EVENTOS✔️",MASTERS ROMA                                                                                        15:10🎾Prizmic-Djokovic 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903
+
 
 #EXTINF:-1♉tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telemadrid.png" tvg-id="Telemadrid"group-title="✔️EVENTOS✔️",S.ISIDRO♉19:00                                                                                          Talavante.Ortega.Barroso
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/55869
-
-🏌️‍♀️ Golf - 19:00
-🏆 LIV VIRGINIA
-🆚 Jornada 2
-🖥 M+ Golf
-
-#EXTINF:-1🏆tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD"group-title="✔️EVENTOS✔️",LIV VIRGINIA                                                                                          19:00⛳️Jornada 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=872608e734992db636eb79426802cd08f4029a
 
 🏀 Baloncesto - 20:15
 🏆 EUROLIGA
@@ -785,10 +793,6 @@ http://127.0.0.1:6878/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4
 
 
 
-M. Deportes 2 N
-#EXTINF:0🏆tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/2560px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png"group-title="✔️EVENTOS✔️",MASTERS MONTECARLO                                                                                        11:00🎾Borges-Jodar                                                                                                          
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5
 
 
 

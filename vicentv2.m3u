@@ -2405,18 +2405,23 @@ http://127.0.0.1:6878/ace/getstream?id=1f2bea84ffb331068a465fe03624a9d437fbf8fb
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 
 #EXTINF:-1📺tvg-id="La2.TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kqgHWySi5xprs1VFCNCX0IKNT8yXBLZC43JMoB8j0JUto=s200" group-title="⏩LISTA⏪", tvg-name="La 2",La 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 
 #EXTINF:-1 tvg-id="Antena3.TV" tvg-name="ESP | ANTENA 3 HD " tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="⏩LISTA⏪",ANTENA 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/55885
 
 #EXTINF:-1 tvg-id="" tvg-name="ESP | CUATRO (X) " tvg-logo="http://visualservice.xyz:80/images/488e788a513046c2ac746ccf3399cce5.png" group-title="⏩LISTA⏪",CUATRO 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/31907
-",TELECINCO HD (A)
+
 #EXTINF:-1 tvg-id="LA 1" tvg-name="ESP | TELECINCO HD (A)" tvg-logo="http://visualservice.xyz:80/images/2d2024ab719bece688ccd21240e45e2f.png" group-title="⏩LISTA⏪",TELECINCO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/68748
 
 #EXTINF:-1 tvg-id="La Sexta HD" tvg-name="ESP | SEXTA " tvg-logo="http://visualservice.xyz:80/images/7f601cdc04f348e922bda4c3391a7c94.png" group-title="⏩LISTA⏪",SEXTA 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/31908
 
 #EXTINF:-1📺tvg-id="CMM.TV" tvg-logo="https://graph.facebook.com/CMMediaes/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Castilla-La Mancha Media",Castilla-La Mancha Media
@@ -2427,32 +2432,83 @@ https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/55869
 
+#EXTINF:-1📺tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Sur%20Andaluc%C3%ADa.png",tvg-id="Canal Sur Andalucía",group-title="⏩LISTA⏪",Canal Sur Andalucía
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
 
+#EXTINF:-1📺tvg-id="CanalSurA.TV" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Canal Sur Andalucía",Canal Sur Andalucía
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
 
-#EXTINF:-1📺tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKb6DZpbxOMbN_VANCdenLck4ceg7gxMk5tnkjmM=s200" group-title="⏩LISTA⏪", tvg-name="Andalucía Cocina",Andalucía Cocina
-#EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
-https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
+#EXTINF:-1📺tvg-id="CanalSurA.TV" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Canal Sur 2 Accesible",Canal Sur 2 Accesible
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
 
+#EXTINF:-1📺tvg-id="CanalSurA.TV" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Canal Sur 2 Accesible",Canal Sur 2 Accesible
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
+
+#EXTINF:-1📺tvg-id="CanalSurA.TV" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Canal Sur 2 Accesible",Canal Sur 2 Accesible
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
+
+#EXTINF:-1📺tvg-logo="https://graph.facebook.com/CanalSurNoticias/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Canal Sur Más Noticias",Canal Sur Más Noticias
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
+
+#EXTINF:-1📺tvg-id="7TV_Andalucía.TV" tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="7TV Andalucía",7TV Andalucía
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
+
+#EXTINF:-1📺tvg-logo="https://graph.facebook.com/CanalSurNoticias/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Canal Sur Más Noticias",Canal Sur Más Noticias
+https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
+
+#EXTINF:-1📺tvg-id="7TV_Andalucía.TV" tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="7TV Andalucía",7TV Andalucía
+https://especial7tv.gestec-video.com/hls/regional.m3u8
+https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
+
+#EXTINF:-1📺tvg-logo="https://graph.facebook.com/CanalSurNoticias/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Canal Sur Más Noticias",Canal Sur Más Noticias
+https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
+
+#EXTINF:-1📺tvg-id="7TV_Andalucía.TV" tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="7TV Andalucía",7TV Andalucía
+https://especial7tv.gestec-video.com/hls/regional.m3u8
+https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
+
+#EXTINF:-1📺tvg-id="CanalSurA.TV" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Canal Sur 2 Accesible",Canal Sur 2 Accesible
+https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
+
+#EXTINF:-1📺tvg-logo="https://graph.facebook.com/CanalSurNoticias/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Canal Sur Más Noticias",Canal Sur Más Noticias
+https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
+
+#EXTINF:-1📺tvg-id="7TV_Andalucía.TV" tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="7TV Andalucía",7TV Andalucía
+https://especial7tv.gestec-video.com/hls/regional.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Caza-pesca_m%2B.png"group-title="⏩LISTA⏪",CAZA Y PESCA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/379487
 
+
+#EXTINF:-1 tvg-id="" tvg-name="ESP | CAZYPESCA  " tvg-logo="http://visualservice.xyz:80/images/af2b2290d2419ac058c801c47af14d90.png" group-title="⏩LISTA⏪",CAZYPESCA  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/67521
+
 #EXTINF:-1 tvg-id="" tvg-name="ES | IBERALIA" tvg-logo="https://iberaliago.com/static/media/iberalia_n.ab5cf066.png"group-title="⏩LISTA⏪",IBERALIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/447108
 
-#EXTINF:-1 tvg-id="" tvg-name="ES | CAZAVISION  " tvg-logo="https://tv.cazavision.com/images/logo-whiteES.png"group-title="⏩LISTA⏪",CAZAVISION  
+#EXTINF:-1 tvg-id="" tvg-name="ES | CAZAVISION  " tvg-logo="https://tv.cazavision.com/images/logo-whiteES.png"group-title="⏩LISTA⏪",CAZAVISION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/447109
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ESP | EXTREMADURA TV" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200" group-title="⏩LISTA⏪",EXTREMADURA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/55870
 
-#EXTINF:-1 tvg-id="Mega" tvg-name="ESP | MEGA  " tvg-logo="http://visualservice.xyz:80/images/71f1a4e6bb03d9b41c2164fb7879acdb.png" group-title="⏩LISTA⏪",MEGA  
+#EXTINF:-1 tvg-id="Mega" tvg-name="ESP | MEGA  " tvg-logo="http://visualservice.xyz:80/images/71f1a4e6bb03d9b41c2164fb7879acdb.png" group-title="⏩LISTA⏪",MEGA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/55890
 
-
-#EXTINF:-1📺tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Sur%20Andaluc%C3%ADa.png",tvg-id="Canal Sur Andalucía",group-title="⏩LISTA⏪",Canal Sur Andalucía
-https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
 
 
 
@@ -2490,8 +2546,7 @@ http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/33493
 #EXTINF:-1 tvg-id="" tvg-name="ESP | MOVISTAR DRAMA    " tvg-logo="http://visualservice:8000/images/7edfeaba5a4df33e78a0258ab95645f4.png" group-title="⏩LISTA⏪",MOVISTAR DRAMA    
 http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/33496
 
-#EXTINF:-1 tvg-id="" tvg-name="ESP | DISNEY" tvg-logo="http://visualservice.xyz:80/images/e2b44c8908559da092950702153566ee.png" group-title="⏩LISTA⏪",DISNEY
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/33494
+
 
 #EXTINF:-1 tvg-id="" tvg-name="ESP | MOVISTAR ACCION  " tvg-logo="http://intelcodecs.hopto.org:8080/picon/logo.png" group-title="⏩LISTA⏪",MOVISTAR ACCION  
 http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/164028
@@ -2511,9 +2566,18 @@ http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/190754
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="ESP | DISNEY" tvg-logo="http://visualservice.xyz:80/images/e2b44c8908559da092950702153566ee.png" group-title="⏩LISTA⏪",DISNEY
+http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/33494
+
+#EXTINF:-1 tvg-id="" tvg-name="ESP | NICKELODEON   " tvg-logo="https://static.epg.best/es/Nickelodeon.es.png" group-title="⏩LISTA⏪",NICKELODEON   
+http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/55850
+
 #EXTINF:-1 tvg-id="" tvg-name="MOVISTAR PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Plus%2B_2022_logo.svg/2560px-Movistar_Plus%2B_2022_logo.svg.png"group-title="⏩LISTA⏪",MOVISTAR PLUS
 http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/454343
 
+#EXTINF:-1📺tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKb6DZpbxOMbN_VANCdenLck4ceg7gxMk5tnkjmM=s200" group-title="⏩LISTA⏪", tvg-name="Andalucía Cocina",Andalucía Cocina
+#EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
+https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
 
 
 
@@ -2531,8 +2595,7 @@ http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/67541
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="ESP | SERIESMANIA  " tvg-logo="http://visualservice.xyz:80/images/b3b9bfbe8c823c7b268d685ad9fa3919.png" group-title="⏩LISTA⏪",SERIESMANIA  
 http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/67555
 
-#EXTINF:-1 tvg-id="" tvg-name="ESP | NICKELODEON   " tvg-logo="https://static.epg.best/es/Nickelodeon.es.png" group-title="⏩LISTA⏪",NICKELODEON   
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/55850
+
 
 #EXTINF:-1 tvg-id="" tvg-name="ESP | AXN WHITE  " tvg-logo="https://static.epg.best/es/AXNWhite.es.png" group-title="⏩LISTA⏪",AXN WHITE  
 http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/55853
@@ -2621,8 +2684,6 @@ http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/515356
 #EXTINF:-1 tvg-id="" tvg-name="ESP | CANAL ODISEA  " tvg-logo="http://visualservice.xyz:80/images/841121fa27af9920103e23e0a62a3baa.png" group-title="⏩LISTA⏪",CANAL ODISEA  
 http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/67518
 
-#EXTINF:-1 tvg-id="" tvg-name="ESP | CAZYPESCA  " tvg-logo="http://visualservice.xyz:80/images/af2b2290d2419ac058c801c47af14d90.png" group-title="⏩LISTA⏪",CAZYPESCA  
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/67521
 
 #EXTINF:-1 tvg-id="" tvg-name="ESP | DECASA" tvg-logo="http://visualservice.xyz:80/images/3903936ebcb3ba811345cbf4aa9312de.png" group-title="⏩LISTA⏪",DECASA
 http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/67527
@@ -2686,56 +2747,6 @@ http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/298112
 
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP | TELEDEPORTE" tvg-logo="http://visualservice.xyz:80/images/ea6024bd8d7ef7651f99bec25acf4013.png" group-title="⏩LISTA⏪",TELEDEPORTE
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/55925
-
-#EXTINF:-1 tvg-id="GOL" tvg-name="ES: GOL PLAY  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSaredjrH2k2zJhHwvxrX2uyxt2nhk82ZP1Q&s"group-title="⏩LISTA⏪",GOL PLAY  
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/21984
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP | EUROSPORT 1  " tvg-logo="http://visualservice.xyz/images/b47640172359970201085542733765d0.png" group-title="⏩LISTA⏪",EUROSPORT 1  
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/537361
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP | EUROSPORT 1  " tvg-logo="http://visualservice.xyz/images/b47640172359970201085542733765d0.png" group-title="⏩LISTA⏪",EUROSPORT 1  
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/537362
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP | EUROSPORT 1 F " tvg-logo="http://visualservice.xyz/images/b47640172359970201085542733765d0.png" group-title="⏩LISTA⏪",EUROSPORT 1 
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/266751
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP | EUROSPORT 2" tvg-logo="http://visualservice.xyz:80/images/b47640172359970201085542733765d0.png" group-title="⏩LISTA⏪",EUROSPORT 2
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/67533
-
-#EXTINF:-1 tvg-id="" tvg-name="ES: EURO SPORT F  " tvg-logo="http://eter-picons.one/picons/Eurosport_1.png"group-title="⏩LISTA⏪",EURO SPORT 
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/517560
-
-#EXTINF:-1 tvg-id="" tvg-name="DEU | SEVILLA FC TV" tvg-logo="http://visualservice.xyz:80/images/cdb0e11e2a45ab1bdfda572ad5724916.png"group-title="⏩LISTA⏪",SEVILLA FC TV
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/22074
-
-#EXTINF:-1 tvg-id="" tvg-name="ES: GOL PLAY    " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSaredjrH2k2zJhHwvxrX2uyxt2nhk82ZP1Q&s"group-title="⏩LISTA⏪",GOL PLAY    
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/55917
-
-
-#EXTINF:-1 tvg-id="" tvg-name="DEU | REAL MADRID TV " tvg-logo="http://visualservice.xyz:80/images/0772d16ce1d33ab15bd56fae07156d7e.png"group-title="⏩LISTA⏪",REAL MADRID TV 
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/87078
-
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT Ñ EXTRA" tvg-logo="http://visualservice.xyz:80/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png"group-title="⏩LISTA⏪",BEIN SPORT Ñ EXTRA
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/21944
-
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT Ñ   " tvg-logo="http://visualservice.xyz:80/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png"group-title="⏩LISTA⏪",BEIN SPORT Ñ   
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/31264
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 PREMIUM" tvg-logo="http://visualservice.xyz:80/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png"group-title="⏩LISTA⏪",beIN SPORTS 1 PREMIUM
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/166665
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 PREMIUM" tvg-logo="http://visualservice.xyz:80/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png"group-title="⏩LISTA⏪",beIN SPORTS 3 PREMIUM
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/166667
-
-
-#EXTINF:-1 tvg-id="LA 1" tvg-name="ESP | AMC CRIME" tvg-logo="http://visualservice.xyz:80/images/343e877633675f15afd1fc828ab924a2.png" group-title="⏩LISTA⏪",AMC CRIME
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/351195
-
-#EXTINF:-1 tvg-id="M+ Liga de Campeones  " tvg-name="ES: LIGA CAMPEONES   " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png"group-title="⏩LISTA⏪",LIGA CAMPEONES   
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/342776
 
 
 #EXTINF:-1 tvg-id="" tvg-name="EITB1" tvg-logo="https://imgur.com/VBVu2bu.png"group-title="⏩LISTA⏪",EITB1
@@ -2858,6 +2869,66 @@ http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/805458
 #EXTINF:-1 tvg-id="" tvg-name="CINE | SOMOS  " " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SOMOS.png"group-title="⏩LISTA⏪",,CINE | SOMOS  " 
 http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/838622
 
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ESP | TELEDEPORTE" tvg-logo="http://visualservice.xyz:80/images/ea6024bd8d7ef7651f99bec25acf4013.png" group-title="⏩LISTA⏪",TELEDEPORTE
+http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/55925
+
+#EXTINF:-1 tvg-id="GOL" tvg-name="ES: GOL PLAY  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSaredjrH2k2zJhHwvxrX2uyxt2nhk82ZP1Q&s"group-title="⏩LISTA⏪",GOL PLAY  
+http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/21984
+
+#EXTINF:-1 tvg-id="" tvg-name="ESP | EUROSPORT 1  " tvg-logo="http://visualservice.xyz/images/b47640172359970201085542733765d0.png" group-title="⏩LISTA⏪",EUROSPORT 1  
+http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/537361
+
+#EXTINF:-1 tvg-id="" tvg-name="ESP | EUROSPORT 1  " tvg-logo="http://visualservice.xyz/images/b47640172359970201085542733765d0.png" group-title="⏩LISTA⏪",EUROSPORT 1  
+http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/537362
+
+#EXTINF:-1 tvg-id="" tvg-name="ESP | EUROSPORT 1 F " tvg-logo="http://visualservice.xyz/images/b47640172359970201085542733765d0.png" group-title="⏩LISTA⏪",EUROSPORT 1 
+http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/266751
+
+#EXTINF:-1 tvg-id="" tvg-name="ESP | EUROSPORT 2" tvg-logo="http://visualservice.xyz:80/images/b47640172359970201085542733765d0.png" group-title="⏩LISTA⏪",EUROSPORT 2
+http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/67533
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: EURO SPORT F  " tvg-logo="http://eter-picons.one/picons/Eurosport_1.png"group-title="⏩LISTA⏪",EURO SPORT 
+http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/517560
+
+#EXTINF:-1 tvg-id="" tvg-name="DEU | SEVILLA FC TV" tvg-logo="http://visualservice.xyz:80/images/cdb0e11e2a45ab1bdfda572ad5724916.png"group-title="⏩LISTA⏪",SEVILLA FC TV
+http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/22074
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: GOL PLAY    " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSaredjrH2k2zJhHwvxrX2uyxt2nhk82ZP1Q&s"group-title="⏩LISTA⏪",GOL PLAY    
+http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/55917
+
+
+#EXTINF:-1 tvg-id="" tvg-name="DEU | REAL MADRID TV " tvg-logo="http://visualservice.xyz:80/images/0772d16ce1d33ab15bd56fae07156d7e.png"group-title="⏩LISTA⏪",REAL MADRID TV 
+http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/87078
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT Ñ EXTRA" tvg-logo="http://visualservice.xyz:80/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png"group-title="⏩LISTA⏪",BEIN SPORT Ñ EXTRA
+http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/21944
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT Ñ   " tvg-logo="http://visualservice.xyz:80/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png"group-title="⏩LISTA⏪",BEIN SPORT Ñ   
+http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/31264
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 PREMIUM" tvg-logo="http://visualservice.xyz:80/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png"group-title="⏩LISTA⏪",beIN SPORTS 1 PREMIUM
+http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/166665
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 PREMIUM" tvg-logo="http://visualservice.xyz:80/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png"group-title="⏩LISTA⏪",beIN SPORTS 3 PREMIUM
+http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/166667
+
+
+#EXTINF:-1 tvg-id="LA 1" tvg-name="ESP | AMC CRIME" tvg-logo="http://visualservice.xyz:80/images/343e877633675f15afd1fc828ab924a2.png" group-title="⏩LISTA⏪",AMC CRIME
+http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/351195
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones  " tvg-name="ES: LIGA CAMPEONES   " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png"group-title="⏩LISTA⏪",LIGA CAMPEONES   
+http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/342776
+
+
+
+
 #EXTINF:-1 tvg-id="M+ Vamos  " tvg-name="D-ESP | MOVISTAR VAMOS  * " tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/VAMO .png"group-title="⏩LISTA⏪",MOVISTAR VAMOS  * 
 http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/55926
 
@@ -2969,17 +3040,7 @@ http://goldtv.lat:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/110058.ts
 #EXTINF:-1📺tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Hd2WYs49wYCBMAphVpvvpBzd-EJFU8XFQgccPIw=s200" group-title="⏩LISTA⏪", tvg-name="¡HOLA! Play",¡HOLA! Play
 https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
 
-#EXTINF:-1📺tvg-id="CanalSurA.TV" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Canal Sur Andalucía",Canal Sur Andalucía
-https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
 
-#EXTINF:-1📺tvg-id="CanalSurA.TV" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Canal Sur 2 Accesible",Canal Sur 2 Accesible
-https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
-
-#EXTINF:-1📺tvg-logo="https://graph.facebook.com/CanalSurNoticias/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="Canal Sur Más Noticias",Canal Sur Más Noticias
-https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
-
-#EXTINF:-1📺tvg-id="7TV_Andalucía.TV" tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200" group-title="⏩LISTA⏪", tvg-name="7TV Andalucía",7TV Andalucía
-https://especial7tv.gestec-video.com/hls/regional.m3u8
 
 
 

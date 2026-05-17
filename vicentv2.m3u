@@ -120,18 +120,24 @@ http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/68748
 
 🏀 Baloncesto - 12:30
 🏆 LIGA ENDESA
-🆚 Real Madrid - Joventut
+🆚 R.Madrid-Joventut
 🖥 M+ Vamos
 
-🚴‍♂️ Ciclismo - 12:30
-🏆 GIRO DE ITALIA
-🆚 Etapa 9: Cervia - Corno alle Scale
-🖥 Eurosport 1
+#EXTINF:0🏆tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD"group-title="✔️EVENTOS✔️",LIGA ENDESA                                                                                               12:30🏀R.Madrid-Joventut
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
 
-⚽️ Fútbol - 13:30
-🏆 PREMIER LEAGUE
-🆚 Manchester United - Nottingham Forest
-🖥 DAZN 1
+#EXTINF:0🏆tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD"group-title="✔️EVENTOS✔️",LIGA ENDESA                                                                                               12:30🏀R.Madrid-Joventut
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=0e5d8c9724fa9163f49096b70484e315251eb785
+
+#EXTINF:0🏆tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD"group-title="✔️EVENTOS✔️",LIGA ENDESA                                                                                               12:30🏀R.Madrid-Joventut
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=476b6f6583517bd75c15c4663bf45fab7c8da9cf
+
+#EXTINF:0🏆tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD"group-title="✔️EVENTOS✔️",LIGA ENDESA                                                                                               12:30🏀R.Madrid-Joventut
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=866a8af8faacf8fc9eb997ab5a68b4dfee4edc77
 
 🏆 Motos - 14:00
 🏆 G.P. CATALUNYA
@@ -153,8 +159,6 @@ http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
 #EXTINF:-1 tvg-id="LA 1" tvg-name="ESP | TELECINCO HD (A)" tvg-logo="http://visualservice.xyz:80/images/2d2024ab719bece688ccd21240e45e2f.png"group-title="✔️EVENTOS✔️",GP.Catalunya                                                                                       14:00🏍️MotoGP Carrera  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/68748
-
-
 
 🎾 Tenis - 17:00
 🏆 MASTERS ROMA

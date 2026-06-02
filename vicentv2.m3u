@@ -3292,17 +3292,70 @@ http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
 
 
 
-Real Madrid TV
-1080: ac353757b626cedc6461d8eb73bfffa15fbb7be7, 44ea3d00ee2abfd5d89792a32851d7af61f16f0a
 
-🇪🇺 Euroliga: Final
-👉 20:00 Olympiacos Piraeus vs Real Madrid Baloncesto
-Movistar Plus+
-1080: 1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
-New Era III: fa931cbc87dc9d66fdd30a9644e054b403960056
-New Era VI: c1b7f54af0de256d1ac0fcac4c130e62660089f4
-M+ Baloncesto
-1080: 1b9bb80c83f7b3b7a6604973194cad3eac2f5654, e3816fbc661fbc8b2b656aee9483d0a55a1608b6, 88113ee23295b8930ae328a88a8c1b861b8f21f1, 34b91125bd752462f1eca2d8d52f5f40fa761aa0
+
+
+#EXTINF:-1 group-title="⏩LISTA⏪", 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=ac353757b626cedc6461d8eb73bfffa15fbb7be7
+
+
+#EXTINF:-1 group-title="⏩LISTA⏪", 14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=44ea3d00ee2abfd5d89792a32851d7af61f16f0a
+
+
+
+
+#EXTINF:-1 group-title="⏩LISTA⏪", 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+
+
+ 
+
+
+#EXTINF:-1 group-title="⏩LISTA⏪", 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=fa931cbc87dc9d66fdd30a9644e054b403960056
+ 
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="⏩LISTA⏪", 17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=c1b7f54af0de256d1ac0fcac4c130e62660089f4
+
+
+
+#EXTINF:-1 group-title="⏩LISTA⏪", 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=1b9bb80c83f7b3b7a6604973194cad3eac2f5654 
+
+#EXTINF:-1 group-title="⏩LISTA⏪", 19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=e3816fbc661fbc8b2b656aee9483d0a55a1608b6 
+
+#EXTINF:-1 group-title="⏩LISTA⏪", 20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=88113ee23295b8930ae328a88a8c1b861b8f21f1
+
+
+
+
+
+
+
+
+
+
+
+34b91125bd752462f1eca2d8d52f5f40fa761aa0
 
 
 

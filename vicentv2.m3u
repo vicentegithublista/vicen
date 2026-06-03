@@ -49,21 +49,7 @@ group-title="✔️EVENTOS✔️",SAN ISIDRO 08-05                              
 #EXTGRP: group-title="TDT" group-logo="https://i.ibb.co/j9xn42jB/logo-tdt.png"
 
 
-[03/06/2026 8:01] José Manuel Kp: NBA EVENTOS 1  --> NEW ERA
 
- 3cd63bd01b6443c715467730a489f1ece7c1a306
-
-NBA EVENTOS 2  --> NEW ERA
-
- 540101712b991557b00973af27027812f99b6458
-
-NBA ESPN 720p *
-
-bf3773e7f5e53c11347c70c18bd085322efbc90f
-
-NBA League Pass 1080p *
-
-cd724cf4db6c687dfcdc580ee481cb374ae6bf58
 
 
 
@@ -1147,6 +1133,24 @@ http://127.0.0.1:6878/ace/getstream?id=d2374e2375a4275738e0dbed2f47d0114ad1cb64&
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
 
+
+
+
+#EXTINF:-1🌍tvg-logo="https://i.ibb.co/Z1Gw82tQ/logo-nba.png",group-title="INTERNACIONAL",🇺🇸NBA🇺🇸
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=3cd63bd01b6443c715467730a489f1ece7c1a306
+
+#EXTINF:-1🌍tvg-logo="https://i.ibb.co/Z1Gw82tQ/logo-nba.png",group-title="INTERNACIONAL",🇺🇸NBA🇺🇸
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=540101712b991557b00973af27027812f99b6458
+
+#EXTINF:-1🌍tvg-logo="https://i.ibb.co/Z1Gw82tQ/logo-nba.png",group-title="INTERNACIONAL",🇺🇸NBA🇺🇸
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=bf3773e7f5e53c11347c70c18bd085322efbc90f
+
+#EXTINF:-1🌍tvg-logo="https://i.ibb.co/Z1Gw82tQ/logo-nba.png",group-title="INTERNACIONAL",🇺🇸NBA🇺🇸
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=cd724cf4db6c687dfcdc580ee481cb374ae6bf58
 
 
 

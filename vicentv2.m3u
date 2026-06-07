@@ -9,11 +9,6 @@ https://url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz"
 refresh="3600"
 
 
-
-
-
-
-
 group-title="✔️EVENTOS✔️",PREMIER LEAGUE                                                                                            17:30⚽Chelsea-City
 group-title="✔️EVENTOS✔️",SERIE A ITALIA                                                                                            18:00⚽Juventus-Génova
 group-title="✔️EVENTOS✔️",CHAMPIONS LEAGUE                                                                                          21:00⚽R.Madrid-Bayern
@@ -247,7 +242,8 @@ http://127.0.0.1:6878/ace/getstream?id=9dd9cd78f0b08097a0ad290606dbbee999709fa5
 #EXTINF:0🏆tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto.png"tvg-id="DAZN Baloncesto"group-title="✔️EVENTOS✔️",LIGA ENDESA                                                                                                  19:00🏀Baskonia-Joventut                                                                                                             
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=2cfbb2cb8923b15b0ef74aba69e8137b0fbbba2e
-
+
+
 🏀 Baloncesto - 19:00
 🏆 PRIMERA FEB
 🆚 Leyma-Estudiantes

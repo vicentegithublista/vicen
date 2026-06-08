@@ -1175,6 +1175,9 @@ http://127.0.0.1:6878/ace/getstream?id=3e87464ed8c42ed14464461ea08860a3040a8944
 http://127.0.0.1:6878/ace/getstream?id=04448c3ca0b7518819491e468adbabc8a2551bd7
 
 
+#EXTINF:-1🌍tvg-logo="",tvg-id="FR | CANAL+ Sport" ,group-title="INTERNACIONAL",🇫🇷CANAL+ Sport 5🇫🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=5f595b1bbade5e7c915d99f90645f4c30d4ba540
 
 
 
@@ -1204,25 +1207,18 @@ http://127.0.0.1:6878/ace/getstream?id=04448c3ca0b7518819491e468adbabc8a2551bd7
 
 
 
-#EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%202.png" group-title="INTERNACIONAL",🇫🇷beIN SPORTS🇫🇷 
+#EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%202.png" group-title="INTERNACIONAL",🇫🇷beIN SPORTS HABER🇫🇷 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=47c1b3a68d03bd190fed521d144ad08fa0f195f3
 
 
-#EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%201.png",tvg-id="BEING SPORTS 1",group-title="INTERNACIONAL",🇫🇷beIN SPORTS HABER🇫🇷
+#EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%201.png",tvg-id="BEING SPORTS 1",group-title="INTERNACIONAL",🇫🇷beIN SPORTS 1🇫🇷
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52   
 
 #EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%201.png",tvg-id="BEING SPORT 1",group-title="INTERNACIONAL",🇫🇷beIN SPORTS 1🇫🇷
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
-
-
-
-
-
-
-
 
 
 
@@ -1251,10 +1247,6 @@ http://127.0.0.1:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62
 
 
 
-
-
-
-
 #EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%202.png" tvg-id="TR | beIN SPORTS 4" ,group-title="INTERNACIONAL",🇫🇷beIN SPORTS 4🇫🇷
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d
@@ -1278,10 +1270,6 @@ http://127.0.0.1:6878/ace/getstream?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d
 http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 
 
-#EXTINF:-1🌍tvg-logo=""https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="UK | TNT Sports 1" ,group-title="INTERNACIONAL",🇬🇧UK | TNT Sports 1🇬🇧
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
-
 #EXTINF:-1🌍tvg-logo="" tvg-id="UK | TNT Sports 2" ,group-title="INTERNACIONAL",🇬🇧TNT SPORTS 2🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
@@ -1294,12 +1282,14 @@ http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
 
+#EXTINF:-1🌍tvg-logo="" tvg-id="UK | TNT Sports 4" ,group-title="INTERNACIONAL",🇬🇧TNT SPORTS 4🇬🇧 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
 
 
 
 
-
-#EXTINF:-1🌍tvg-logo="" tvg-id="UK | Sky Sport Premier League",group-title="INTERNACIONAL",🇬🇧SKY SPORT PREMIER LEAGUE🇬🇧 
+#EXTINF:-1🌍tvg-logo="" tvg-id="UK | Sky Sport Premier League",group-title="INTERNACIONAL",🇬🇧SKY SPORT FOOTBALL🇬🇧 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
 
@@ -1307,7 +1297,7 @@ http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 
-#EXTINF:-1🌍tvg-logo="",tvg-id="UK | Sky Sport Main Event",group-title="INTERNACIONAL",🇬🇧SKY SPORTS MAIN EVENT🇬🇧
+#EXTINF:-1🌍tvg-logo="" tvg-id="UK | Sky Sport Premier League",group-title="INTERNACIONAL",🇬🇧SKY SPORT PREMIER LEAGUE🇬🇧 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 
@@ -1316,23 +1306,11 @@ http://127.0.0.1:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 http://127.0.0.1:6878/ace/getstream?id=7c12288663069a12aff58f3f62e8ea47ab78c65d
 
 
-#EXTINF:-1🌍tvg-logo="",tvg-id="UK | Sky Sport Football" ,group-title="INTERNACIONAL",🇬🇧Sky Sport 2🇬🇧
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=fc9f1f580da8f641a5991d44b399982a3a069f69
-
-#EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Sky%20Sport%20Premier League.png",tvg-id="UK | Sky Sport Bundesliga" ,group-title="INTERNACIONAL",🇬🇧Sky Bundesliga🇬🇧
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=38d8789a448dd0eaf99e0274b555974e4e8f3f3b
-
-
 #EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Sky%20Sport%20Premier League.png" tvg-id="UK | Sky Sport Arena" ,group-title="INTERNACIONAL",🇬🇧SKY SPORTS ARENA🇬🇧 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 
 
-#EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Sky%20Sport%20Premier League.png" tvg-id="UK | Sky Sport Golf" ,group-title="INTERNACIONAL",🇬🇧SKY SPORTS GOLF🇬🇧 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=8546cff89e4ee8bf3ad31cf6457c3bc2c4341031
 
 
 
@@ -1377,14 +1355,6 @@ http://127.0.0.1:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
 
-#EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" tvg-id="PT | DAZN 1" ,group-title="INTERNACIONAL", ELEVEN DAZN 1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
-
-#EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" tvg-id="PT | DAZN 1" ,group-title="INTERNACIONAL", ELEVEN DAZN 1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
-
 #EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" tvg-id="PT | DAZN 2" ,group-title="INTERNACIONAL", ELEVEN DAZN 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
@@ -1413,9 +1383,6 @@ http://127.0.0.1:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 
-#EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%206.png" tvg-id="PT | DAZN 6" ,group-title="INTERNACIONAL", ELEVEN DAZN 6 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 
 
 
@@ -1428,29 +1395,6 @@ http://127.0.0.1:6878/ace/getstream?id=4ce55db7e578ff52a6e526cf610e477464b8a99f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
 
-#EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/vicentegithublista/vicen/refs/heads/main/IMG_20230505_125507_351.ico"  tvg-id="SANTANA SPORTS 1",group-title="INTERNACIONAL",SANTANA SPORTS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
-
-
-
-
-
-
-#EXTINF:-1🌍tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg",group-title="INTERNACIONAL",SPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=acestream://1950633a3723cb52b17c764125decc04445bd5ff
-
-#EXTINF:-1🌍tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg",group-title="INTERNACIONAL",SPORT 1+ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=acestream://e61b6538df35e5016635dfa2b3073f5b82ee4c2b
-
-#EXTINF:-1🌍tvg-logo="https://i.ibb.co/zVNFsy0F/logo-otros.png",group-title="INTERNACIONAL",MOTORVISION
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=acestream://acd7e3ae185a376e6596e60a414bebbf3321b37f
-
-
-
 
 
 #EXTINF:-1🌍tvg-logo="https://i.ibb.co/10xGrD4/Premier1.png" tvg-id="UK | Premier Sports 1" ,group-title="INTERNACIONAL", PREMIER SPORTS 1
@@ -1461,27 +1405,9 @@ http://127.0.0.1:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537
 
-
-#EXTINF:-1🌍tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/1200px-Ziggo_Sport_logo.svg.png" tvg-id="Ziggo.Sport.2.nl" ,group-title="INTERNACIONAL", ZIGGO SPORT 2 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027
-
 #EXTINF:-1🌍tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/1200px-Ziggo_Sport_logo.svg.png" tvg-id="" ,group-title="INTERNACIONAL", Ziggo Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058
-
-
-#EXTINF:-1🌍tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/1200px-Ziggo_Sport_logo.svg.png" tvg-id="Ziggo.Sport.6.nl" ,group-title="INTERNACIONAL", ZIGGO SPORT 6 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=9231f38e71a85ad24b4c11a5e360992e30c916ed
-
-
-
-#EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/vicentegithublista/vicen/refs/heads/main/IMG_20230505_125507_351.ico" tvg-id="" ,group-title="INTERNACIONAL", VIASAT SPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b
-
-
 
 
 
@@ -1497,13 +1423,10 @@ http://127.0.0.1:6878/ace/getstream?id=c811cde690d467a2e45d3c263c4f0960a3933d18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=49b734a5a3365674480089264be00ae28fabb640
 
-#EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/vicentegithublista/vicen/refs/heads/main/IMG_20230505_125507_351.ico" tvg-id="" ,group-title="INTERNACIONAL", M-1 Global 
+#EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/vicentegithublista/vicen/refs/heads/main/IMG_20230505_125507_351.ico" tvg-id="" ,group-title="INTERNACIONAL", MMA-TV.COM 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=a7e4499c869037073c97deb47a50d1e7090b1c04
 
-#EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/vicentegithublista/vicen/refs/heads/main/IMG_20230505_125507_351.ico"tvg-id="" ,group-title="INTERNACIONAL", nSport+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=5f595b1bbade5e7c915d99f90645f4c30d4ba540
 
 #EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/vicentegithublista/vicen/refs/heads/main/IMG_20230505_125507_351.ico" tvg-id="" ,group-title="INTERNACIONAL", ORF SPORT+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -1519,7 +1442,7 @@ http://127.0.0.1:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
 
 http://127.0.0.1:6878/ace/getstream?id=4ce55db7e578ff52a6e526cf610e477464b8a99f
 
-#EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/vicentegithublista/vicen/refs/heads/main/IMG_20230505_125507_351.ico" tvg-id="" ,group-title="INTERNACIONAL", Polsat Sport Extra
+#EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/vicentegithublista/vicen/refs/heads/main/IMG_20230505_125507_351.ico" tvg-id="" ,group-title="INTERNACIONAL", Polsat Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=ef2cf11fc83f4f15a33c9a514a7afd2bce73122f
 
@@ -1535,47 +1458,14 @@ http://127.0.0.1:6878/ace/getstream?id=4ce55db7e578ff52a6e526cf610e477464b8a99f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=3147c586346aee00c005d1caa55204d38678c95f
 
-
-
-#EXTINF:-1🌍tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg" tvg-id="" ,group-title="INTERNACIONAL", SPORT1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=1950633a3723cb52b17c764125decc04445bd5ff
-
-#EXTINF:-1🌍tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg" tvg-id="" ,group-title="INTERNACIONAL", SPORT1+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=e61b6538df35e5016635dfa2b3073f5b82ee4c2b
-
-#EXTINF:-1🌍tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg" tvg-id="" ,group-title="INTERNACIONAL", Sport Digital 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
-
-#EXTINF:-1🌍tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg" tvg-id="" ,group-title="INTERNACIONAL", Sport Klub
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee
-
-#EXTINF:-1🌍tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg" tvg-id="" ,group-title="INTERNACIONAL", TVP Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
-
-
-
-
-
-
-
-
-
 #EXTINF:0🌍tvg-logo=""group-title="INTERNACIONAL",NITRO                                                                                                                         
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=089f1b59317a99c1ce10259c4897714028752ae7
 
 
-
 #EXTINF:0🌍tvg-logo="http://blnk.mx/wp-content/uploads/2023/05/logo-mundial-2026-logotipo-para-mundial-branding-07.png"group-title="INTERNACIONAL",1 UNIDO                                                                                                                        
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=188ae96292ab09ddffa1adf649606cadc77a1c76
-
-
 
 
 #EXTINF:-1🌍group-title="INTERNACIONAL",tvg-id="",Relax 

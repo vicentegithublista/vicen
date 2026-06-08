@@ -158,22 +158,6 @@ N🇳🇿ueva Zelanda
 
 
 
-EXTINF:0⚽️tvg-id="IberaliaTV.es" tvg-name="  DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png",group-title="⚽️MUNDIAL 2026⚽️",DAZN LaLiga  
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
-
-
-EXTINF:-1🏆tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte",group-title="⚽️MUNDIAL 2026⚽️",Teledeporte
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=77cf022557c56cdf8d8115f50e61f846ad72ee05
-
-EXTINF:-1⚽️tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/381e0e02-e3e4-4bf8-af7d-0751ec0cd395.png" tvg-name="fifa-plus-es-new"group-title="⚽️MUNDIAL 2026⚽️",FIFA+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB17&ads.content_genre=sports&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=149.102.236.246&ads.market=es&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=0&ads.rtv_content_id=6128&ads.rtv_content_language=es&ads.rtvid=271859&ads.streaming_id=bb2657ba-85ca-41f9-a01e-69f8cd123a5f&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=1780
-
-EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20SPORTS%202.png" tvg-id="FOX SPORTS 2",group-title="⚽️MUNDIAL 2026⚽️",🇺🇸FOX SPORTS 2🇺🇸
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7
 
 
 
@@ -660,6 +644,9 @@ http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/537362
 
 
 
+#EXTINF:-1🏆tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" tvg-id="Eurosport 2 HD",group-title="M. DEPORTES",🏆🄴🅄🅁🄾🅂🄿🄾🅁🅃 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
 
 #EXTINF:-1🏆tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" tvg-id="Eurosport 2 HD",group-title="M. DEPORTES",🏆🄴🅄🅁🄾🅂🄿🄾🅁🅃 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -994,19 +981,19 @@ http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
 
 
 
-#EXTINF:-1🌍tvg-logo="https://i.ibb.co/Z1Gw82tQ/logo-nba.png",group-title="INTERNACIONAL",🇺🇸NBA🇺🇸
+EXTINF:-1🌍tvg-logo="https://i.ibb.co/Z1Gw82tQ/logo-nba.png",group-title="INTERNACIONAL",🇺🇸NBA🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=3cd63bd01b6443c715467730a489f1ece7c1a306
 
-#EXTINF:-1🌍tvg-logo="https://i.ibb.co/Z1Gw82tQ/logo-nba.png",group-title="INTERNACIONAL",🇺🇸NBA🇺🇸
+EXTINF:-1🌍tvg-logo="https://i.ibb.co/Z1Gw82tQ/logo-nba.png",group-title="INTERNACIONAL",🇺🇸NBA🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=540101712b991557b00973af27027812f99b6458
 
-#EXTINF:-1🌍tvg-logo="https://i.ibb.co/Z1Gw82tQ/logo-nba.png",group-title="INTERNACIONAL",🇺🇸NBA🇺🇸
+EXTINF:-1🌍tvg-logo="https://i.ibb.co/Z1Gw82tQ/logo-nba.png",group-title="INTERNACIONAL",🇺🇸NBA🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=bf3773e7f5e53c11347c70c18bd085322efbc90f
 
-#EXTINF:-1🌍tvg-logo="https://i.ibb.co/Z1Gw82tQ/logo-nba.png",group-title="INTERNACIONAL",🇺🇸NBA🇺🇸
+EXTINF:-1🌍tvg-logo="https://i.ibb.co/Z1Gw82tQ/logo-nba.png",group-title="INTERNACIONAL",🇺🇸NBA🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=cd724cf4db6c687dfcdc580ee481cb374ae6bf58
 
@@ -1090,18 +1077,12 @@ http://127.0.0.1:6878/ace/getstream?id=314eb626864faf52e01624361bd6906b5406127f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766
 
-#EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" tvg-id="" ,group-title="INTERNACIONAL",🇩🇪EUROSPORT 1🇩🇪
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=22df9a5fae8cae52fec925c2bb44b74f96a4200c
 
 
-#EXTINF:-1🌍tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" ,group-title="INTERNACIONAL",🇩🇪EUROSPORT 2🇩🇪
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
 
-#EXTINF:-1🌍tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" ,group-title="INTERNACIONAL",🇩🇪EUROSPORT 2🇩🇪
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=2773b39926d15dd3d9495d94c4050604792d7031
+
+
+
 
 #EXTINF:-1🌍tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" ,group-title="INTERNACIONAL",🇩🇪EUROSPORT 2🇩🇪
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -2400,11 +2381,11 @@ http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/372204
 http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/795582
 
 
-#EXTINF:-1📺tvg-id="La Otra" tvg-name="La Otra" tvg-logo="https://imgur.com/W1UZyXH.png"group-title="⏩LISTA⏪",La Otra                                                        
+EXTINF:-1📺tvg-id="La Otra" tvg-name="La Otra" tvg-logo="https://imgur.com/W1UZyXH.png"group-title="⏩LISTA⏪",La Otra                                                        
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=4a53f3b7ebaef91aea7d46613fc4869e09d352c6
 
-#EXTINF:-1📺tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telemadrid.png" tvg-id="Telemadrid"group-title="⏩LISTA⏪",Telemadrid                                                                                
+EXTINF:-1📺tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telemadrid.png" tvg-id="Telemadrid"group-title="⏩LISTA⏪",Telemadrid                                                                                
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://skynetdigital.us:8080/restreampropio/wM6S6uRQWkJh/55869
 

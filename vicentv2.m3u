@@ -45,33 +45,22 @@ group-title="✔️EVENTOS✔️",SAN ISIDRO 08-05                              
 
 
 
-#EXTINF:-1🏆tvg-logo="https://e7.pngegg.com/pngimages/237/1008/png-clipart-logo-tennis-channel-hd-television-channel-tv-logos-angle-text.png" tvg-id="Tennis Channel"group-title="EVENTOS 08/06",TORNEO LONDRES WTA                                                                    13:00🎾1ª Ronda
+#EXTINF:-1✔️tvg-logo="https://e7.pngegg.com/pngimages/237/1008/png-clipart-logo-tennis-channel-hd-television-channel-tv-logos-angle-text.png" tvg-id="Tennis Channel"group-title="✔️EVENTOS HOY✔️",TORNEO LONDRES WTA                                                                    13:00🎾1ª Ronda
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=43c549e5781f5a923b76f8f29cde122b5be164eb
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 
 
-
-#EXTINF:-1🏆tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" tvg-id="Eurosport 1 HD"group-title="EVENTOS 08/06",TOUR AUVERGNE UCI                                                                     15:20🚴‍♂Etapa 2
+#EXTINF:-1✔️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" tvg-id="Eurosport 1 HD"group-title="✔️EVENTOS HOY✔️",TOUR AUVERGNE UCI                                                                     15:20🚴‍♂Etapa 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153
 
-#EXTINF:-1🏆tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" tvg-id="Eurosport 1 HD"group-title="EVENTOS 08/06",TOUR AUVERGNE UCI                                                                     15:20🚴‍♂Etapa 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=8522af51ae7189b12effabbb448dcb707195ce1a
-
-#EXTINF:-1🏆tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" tvg-id="Eurosport 1 HD"group-title="EVENTOS 08/06",TOUR AUVERGNE UCI                                                                     15:20🚴‍♂Etapa 2
+#EXTINF:-1✔️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" tvg-id="Eurosport 1 HD"group-title="✔️EVENTOS HOY✔️",TOUR AUVERGNE UCI                                                                     15:20🚴‍♂Etapa 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=48a589dbeab3544662fafd79888aada7d834cfe9
 
-
-
-
-
-
-
-
-
-
+#EXTINF:-1✔️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" tvg-id="La 1 HD"group-title="✔️EVENTOS HOY✔️",🇵🇪Peru                                                                                                    🇪🇸España04:00     
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 
 
 
@@ -105,11 +94,6 @@ http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/761.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/372204
 
-#EXTINF:-1♉tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/%C3%80%20Punt.png"tvg-id="À Punt"group-title="♉SAN ISIDRO♉",14-06♉19:00                                                                                          Talavante.Rey.Hernández
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/157943
-
-
 
 #EXTINF:-1♉tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" tvg-id="Onetoro"group-title="♉SAN ISIDRO♉",Onetoro                                         
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -128,17 +112,9 @@ http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/795582
 
 
 
-EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png"tvg-id="M+ Liga de Campeones HD"group-title="⚽️MUNDIAL 2026⚽️",🇺🇸EE.UU                                                                                                    🇩🇪ALEMANIA 20:30                                                                                                                                
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=931fd4c24398a24beb9b6ede856ca34339ff2c22
 
-EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png"tvg-id="M+ Liga de Campeones HD"group-title="⚽️MUNDIAL 2026⚽️",🇺🇸EE.UU                                                                                                    🇩🇪ALEMANIA 20:30                                                                                                                                 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439
 
-EXTINF:-1📺tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" tvg-id="La 1 HD",group-title="⚽️MUNDIAL 2026⚽️",08|06🇵🇪Peru                                                                                                    04:00🇪🇸España     
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
+
 
 
 

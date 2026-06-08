@@ -8,8 +8,6 @@ https://github.com/LaQuay/TDTChannels,
 https://url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz"
 refresh="3600"
 
-
-
 group-title="✔️EVENTOS✔️",PREMIER LEAGUE                                                                                            17:30⚽Chelsea-City
 group-title="✔️EVENTOS✔️",SERIE A ITALIA                                                                                            18:00⚽Juventus-Génova
 group-title="✔️EVENTOS✔️",CHAMPIONS LEAGUE                                                                                          21:00⚽R.Madrid-Bayern
@@ -64,21 +62,17 @@ http://127.0.0.1:6878/ace/getstream?id=313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=48a589dbeab3544662fafd79888aada7d834cfe9
 
+
+
+
+
 #EXTINF:-1✔️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" tvg-id="La 1 HD"group-title="✔️EVENTOS HOY✔️",🇵🇪Peru                                                                                                    🇪🇸España⚽04:00     
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 
-
 #EXTINF:-1✔️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" tvg-id="La 1 HD"group-title="✔️EVENTOS HOY✔️",🇵🇪Peru                                                                                                    🇪🇸España⚽04:00     
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=
-b55d1a3d7a5121af685668d5f5e7baeb3ebab70e
-
-
-
-
-
-
+http://127.0.0.1:6878/ace/getstream?id=b55d1a3d7a5121af685668d5f5e7baeb3ebab70e
 
 #EXTINF:-1✔️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" tvg-id="La 1 HD"group-title="✔️EVENTOS HOY✔️",🇵🇪Peru                                                                                                    🇪🇸España⚽04:00     
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -87,6 +81,20 @@ http://127.0.0.1:6878/ace/getstream?id=979d3b873871a5a9a56d3eb481ca77b707e01102
 #EXTINF:-1✔️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" tvg-id="La 1 HD"group-title="✔️EVENTOS HOY✔️",🇵🇪Peru                                                                                                    🇪🇸España⚽04:00     
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=379192c3ee5a15570e2c685179bc53cb7133cc6c
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

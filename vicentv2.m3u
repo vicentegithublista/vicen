@@ -1,4 +1,4 @@
-k#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"  
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"  
 https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, 
 https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, 
 https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, 
@@ -7,8 +7,6 @@ https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml",
 https://github.com/LaQuay/TDTChannels,
 https://url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz"
 refresh="3600"
-
-
 
 group-title="✔️EVENTOS✔️",PREMIER LEAGUE                                                                                            17:30⚽Chelsea-City
 group-title="✔️EVENTOS✔️",SERIE A ITALIA                                                                                            18:00⚽Juventus-Génova
@@ -25,9 +23,6 @@ group-title="✔️EVENTOS✔️",LIGA ENDESA                                   
 group-title="✔️EVENTOS✔️",UFC FIGHT NIGHT                                                                                           20:00🥊Liddard-Denny
 group-title="✔️EVENTOS✔️",WOW 29 VALENCIA                                                                                           18:00🥊Velada T2026
 group-title="✔️EVENTOS✔️",SAN ISIDRO 08-05                                                                                          19:00♉Talavante-Ortega-Barroso
-
-
-
 
 #EXTGRP: group-title="BALONCESTO" group-logo="https://www.soyvisual.org/sites/default/files/styles/twitter_card/public/images/photos/dep_0002.jpg"
 #EXTGRP: group-title="DAZN" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png"

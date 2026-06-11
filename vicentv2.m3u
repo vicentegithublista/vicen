@@ -44,10 +44,6 @@ group-title="✔️EVENTOS✔️",SAN ISIDRO 08-05                              
 
 
 
-⚽️ Fútbol - 21:00
-🏆 CAMPEONATO DEL MUNDO
-🆚 México - Sudáfrica
-🖥 La 1
 
 #EXTINF:-1✔️tvg-logo="https://e7.pngegg.com/pngimages/237/1008/png-clipart-logo-tennis-channel-hd-television-channel-tv-logos-angle-text.png" tvg-id="Tennis Channel"group-title="✔️EVENTOS✔️",TORNEO LONDRES                                                                     13:00🎾2ª Ronda
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -118,10 +114,20 @@ http://127.0.0.1:6878/ace/getstream?id=9dd9cd78f0b08097a0ad290606dbbee999709fa5
 🖥 La 1
 
 
-
 #EXTINF:0⚽️tvg-id="DAZN Mundial HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial.png"group-title="✔️EVENTOS✔️",🇲🇽México                                                                                                    🇿🇦Sudáfrica⚽️21:00                    
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=71cb5e2567a8b39f5bdc4fa791992781b052f0bc
+
+
+EXTINF:0⚽️tvg-id="DAZN Mundial HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial.png"group-title="✔️EVENTOS✔️",🇲🇽México                                                                                                    🇿🇦Sudáfrica⚽️21:00                    
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
+
+
+EXTINF:0⚽️tvg-id="DAZN Mundial HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial.png"group-title="✔️EVENTOS✔️",🇲🇽México                                                                                                    🇿🇦Sudáfrica⚽️21:00                    
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=414222dc7b69a626f29eb964450dae44b3bc9b36
+
 
 #EXTINF:-1✔️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" tvg-id="La 1 HD"group-title="✔️EVENTOS✔️",🇲🇽México                                                                                                    🇿🇦Sudáfrica⚽️21:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -145,9 +151,7 @@ https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 
 #EXTINF:0⚽️tvg-id="DAZN Mundial HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial.png"group-title="✔️EVENTOS✔️",🇰🇷C.Sur                                                                                                    🇨🇿R.Checa 03:45 12/06                    
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
-
-
+http://127.0.0.1:6878/ace/getstream?id=71cb5e2567a8b39f5bdc4fa791992781b052f0bc
 
 
 
@@ -176,10 +180,14 @@ http://127.0.0.1:6878/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
 
 #EXTINF:0⚽️tvg-id="DAZN Mundial HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial.png"group-title="🏆🌍MUNDIAL🏆🌍",🇲🇽México                                                                                                    🇿🇦Sudáfrica⚽️21:00                    
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=71cb5e2567a8b39f5bdc4fa791992781b052f0bc
+
+EXTINF:0⚽️tvg-id="DAZN Mundial HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial.png"group-title="🏆🌍MUNDIAL🏆🌍",🇲🇽México                                                                                                    🇿🇦Sudáfrica⚽️21:00                    
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
 
 
-#EXTINF:0⚽️tvg-id="DAZN Mundial HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial.png"group-title="🏆🌍MUNDIAL🏆🌍",🇲🇽México                                                                                                    🇿🇦Sudáfrica⚽️21:00                    
+EXTINF:0⚽️tvg-id="DAZN Mundial HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial.png"group-title="🏆🌍MUNDIAL🏆🌍",🇲🇽México                                                                                                    🇿🇦Sudáfrica⚽️21:00                    
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=414222dc7b69a626f29eb964450dae44b3bc9b36
 
@@ -208,11 +216,11 @@ https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 
 #EXTINF:0🏆🌍tvg-id="DAZN Mundial HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial.png"group-title="🏆🌍MUNDIAL🏆🌍",🇰🇷C.Sur                                                                                                    🇨🇿R.Checa 03:45 12/06                    
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
+http://127.0.0.1:6878/ace/getstream?id=71cb5e2567a8b39f5bdc4fa791992781b052f0bc
 
 #EXTINF:0🏆🌍tvg-id="DAZN Mundial HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial.png"group-title="🏆🌍MUNDIAL🏆🌍",🇨🇦Canada                                                                                                    🇧🇦Bosnia 20:45 12/06                    
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
+http://127.0.0.1:6878/ace/getstream?id=71cb5e2567a8b39f5bdc4fa791992781b052f0bc
 
 #EXTINF:-1🏆🌍tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" tvg-id="La 1 HD"group-title="🏆🌍MUNDIAL🏆🌍",🇨🇦Canada                                                                                                    🇧🇦Bosnia 20:45 12/06       
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -234,24 +242,15 @@ https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 
 #EXTINF:0🏆🌍tvg-id="DAZN Mundial HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial.png"group-title="🏆🌍MUNDIAL🏆🌍",🇺🇸EE.UU                                                                                                    🇵🇾Paraguay 02:40 13/06                    
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
-
-
-
-
+http://127.0.0.1:6878/ace/getstream?id=71cb5e2567a8b39f5bdc4fa791992781b052f0bc
 
 #EXTINF:0🏆🌍tvg-id="DAZN Mundial HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial.png"group-title="🏆🌍MUNDIAL🏆🌍",🇶🇦Qatar                                                                                                    🇨🇭Suiza 20:45 13/06                    
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
-
-
-
-
-
+http://127.0.0.1:6878/ace/getstream?id=71cb5e2567a8b39f5bdc4fa791992781b052f0bc
 
 #EXTINF:0🏆🌍tvg-id="DAZN Mundial HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial.png"group-title="🏆🌍MUNDIAL🏆🌍",🇧🇷Brasil                                                                                                    🇲🇦Marruecos 23:45 13/06                    
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
+http://127.0.0.1:6878/ace/getstream?id=71cb5e2567a8b39f5bdc4fa791992781b052f0bc
 
 #EXTINF:-1🏆🌍tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" tvg-id="La 1 HD"group-title="🏆🌍MUNDIAL🏆🌍",🇧🇷Brasil                                                                                                    🇲🇦Marruecos 23:45 13/06 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -340,18 +339,21 @@ N🇳🇿ueva Zelanda
 
 
 
-
-
+#EXTINF:0⚽️tvg-id="DAZN Mundial HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial.png"group-title="⚽LIGA⚽",⚽DAZN MUNDIAL                                       
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=71cb5e2567a8b39f5bdc4fa791992781b052f0bc
 
 #EXTINF:0⚽️tvg-id="DAZN Mundial HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial.png"group-title="⚽LIGA⚽",⚽DAZN MUNDIAL                                       
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
 
 
-
 #EXTINF:0⚽️tvg-id="DAZN Mundial HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial.png"group-title="⚽LIGA⚽",⚽DAZN MUNDIAL                                       
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=414222dc7b69a626f29eb964450dae44b3bc9b36
+
+
+
 
 #EXTINF:0⚽️tvg-id="DAZN Mundial 2 HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial%202.png"group-title="⚽LIGA⚽",⚽DAZN MUNDIAL 2                                       
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -1564,125 +1566,6 @@ http://127.0.0.1:6878/ace/getstream?id=188ae96292ab09ddffa1adf649606cadc77a1c76
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=4b7237f2e654d6c1e03ece1d2fffc249e0324ae6&pid=19419
 
-
-
-
-#EXTINF:-1🌍group-title="🌍INTERNACIONAL🌍",tvg-id="",1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=19f28f60c908f987b1a03da078e63320d7bf29e8
-
-
-#EXTINF:-1🌍group-title="🌍INTERNACIONAL🌍",tvg-id="",2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=d1596a3988b84a4d2711fd380eb8a53256ad74ae
-
-
-#EXTINF:-1🌍group-title="🌍INTERNACIONAL🌍",tvg-id="",3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=71cb5e2567a8b39f5bdc4fa791992781b052f0bc
-
-
-#EXTINF:-1🌍group-title="🌍INTERNACIONAL🌍",tvg-id="",4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=8a25653a2f774f4ae1062d38a30dcd714d304a3a
-
-
-
-#EXTINF:-1🌍group-title="🌍INTERNACIONAL🌍",tvg-id="",5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
-
-
-
-#EXTINF:-1🌍group-title="🌍INTERNACIONAL🌍",tvg-id="",6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=635b61c1f240449163260cd914d10d886a54fee3
-
-
-
-#EXTINF:-1🌍group-title="🌍INTERNACIONAL🌍",tvg-id="",7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=19f28f60c908f987b1a03da078e63320d7bf29e8
-
-#EXTINF:-1🌍group-title="🌍INTERNACIONAL🌍",tvg-id="",8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=d1596a3988b84a4d2711fd380eb8a53256ad74ae
-
-#EXTINF:-1🌍group-title="🌍INTERNACIONAL🌍",tvg-id="",9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=71cb5e2567a8b39f5bdc4fa791992781b052f0bc
-
-#EXTINF:-1🌍group-title="🌍INTERNACIONAL🌍",tvg-id="",10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=385abcf801b787eec6ed6624908758bb165c0a55
-
-#EXTINF:-1🌍group-title="🌍INTERNACIONAL🌍",tvg-id="",11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=cc108ae39f92c48f6c946763047bd1c9b7b7d889
-
-#EXTINF:-1🌍group-title="🌍INTERNACIONAL🌍",tvg-id="",12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=7f9857c45764ef2c7cdfb619b89db3056a57a51f
-
-#EXTINF:-1🌍group-title="🌍INTERNACIONAL🌍",tvg-id="",13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=9c588ac92554746c489bc553773d959f6d2dfd8e
-
-#EXTINF:-1🌍group-title="🌍INTERNACIONAL🌍",tvg-id="",14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=9c75f1d190c518cfe0f236415b8dccc1f676ef3b
-
-#EXTINF:-1🌍group-title="🌍INTERNACIONAL🌍",tvg-id="",15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
-
-#EXTINF:-1🌍group-title="🌍INTERNACIONAL🌍",tvg-id="",16
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=635b61c1f240449163260cd914d10d886a54fee3
-
-#EXTINF:-1🌍group-title="🌍INTERNACIONAL🌍",tvg-id="",17
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=465075c02b7284f564911bd63d1c6f0a8d464be7
-
-#EXTINF:-1🌍group-title="🌍INTERNACIONAL🌍",tvg-id="",18
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=da38a21a9509be8c03b0fdb539cb1485843330c3
-
-#EXTINF:-1🌍group-title="🌍INTERNACIONAL🌍",tvg-id="",19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=379192c3ee5a15570e2c685179bc53cb7133cc6c
-
-#EXTINF:-1🌍group-title="🌍INTERNACIONAL🌍",tvg-id="",20
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=979d3b873871a5a9a56d3eb481ca77b707e01102
-
-#EXTINF:-1🌍group-title="🌍INTERNACIONAL🌍",tvg-id="",21
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=414222dc7b69a626f29eb964450dae44b3bc9b36
-
-#EXTINF:-1🌍group-title="🌍INTERNACIONAL🌍",tvg-id="",22
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=63b1933154919d116f08e33ffcb31a23f9483989
-
-#EXTINF:-1🌍group-title="🌍INTERNACIONAL🌍",tvg-id="",23
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=7cf306fc097deca7005b220b1f6206bd654b5ca5
-
-#EXTINF:-1🌍group-title="🌍INTERNACIONAL🌍",tvg-id="",24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=aab0be9632ef2f53e99f2e596a8e6a30ed34a29c
-
-#EXTINF:-1🌍group-title="🌍INTERNACIONAL🌍",tvg-id="",25
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=b55d1a3d7a5121af685668d5f5e7baeb3ebab70e
-
-#EXTINF:-1🌍group-title="🌍INTERNACIONAL🌍",tvg-id="",26
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=979d3b873871a5a9a56d3eb481ca77b707e01102
-
-#EXTINF:-1🌍group-title="🌍INTERNACIONAL🌍",tvg-id="",27
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=379192c3ee5a15570e2c685179bc53cb7133cc6c
 
 
 

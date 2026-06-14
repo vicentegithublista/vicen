@@ -235,18 +235,28 @@ http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 
 
 
-#EXTINF:-1🥎tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" tvg-id="Eurosport 2 HD"group-title="✔️EVENTOS✔️",UFC FREEDOM 250 PREVIO                                                                                           1:00🥊Tupuria
+#EXTINF:-1🥊tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" tvg-id="Eurosport 2 HD"group-title="✔️EVENTOS✔️",UFC FREEDOM 250 PREVIO                                                                                           1:00🥊Tupuria
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
 
-#EXTINF:-1🥎tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" tvg-id="Eurosport 2 HD"group-title="✔️EVENTOS✔️",UFC FREEDOM 250 PREVIO                                                                                           1:00🥊Tupuria
+#EXTINF:-1🥊tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" tvg-id="Eurosport 2 HD"group-title="✔️EVENTOS✔️",UFC FREEDOM 250 PREVIO                                                                                           1:00🥊Tupuria
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=7152d5f5fdb2184c88c2bb433d8b8f619cdc16b2
 
 
-#EXTINF:-1🌍tvg-logo=""https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="UK | TNT Sports 1"group-title="✔️EVENTOS✔️",UFC FREEDOM 250 LIVE                                                                                           2:00🥊Tupuria
+#EXTINF:-1🥊tvg-logo=""https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="UK | TNT Sports 1"group-title="✔️EVENTOS✔️",UFC FREEDOM 250 LIVE                                                                                           2:00🥊Tupuria
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+
+
+#EXTINF:-1🥊tvg-id="" tvg-name="ES: MAX PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/max.png"group-title="✔️EVENTOS✔️",UFC MAX PPV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://vpjertrcww.top:8080/VIP016201757762608644/ca0f78f508b7/129979
+
+
+#EXTINF:-1🥊tvg-id="" tvg-name="ES: UFC FIGHT PASS" tvg-logo="https://docdog.top/logo/countries/es/UFC_FIGHT_PASS.png"group-title="✔️EVENTOS✔️",UFC FIGHT PASS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://vpjertrcww.top:8080/VIP016201757762608644/ca0f78f508b7/129980
 
 
 ⚽️ Fútbol 
@@ -600,27 +610,13 @@ http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 
 
 
-#EXTINF:-1♉tvg-id="0" tvg-name="ES: TELEMADRID INT" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Telemadrid_Int.png"group-title="♉TOROS♉",TELEMADRID INT
+#EXTINF:-1♉tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telemadrid.png" tvg-id="Telemadrid"group-title="♉TOROS♉",Telemadrid                                                                                                                             
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://vpjertrcww.top:8080/VIP016201757762608644/ca0f78f508b7/761
 
-#EXTINF:-1♉tvg-id="0" tvg-name="ES: TELEMADRID INT" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Telemadrid_Int.png"group-title="♉TOROS♉",TELEMADRID INT
+#EXTINF:-1♉tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telemadrid.png" tvg-id="Telemadrid"group-title="♉TOROS♉",Telemadrid                                                                                                                             
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://vpjertrcww.top:8080/VIP016201757762608644/ca0f78f508b7/761
-
-#EXTINF:-1♉tvg-id="" tvg-name="ES: CASTILLA LA MANCHA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/cmm.png"group-title="♉TOROS♉",CASTILLA LA MANCHA
-http://vpjertrcww.top:8080/VIP016201757762608644/ca0f78f508b7/132291
-
-#EXTINF:-1♉tvg-id="0" tvg-name="ES: ARAGÓN TV INT" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Aragon_TV_Int.png"group-title="♉TOROS♉",ARAGÓN TV INT
-http://vpjertrcww.top:8080/VIP016201757762608644/ca0f78f508b7/734
-
-#EXTINF:-1♉tvg-id="A Punt" tvg-name="ES: À PUNT" tvg-logo="https://docdog.top/logo/countries/spain/A_Punt.png"group-title="♉TOROS♉",À PUNT
-http://vpjertrcww.top:8080/VIP016201757762608644/ca0f78f508b7/777
-
-#EXTINF:-1♉tvg-id="Canal Extremadura" tvg-name="ES: CANAL EXTREMADURA SAT" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Extremadura_Sat.png"group-title="♉TOROS♉",CANAL EXTREMADURA SAT
-http://vpjertrcww.top:8080/VIP016201757762608644/ca0f78f508b7/750
-
-
-
-
 
 #EXTINF:-1♉tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telemadrid.png" tvg-id="Telemadrid"group-title="♉TOROS♉",Telemadrid                                                                                                                             
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -630,9 +626,34 @@ http://vpjertrcww.top:8080/live/VIP0185171483676475/498bbfff36a7/761.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/761.m3u8
 
+
+#EXTINF:-1♉tvg-id="" tvg-name="ES: CASTILLA LA MANCHA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/cmm.png"group-title="♉TOROS♉",CASTILLA LA MANCHA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://vpjertrcww.top:8080/VIP016201757762608644/ca0f78f508b7/132291
+
+#EXTINF:-1♉tvg-id="A Punt" tvg-name="ES: À PUNT" tvg-logo="https://docdog.top/logo/countries/spain/A_Punt.png"group-title="♉TOROS♉",À PUNT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://vpjertrcww.top:8080/VIP016201757762608644/ca0f78f508b7/777
+
 #EXTINF:-1♉tvg-id="CanalSurA.TV" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="♉TOROS♉", tvg-name="Canal Sur Andalucía",Canal Sur Andalucía
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
+
+#EXTINF:-1♉tvg-id="0" tvg-name="ES: ARAGÓN TV INT" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Aragon_TV_Int.png"group-title="♉TOROS♉",ARAGÓN TV INT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://vpjertrcww.top:8080/VIP016201757762608644/ca0f78f508b7/734
+
+#EXTINF:-1♉tvg-id="Canal Extremadura" tvg-name="ES: CANAL EXTREMADURA SAT" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Extremadura_Sat.png"group-title="♉TOROS♉",CANAL EXTREMADURA SAT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://vpjertrcww.top:8080/VIP016201757762608644/ca0f78f508b7/750
+
+
+
+
+
+
+
+
 
 
 

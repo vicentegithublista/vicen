@@ -459,9 +459,7 @@ N🇳🇿ueva Zelanda
 
 
 
-#EXTINF:-1♉tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" tvg-id="Onetoro"group-title="♉TOROS♉",Onetoro                                         
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=536c879d8a914e43141d778b3567fa017c9f5eeb
+
 
 
 #EXTINF:-1♉tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telemadrid.png" tvg-id="Telemadrid"group-title="♉TOROS♉",Telemadrid                                                                                                                             
@@ -3168,13 +3166,14 @@ http://127.0.0.1:6878/ace/getstream?id=1f2bea84ffb331068a465fe03624a9d437fbf8fb
 
 
 
+
+
+
 #EXTINF:-1📺tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" tvg-id="La 1 HD",group-title="📺LISTA📺",La 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 
-#EXTINF:-1✔️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" tvg-id="La 1 HD",group-title="📺LISTA📺",La 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=979d3b873871a5a9a56d3eb481ca77b707e01102
+
 
 
 
@@ -3192,43 +3191,7 @@ http://127.0.0.1:6878/ace/getstream?id=b80cd193286a7df788c07649667c1e6f64fc9dc7
 
 
 
-#EXTINF:-1📺tvg-id="Antena3.TV" tvg-name="ESP | ANTENA 3 HD " tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="📺LISTA📺",ANTENA 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/55885
 
-#EXTINF:-1📺tvg-id="" tvg-name="ESP | CUATRO (X) " tvg-logo="http://visualservice.xyz:80/images/488e788a513046c2ac746ccf3399cce5.png" group-title="📺LISTA📺",CUATRO 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/31907
-
-#EXTINF:-1📺tvg-id="LA 1" tvg-name="ESP | TELECINCO HD (A)" tvg-logo="http://visualservice.xyz:80/images/2d2024ab719bece688ccd21240e45e2f.png" group-title="📺LISTA📺",TELECINCO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/68748
-
-#EXTINF:-1📺tvg-id="La Sexta HD" tvg-name="ESP | SEXTA " tvg-logo="http://visualservice.xyz:80/images/7f601cdc04f348e922bda4c3391a7c94.png" group-title="📺LISTA📺",SEXTA 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/31908
-
-#EXTINF:-1📺tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CMM%20TV.png" tvg-id="CMM TV"group-title="📺LISTA📺", tvg-name="Castilla-La Mancha Media",CMM TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/372204
-
-
-#EXTINF:-1📺tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" tvg-id="Onetoro"group-title="📺LISTA📺",Onetoro                                         
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/795582
-
-
-EXTINF:-1📺tvg-id="La Otra" tvg-name="La Otra" tvg-logo="https://imgur.com/W1UZyXH.png"group-title="📺LISTA📺",La Otra                                                        
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=4a53f3b7ebaef91aea7d46613fc4869e09d352c6
-
-EXTINF:-1📺tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telemadrid.png" tvg-id="Telemadrid"group-title="📺LISTA📺",Telemadrid                                                                                
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://skynetdigital.us:8080/restreampropio/wM6S6uRQWkJh/55869
-
-#EXTINF:-1📺tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telemadrid.png" tvg-id="Telemadrid"group-title="📺LISTA📺",Telemadrid                                                                                                                             
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://vpjertrcww.top:8080/live/VIP0185171483676475/498bbfff36a7/761.m3u8
 
 #EXTINF:-1📺tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telemadrid.png" tvg-id="Telemadrid"group-title="📺LISTA📺",Telemadrid                                                                                                                                                                            
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -3238,259 +3201,24 @@ http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/761.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ESP | EXTREMADURA TV" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200" group-title="📺LISTA📺",EXTREMADURA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/55870
+
+
+
 
 #EXTINF:-1📺tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKb6DZpbxOMbN_VANCdenLck4ceg7gxMk5tnkjmM=s200" group-title="📺LISTA📺", tvg-name="Andalucía Cocina",Andalucía Cocina
 #EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
 https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Caza-pesca_m%2B.png"group-title="📺LISTA📺",CAZA Y PESCA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/379487
 
-#EXTINF:-1 tvg-id="" tvg-name="ES | IBERALIA" tvg-logo="https://iberaliago.com/static/media/iberalia_n.ab5cf066.png"group-title="📺LISTA📺",IBERALIA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/447108
 
-#EXTINF:-1 tvg-id="" tvg-name="ES | CAZAVISION  " tvg-logo="https://tv.cazavision.com/images/logo-whiteES.png"group-title="📺LISTA📺",CAZAVISION
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/447109
 
-#EXTINF:-1 tvg-id="" tvg-name="ESP | NAT GEO  " tvg-logo="http://visualservice.xyz:80/images/64e8745649c2dc426bd4d3c932f35887.png" group-title="📺LISTA📺",NAT GEO  
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/55905
 
-#EXTINF:-1 tvg-id="" tvg-name="ESP | NAT GEO WILD " tvg-logo="https://static.epg.best/es/NatGeoWild.es.png" group-title="📺LISTA📺",NAT GEO WILD 
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/55858
-
-#EXTINF:-1 tvg-id="LA 1" tvg-name="ESP | HISTORIA" tvg-logo="https://static.epg.best/es/Historia.es.png" group-title="📺LISTA📺",HISTORIA
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/55859
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP | DISCOVERY CHANNEL" tvg-logo="http://visualservice.xyz:80/images/b59c032c79b7d1613a2e6814ca8a24c0.png" group-title="📺LISTA📺",DISCOVERY CHANNEL
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/55860
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP | CANAL COCINA" tvg-logo="https://static.epg.best/es/CanalCocina.es.png" group-title="📺LISTA📺",CANAL COCINA
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/55867
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP | FDF." tvg-logo="http://visualservice.xyz:80/images/750a409b263a679451a040f65734d886.png" group-title="📺LISTA📺",FDF
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/55893
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP | NEOX" tvg-logo="https://static.epg.best/es/Neox.es.png" group-title="📺LISTA📺",NEOX
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/55889
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP | NOVA" tvg-logo="http://visualservice.xyz:80/images/b53daea2e4ba67233019cb88e8d0566c.png" group-title="📺LISTA📺",NOVA
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/67484
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP | A3SERIES HD" tvg-logo="http://visualservice.xyz:80/images/32356bb9ff7b4c26ff7030716e870afa.png" group-title="📺LISTA📺",A3SERIES
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/67507
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Plus%2B_2022_logo.svg/2560px-Movistar_Plus%2B_2022_logo.svg.png"group-title="📺LISTA📺",MOVISTAR PLUS
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/454343
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP | MOVISTAR #0 " tvg-logo="http://visualservice.xyz:80/nologo.png" group-title="📺LISTA📺",MOVISTAR #0 
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/164982
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP | MOVISTAR ESTRENOS F " tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MV1.png" group-title="📺LISTA📺",MOVISTAR ESTRENOS 
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/164981
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP | MOVISTAR COMEDIA" tvg-logo="http://visualservice.xyz:80/images/28f81fd74546dfc1420dd1cb9b2bc964.png" group-title="📺LISTA📺",MOVISTAR COMEDIA
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/33493
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP | MOVISTAR DRAMA    " tvg-logo="http://visualservice:8000/images/7edfeaba5a4df33e78a0258ab95645f4.png" group-title="📺LISTA📺",MOVISTAR DRAMA    
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/33496
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP | MOVISTAR ACCION  " tvg-logo="http://intelcodecs.hopto.org:8080/picon/logo.png" group-title="📺LISTA📺",MOVISTAR ACCION  
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/164028
-
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="ESP | SERIESMANIA  " tvg-logo="http://visualservice.xyz:80/images/b3b9bfbe8c823c7b268d685ad9fa3919.png" group-title="📺LISTA📺",SERIESMANIA  
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/67555
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP | DISNEY JR" tvg-logo="http://visualservice.xyz:80/images/ff177987fe3c3995620dc9ab951ad100.png" group-title="📺LISTA📺",DISNEY JR
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/55901
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP | DISNEY" tvg-logo="http://visualservice.xyz:80/images/e2b44c8908559da092950702153566ee.png" group-title="📺LISTA📺",DISNEY
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/33494
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP | NICKELODEON   " tvg-logo="https://static.epg.best/es/Nickelodeon.es.png" group-title="📺LISTA📺",NICKELODEON   
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/55850
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP | AXN " tvg-logo="http://discusfish.xyz:25461/images/22b80be11495f4d907cf3d9c6d9ede0d.jpg" group-title="📺LISTA📺",AXN 
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/67566
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP | AXN WHITE  " tvg-logo="https://static.epg.best/es/AXNWhite.es.png" group-title="📺LISTA📺",AXN WHITE  
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/55853
-
-#EXTINF:-1 tvg-id="" tvg-name="AXN MOVIE F " tvg-logo="https://i.imgur.com/let75vk.png"group-title="📺LISTA📺",AXN MOVIE
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/781915
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="CALLE 13 F  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7dXt3nP36iLeN5De7VwkyAxEDj9aVRW43u4AGrlczjGBy5ZkN&s"group-title="📺LISTA📺",CALLE 13   
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/497661
-
-#EXTINF:-1 tvg-id="SyFy  " tvg-name="ESP | SYFY  (A)" tvg-logo="http://visualservice.xyz:80/images/61d7e5ff7c5d6f56f35e606148c25412.png" group-title="📺LISTA📺",SYFY
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/31910
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP | COSMO" tvg-logo="https://static.epg.best/es/Cosmo.es.png" group-title="📺LISTA📺",COSMO
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/55855
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP | PARAMOUNT" tvg-logo="https://static.epg.best/es/ParamountChannel.es.png" group-title="📺LISTA📺",PARAMOUNT
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/55857
-
-
-
-
-#EXTINF:-1 tvg-id="Hollywood" tvg-name="ESP | HOLLYWOOD " tvg-logo="https://static.epg.best/es/Hollywood.es.png" group-title="📺LISTA📺",HOLLYWOOD 
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/55896
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP | FOX  " tvg-logo="https://static.epg.best/es/Fox.es.png" group-title="📺LISTA📺",FOX  
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/55898
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP | TCM  " tvg-logo="https://static.epg.best/es/TCM.es.png" group-title="📺LISTA📺",TCM  
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/55902
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP | BOING" tvg-logo="https://static.epg.best/es/Boing.es.png" group-title="📺LISTA📺",BOING
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/55914
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP | CLAN TVE  " tvg-logo="http://visualservice.xyz:80/images/b68f17157d1cd26effee1afc366ded1a.png" group-title="📺LISTA📺",CLAN TVE  
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/67522
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP | EL TORO TV" tvg-logo="http://visualservice.xyz:80/images/5d77467481f2fbce7adbf0b85169886b.png" group-title="📺LISTA📺",EL TORO TV
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/67515
-
-#EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO TV" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png"group-title="📺LISTA📺",MUNDOTORO TV
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/364416
-
-#EXTINF:-1 tvg-id="" tvg-name="MUNDO TORO TV" tvg-logo="http://eter-picons.one/picons/Toros_ .png"group-title="📺LISTA📺",MUNDO TORO TV
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/511753
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ONE TORO  " tvg-logo="https://i.imgur.com/nQH5LBq.png"group-title="📺LISTA📺",ONE TORO  
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/784096
-
-#EXTINF:-1 tvg-id="" tvg-name="ONE TORO F " tvg-logo="https://www.tivify.es/wp-content/uploads/2023/08/ONETORO-LOGO-2.png"group-title="📺LISTA📺",ONE TORO
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/784097
-
-#EXTINF:-1 tvg-id="" tvg-name="EL TORO TV  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnSiW8l3ksQB27CyfaJab8_eCqh1_ll-Y2UbEgiA5 8sFpNgh&s"group-title="📺LISTA📺",EL TORO TV  
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/515356
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP | CANAL ODISEA  " tvg-logo="http://visualservice.xyz:80/images/841121fa27af9920103e23e0a62a3baa.png" group-title="📺LISTA📺",CANAL ODISEA  
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/67518
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP | DECASA" tvg-logo="http://visualservice.xyz:80/images/3903936ebcb3ba811345cbf4aa9312de.png" group-title="📺LISTA📺",DECASA
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/67527
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP | DMAX" tvg-logo="http://visualservice.xyz:80/images/888d0d03549e54793050d64651d143fa.png" group-title="📺LISTA📺",DMAX
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/67530
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP | SUNDANCE" tvg-logo="http://visualservice.xyz:80/images/9d121e3abb6ffebf888e1aed45a72c2f.png" group-title="📺LISTA📺",SUNDANCE
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/67556
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP | TNT" tvg-logo="http://visualservice.xyz:80/images/2bfef0530e86875773ac557931601714.png" group-title="📺LISTA📺",TNT
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/67562
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP | AMC" tvg-logo="http://visualservice.xyz:80/images/343e877633675f15afd1fc828ab924a2.png" group-title="📺LISTA📺",AMC
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/67564
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP | COMEDY CENTRAL" tvg-logo="http://visualservice.xyz:80/images/5daae38532c46bb29b2f71930b4f2d82.png" group-title="📺LISTA📺",COMEDY CENTRAL
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/67571
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP | NATIONAL GEOGRAPHIC" tvg-logo="http://visualservice.xyz:80/images/9e86bfc75978cb98cb3e9cdbc5c63a43.png" group-title="📺LISTA📺",NATIONAL GEOGRAPHIC
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/67577
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP | SYFY  " tvg-logo="http://visualservice.xyz:80/images/61d7e5ff7c5d6f56f35e606148c25412.png" group-title="📺LISTA📺",SYFY  
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/67581
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP | TCM  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="📺LISTA📺",TCM  
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/190776
-
-#EXTINF:-1 tvg-id="DARK" tvg-name="ESP | DARK" tvg-logo="https://ipmark.com/wp-content/uploads/2016/10/DARK-Canal-Televisi%C3%B3n-Terror.png" group-title="📺LISTA📺",DARK
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/196085
-
-#EXTINF:-1 tvg-id="" tvg-name="24H" tvg-logo=""group-title="📺LISTA📺",24H
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/194761
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP-L | BLOOMBERG TV EMEA LIVE EVENT  " tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png"group-title="📺LISTA📺",BLOOMBERG TV EMEA LIVE EVENT  
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/157789
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP-L | CANAL 2000 LA SOLANA  " tvg-logo="http://visualservice.xyz:80/nologo.png"group-title="📺LISTA📺",CANAL 2000 LA SOLANA  
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/157796
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP-L | DIEZ TV  " tvg-logo="https://i.imgur.com/5KXkBbs.jpg"group-title="📺LISTA📺",DIEZ TV  
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/157838
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP-L | LOGOS TV  " tvg-logo="http://visualservice.xyz:80/nologo.png"group-title="📺LISTA📺",LOGOS TV  
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/157915
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP-L | PUNT 3 VALL UIXÃ³  " tvg-logo="http://visualservice.xyz:80/nologo.png"group-title="📺LISTA📺",PUNT 3 VALL UIXÃ³  
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/157943
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP-L | RTV VIDA  " tvg-logo="http://visualservice.xyz:80/nologo.png"group-title="📺LISTA📺",RTV VIDA  
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/158002
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP-L | SOLIDARIA TV  " tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/solidaria-tv.png"group-title="📺LISTA📺",SOLIDARIA TV  
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/158007
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP | MOVISTAR ESTRENOS 2 F " tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MEST2.png" group-title="📺LISTA📺",MOVISTAR ESTRENOS 2  
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/298112
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="EITB1" tvg-logo="https://imgur.com/VBVu2bu.png"group-title="📺LISTA📺",EITB1
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/371020
-
-#EXTINF:-1 tvg-id="" tvg-name="EITB2" tvg-logo="https://imgur.com/VBVu2bu.png"group-title="📺LISTA📺",EITB2
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/371021
-
-
-#EXTINF:-1 tvg-id="TV3.TV" tvg-logo="https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png" group-title="📺LISTA📺" tvg-name="TV3",LIGA ENDESA                                                                                               19:00🏀Murcia-Barça                       
+#EXTINF:-1 tvg-id="TV3.TV" tvg-logo="https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png" group-title="📺LISTA📺" tvg-name="TV3",TV3                                                                                                                     
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://directes3-tv-cat.3catdirectes.cat/live-content/tv3-hls/master.m3u8
 
 
-#EXTINF:-1 tvg-id="TVC.TV" tvg-logo="https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png" group-title="📺LISTA📺" tvg-name="TV3.CAT",LIGA ENDESA                                                                                               19:00🏀Murcia-Barça  
+#EXTINF:-1 tvg-id="TVC.TV" tvg-logo="https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png" group-title="📺LISTA📺" tvg-name="TV3.CAT",TV3                                                                                                
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
 
@@ -3498,124 +3226,6 @@ https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
 
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="DREAMWORKS" tvg-logo=""group-title="📺LISTA📺",DREAMWORKS
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/396233
-
-
-
-
-#EXTINF:-1 tvg-id="Mega" tvg-name="MEGA F " tvg-logo="http://visualservice.xyz:80/images/71f1a4e6bb03d9b41c2164fb7879acdb.png"group-title="📺LISTA📺",MEGA 
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/447168
-
-#EXTINF:-1 tvg-id="" tvg-name="ENERGY OP 2" tvg-logo="https://static.epg.best/es/Energy.es.png"group-title="📺LISTA📺",ENERGY
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/457985
-
-
-#EXTINF:-1 tvg-id="" tvg-name="M. Clasicos " tvg-logo="http://discusfish.xyz:25461/images/MClasicos.png"group-title="📺LISTA📺",M. Clasicos 
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/494430
-
-#EXTINF:-1 tvg-id="" tvg-name="M. Series " tvg-logo="http://discusfish.xyz:25461/images/e533d9beece7d8fd2fb096e528a6a218.png"group-title="📺LISTA📺",M. Series 
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/494431
-
-#EXTINF:-1 tvg-id="M+ Originales  " tvg-name="M+ Originales " tvg-logo=""group-title="📺LISTA📺",M+ Originales 
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/494437
-
-#EXTINF:-1 tvg-id="M+ Indie  " tvg-name="M+ Indie " tvg-logo=""group-title="📺LISTA📺",M+ Indie 
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/494439
-
-#EXTINF:-1 tvg-id="M+ Documentales  " tvg-name="M+ Documentales" tvg-logo=""group-title="📺LISTA📺",M+ Documentales
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/494441
-
-#EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV Espana F  " tvg-logo="http://discusfish.xyz:25461/images/07f7facb00dd6c2c02bc09d5cfb4a55a.jpg"group-title="📺LISTA📺",Warner TV 
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/498175
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP | CINE DISNEY 24/7" tvg-logo="https://static.epg.best/es/DisneyXD.es.png" group-title="📺LISTA📺",CINE DISNEY
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/55849
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP | CALLE 13" tvg-logo="http://visualservice.xyz:80/images/ce46bd7fa1c6d08afcbac80b2f760e22.png" group-title="📺LISTA📺",CALLE 13
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/55854
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP | BE MAD" tvg-logo="https://static.epg.best/es/BeMad.es.png" group-title="📺LISTA📺",BE MAD
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/55865
-
-#EXTINF:-1 tvg-id="Divinity" tvg-name="ESP | DIVINITY" tvg-logo="http://visualservice.xyz:80/images/261937f4fa9e7e4fe254602783e90274.png" group-title="📺LISTA📺",DIVINITY
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/55891
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP | NICK JR" tvg-logo="http://visualservice.xyz:80/images/3145477a3f7136b2fb9d7bbcf8a83e7a.png" group-title="📺LISTA📺",NICK JR
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/55923
-
-#EXTINF:-1 tvg-id="M+ Vamos  " tvg-name="ESP | MOVISTAR VAMOS F  " tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/VAMO .png" group-title="📺LISTA📺",MOVISTAR VAMOS 
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/165046
-
-#EXTINF:-1 tvg-id="XTRM" tvg-name="ESP l XTRM  " tvg-logo="https://pbs.twimg.com/profile_images/2751840294/67013d8745e1704196024823792b7b14_400x400.png"group-title="📺LISTA📺",ESP l XTRM  
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/291626
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP l Somos  " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SOMOS.png"group-title="📺LISTA📺",ESP l Somos  
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/343220
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ENERGY OP 3" tvg-logo="https://static.epg.best/es/Energy.es.png"group-title="📺LISTA📺",ENERGY
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/457986
-
-#EXTINF:-1 tvg-id="" tvg-name="TRECE" tvg-logo="https://static.epg.best/es/Energy.es.png"group-title="📺LISTA📺",TRECE
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/457987
-
-#EXTINF:-1 tvg-id="" tvg-name="M. Accion " tvg-logo="http://discusfish.xyz:25461/images/9b7c6a1043bd0c1615250b897b45ff81.png"group-title="📺LISTA📺",M. Accion 
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/494425
-
-#EXTINF:-1 tvg-id="" tvg-name="M. Cine " tvg-logo="http://discusfish.xyz:25461/images/20eda87f0162fb3ace931884423561bb.png"group-title="📺LISTA📺",M. Cine 
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/494426
-
-#EXTINF:-1 tvg-id="" tvg-name="M. Comedia " tvg-logo="http://discusfish.xyz:25461/images/fa088fe42f466888eb83dabf9e837aac.png"group-title="📺LISTA📺",M. Comedia 
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/494427
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL COCINA  " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png"group-title="📺LISTA📺",CANAL COCINA  
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/768819
-
-#EXTINF:-1 tvg-id="" tvg-name="AXN F " tvg-logo="https://i.ibb.co/Hxt8qXB/axn.png"group-title="📺LISTA📺",AXN 
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/791982
-
-#EXTINF:-1 tvg-id="Onetoro" tvg-name="ONE TORO  " tvg-logo="https://www.tivify.es/wp-content/uploads/2023/08/ONETORO-LOGO-2.png"group-title="📺LISTA📺",ONE TORO  
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/795582
-
-#EXTINF:-1 tvg-id="Ten" tvg-name="TEN  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ten.svg/1200px-Ten.svg.png"group-title="📺LISTA📺",TEN  
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/797842
-
-
-
-#EXTINF:-1 tvg-id="National Geographic  " tvg-name="ES: NATIONAL GEOGRAPHIC WILD  F " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png"group-title="📺LISTA📺",ES: NATIONAL GEOGRAPHIC WILD  F 
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/805457
-
-#EXTINF:-1 tvg-id="National Geographic  " tvg-name="ES: NATIONAL GEOGRAPHIC  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1200px-Natgeologo.svg.png"group-title="📺LISTA📺",ES: NATIONAL GEOGRAPHIC  
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/805458
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="CINE | SOMOS  " " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SOMOS.png"group-title="📺LISTA📺",,CINE | SOMOS  " 
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/838622
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="LA 1" tvg-name="ESP | AMC CRIME" tvg-logo="http://visualservice.xyz:80/images/343e877633675f15afd1fc828ab924a2.png" group-title="📺LISTA📺",AMC CRIME
-http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/351195
 
 
 #EXTINF:-1📺tvg-id="RTVE_Conciertos_R3.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="📺LISTA📺", tvg-name="Conciertos Radio 3 (RTVE)",Conciertos Radio 3 (RTVE)

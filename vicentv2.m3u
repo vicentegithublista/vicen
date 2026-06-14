@@ -39,20 +39,6 @@ group-title="✔️EVENTOS✔️",SAN ISIDRO 08-05                              
 #EXTGRP: group-title="TDT" group-logo="https://i.ibb.co/j9xn42jB/logo-tdt.png"
 
 
-
-🏀 Baloncesto - 20:00
-🏆 LIGA ENDESA
-🆚 Joventut-Valencia
-🖥 DAZN Baloncesto
-
-#EXTINF:0🏀tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto.png"tvg-id="DAZN Baloncesto"group-title="✔️EVENTOS✔️",LIGA ENDESA                                                                                               20:00🏀Joventut-Valencia                                                                                                                                                                                                      
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=9dd9cd78f0b08097a0ad290606dbbee999709fa5
-
-#EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203.png" tvg-id="PT | DAZN 3"group-title="✔️EVENTOS✔️",LIGA ENDESA                                                                                               20:00🏀Joventut-Valencia                      
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-
 ⚽️ Fútbol - 21:00
 🏆 LALIGA HYPERMOTION
 🆚 Málaga-Almería

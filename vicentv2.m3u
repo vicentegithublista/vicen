@@ -368,22 +368,24 @@ http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 
 M+ Deportes 1080p **	cf5327fe9c962a29dfff3868f4349ff2b0b4662f	M+ Deportes (63)
 M+ Deportes 2 1080p *	3774d8feab016ca766b35ea8488e7514ca30e0ee	M+ Deportes 2 (64)
+
 M+ Vamos 720p **	8686522bd5d0b123cbc94ad4a12f2d3a18492479	M+ Vamos (8 y 50)
+
+
 La 1 TVE 4K *	da38a21a9509be8c03b0fdb539cb1485843330c3	La 1 TVE
 La 1 TVE 4K **	23c952c5b375715db822f2783803c6e28fab0e34	La 1 TVE
+
+
 RALLY TV 1080p *	64eb19dccf5e60f121a4c1f7c69489af6b1c9ca9	RALLY TV 1080p *
 RALLY TV **	12404b00d2787995d639ccf71a80da5d39d153f9	RALLY TV **
+
+
 Real Madrid TV 1080p *	ac353757b626cedc6461d8eb73bfffa15fbb7be7	Real Madrid TV
-Dazn Mundial 1 *	ccfde4bc75d14c79dd09af72434568a0e732d507	Dazn Mundial 1 *
-Dazn Mundial 1 **	414222dc7b69a626f29eb964450dae44b3bc9b36	Dazn Mundial 1 **
-Dazn Mundial 2 *	dac18df259f44258d81aa8f31cb343bb837f5ac7	Dazn Mundial 2 *
-Dazn Mundial 2 **	63b1933154919d116f08e33ffcb31a23f9483989	Dazn Mundial 2 **
-Dazn Mundial 3 *	f28f558a7699237cb4ec1e0075db4073ffc3a415	Dazn Mundial 3 *
-Dazn Mundial 3 **	7cf306fc097deca7005b220b1f6206bd654b5ca5	Dazn Mundial 3 **
-Dazn Mundial 4 *	584e20154750a15d14cb59953bb9cdd923c331bb	Dazn Mundial 4 *
-Dazn Mundial 4 **	aab0be9632ef2f53e99f2e596a8e6a30ed34a29c	Dazn Mundial 4 **
-Tennis Channel 1080p *	a4cbadd19442b800727be713270fa9c917cc8582	Tennis Channel
-Tennis Channel 1080p **	43c549e5781f5a923b76f8f29cde122b5be164eb	Tennis Channel
+
+
+
+
+
 
 
 
@@ -457,6 +459,45 @@ http://127.0.0.1:6878/ace/getstream?id=19f28f60c908f987b1a03da078e63320d7bf29e8
 
 
 
+#EXTINF:0⚽️tvg-id="DAZN Mundial 2 HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial%202.png"group-title="⚽LIGA⚽",⚽DAZN MUNDIAL 2                                       
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=dac18df259f44258d81aa8f31cb343bb837f5ac7
+
+#EXTINF:0⚽️tvg-id="DAZN Mundial 2 HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial%202.png"group-title="⚽LIGA⚽",⚽DAZN MUNDIAL 2                                       
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=63b1933154919d116f08e33ffcb31a23f9483989
+
+#EXTINF:0⚽️tvg-id="DAZN Mundial 2 HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial%202.png"group-title="⚽LIGA⚽",⚽DAZN MUNDIAL 2                                       
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=635b61c1f240449163260cd914d10d886a54fee3
+
+#EXTINF:0⚽️tvg-id="DAZN Mundial 2 HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial%202.png"group-title="⚽LIGA⚽",⚽DAZN MUNDIAL 2                                       
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=b63fcadc2390455d8a328f6c16b8b0a9adec21a3
+
+
+#EXTINF:0⚽️tvg-id="DAZN Mundial 3"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial3.png"group-title="⚽LIGA⚽",⚽DAZN MUNDIAL 3                                       
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=f28f558a7699237cb4ec1e0075db4073ffc3a415
+
+#EXTINF:0⚽️tvg-id="DAZN Mundial 3"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial3.png"group-title="⚽LIGA⚽",⚽DAZN MUNDIAL 3                                       
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=7cf306fc097deca7005b220b1f6206bd654b5ca5
+
+
+
+
+
+#EXTINF:0⚽️tvg-id="DAZN Mundial 4"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial4.png"group-title="⚽LIGA⚽",⚽DAZN MUNDIAL 4                                       
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=584e20154750a15d14cb59953bb9cdd923c331bb
+
+#EXTINF:0⚽️tvg-id="DAZN Mundial 4"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial4.png"group-title="⚽LIGA⚽",⚽DAZN MUNDIAL 4                                       
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=aab0be9632ef2f53e99f2e596a8e6a30ed34a29c
+
+
+
 
 
 
@@ -479,31 +520,20 @@ http://127.0.0.1:6878/ace/getstream?id=1b25b195b1b84d4b96830410657718e9e275ad49
 
 
 
-#EXTINF:0⚽️tvg-id="DAZN Mundial 2 HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial%202.png"group-title="⚽LIGA⚽",⚽DAZN MUNDIAL 2                                       
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=635b61c1f240449163260cd914d10d886a54fee3
-
-#EXTINF:0⚽️tvg-id="DAZN Mundial 2 HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial%202.png"group-title="⚽LIGA⚽",⚽DAZN MUNDIAL 2                                       
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=b63fcadc2390455d8a328f6c16b8b0a9adec21a3
-
-#EXTINF:0⚽️tvg-id="DAZN Mundial 2 HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial%202.png"group-title="⚽LIGA⚽",⚽DAZN MUNDIAL 2                                       
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=b63fcadc2390455d8a328f6c16b8b0a9adec21a3
-
-#EXTINF:0⚽️tvg-id="DAZN Mundial 2 HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial%202.png"group-title="⚽LIGA⚽",⚽DAZN MUNDIAL 2                                       
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=63b1933154919d116f08e33ffcb31a23f9483989
 
 
 
-#EXTINF:0⚽️tvg-id="DAZN Mundial 3"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial3.png"group-title="⚽LIGA⚽",⚽DAZN MUNDIAL 3                                       
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=7cf306fc097deca7005b220b1f6206bd654b5ca5
 
-#EXTINF:0⚽️tvg-id="DAZN Mundial 4"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial4.png"group-title="⚽LIGA⚽",⚽DAZN MUNDIAL 4                                       
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=aab0be9632ef2f53e99f2e596a8e6a30ed34a29c
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1033,17 +1063,24 @@ https://daiconnect.com/live/hls/tvup/rk-mypadeltv/.m3u8?ads_amznbrmid=&ads_amznr
 
 
 
+
+
+
+
 #EXTINF:-1🥎tvg-logo="https://e7.pngegg.com/pngimages/237/1008/png-clipart-logo-tennis-channel-hd-television-channel-tv-logos-angle-text.png" tvg-id="Tennis Channel",group-title="🥎DEPORTES🥎",TENNIS CHANEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=a4cbadd19442b800727be713270fa9c917cc8582
 
 #EXTINF:-1🥎tvg-logo="https://e7.pngegg.com/pngimages/237/1008/png-clipart-logo-tennis-channel-hd-television-channel-tv-logos-angle-text.png" tvg-id="Tennis Channel",group-title="🥎DEPORTES🥎",TENNIS CHANEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+http://127.0.0.1:6878/ace/getstream?id=43c549e5781f5a923b76f8f29cde122b5be164eb
+
+
 
 #EXTINF:-1🥎tvg-logo="https://e7.pngegg.com/pngimages/237/1008/png-clipart-logo-tennis-channel-hd-television-channel-tv-logos-angle-text.png" tvg-id="Tennis Channel",group-title="🥎DEPORTES🥎",TENNIS CHANEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=43c549e5781f5a923b76f8f29cde122b5be164eb
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+
 
 
 

@@ -67,8 +67,7 @@ M+ Deportes 4 1080p **	7bede102385c65a545db531af476ef18c31f6258	M+ Deportes 4 (6
 M+ Vamos 720p **	8686522bd5d0b123cbc94ad4a12f2d3a18492479	M+ Vamos (8 y 50)
 
 
-La 1 TVE **	379192c3ee5a15570e2c685179bc53cb7133cc6c	La 1 TVE
-La 1 TVE **	979d3b873871a5a9a56d3eb481ca77b707e01102	La 1 TVE
+
 
 
 Esport3 720p *	739792a3225e5eb3056f4faa7b1137c7f161f23c	Esport3 (Cataluña)
@@ -122,6 +121,10 @@ http://127.0.0.1:6878/ace/getstream?id=71cb5e2567a8b39f5bdc4fa791992781b052f0bc
 #EXTINF:-1📺tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" tvg-id="La 1 HD"group-title="🏆MUNDIAL🏆",🇬🇧Inglaterra                                                                                                   🇭🇷Croacia 22:00                       
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=379192c3ee5a15570e2c685179bc53cb7133cc6c
+
+#EXTINF:-1📺tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" tvg-id="La 1 HD"group-title="🏆MUNDIAL🏆",🇬🇧Inglaterra                                                                                                   🇭🇷Croacia 22:00                       
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=979d3b873871a5a9a56d3eb481ca77b707e01102
 
 #EXTINF:0🌍tvg-logo="http://blnk.mx/wp-content/uploads/2023/05/logo-mundial-2026-logotipo-para-mundial-branding-07.png"group-title="🏆MUNDIAL🏆",🇬🇧Inglaterra                                                                                                   🇭🇷Croacia 22:00                                                                                                                        
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -236,6 +239,11 @@ http://127.0.0.1:6878/ace/getstream?id=71cb5e2567a8b39f5bdc4fa791992781b052f0bc
 #EXTINF:-1📺tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" tvg-id="La 1 HD"group-title="🏆MUNDIAL🏆",🇨🇭Suiza                                                                                                   🇧🇦Bosnia 18/06 21:00                      
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=379192c3ee5a15570e2c685179bc53cb7133cc6c
+
+#EXTINF:-1📺tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" tvg-id="La 1 HD"group-title="🏆MUNDIAL🏆",🇨🇭Suiza                                                                                                   🇧🇦Bosnia 18/06 21:00                      
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=
+http://127.0.0.1:6878/ace/getstream?id=979d3b873871a5a9a56d3eb481ca77b707e01102
   
 #EXTINF:0🌍tvg-logo="http://blnk.mx/wp-content/uploads/2023/05/logo-mundial-2026-logotipo-para-mundial-branding-07.png"group-title="🏆MUNDIAL🏆",🇨🇭Suiza                                                                                                   🇧🇦Bosnia 18/06 21:00                                                                                                                       
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160

@@ -44,37 +44,53 @@ group-title="✔️EVENTOS✔️",SAN ISIDRO 08-05                              
 
 
 
-Eurosport 1 720p **	313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153	Eurosport 1
-Eurosport 1 1080p **	8522af51ae7189b12effabbb448dcb707195ce1a	Eurosport 1
-Eurosport 2 1080p **	c6180a86440004748e2abe34d6f31eed8a218a3a	Eurosport 2
+
+
 M+ Deportes 720p **	7f8b4f57bf234510d3f607492508d68167d4b0ab	M+ Deportes (63)
 M+ Deportes 1080p **	cf5327fe9c962a29dfff3868f4349ff2b0b4662f	M+ Deportes (63)
+
+
+
 M+ Deportes 2 720p *	6b15368775693c33c49fab02e7900c1976a5da90	M+ Deportes 2 (64)
 M+ Deportes 2 720p **	fd2aea1aa8fcddebfda1644118c6806230a1d539	M+ Deportes 2 (64)
 M+ Deportes 2 1080p *	3774d8feab016ca766b35ea8488e7514ca30e0ee	M+ Deportes 2 (64)
 M+ Deportes 2 1080p **	8cd8fd69c6755ec452e9e74b33a0d1a653452191	M+ Deportes 2 (64)
+
+
+
 M+ Deportes 3 720p *	e9ce6e62ff97f1da7f10fd449a3c8e8ee90b253d	M+ Deportes 3 (65)
+
+
 M+ Deportes 4 1080p **	7bede102385c65a545db531af476ef18c31f6258	M+ Deportes 4 (66)
+
+
 M+ Vamos 720p **	8686522bd5d0b123cbc94ad4a12f2d3a18492479	M+ Vamos (8 y 50)
+
+
 La 1 TVE **	379192c3ee5a15570e2c685179bc53cb7133cc6c	La 1 TVE
 La 1 TVE **	979d3b873871a5a9a56d3eb481ca77b707e01102	La 1 TVE
+
+
 Esport3 720p *	739792a3225e5eb3056f4faa7b1137c7f161f23c	Esport3 (Cataluña)
 Esport3 720p **	ed6524f8f73c30cf102fde66f2cb520f4b5842e3	Esport3 (Cataluña)
+
+
 RALLY TV 1080p *	64eb19dccf5e60f121a4c1f7c69489af6b1c9ca9	RALLY TV 1080p *
 RALLY TV **	12404b00d2787995d639ccf71a80da5d39d153f9	RALLY TV **
+
+
 Teledeporte 1080p **	77cf022557c56cdf8d8115f50e61f846ad72ee05	Teledeporte
-Dazn Mundial 1 *	ccfde4bc75d14c79dd09af72434568a0e732d507	Dazn Mundial 1 *
-Dazn Mundial 1 **	414222dc7b69a626f29eb964450dae44b3bc9b36	Dazn Mundial 1 **
-Dazn Mundial 2 *	dac18df259f44258d81aa8f31cb343bb837f5ac7	Dazn Mundial 2 *
-Dazn Mundial 2 **	63b1933154919d116f08e33ffcb31a23f9483989	Dazn Mundial 2 **
-Dazn Mundial 3 *	f28f558a7699237cb4ec1e0075db4073ffc3a415	Dazn Mundial 3 *
-Dazn Mundial 3 **	7cf306fc097deca7005b220b1f6206bd654b5ca5	Dazn Mundial 3 **
-Dazn Mundial 4 *	584e20154750a15d14cb59953bb9cdd923c331bb	Dazn Mundial 4 *
-Dazn Mundial 4 **	aab0be9632ef2f53e99f2e596a8e6a30ed34a29c	Dazn Mundial 4 **
-Direct Sport 1080p **	79e6e01eb3db42e3da2428895181c0d32e4abd1f	Direct Sport 1080p **
-Direct Sport 1 1080p **	1b25b195b1b84d4b96830410657718e9e275ad49	Direct Sport 1 1080p **
-Direct Sport 2 1080p **	0d780c1fb5fdf2121d9544f1a6892cb1053dd061	Direct Sport 2 1080p **
-Fox Sport 1080p **	91826b587ffc2a94dcb104928fca7a33ae6b4ce9	Fox Sport 1080p **
+
+
+
+
+
+
+
+
+
+
+
 Tennis Channel 1080p **	43c549e5781f5a923b76f8f29cde122b5be164eb	Tennis Channel
 
 
@@ -295,6 +311,15 @@ http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 🇬🇭Ghana
 🇵🇦Panamá
 
+
+
+
+
+
+
+
+
+
 #EXTINF:0⚽️tvg-id="DAZN Mundial HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial.png"group-title="⚽LIGA⚽",⚽DAZN MUNDIAL                                       
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
@@ -338,11 +363,15 @@ http://127.0.0.1:6878/ace/getstream?id=63b1933154919d116f08e33ffcb31a23f9483989
 
 
 
+
+
 #EXTINF:0⚽️tvg-id="DAZN Mundial 3"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial3.png"group-title="⚽LIGA⚽",⚽DAZN MUNDIAL 3                                       
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=f28f558a7699237cb4ec1e0075db4073ffc3a415
 
-
+#EXTINF:0⚽️tvg-id="DAZN Mundial 3"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial3.png"group-title="⚽LIGA⚽",⚽DAZN MUNDIAL 3                                       
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=7cf306fc097deca7005b220b1f6206bd654b5ca5
 
 
 
@@ -374,9 +403,34 @@ http://127.0.0.1:6878/ace/getstream?id=188ae96292ab09ddffa1adf649606cadc77a1c76
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 
+	
+
+
 #EXTINF:0⚽️tvg-id="DSPORTS"tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png"group-title="⚽LIGA⚽",⚽DSPORTS                                      
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=1b25b195b1b84d4b96830410657718e9e275ad49	
+http://127.0.0.1:6878/ace/getstream?id=79e6e01eb3db42e3da2428895181c0d32e4abd1f
+
+#EXTINF:0⚽️tvg-id="DSPORTS"tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png"group-title="⚽LIGA⚽",⚽DSPORTS                                      
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=1b25b195b1b84d4b96830410657718e9e275ad49
+
+#EXTINF:0⚽️tvg-id="DSPORTS"tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png"group-title="⚽LIGA⚽",⚽DSPORTS                                      
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=0d780c1fb5fdf2121d9544f1a6892cb1053dd061
+
+
+#EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20SPORTS.png" tvg-id="FOX SPORTS",group-title="⚽LIGA⚽",🇺🇸FOX SPORTS🇺🇸
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=91826b587ffc2a94dcb104928fca7a33ae6b4ce9
+
+#EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20SPORTS.png" tvg-id="FOX SPORTS",group-title="⚽LIGA⚽",🇺🇸FOX SPORTS🇺🇸
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898
+
+#EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20SPORTS%202.png" tvg-id="FOX SPORTS 2",group-title="⚽LIGA⚽",🇺🇸FOX SPORTS 2🇺🇸
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7
+
 
 
 
@@ -870,17 +924,21 @@ http://127.0.0.1:6878/ace/getstream?id=882074140fca664e119a43294afa2fb4a64917ef
 
 
 
+
+
+
+
 #EXTINF:-1🥎tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" tvg-id="Eurosport 1 HD",group-title="🥎DEPORTES🥎",🄴🅄🅁🄾🅂🄿🄾🅁🅃 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153
 
 #EXTINF:-1🥎tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" tvg-id="Eurosport 1 HD",group-title="🥎DEPORTES🥎",🄴🅄🅁🄾🅂🄿🄾🅁🅃 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=48a589dbeab3544662fafd79888aada7d834cfe9
+http://127.0.0.1:6878/ace/getstream?id=8522af51ae7189b12effabbb448dcb707195ce1a
 
 #EXTINF:-1🥎tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" tvg-id="Eurosport 1 HD",group-title="🥎DEPORTES🥎",🄴🅄🅁🄾🅂🄿🄾🅁🅃 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=8522af51ae7189b12effabbb448dcb707195ce1a
+http://127.0.0.1:6878/ace/getstream?id=48a589dbeab3544662fafd79888aada7d834cfe9
 
 #EXTINF:-1🥎tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" tvg-id="Eurosport 1 HD",group-title="🥎DEPORTES🥎",🄴🅄🅁🄾🅂🄿🄾🅁🅃 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -894,20 +952,19 @@ http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/266751
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/537362
 
+
+
+#EXTINF:-1🥎tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" tvg-id="Eurosport 2 HD",group-title="🥎DEPORTES🥎",🄴🅄🅁🄾🅂🄿🄾🅁🅃 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=c6180a86440004748e2abe34d6f31eed8a218a3a
+
 #EXTINF:-1🥎tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" tvg-id="Eurosport 2 HD",group-title="🥎DEPORTES🥎",🄴🅄🅁🄾🅂🄿🄾🅁🅃 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=7152d5f5fdb2184c88c2bb433d8b8f619cdc16b2
 
 #EXTINF:-1🥎tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" tvg-id="Eurosport 2 HD",group-title="🥎DEPORTES🥎",🄴🅄🅁🄾🅂🄿🄾🅁🅃 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=c6180a86440004748e2abe34d6f31eed8a218a3a
-
-
-#EXTINF:-1🥎tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" tvg-id="Eurosport 2 HD",group-title="🥎DEPORTES🥎",🄴🅄🅁🄾🅂🄿🄾🅁🅃 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
-
-
 
 #EXTINF:-1🥎tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" tvg-id="Eurosport 2 HD",group-title="🥎DEPORTES🥎",🄴🅄🅁🄾🅂🄿🄾🅁🅃 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160

@@ -205,6 +205,11 @@ http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 
 
 
+
+
+
+
+
 #EXTINF:0⚽️tvg-id="DAZN Mundial HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial.png"group-title="⚽LIGA⚽",⚽DAZN MUNDIAL                                       
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
@@ -273,6 +278,27 @@ http://127.0.0.1:6878/ace/getstream?id=aab0be9632ef2f53e99f2e596a8e6a30ed34a29c
 
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/223/270/png-clipart-televisa-xhgc-tdt-television-channel-canal-5-others-television-white-thumbnail.png"group-title="⚽LIGA⚽",CANAL 5 MX 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=2f632f8996f1dc4ac00fe4e08e4f9ac90ea80fc9
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tavilatam.com/wp-content/uploads/2025/03/TAVI_CazeTV_Mundial-de-clubes-1.png"group-title="⚽LIGA⚽",CAZE TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=0544b00f3f9268a7a93b06467b3c17a2be7c37bb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -305,6 +331,12 @@ http://127.0.0.1:6878/ace/getstream?id=1b25b195b1b84d4b96830410657718e9e275ad49
 http://127.0.0.1:6878/ace/getstream?id=0d780c1fb5fdf2121d9544f1a6892cb1053dd061
 
 
+
+#EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20SPORTS.png" tvg-id="FOX SPORTS",group-title="⚽LIGA⚽",🇺🇸FOX SPORTS🇺🇸
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=d389b0c2474bb1ab827413d87823451ee4c07b0a
+
+
 #EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20SPORTS.png" tvg-id="FOX SPORTS",group-title="⚽LIGA⚽",🇺🇸FOX SPORTS🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=91826b587ffc2a94dcb104928fca7a33ae6b4ce9
@@ -316,6 +348,18 @@ http://127.0.0.1:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898
 #EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20SPORTS%202.png" tvg-id="FOX SPORTS 2",group-title="⚽LIGA⚽",🇺🇸FOX SPORTS 2🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/World-Cup-Trophy---Football-Award-Winner-Event-General-Secondary.png",group-title="⚽LIGA⚽",FIFA World Cup 1
+http://127.0.0.1:6878/ace/getstream?id=e8670925c3bfd0ceafa54192772a6b8a482bd94b
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/World-Cup-Trophy---Football-Award-Winner-Event-General-Secondary.png",group-title="⚽LIGA⚽",FIFA World Cup 2 
+http://127.0.0.1:6878/ace/getstream?id=0e6ba5e9872838a8740f4b2679d522f896b3448c
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/World-Cup-Trophy---Football-Award-Winner-Event-General-Secondary.png",group-title="⚽LIGA⚽",FIFA World Cup 3
+http://127.0.0.1:6878/ace/getstream?id=d07816dade862339446b6c2a16d131617a3a9389
+
 
 
 

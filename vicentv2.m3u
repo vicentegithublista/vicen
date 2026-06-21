@@ -467,18 +467,19 @@ https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af54
 
 M+ LALIGA --> NEW ERA VI
 0b5f802f2de6488b4023d0f05195486e19d81ed7
+
+
 DAZN LALIGA --> NEW ERA VI
 3097d7e7ff0fe414711ee067a841168b6f5671cb
 DAZN LALIGA 2 --> NEW ERA VI
 085afc93f3c502fb31fb79253ebc58e5a8949e84
+
 HYPERMOTION --> NEW ERA VI
 135c420f704d717b8913b2a66b2722fd6b2c127c
-DAZN MOTOGP --> NEW ERA VI
-2a05a020dfe97aaa0665bb7551022868b2a88b36
-DAZN F1 --> NEW ERA VI
-ee4646aae30d862e0d9d453998a344a60aaa7cde
-EVENTUAL (SOLO EVENTOS) --> NEW ERA VI
-79c9dbec46dfa7de3acea6e5e05118e17dc0f065
+
+
+
+
 
 
 
@@ -814,6 +815,8 @@ http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 
 
 
+
+
 #EXTINF:0🏁tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2e554vbpw7g0ykhl0rziuabxl/fill/center/top/none/100/0/0/png/image/25/g" tvg-id="DAZN MotoGP"group-title="🏁MOTOR🏁",DAZN MotoGP                                                                                                     
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=342ca6975a4884d81f9fec5c4085a47060bd2028
@@ -833,6 +836,10 @@ http://127.0.0.1:6878/ace/getstream?id=129c707eb4854171d178a566f36d90b7f2b5e624
 #EXTINF:0🏁tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2e554vbpw7g0ykhl0rziuabxl/fill/center/top/none/100/0/0/png/image/25/g" tvg-id="DAZN MotoGP"group-title="🏁MOTOR🏁",DAZN MotoGP                                                                                                    
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c
+
+#EXTINF:0🏁tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2e554vbpw7g0ykhl0rziuabxl/fill/center/top/none/100/0/0/png/image/25/g" tvg-id="DAZN MotoGP"group-title="🏁MOTOR🏁",DAZN MotoGP                                                                                                    
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=2a05a020dfe97aaa0665bb7551022868b2a88b36
 
 #EXTINF:0🏁tvg-logo="https://tv.assets.pressassociation.io/1fda8663-f68a-5cc4-afd0-0e846e2ba265.png" tvg-id="UK | TNT Sports 2"group-title="🏁MOTOR🏁",TNT Sports 2                                                                                                     
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -870,6 +877,11 @@ http://127.0.0.1:6878/ace/getstream?id=02be332ebead0484a5354fa25e97b6833b8b129e
 #EXTINF:0🏁tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="🏁MOTOR🏁",DAZN F1                                                                                     
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=c21d60fa884b24f3cedcb1110b84ac2bcb0c2d19
+
+#EXTINF:0🏁tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="🏁MOTOR🏁",DAZN F1                                                                                     
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=ee4646aae30d862e0d9d453998a344a60aaa7cde
+
 
 #EXTINF:0🏁tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="🏁MOTOR🏁",SKI F1                                                                                    
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160

@@ -8,27 +8,6 @@ https://github.com/LaQuay/TDTChannels,
 https://url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz"
 refresh="3600"
 
-
-
-
-
-
-group-title="✔️EVENTOS✔️",PREMIER LEAGUE                                                                                            17:30⚽Chelsea-City
-group-title="✔️EVENTOS✔️",SERIE A ITALIA                                                                                            18:00⚽Juventus-Génova
-group-title="✔️EVENTOS✔️",CHAMPIONS LEAGUE                                                                                          21:00⚽R.Madrid-Bayern
-group-title="✔️EVENTOS✔️",LALIGA HYPERMOTION                                                                                        19:00⚽Castellón-Granada
-group-title="✔️EVENTOS✔️",LALIGA EA SPORTS                                                                                          21:00⚽Girona-Villarreal
-group-title="✔️EVENTOS✔️",MASTERS MONTECARLO                                                                                        12:30🎾Humbert-Sinner
-group-title="✔️EVENTOS✔️",HOMENAJE CAROLINA MARÍN                                                                                   11:10🎾Huelva
-group-title="✔️EVENTOS✔️",VUELTA AL PAÌS VASCO                                                                                      15:30🚴‍♂Etapa 2 Pamplona
-group-title="✔️EVENTOS✔️",NBA 1ª ROUND GAME 4                                                                                       19:00🏀Raptors-Cavs
-group-title="✔️EVENTOS✔️",CHAMPIONS LEAGUE                                                                                          19:30🏀Joventud-AEK
-group-title="✔️EVENTOS✔️",EUROLIGA                                                                                                  20:15🏀Olympiacos-R.Madrid
-group-title="✔️EVENTOS✔️",LIGA ENDESA                                                                                               20:15🏀Olympiacos-R.Madrid
-group-title="✔️EVENTOS✔️",UFC FIGHT NIGHT                                                                                           20:00🥊Liddard-Denny
-group-title="✔️EVENTOS✔️",WOW 29 VALENCIA                                                                                           18:00🥊Velada T2026
-group-title="✔️EVENTOS✔️",SAN ISIDRO 08-05                                                                                          19:00♉Talavante-Ortega-Barroso
-
 #EXTGRP: group-title="BALONCESTO" group-logo="https://www.soyvisual.org/sites/default/files/styles/twitter_card/public/images/photos/dep_0002.jpg"
 #EXTGRP: group-title="DAZN" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png"
 #EXTGRP: group-title="EUROSPORT" group-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo.png"
@@ -41,7 +20,6 @@ group-title="✔️EVENTOS✔️",SAN ISIDRO 08-05                              
 #EXTGRP: group-title="OTROS" group-logo="https://i.ibb.co/zVNFsy0F/logo-otros.png"
 #EXTGRP: group-title="RFEF TV" group-logo="https://rfef.es/themes/custom/rfef/img/rfef-share.png"
 #EXTGRP: group-title="TDT" group-logo="https://i.ibb.co/j9xn42jB/logo-tdt.png"
-
 
 🇪🇨Ecuador-🇩🇪Alemania
 La 1, DAZN 22:00
@@ -72,8 +50,6 @@ http://127.0.0.1:6878/ace/getstream?id=dac18df259f44258d81aa8f31cb343bb837f5ac7
 #EXTINF:0⚽️tvg-id="DAZN Mundial 2 HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial%202.png"group-title="✔️EVENTOS✔️",🇨🇼Curaçao⚽C.Marfil🇨🇮                                                                                                 FIFA 25/06 22:00                                      
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=63b1933154919d116f08e33ffcb31a23f9483989
-
-
 
 🇹🇳Tunez-🇳🇱Holanda
 01:00
@@ -144,6 +120,12 @@ http://127.0.0.1:6878/ace/getstream?id=63b1933154919d116f08e33ffcb31a23f9483989
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=2a05a020dfe97aaa0665bb7551022868b2a88b36
 
+#EXTINF:0🏁tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2e554vbpw7g0ykhl0rziuabxl/fill/center/top/none/100/0/0/png/image/25/g" tvg-id="DAZN MotoGP"group-title="✔️EVENTOS✔️",DAZN MotoGP🏍                                                                                                  GP.P.BAJOS 26/06 08:55                                                                                                   
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=724f9b252b11064e3f16220717fd52bd3a510b5f
+
+
+
 
 #EXTINF:0🏁tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="✔️EVENTOS✔️",DAZN F1🏎                                                                                                  GP.AUSTRIA 26/06 13:00                                                                                      
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -193,8 +175,6 @@ http://127.0.0.1:6878/ace/getstream?id=dac18df259f44258d81aa8f31cb343bb837f5ac7
 #EXTINF:0⚽️tvg-id="DAZN Mundial 2 HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial%202.png"group-title="✔️EVENTOS✔️",🇸🇳Senegal⚽️Iraq🇮🇶                                                                                                 FIFA 26/06 21:00                                      
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=63b1933154919d116f08e33ffcb31a23f9483989
-
-
 
 
 🇲🇽México                                                                                                     

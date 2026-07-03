@@ -38,10 +38,12 @@ http://127.0.0.1:6878/ace/getstream?id=6b15368775693c33c49fab02e7900c1976a5da90
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=8cd8fd69c6755ec452e9e74b33a0d1a653452191
 
-
-#EXTINF:0🏅tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_3.png" tvg-id="M+ Deportes 3"group-title="✔️EVENTOS✔️",🥎Wimbledon🥎
+#EXTINF:-1🏅tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_2.png" tvg-id="M+ Deportes 2 HD"group-title="✔️EVENTOS✔️",🥎Wimbledon🥎                                                                                                
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=e9ce6e62ff97f1da7f10fd449a3c8e8ee90b253d
+
+
+
 
 #EXTINF:0🏅tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_3.png" tvg-id="M+ Deportes 3"group-title="✔️EVENTOS✔️",🥎Wimbledon🥎
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -58,9 +60,6 @@ http://127.0.0.1:6878/ace/getstream?id=84aed52c5deb78f58595d88250e7a2bd04dfd810
 
 
 
-#EXTINF:0🏅tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"group-title="✔️EVENTOS✔️",🥎Wimbledon🥎                                                                                               
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
 
 #EXTINF:0🏅tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"group-title="✔️EVENTOS✔️",🥎Wimbledon🥎                                                                                               
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -78,14 +77,16 @@ http://127.0.0.1:6878/ace/getstream?id=c6a824a81b36f6c3529826477caf2ad94b45776d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=cf5327fe9c962a29dfff3868f4349ff2b0b4662f
 
-
-#EXTINF:-1🏅tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_4.png" tvg-id="M+ Deportes 4"group-title="✔️EVENTOS✔️",🥎Wimbledon🥎                                                                                                
+#EXTINF:0🏅tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"group-title="✔️EVENTOS✔️",🥎Wimbledon🥎                                                                                               
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=4abe06c5cce7cb3c6bef2c3bccaafefd3299794f
+http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
 
-#EXTINF:-1🏅tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_4.png" tvg-id="M+ Deportes 4"group-title="✔️EVENTOS✔️",🥎Wimbledon🥎                                                                                                
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=7bede102385c65a545db531af476ef18c31f6258
+
+
+
+
+
+
 
 
 #EXTINF:-1🏅tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_5.png" tvg-id="M+ Deportes 5"group-title="✔️EVENTOS✔️",🥎Wimbledon🥎                                                                                                
@@ -132,6 +133,13 @@ http://127.0.0.1:6878/ace/getstream?id=60d362ac493aebcf82ec88f2f617d24cec5632a0
 
 
 
+#EXTINF:-1🏅tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_4.png" tvg-id="M+ Deportes 4"group-title="✔️EVENTOS✔️",🎾PREMIER PADEL🎾                                                                                                
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=4abe06c5cce7cb3c6bef2c3bccaafefd3299794f
+
+#EXTINF:-1🏅tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_4.png" tvg-id="M+ Deportes 4"group-title="✔️EVENTOS✔️",🎾PREMIER PADEL🎾                                                                                               
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=7bede102385c65a545db531af476ef18c31f6258
 
 
 

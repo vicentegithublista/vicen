@@ -229,9 +229,7 @@ http://127.0.0.1:6878/ace/getstream?id=414222dc7b69a626f29eb964450dae44b3bc9b36
 http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 
 
-#EXTINF:-1📺tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" tvg-id="La 1 HD"group-title="✔️EVENTOS✔️",🇵🇹Portugal⚽️España🇪🇸                                                                                                FIFA 8º🏆21:00🏆6/07                                      
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=979d3b873871a5a9a56d3eb481ca77b707e01102
+
 
 #EXTINF:-1📺tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" tvg-id="La 1 HD"group-title="✔️EVENTOS✔️",🇵🇹Portugal⚽️España🇪🇸                                                                                               FIFA 8º🏆21:00🏆6/07                                       
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -547,7 +545,28 @@ CUARTOS
 
 
 
+#EXTINF:-1📺tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" tvg-id="La 1 HD"group-title="♉ONETORO♉",FERIA DE PAMPLONA                                                                                               07:15♉Encierro                                        
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 
+
+#EXTINF:-1 tvg-id="ETB1.TV" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200"group-title="♉ONETORO♉",FERIA DE PAMPLONA                                                                                               07:15♉Encierro               
+https://cdn1.etbon.eus/etb1/index.m3u8
+
+#EXTINF:-1 tvg-id="ETB2.TV" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200"group-title="♉ONETORO♉",FERIA DE PAMPLONA                                                                                               07:15♉Encierro
+https://cdn1.etbon.eus/etb2/index.m3u8
+
+#EXTINF:-1 tvg-id="ETB1ON.TV" tvg-logo="https://play-lh.googleusercontent.com/GUW-ipQpsCCLhoJwWarfUDYO_vr3-5rpxhfipNSHAAvlaaWdfBwdUtVVUzs3PPyQzrSBVepKSqPzNAwDHvljII0=w200"group-title="♉ONETORO♉",FERIA DE PAMPLONA                                                                                               07:15♉Encierro
+https://cdn1.etbon.eus/etb1on/index.m3u8
+
+#EXTINF:-1 tvg-id="ETB2ON.TV" tvg-logo="https://play-lh.googleusercontent.com/GUW-ipQpsCCLhoJwWarfUDYO_vr3-5rpxhfipNSHAAvlaaWdfBwdUtVVUzs3PPyQzrSBVepKSqPzNAwDHvljII0=w200"group-title="♉ONETORO♉",FERIA DE PAMPLONA                                                                                               07:15♉Encierro
+https://cdn1.etbon.eus/etb2on/index.m3u8
+
+#EXTINF:-1 tvg-id="ETBON_Oca1.TV" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200"group-title="♉ONETORO♉",FERIA DE PAMPLONA                                                                                               07:15♉Encierro
+https://cdn1.etbon.eus/oc1/index.m3u8
+
+#EXTINF:-1 tvg-id="ETBON_Oca2.TV" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200"group-title="♉ONETORO♉",FERIA DE PAMPLONA                                                                                               07:15♉Encierro
+https://cdn1.etbon.eus/oc2/index.m3u8
 
 
 

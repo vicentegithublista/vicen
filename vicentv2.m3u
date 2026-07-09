@@ -232,15 +232,6 @@ CUARTOS
 
 
 
-
-
-
-
-
-
-
-
-
 #EXTINF:-1📺tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" tvg-id="La 1 HD"group-title="♉TOROS♉",FERIA DE PAMPLONA                                                                                               07:15🐂Encierro                                        
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
@@ -286,15 +277,45 @@ http://127.0.0.1:6878/ace/getstream?id=536c879d8a914e43141d778b3567fa017c9f5eeb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=536c879d8a914e43141d778b3567fa017c9f5eeb
 
+#EXTINF:-1♉tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" tvg-id="Onetoro" ,group-title="♉TOROS♉",ONETORO (Opcion 1)                                                                                                
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=889db6c87a28fd5b3092333b63bcdddf05d26216
 
 #EXTINF:-1♉tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" tvg-id="Onetoro" ,group-title="♉TOROS♉",ONETORO (Opcion 2)                                                                                                
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=536c879d8a914e43141d778b3567fa017c9f5eeb
 
+#EXTINF:-1♉tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" tvg-id="Onetoro" ,group-title="♉TOROS♉",ONETORO (Opcion 3)                                                                                                
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://moonlight.wideiptv.top/OneToro/playlist.m3u8?token=222660cedbf5fb70bf1528df8dd3a28a2f1988f6-ef80f2a63ce087ce923b135736b89e26-1720985167-1720974367
 
 
 
-536c879d8a914e43141d778b3567fa017c9f5eeb
+#EXTINF:-1♉tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" tvg-id="Onetoro" ,group-title="♉TOROS♉",ONETORO (Opcion 4)                                                                                                
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://arsapilily.blogspot.com/2023/08/mundovaca.html
+
+
+#EXTINF:-1♉tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" tvg-id="Onetoro" ,group-title="♉TOROS♉",ONETORO (Opcion 5)                                                                                                
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://miztv.shop/tele/stream-749.php
+
+
+#EXTINF:-1♉tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" tvg-id="Onetoro" ,group-title="♉TOROS♉",ONETORO (Opcion 6)                                                                                                
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://1.deporte-libre.org/stream/stream-749.php
+
+
+#EXTINF:-1♉tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" tvg-id="Onetoro" ,group-title="♉TOROS♉",ONETORO (Opcion 7)                                                                                                
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://tele-libre.com/en-vivo-online/toros/embed.php
+
+
+#EXTINF:-1♉tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" tvg-id="Onetoro" ,group-title="♉TOROS♉",ONETORO (Opcion 8)                                                                                                
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://fullchannels.online/canales/toros/
+
+
 
 
 #EXTINF:0⚽️tvg-id="DAZN Mundial HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial.png"group-title="⚽FUTBOL⚽",DAZN MUNDIAL                                       

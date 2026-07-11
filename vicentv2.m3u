@@ -297,12 +297,6 @@ http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 
 
 
-#EXTINF:-1📺tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" tvg-id="La 1 HD"group-title="♉TOROS♉",FERIA DE PAMPLONA                                                                                               07:15🐂Encierro                                        
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
-
-#EXTINF:-1 tvg-id="etb1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/etb1.png"group-title="♉TOROS♉",FERIA DE PAMPLONA                                                                                               07:15🐂Encierro               
-https://cdn1.etbon.eus/etb1/index.m3u8
 
 
 
@@ -316,37 +310,20 @@ https://cdn1.etbon.eus/etb1/index.m3u8
 
 
 
-#EXTINF:-1♉tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png"tvg-id="Onetoro" ,group-title="♉TOROS♉",FERIA DE PAMPLONA                                                                                               11/07♉18:30♉Corrida 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=889db6c87a28fd5b3092333b63bcdddf05d26216
 
-
-#EXTINF:-1♉tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/%C3%80%20Punt.png"tvg-id="À Punt"group-title="♉TOROS♉",FERIA DE PAMPLONA                                                                                               11/07♉18:30♉Corrida 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/777.m3u8
-
-
-
-
-#EXTINF:-1♉tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" tvg-id="Onetoro" ,group-title="♉TOROS♉",FERIA DE PAMPLONA                                                                                               12/07♉18:30♉Corrida  
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=536c879d8a914e43141d778b3567fa017c9f5eeb
-
-#EXTINF:-1♉tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" tvg-id="Onetoro" ,group-title="♉TOROS♉",FERIA DE PAMPLONA                                                                                               13/07♉18:30♉Corrida  
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=536c879d8a914e43141d778b3567fa017c9f5eeb
-
-#EXTINF:-1♉tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" tvg-id="Onetoro" ,group-title="♉TOROS♉",MAESTRANZA DE SEVILLA                                                                                                 16/07♉21:00♉Novillada 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=536c879d8a914e43141d778b3567fa017c9f5eeb
-
-#EXTINF:-1♉tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" tvg-id="Onetoro" ,group-title="♉TOROS♉",ONETORO (Opcion 1)                                                                                                
+#EXTINF:-1♉tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" tvg-id="Onetoro" ,group-title="♉TOROS♉",ONETORO (Vodafone)                                                                                                
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=889db6c87a28fd5b3092333b63bcdddf05d26216
 
 #EXTINF:-1♉tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" tvg-id="Onetoro" ,group-title="♉TOROS♉",ONETORO (Opcion 2)                                                                                                
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=536c879d8a914e43141d778b3567fa017c9f5eeb
+
+#EXTINF:-1♉tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/%C3%80%20Punt.png"tvg-id="À Punt"group-title="♉TOROS♉",À Punt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/777.m3u8
+
+
 
 
 

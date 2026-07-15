@@ -7035,24 +7035,27 @@ https://cloud3-atres-st-ams.atresmedia.com/geo/assets6/2020/11/17/06B01D11-8608-
 
 
 
+#EXTINF:-1📺tvg-logo="https://es.wikipedia.org/wiki/Archivo:La_1_HD_TVE.png" tvg-id="La 1 HD",group-title="📺LISTA📺",La 1 UHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=02622fa2fab63847d88dc14fd9fa5c2fc35de8a8
 
 
-#EXTINF:-1📺tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" tvg-id="La 1 HD",group-title="📺LISTA📺",La 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.
 
-#EXTINF:-1📺tvg-id="La2.TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kqgHWySi5xprs1VFCNCX0IKNT8yXBLZC43JMoB8j0JUto=s200" gr0 Safari/537.36 CrKey/1.44.191160
-https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8oup-title="📺LISTA📺", tvg-name="La 2",La 2
+#EXTINF:-1📺tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png" tvg-id="La 2",group-title="📺LISTA📺",La 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://d1yebix5w29z3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-haqfba85d1gvv/La2ES.m3u8
 
 #EXTINF:-1 tvg-id=""group-title="📺LISTA📺",ANTENA 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/646.m3u8
 
 
 #EXTINF:-1 tvg-id=""group-title="📺LISTA📺",LA SEXTA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/650.m3u8
 
 #EXTINF:-1 tvg-id=""group-title="📺LISTA📺",CASTILLA LA MANCHA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/132291.m3u8
 
 

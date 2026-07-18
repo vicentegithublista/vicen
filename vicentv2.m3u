@@ -25,23 +25,125 @@ refresh="3600"
 #EXTGRP: group-title="TDT" group-logo="https://i.ibb.co/j9xn42jB/logo-tdt.png"
 
 
+Programación de Eventos Deportivos by @Quillito
+
+📆 Sábado 18 de Julio de 2026 📆
+
+🏆 Número total de eventos hoy: 19
+
+🏉 Rugby - 09:00
+🏆 NATIONS CHAMPIONSHIP
+🆚 Nueva Zelanda - Irlanda
+🖥 M+ Vamos
+
+🏃‍♀️ Atletismo - 09:00
+🏆 CAMPEONATO DE EUROPA SUB-18
+🆚 Sesión Matinal (Rieti)
+🖥 Teledeporte
+
+🎾 Tenis - 11:00
+🏆 ATP GSTAAD
+🆚 Collignon - Cerúndolo
+🖥 M+ Deportes 2
+
+🏌️‍♀️ Golf - 11:00
+🏆 THE OPEN CHAMPIONSHIP
+🆚 Jornada 3
+🖥 M+ Golf
+
+🏆 Padel - 12:00
+🏆 PREMIER PADEL
+🆚 Málaga (Semifinales)
+🖥 M+ Deportes 3
+
+🎾 Tenis - 13:00
+🏆 ATP BASTAD
+🆚 Vallejo - Darderi
+🖥 M+ Deportes
+
+⚽️ Fútbol - 13:35
+🏆 SUPERLIGA CHINA
+🆚 Dalian Yingbo - Shandong Taishan
+🖥 GOL
+
+🎾 Tenis - 14:00
+🏆 ATP GSTAAD
+🆚 Shevchenko - Tsitsipas
+🖥 M+ Deportes 2
+
+🚴‍♂️ Ciclismo - 14:45
+🏆 TOUR DE FRANCIA
+🆚 Etapa 14: Mulhouse - Le Markstein
+🖥 Teledeporte
+
+🏃‍♀️ Atletismo - 15:00
+🏆 DIAMOND LEAGUE
+🆚 Londres
+🖥 M+ Vamos
+
+🎾 Tenis - 15:00
+🏆 ATP BASTAD
+🆚 Rublev - Tabilo
+🖥 M+ Deportes
+
+🏀 Baloncesto - 17:30
+🏆 MUNDIAL SUB-17 FEMENINO
+🆚 Australia - España
+🖥 M+ Baloncesto
+
+⚽️ Fútbol - 18:00
+🏆 PRETEMPORADA
+🆚 Girona FC - Al-Qadisiya
+🖥 Esport 3
+
+🎾 Tenis - 19:00
+🏆 ATP UMAG
+🆚 Mérida - Dzumhur
+🖥 M+ Deportes 2
+
+⚽️ Fútbol - 20:00
+🏆 PRETEMPORADA
+🆚 UE Olot - RCD Espanyol
+🖥 Esport 3
+
+🥊 Boxeo - 20:00
+🏆 PESO WELTER
+🆚 Harlem Eubank vs David Papot
+🖥 DAZN 1
+
+🏀 Baloncesto - 20:30
+🏆 MUNDIAL SUB-17 FEMENINO
+🆚 Canadá - Estados Unidos
+🖥 M+ Baloncesto
+
+🏉 Rugby - 21:00
+🏆 NATIONS CHAMPIONSHIP
+🆚 Argentina - Inglaterra
+🖥 Movistar Plus
+
+⚽️ Fútbol - 23:00
+🏆 CAMPEONATO DEL MUNDO
+🆚 Francia - Inglaterra
+🖥 LA 1
 
 
 
 
-#EXTINF:-1🏅tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD"group-title="✔️EVENTOS✔️",⛳Open Britanico⛳                                                                                          
+
+
+#EXTINF:-1🏅tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD"group-title="✔️EVENTOS✔️",⛳Open Britanico⛳                                                                                             Desde las 7:00                                                                                         
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=8121478d3d3e563ad6b98018bc1c0aeb2f6166eb
 
-#EXTINF:-1🏅tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD"group-title="✔️EVENTOS✔️",⛳Open Britanico⛳ 
+#EXTINF:-1🏅tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD"group-title="✔️EVENTOS✔️",⛳Open Britanico⛳                                                                                             Desde las 7:00 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=9bb2a7dc6c6a296609df8cc50e742a78194f7530
 
-#EXTINF:-1🏅tvg-logo="https://i.ibb.co/Vp04N3pT/golf2.png" tvg-id="M+ Golf 2"group-title="✔️EVENTOS✔️",⛳Open Britanico⛳
+#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%202.png" tvg-id="M+ Golf 2 HD"group-title="✔️EVENTOS✔️",⛳Open Britanico⛳                                                                                             Desde las 8:30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=882074140fca664e119a43294afa2fb4a64917ef
 
-#EXTINF:-1🏅tvg-logo="https://i.ibb.co/Vp04N3pT/golf2.png" tvg-id="M+ Golf 2"group-title="✔️EVENTOS✔️",⛳Open Britanico⛳ 
+#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%202.png" tvg-id="M+ Golf 2 HD"group-title="✔️EVENTOS✔️",⛳Open Britanico⛳                                                                                             Desde las 8:30 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=ac321484243571f59e077f2a2521e648dc0c7b03
 
@@ -56,48 +158,25 @@ http://127.0.0.1:6878/ace/getstream?id=ac321484243571f59e077f2a2521e648dc0c7b03
 
 
 
-#EXTINF:0🏅tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD"group-title="✔️EVENTOS✔️",🎾PADEL MALAGA🎾
+#EXTINF:0🏅tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD"group-title="✔️EVENTOS✔️",🎾PADEL🎾                                                                                          MALAGA 12:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
 
-#EXTINF:0🏅tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD"group-title="✔️EVENTOS✔️",🎾PADEL MALAGA🎾
+#EXTINF:0🏅tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD"group-title="✔️EVENTOS✔️",🎾PADEL🎾                                                                                          MALAGA 12:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=8686522bd5d0b123cbc94ad4a12f2d3a18492479
 
 
-#EXTINF:0🏅tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"group-title="✔️EVENTOS✔️",🎾PADEL MALAGA🎾
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=7f8b4f57bf234510d3f607492508d68167d4b0ab
 
-#EXTINF:0🏅tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"group-title="✔️EVENTOS✔️",🎾PADEL MALAGA🎾
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=6e031aed136bf97d8667fcd5fc49c73256928281
-
-#EXTINF:0🏅tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"group-title="✔️EVENTOS✔️",🎾PADEL MALAGA🎾
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=cf5327fe9c962a29dfff3868f4349ff2b0b4662f
-
-#EXTINF:0🏅tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"group-title="✔️EVENTOS✔️",🎾PADEL MALAGA🎾
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=c6a824a81b36f6c3529826477caf2ad94b45776d
-
-#EXTINF:-1🏅tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_2.png" tvg-id="M+ Deportes 2 HD",group-title="✔️EVENTOS✔️",🎾PADEL MALAGA🎾
+#EXTINF:-1🏅tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_2.png" tvg-id="M+ Deportes 2 HD",group-title="✔️EVENTOS✔️",🥎TENIS🥎                                                                                  Gstaad 11:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=fd2aea1aa8fcddebfda1644118c6806230a1d539
 
-#EXTINF:-1🏅tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_2.png" tvg-id="M+ Deportes 2 HD",group-title="✔️EVENTOS✔️",🎾PADEL MALAGA🎾
+#EXTINF:-1🏅tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_2.png" tvg-id="M+ Deportes 2 HD",group-title="✔️EVENTOS✔️",🥎TENIS🥎                                                                                  Gstaad 11:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=6b15368775693c33c49fab02e7900c1976a5da90
 
-#EXTINF:-1🏅tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_2.png" tvg-id="M+ Deportes 2 HD",group-title="✔️EVENTOS✔️",🎾PADEL MALAGA🎾
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=3ee6a0b0e3cacea68107f61bf398f651d8159eed
-
-#EXTINF:-1🏅tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_2.png" tvg-id="M+ Deportes 2 HD",group-title="✔️EVENTOS✔️",🎾PADEL MALAGA🎾
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=8cd8fd69c6755ec452e9e74b33a0d1a653452191
-
-#EXTINF:-1🏅tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_2.png" tvg-id="M+ Deportes 2 HD",group-title="✔️EVENTOS✔️",🎾PADEL MALAGA🎾
+#EXTINF:-1🏅tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_2.png" tvg-id="M+ Deportes 2 HD",group-title="✔️EVENTOS✔️",🥎TENIS🥎                                                                                  Gstaad 11:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=3774d8feab016ca766b35ea8488e7514ca30e0ee
 
@@ -114,29 +193,29 @@ http://127.0.0.1:6878/ace/getstream?id=48a589dbeab3544662fafd79888aada7d834cfe9
 
 
 
-#EXTINF:0🏁tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="✔️EVENTOS✔️",🏎️F1 AUSTRIA🏎️                                                                                   
+#EXTINF:0🏁tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="✔️EVENTOS✔️",🏎️F1 SPA_BELGICA🏎️                                                                             Libres 12:30/Clas. 16:00                                                                                   
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=02be332ebead0484a5354fa25e97b6833b8b129e
 
-#EXTINF:0🏁tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="✔️EVENTOS✔️",🏎️F1 AUSTRIA🏎️                                                                                     
+#EXTINF:0🏁tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="✔️EVENTOS✔️",🏎️F1 SPA_BELGICA🏎️                                                                             Libres 12:30/Clas. 16:00                                                                                     
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=f8b0eae8fda973cf426311541d1668aa592f0a8c
 
-#EXTINF:0🏁tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="✔️EVENTOS✔️",🏎️F1 AUSTRIA🏎️                                                                                    
+#EXTINF:0🏁tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="✔️EVENTOS✔️",🏎️F1 SPA_BELGICA🏎️                                                                             Libres 12:30/Clas. 16:00                                                                                    
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=ee4646aae30d862e0d9d453998a344a60aaa7cde
 
-#EXTINF:0🏁tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="✔️EVENTOS✔️",🏎️F1 AUSTRIA🏎️                                                                                     
+#EXTINF:0🏁tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="✔️EVENTOS✔️",🏎️F1 SPA_BELGICA🏎️                                                                             Libres 12:30/Clas. 16:00                                                                                     
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=02be332ebead0484a5354fa25e97b6833b8b129e
 
 
 
-#EXTINF:0🏁tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="✔️EVENTOS✔️",🏎️F1 AUSTRIA🏎️                                                                                    
+#EXTINF:0🏁tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="✔️EVENTOS✔️",🏎️F1 SPA_BELGICA🏎️                                                                             Libres 12:30/Clas. 16:00                                                                                    
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 
-#EXTINF:0🏁tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="✔️EVENTOS✔️",🏎️F1 AUSTRIA🏎️                                                                                    
+#EXTINF:0🏁tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="✔️EVENTOS✔️",🏎️F1 SPA_BELGICA🏎️                                                                             Libres 12:30/Clas. 16:00                                                                                    
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 
@@ -676,6 +755,25 @@ http://127.0.0.1:6878/ace/getstream?id=67121cbb722b88ce4489717e9a87a26f60184ec9
 #EXTINF:0🏅tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"group-title="🏅DEPORTES🏅",M.DEPORTES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
+
+
+#EXTINF:0🏅tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"group-title="🏅DEPORTES🏅",M.DEPORTES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=7f8b4f57bf234510d3f607492508d68167d4b0ab
+
+#EXTINF:0🏅tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"group-title="🏅DEPORTES🏅",M.DEPORTES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=6e031aed136bf97d8667fcd5fc49c73256928281
+
+#EXTINF:0🏅tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"group-title="🏅DEPORTES🏅",M.DEPORTES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=cf5327fe9c962a29dfff3868f4349ff2b0b4662f
+
+#EXTINF:0🏅tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"group-title="🏅DEPORTES🏅",M.DEPORTES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=c6a824a81b36f6c3529826477caf2ad94b45776d
+
+
 
 
 #EXTINF:-1🏅tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_2.png" tvg-id="M+ Deportes 2 HD",group-title="🏅DEPORTES🏅",M.DEPORTES 2

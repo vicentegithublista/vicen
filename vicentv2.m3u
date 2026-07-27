@@ -31,33 +31,57 @@ refresh="3600"
 
 
 
-EXTINF:-1📺tvg-logo="https://es.wikipedia.org/wiki/Archivo:La_1_HD_TVE.png" tvg-id="La 1 HD"group-title="✔️EVENTOS✔️",TOUR DE FRANCIA                                                                                                           Etapa🚴20 
+#EXTINF:-1📺tvg-logo="https://es.wikipedia.org/wiki/Archivo:La_1_HD_TVE.png" tvg-id="La 1 HD"group-title="✔️EVENTOS✔️",La 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=23c952c5b375715db822f2783803c6e28fab0e34
 
-EXTINF:-1📺tvg-logo="https://es.wikipedia.org/wiki/Archivo:La_1_HD_TVE.png" tvg-id="La 1 HD"group-title="✔️EVENTOS✔️",TOUR DE FRANCIA                                                                                                            Etapa🚴20 
+#EXTINF:-1📺tvg-logo="https://es.wikipedia.org/wiki/Archivo:La_1_HD_TVE.png" tvg-id="La 1 HD"group-title="✔️EVENTOS✔️",La 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=da38a21a9509be8c03b0fdb539cb1485843330c3
 
 
 
 
-EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte"group-title="✔️EVENTOS✔️",TOUR DE FRANCIA                                                                                                          Etapa🚴20 
+#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte"group-title="✔️EVENTOS✔️",Teledeporte 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=77cf022557c56cdf8d8115f50e61f846ad72ee05
 
 
 
 
-EXTINF:-1✔️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" tvg-id="Eurosport 1 HD"group-title="✔️EVENTOS✔️",TOUR DE FRANCIA                                                                                                          Etapa🚴20 
+
+
+
+
+
+
+
+
+#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" tvg-id="Eurosport 1 HD",group-title="✔️EVENTOS✔️",🄴🅄🅁🄾🅂🄿🄾🅁🅃 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=8522af51ae7189b12effabbb448dcb707195ce1a
+
+#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" tvg-id="Eurosport 1 HD",group-title="✔️EVENTOS✔️",🄴🅄🅁🄾🅂🄿🄾🅁🅃 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=48a589dbeab3544662fafd79888aada7d834cfe9
+
+#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" tvg-id="Eurosport 1 HD",group-title="✔️EVENTOS✔️",🄴🅄🅁🄾🅂🄿🄾🅁🅃 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153
+
+#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" tvg-id="Eurosport 1 HD",group-title="✔️EVENTOS✔️",🄴🅄🅁🄾🅂🄿🄾🅁🅃 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=62a5750be4d2218b1064f83afaac4770fd92350d
+
+#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" tvg-id="Eurosport 1 HD",group-title="✔️EVENTOS✔️",🄴🅄🅁🄾🅂🄿🄾🅁🅃 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766
 
-EXTINF:-1✔️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" tvg-id="Eurosport 1 HD"group-title="✔️EVENTOS✔️",TOUR DE FRANCIA                                                                                                           Etapa🚴20 
+#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" tvg-id="Eurosport 1 HD",group-title="✔️EVENTOS✔️",🄴🅄🅁🄾🅂🄿🄾🅁🅃 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 
-EXTINF:-1✔️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" tvg-id="Eurosport 1 HD"group-title="✔️EVENTOS✔️",TOUR DE FRANCIA                                                                                                            Etapa🚴20 
+#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" tvg-id="Eurosport 1 HD",group-title="✔️EVENTOS✔️",🄴🅄🅁🄾🅂🄿🄾🅁🅃 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=314eb626864faf52e01624361bd6906b5406127f
 
@@ -65,50 +89,33 @@ http://127.0.0.1:6878/ace/getstream?id=314eb626864faf52e01624361bd6906b5406127f
 
 
 
-EXTINF:0🏁tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="✔️EVENTOS✔️",MUNDIAL F1                                                                                                          GP de Hungria                                                                                   
+#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" tvg-id="Eurosport 2 HD",group-title="✔️EVENTOS✔️",🄴🅄🅁🄾🅂🄿🄾🅁🅃 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=ee4646aae30d862e0d9d453998a344a60aaa7cde
+http://127.0.0.1:6878/ace/getstream?id=c6180a86440004748e2abe34d6f31eed8a218a3a
 
-EXTINF:0🏁tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="✔️EVENTOS✔️",MUNDIAL F1                                                                                                          GP de Hungria                                                                                   
+#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" tvg-id="Eurosport 2 HD",group-title="✔️EVENTOS✔️",🄴🅄🅁🄾🅂🄿🄾🅁🅃 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=0a81ba020d498aca1248e0591d8ffab99eb80bd4
+http://127.0.0.1:6878/ace/getstream?id=7152d5f5fdb2184c88c2bb433d8b8f619cdc16b2
 
-
-EXTINF:0🏁tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="✔️EVENTOS✔️",MUNDIAL F1                                                                                                          GP de Hungria                                                                                   
+#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" tvg-id="Eurosport 2 HD",group-title="✔️EVENTOS✔️",🄴🅄🅁🄾🅂🄿🄾🅁🅃 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
+http://127.0.0.1:6878/ace/getstream?id=32fcf8e1513049ef9f90d08ba9040fe34b01d9fd
 
-EXTINF:0🏁tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="✔️EVENTOS✔️",MUNDIAL F1                                                                                                          GP de Hungria                                                                                   
+#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" tvg-id="Eurosport 2 HD",group-title="✔️EVENTOS✔️",🄴🅄🅁🄾🅂🄿🄾🅁🅃 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+http://127.0.0.1:6878/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0
 
-EXTINF:-1🏅tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_2.png" tvg-id="M+ Deportes 2 HD"group-title="✔️EVENTOS✔️",M.DEPORTES 2
+#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" tvg-id="Eurosport 2 HD",group-title="✔️EVENTOS✔️",🄴🅄🅁🄾🅂🄿🄾🅁🅃 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5
+http://127.0.0.1:6878/ace/getstream?id=7aa9cc819c6fa781dea6b4de3aa5393258b766d8
 
-EXTINF:-1🏅tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_2.png" tvg-id="M+ Deportes 2 HD"group-title="✔️EVENTOS✔️",M.DEPORTES 2
+#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" tvg-id="Eurosport 2 HD",group-title="✔️EVENTOS✔️",🄴🅄🅁🄾🅂🄿🄾🅁🅃 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=8cd8fd69c6755ec452e9e74b33a0d1a653452191
+http://127.0.0.1:6878/ace/getstream?id=ac675c82d6dfd4a201532c18b42e48dacb7c32c6
 
-
-EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png"tvg-id="M+ Liga de Campeones HD"group-title="✔️EVENTOS✔️",M+ Liga de Campeones                                                                                                                                                         
+#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" tvg-id="Eurosport 2 HD",group-title="✔️EVENTOS✔️",🄴🅄🅁🄾🅂🄿🄾🅁🅃 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
-
-
-
-
-
-
-EXTINF:0🏅tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD"group-title="✔️EVENTOS✔️",M.VAMOS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=476b6f6583517bd75c15c4663bf45fab7c8da9cf
-
-
-
-EXTINF:0🏅tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD"group-title="✔️EVENTOS✔️",M.VAMOS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
+http://127.0.0.1:6878/ace/getstream?id=f5908690485ae2facecf3074446ba4315f07a193
 
 
 
@@ -358,6 +365,9 @@ http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
 
 
 
+
+
+
 #EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png"tvg-id="M+ Liga de Campeones 2 HD"group-title="⚽FUTBOL⚽",M+ Liga de Campeones 2                
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
@@ -556,6 +566,15 @@ http://127.0.0.1:6878/ace/getstream?id=8f982a0d6e3196c12d0034142b65008321150f7c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
 
+#EXTINF:0🏅tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD"group-title="🏅DEPORTES🏅",M.VAMOS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=476b6f6583517bd75c15c4663bf45fab7c8da9cf
+
+
+
+
+
+
 
 
 
@@ -678,10 +697,17 @@ http://127.0.0.1:6878/ace/getstream?id=ac321484243571f59e077f2a2521e648dc0c7b03
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=48a589dbeab3544662fafd79888aada7d834cfe9
 
+#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" tvg-id="Eurosport 1 HD",group-title="🏅DEPORTES🏅",🄴🅄🅁🄾🅂🄿🄾🅁🅃 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766
 
+#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" tvg-id="Eurosport 1 HD",group-title="🏅DEPORTES🏅",🄴🅄🅁🄾🅂🄿🄾🅁🅃 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 
-
-
+#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" tvg-id="Eurosport 1 HD",group-title="🏅DEPORTES🏅",🄴🅄🅁🄾🅂🄿🄾🅁🅃 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=314eb626864faf52e01624361bd6906b5406127f
 
 
 
@@ -859,6 +885,13 @@ http://127.0.0.1:6878/ace/getstream?id=d2374e2375a4275738e0dbed2f47d0114ad1cb64&
 
 
 
+
+
+
+
+
+
+
 #EXTINF:0🏁tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2e554vbpw7g0ykhl0rziuabxl/fill/center/top/none/100/0/0/png/image/25/g" tvg-id="DAZN MotoGP"group-title="🏁MOTOR🏁",DAZN MotoGP                                                                                                     
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=2a05a020dfe97aaa0665bb7551022868b2a88b36
@@ -893,6 +926,15 @@ http://127.0.0.1:6878/ace/getstream?id=063ee4ffa4676940f14a85e24f928cc1c9d6ae2d
 
 
 
+
+
+#EXTINF:0🏁tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="🏁MOTOR🏁",DAZN F1                                                                                     
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=ee4646aae30d862e0d9d453998a344a60aaa7cde
+
+#EXTINF:0🏁tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="🏁MOTOR🏁",DAZN F1                                                                                     
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=0a81ba020d498aca1248e0591d8ffab99eb80bd4
 
 #EXTINF:0🏁tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="🏁MOTOR🏁",DAZN F1                                                                                     
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160

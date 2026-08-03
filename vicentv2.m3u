@@ -27,51 +27,14 @@ refresh="3600"
 #EXTGRP: group-title="TDT" group-logo="https://i.ibb.co/j9xn42jB/logo-tdt.png"
 
 
-#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte"group-title="✔️EVENTOS✔️",SPRINT OLÍMPICO                                                                                                                              Piragüismo - 10:15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=77cf022557c56cdf8d8115f50e61f846ad72ee05
 
-
-
-#EXTINF:0🏅tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD"group-title="✔️EVENTOS✔️",PREMIER PADEL                                                                                                                Pretoria (Finales) 13:00
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
-
-
-
-
-
-#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte"group-title="✔️EVENTOS✔️",CIRCUITO DE GETXO                                                                                                                             Ciclismo - 15:00
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=77cf022557c56cdf8d8115f50e61f846ad72ee05
-
-
-#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte"group-title="✔️EVENTOS✔️",CAMPEONATO DE EUROPA                                                                                                                          Artística - 16:00
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=77cf022557c56cdf8d8115f50e61f846ad72ee05
-
-
-
-#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte"group-title="✔️EVENTOS✔️",TOUR FEMENINO                                                                                                                          Ciclismo - 16:40
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=77cf022557c56cdf8d8115f50e61f846ad72ee05
-
-#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte"group-title="✔️EVENTOS✔️",CAMPEONATO DE EUROPA                                                                                                                          Saltos - 19:00
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=77cf022557c56cdf8d8115f50e61f846ad72ee05
-
-
-
-
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png"tvg-id="M+ Liga de Campeones HD"group-title="✔️EVENTOS✔️",TORNEO CLAUSURA                                                                                                Fútbol - 22:00                                                         
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png"tvg-id="M+ Liga de Campeones HD"group-title="✔️EVENTOS✔️",M+ Liga de Campeones                           
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
 
 
 
-#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" tvg-id="Eurosport 1 HD",group-title="✔️EVENTOS✔️",🄴🅄🅁🄾🅂🄿🄾🅁🅃 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153
+
 
 #EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" tvg-id="Eurosport 1 HD",group-title="✔️EVENTOS✔️",🄴🅄🅁🄾🅂🄿🄾🅁🅃 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -81,10 +44,6 @@ http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=314eb626864faf52e01624361bd6906b5406127f
 
-
-#EXTINF:-1🏅tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_2.png" tvg-id="M+ Deportes 2 HD",group-title="✔️EVENTOS✔️",M.DEPORTES 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5
 
 
 

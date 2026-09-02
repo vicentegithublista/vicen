@@ -43,9 +43,6 @@ http://127.0.0.1:6878/ace/getstream?id=4048be88f84250719e864868e537612f389df48e
 
 
 
-#EXTINF:0🏅tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"group-title="✔️EVENTOS✔️",02.09🎾🇺🇸US                                                                                        24/07🎾🇺🇸OPEN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=7f8b4f57bf234510d3f607492508d68167d4b0ab
 
 
 
@@ -60,9 +57,6 @@ http://127.0.0.1:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=fd2aea1aa8fcddebfda1644118c6806230a1d539
 
-#EXTINF:-1🏅tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_2.png" tvg-id="M+ Deportes 2 HD"group-title="✔️EVENTOS✔️",02.09🎾🇺🇸US                                                                                        24/07🎾🇺🇸OPEN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=8cd8fd69c6755ec452e9e74b33a0d1a653452191
 
 
 
@@ -71,10 +65,6 @@ http://127.0.0.1:6878/ace/getstream?id=8cd8fd69c6755ec452e9e74b33a0d1a653452191
 http://127.0.0.1:6878/ace/getstream?id=67121cbb722b88ce4489717e9a87a26f60184ec9
 
 
-
-#EXTINF:-1🏅tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_8.png" tvg-id="M+ Deportes 8"group-title="✔️EVENTOS✔️",02.09🎾🇺🇸US                                                                                        24/07🎾🇺🇸OPEN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=f31d1f85570b58be8d5ab6f4f2d0f3f9c815c35f
 
 
 AZN Baloncesto 720p *	9dd9cd78f0b08097a0ad290606dbbee999709fa5	DAZN Baloncesto (M73 O126)
@@ -9956,14 +9946,11 @@ https://cloud3-atres-st-ams.atresmedia.com/geo/assets6/2020/11/17/06B01D11-8608-
 #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (HD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png"group-title="📺LISTA📺",M+ LALIGA
 http://31.43.191.125:8080/live/VIP016271757660861641/a166af5a7a78/252.m3u8
 
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (HD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png"group-title="📺LISTA📺",M+ LALIGA
-http://31.43.191.125:8080/live/VIP016271757660861641/a166af5a7a78/253.m3u8
 
 #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (FHD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png"group-title="📺LISTA📺",M+ LALIGA
 http://31.43.191.125:8080/live/VIP016271757660861641/a166af5a7a78/254.m3u8
 
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (FHD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png"group-title="📺LISTA📺",M+ LALIGA
-http://31.43.191.125:8080/live/VIP016271757660861641/a166af5a7a78/97192.m3u8
+
 
 
 #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png"group-title="📺LISTA📺",DAZN LALIGA

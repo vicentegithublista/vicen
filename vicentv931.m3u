@@ -60,133 +60,59 @@ http://127.0.0.1:6878/ace/getstream?id=2a05a020dfe97aaa0665bb7551022868b2a88b36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Programación de Eventos Deportivos by @Quillito
-
-📆 Domingo 20 de Septiembre de 2026 📆
-
-🏆 Número total de eventos hoy: 38
-
-🥊 Boxeo - 02:00
-🏆 PESO SUPERLIGERO
-🆚 Isaac Cruz vs Néstor Bravo
-🖥 DAZN 2
-
-🏃‍♀️ Atletismo - 09:05
-🏆 CAMPEONATO DEL MUNDO
-🆚 Prueba en Ruta Medio Maratón (Copenhague)
-🖥 Teledeporte
-
-🏆 Motos - 11:00
-🏆 G.P. AUSTRIA
-🆚 Moto3 (Red Bull Ring)
-🖥 DAZN MotoGP
-
-⚽️ Fútbol - 12:00
-🏆 LIGA F
-🆚 Costa Adeje Tenerife - Sevilla
-🖥 Teledeporte
-
-⚽️ Fútbol - 12:00
-🏆 LIGA F
-🆚 Granada - Deportivo
-🖥 DAZN 2
-
-⚽️ Fútbol - 12:00
-🏆 1ª RFEF
-🆚 Alcorcón - Nàstic
-🖥 Movistar Primera Federación
-
-🏆 Motos - 12:15
-🏆 G.P. AUSTRIA
-🆚 Moto2 (Red Bull Ring)
-🖥 DAZN MotoGP
-
-⚽️ Fútbol - 12:30
-🏆 SERIE A
-🆚 Fiorentina - Nápoles
-🖥 Movistar Plus
-
-🏌️‍♀️ Golf - 13:00
-🏆 BMW PGA CHAMPIONSHIP
-🆚 Jornada 4
-🖥 M+ Golf
-
 ⚽️ Fútbol - 14:00
 🏆 LALIGA EA SPORTS
 🆚 Getafe - Málaga
 🖥 DAZN LALIGA 2
 
-⚽️ Fútbol - 14:00
-🏆 LALIGA HYPERMOTION
-🆚 Sabadell - Oviedo
-🖥 LALIGA TV HYPERMOTION
+#EXTINF:0⚽️tvg-id="DAZN LaLiga 2 HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga2.png"group-title="✔️EVENTOS✔️",20.09⚽🇪🇸Getafe                                                                         14:00⚽🇪🇸Málaga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=b63fcadc2390455d8a328f6c16b8b0a9adec21a3
 
-🏆 Motos - 14:00
-🏆 G.P. AUSTRIA
-🆚 MotoGP (Red Bull Ring)
-🖥 DAZN MotoGP
+#EXTINF:0⚽️tvg-id="DAZN LaLiga 2 HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga2.png"group-title="✔️EVENTOS✔️",20.09⚽🇪🇸Getafe                                                                         14:00⚽🇪🇸Málaga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=a70a1605f69c8379e04094df96922a42adfbb431
 
-⚽️ Fútbol - 15:00
-🏆 PREMIER LEAGUE
-🆚 Bournemouth - Liverpool
-🖥 DAZN 1
+#EXTINF:0⚽️tvg-id="DAZN LaLiga 2 HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga2.png"group-title="✔️EVENTOS✔️",20.09⚽🇪🇸Getafe                                                                         14:00⚽🇪🇸Málaga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=465075c02b7284f564911bd63d1c6f0a8d464be7
 
-⚽️ Fútbol - 15:00
-🏆 PREMIER LEAGUE
-🆚 Manchester City - Sunderland
-🖥 DAZN 2
-
-⚽️ Fútbol - 15:00
-🏆 PREMIER LEAGUE
-🆚 Leeds - Crystal Palace
-🖥 DAZN 3
-
-🚴‍♂️ Ciclismo - 15:00
-🏆 CAMPEONATO DEL MUNDO EN CARRETERA
-🆚 CRI Elite Individual (Montreal)
-🖥 Teledeporte
-
-⛵️ Vela - 15:30
-🏆 SAILGP
-🆚 Ginebra (Jornada 2)
-🖥 M+ Deportes
-
-⚽️ Fútbol - 16:00
-🏆 BRASILEIRAO
-🆚 Gremio - Palmeiras
-🖥 M+ Vamos 3
-
-⚽️ Fútbol - 16:00
-🏆 1ª RFEF
-🆚 Extremadura - Cultural
-🖥 Movistar Primera Federación
+#EXTINF:0⚽️tvg-id="DAZN LaLiga 2 HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga2.png"group-title="✔️EVENTOS✔️",20.09⚽🇪🇸Getafe                                                                         14:00⚽🇪🇸Málaga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=eb4975702ceadca7ed74f8707e17a9f55569dbb9
 
 ⚽️ Fútbol - 16:15
 🏆 LALIGA EA SPORTS
-🆚 Atlético de Madrid - Real Madrid
+🆚 AtléticoR.Madrid
 🖥 DAZN LALIGA
+
+#EXTINF:0⚽️tvg-id="DAZN LaLiga HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png"group-title="✔️EVENTOS✔️",20.09⚽🇪🇸Atlético                                                                          16:15⚽🇪🇸R.Madrid
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=9c75f1d190c518cfe0f236415b8dccc1f676ef3b
+
+#EXTINF:0⚽️tvg-id="DAZN LaLiga HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png"group-title="✔️EVENTOS✔️",20.09⚽🇪🇸Atlético                                                                          16:15⚽🇪🇸R.Madrid
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=7f9857c45764ef2c7cdfb619b89db3056a57a51f
+
+#EXTINF:0⚽️tvg-id="DAZN LaLiga HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png"group-title="✔️EVENTOS✔️",20.09⚽🇪🇸Atlético                                                                          16:15⚽🇪🇸R.Madrid
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=9c588ac92554746c489bc553773d959f6d2dfd8e
+
+#EXTINF:0⚽️tvg-id="DAZN LaLiga HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png"group-title="✔️EVENTOS✔️",20.09⚽🇪🇸Atlético                                                                          16:15⚽🇪🇸R.Madrid
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=9c75f1d190c518cfe0f236415b8dccc1f676ef3b
+
+#EXTINF:0⚽️tvg-id="DAZN LaLiga HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png"group-title="✔️EVENTOS✔️",20.09⚽🇪🇸Atlético                                                                          16:15⚽🇪🇸R.Madrid
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://goldtv.lat:8080/live/9C00D3211A9C/0D3211A9C9C0/406692.m3u
+
+#EXTINF:0⚽️tvg-id="DAZN LaLiga HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png"group-title="✔️EVENTOS✔️",20.09⚽🇪🇸Atlético                                                                          16:15⚽🇪🇸R.Madrid
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://goldtv.lat:8080/live/9C00D3211A9C/0D3211A9C9C0/406693.m3u
+
+
+
+
 
 ⚽️ Fútbol - 16:15
 🏆 LALIGA HYPERMOTION
@@ -296,34 +222,6 @@ http://127.0.0.1:6878/ace/getstream?id=0b5f802f2de6488b4023d0f05195486e19d81ed7
 
 
 
-⚽ Fútbol - 16:15
-🏆 LALIGA EA SPORTS
-🆚 Athletic - Alavés
-🖥 DAZN LALIGA
-
-#EXTINF:0⚽️tvg-id="DAZN LaLiga HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png"group-title="✔️EVENTOS✔️",19.09⚽🇪🇸Athletic                                                                          16:15⚽🇪🇸Alavés
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=9c75f1d190c518cfe0f236415b8dccc1f676ef3b
-
-#EXTINF:0⚽️tvg-id="DAZN LaLiga HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png"group-title="✔️EVENTOS✔️",19.09⚽🇪🇸Athletic                                                                          16:15⚽🇪🇸Alavés
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=7f9857c45764ef2c7cdfb619b89db3056a57a51f
-
-#EXTINF:0⚽️tvg-id="DAZN LaLiga HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png"group-title="✔️EVENTOS✔️",19.09⚽🇪🇸Athletic                                                                          16:15⚽🇪🇸Alavés
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=9c588ac92554746c489bc553773d959f6d2dfd8e
-
-#EXTINF:0⚽️tvg-id="DAZN LaLiga HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png"group-title="✔️EVENTOS✔️",19.09⚽🇪🇸Athletic                                                                          16:15⚽🇪🇸Alavés
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=9c75f1d190c518cfe0f236415b8dccc1f676ef3b
-
-#EXTINF:0⚽️tvg-id="DAZN LaLiga HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png"group-title="✔️EVENTOS✔️",19.09⚽🇪🇸Athletic                                                                          16:15⚽🇪🇸Alavés
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://goldtv.lat:8080/live/9C00D3211A9C/0D3211A9C9C0/406692.m3u
-
-#EXTINF:0⚽️tvg-id="DAZN LaLiga HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png"group-title="✔️EVENTOS✔️",19.09⚽🇪🇸Athletic                                                                          16:15⚽🇪🇸Alavés
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://goldtv.lat:8080/live/9C00D3211A9C/0D3211A9C9C0/406693.m3u
 
 
 

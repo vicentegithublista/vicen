@@ -10163,14 +10163,36 @@ https://cloud3-atres-st-ams.atresmedia.com/geo/assets6/2020/11/17/06B01D11-8608-
 
 #EXTINF:-1 tvg-id="La 1 HD" tvg-name="LA 1" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TVE.png" group-title="📺LISTA📺",LA 1
 https://emilyba.bid:443/live/@Victordevalm2/75MzvwGW8bEA/198457.ts
+
 #EXTINF:-1 tvg-id="La 1 HD" tvg-name="LA 1 TDT" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TVE.png" group-title="📺LISTA📺",LA 1 TDT
 https://emilyba.bid:443/live/@Victordevalm2/75MzvwGW8bEA/198458.ts
+
 #EXTINF:-1 tvg-id="La 1 HD" tvg-name="LA 1 UHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TVE.png" group-title="📺LISTA📺",LA 1 UHD
 https://emilyba.bid:443/live/@Victordevalm2/75MzvwGW8bEA/198459.ts
+
+#EXTINF:-1📺tvg-logo="https://es.wikipedia.org/wiki/Archivo:La_1_HD_TVE.png" tvg-id="La 1 HD"group-title="📺LISTA📺",La 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
+
+
+
 #EXTINF:-1 tvg-id="La 2" tvg-name="LA 2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/LA2.png" group-title="📺LISTA📺",LA 2
 https://emilyba.bid:443/live/@Victordevalm2/75MzvwGW8bEA/198460.ts
+
 #EXTINF:-1 tvg-id="La 2" tvg-name="LA 2 TDT" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/LA2.png" group-title="📺LISTA📺",LA 2 TDT
 https://emilyba.bid:443/live/@Victordevalm2/75MzvwGW8bEA/198461.ts
+
+#EXTINF:-1📺tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png" tvg-id="La 2",group-title="📺LISTA📺",La 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
+
+#EXTINF:-1📺tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png" tvg-id="La 2",group-title="📺LISTA📺",La 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15618
+
+
+
+
 #EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="ANTENA 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/A3.png" group-title="📺LISTA📺",ANTENA 3
 https://emilyba.bid:443/live/@Victordevalm2/75MzvwGW8bEA/198462.ts
 #EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="ANTENA 3 TDT" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/A3.png" group-title="📺LISTA📺",ANTENA 3 TDT
@@ -10189,10 +10211,6 @@ https://emilyba.bid:443/live/@Victordevalm2/75MzvwGW8bEA/198468.ts
 https://emilyba.bid:443/live/@Victordevalm2/75MzvwGW8bEA/198469.ts
 
 
-
-
-
-
 #EXTINF:-1♉tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" tvg-id="Onetoro"group-title="📺LISTA📺",ONETORO                                                                                                                                                                                                  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://emilyba.bid:443/live/@Victordevalm2/75MzvwGW8bEA/198651.ts
@@ -10209,21 +10227,16 @@ https://emilyba.bid:443/live/@Victordevalm2/75MzvwGW8bEA/198567.ts
 
 
 
-
-
-
-
-
 #EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-name="M. PLUS SAT" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MPLUS.png" group-title="📺LISTA📺",M. PLUS SAT
 https://emilyba.bid:443/live/@Victordevalm2/75MzvwGW8bEA/198470.ts
 #EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-name="M. PLUS SCRIPT" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MPLUS.png" group-title="📺LISTA📺",M. PLUS SCRIPT
 https://emilyba.bid:443/live/@Victordevalm2/75MzvwGW8bEA/198471.ts
 #EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-name="M. PLUS HEVC" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MPLUS.png" group-title="📺LISTA📺",M. PLUS HEVC
 https://emilyba.bid:443/live/@Victordevalm2/75MzvwGW8bEA/198472.ts
-#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="#VAMOS SAT" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" group-title="📺LISTA📺",#VAMOS SAT
-https://emilyba.bid:443/live/@Victordevalm2/75MzvwGW8bEA/198473.ts
-#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="#VAMOS SCRIPT" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" group-title="📺LISTA📺",#VAMOS SCRIPT
-https://emilyba.bid:443/live/@Victordevalm2/75MzvwGW8bEA/198474.ts
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="M. ESTRENOS SAT" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MV1.png" group-title="📺LISTA📺",M. ESTRENOS SAT
 https://emilyba.bid:443/live/@Victordevalm2/75MzvwGW8bEA/198475.ts
 #EXTINF:-1 tvg-id="" tvg-name="M. ESTRENOS SCRIPT" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MV1.png" group-title="📺LISTA📺",M. ESTRENOS SCRIPT
@@ -10308,6 +10321,55 @@ https://emilyba.bid:443/live/@Victordevalm2/75MzvwGW8bEA/198515.ts
 https://emilyba.bid:443/live/@Victordevalm2/75MzvwGW8bEA/198516.ts
 #EXTINF:-1 tvg-id="Atreseries" tvg-name="A3SERIES" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ATRESS.png" group-title="📺LISTA📺",A3SERIES
 https://emilyba.bid:443/live/@Victordevalm2/75MzvwGW8bEA/198517.ts
+
+
+
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="#VAMOS SAT" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" group-title="📺LISTA📺",#VAMOS SAT
+https://emilyba.bid:443/live/@Victordevalm2/75MzvwGW8bEA/198473.ts
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="#VAMOS SCRIPT" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" group-title="📺LISTA📺",#VAMOS SCRIPT
+https://emilyba.bid:443/live/@Victordevalm2/75MzvwGW8bEA/198474.ts
+
+
+
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%202%20HDR.png"tvg-id="M+ LaLiga 2 HDR"group-title="📺LISTA📺",M+ LaLiga 2                                                                                                                                                                                                       
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://goldtv.lat:8080/live/9C00D3211A9C/0D3211A9C9C0/406877.m3u
+
+
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%202%20HDR.png"tvg-id="M+ LaLiga 2 HDR"group-title="📺LISTA📺",M+ LaLiga 2                                                                                                                                                                                                       
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://goldtv.lat:8080/live/9C00D3211A9C/0D3211A9C9C0/406832.m3u
+
+
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%202%20HDR.png"tvg-id="M+ LaLiga 2 HDR"group-title="📺LISTA📺",M+ LaLiga 2                                                                                                                                                                                                       
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://goldtv.lat:8080/live/9C00D3211A9C/0D3211A9C9C0/406865.m3u
+
+
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%202%20HDR.png"tvg-id="M+ LaLiga 2 HDR"group-title="📺LISTA📺",M+ LaLiga 2                                                                                                                                                                                                       
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://goldtv.lat:8080/live/9C00D3211A9C/0D3211A9C9C0/406866.m3u
+
+
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%202%20HDR.png"tvg-id="M+ LaLiga 2 HDR"group-title="📺LISTA📺",M+ LaLiga 2                                                                                                                                                                                                       
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://goldtv.lat:8080/live/9C00D3211A9C/0D3211A9C9C0/406867.m3u
+
+
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%202%20HDR.png"tvg-id="M+ LaLiga 2 HDR"group-title="📺LISTA📺",M+ LaLiga 2                                                                                                                                                                                                       
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://goldtv.lat:8080/live/9C00D3211A9C/0D3211A9C9C0/406868.m3u
+
+
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%202%20HDR.png"tvg-id="M+ LaLiga 2 HDR"group-title="📺LISTA📺",M+ LaLiga 2                                                                                                                                                                                                       
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://goldtv.lat:8080/live/9C00D3211A9C/0D3211A9C9C0/406833.m3u
+
+
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%202%20HDR.png"tvg-id="M+ LaLiga 2 HDR"group-title="📺LISTA📺",M+ LaLiga 2                                                                                                                                                                                                       
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://goldtv.lat:8080/live/9C00D3211A9C/0D3211A9C9C0/406869.m3u
+
 
 
 
@@ -10401,49 +10463,6 @@ http://goldtv.lat:8080/live/9C00D3211A9C/0D3211A9C9C0/406693.m3u
 
 
 
-
-
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%202%20HDR.png"tvg-id="M+ LaLiga 2 HDR"group-title="📺LISTA📺",M+ LaLiga 2                                                                                                                                                                                                       
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://goldtv.lat:8080/live/9C00D3211A9C/0D3211A9C9C0/406877.m3u
-
-
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%202%20HDR.png"tvg-id="M+ LaLiga 2 HDR"group-title="📺LISTA📺",M+ LaLiga 2                                                                                                                                                                                                       
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://goldtv.lat:8080/live/9C00D3211A9C/0D3211A9C9C0/406832.m3u
-
-
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%202%20HDR.png"tvg-id="M+ LaLiga 2 HDR"group-title="📺LISTA📺",M+ LaLiga 2                                                                                                                                                                                                       
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://goldtv.lat:8080/live/9C00D3211A9C/0D3211A9C9C0/406865.m3u
-
-
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%202%20HDR.png"tvg-id="M+ LaLiga 2 HDR"group-title="📺LISTA📺",M+ LaLiga 2                                                                                                                                                                                                       
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://goldtv.lat:8080/live/9C00D3211A9C/0D3211A9C9C0/406866.m3u
-
-
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%202%20HDR.png"tvg-id="M+ LaLiga 2 HDR"group-title="📺LISTA📺",M+ LaLiga 2                                                                                                                                                                                                       
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://goldtv.lat:8080/live/9C00D3211A9C/0D3211A9C9C0/406867.m3u
-
-
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%202%20HDR.png"tvg-id="M+ LaLiga 2 HDR"group-title="📺LISTA📺",M+ LaLiga 2                                                                                                                                                                                                       
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://goldtv.lat:8080/live/9C00D3211A9C/0D3211A9C9C0/406868.m3u
-
-
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%202%20HDR.png"tvg-id="M+ LaLiga 2 HDR"group-title="📺LISTA📺",M+ LaLiga 2                                                                                                                                                                                                       
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://goldtv.lat:8080/live/9C00D3211A9C/0D3211A9C9C0/406833.m3u
-
-
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%202%20HDR.png"tvg-id="M+ LaLiga 2 HDR"group-title="📺LISTA📺",M+ LaLiga 2                                                                                                                                                                                                       
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://goldtv.lat:8080/live/9C00D3211A9C/0D3211A9C9C0/406869.m3u
-
-
-
 #EXTINF:0⚽tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD"group-title="📺LISTA📺",DAZN 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://goldtv.lat:8080/live/9C00D3211A9C/0D3211A9C9C0/316424.m3u
@@ -10467,31 +10486,6 @@ http://goldtv.lat:8080/live/9C00D3211A9C/0D3211A9C9C0/316428.m3u
 
 
 
-#EXTINF:-1📺tvg-logo="https://es.wikipedia.org/wiki/Archivo:La_1_HD_TVE.png" tvg-id="La 1 HD"group-title="📺LISTA📺",La 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
-
-#EXTINF:-1📺tvg-logo="https://es.wikipedia.org/wiki/Archivo:La_1_HD_TVE.png" tvg-id="La 1 HD",group-title="📺LISTA📺",La 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]
-
-#EXTINF:-1📺tvg-logo="https://es.wikipedia.org/wiki/Archivo:La_1_HD_TVE.png" tvg-id="La 1 HD",group-title="📺LISTA📺",La 1 1080
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=02622fa2fab63847d88dc14fd9fa5c2fc35de8a8
-
-#EXTINF:-1📺tvg-logo="https://es.wikipedia.org/wiki/Archivo:La_1_HD_TVE.png" tvg-id="La 1 HD",group-title="📺LISTA📺",La 1 1080
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=37c7e8bbc2fb95d29a063bef2e569ad3858f8edd
-
-
-
-#EXTINF:-1📺tvg-logo="https://es.wikipedia.org/wiki/Archivo:La_1_HD_TVE.png" tvg-id="La 1 HD",group-title="📺LISTA📺",La 1 UHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=da38a21a9509be8c03b0fdb539cb1485843330c3
-
-#EXTINF:-1📺tvg-logo="https://es.wikipedia.org/wiki/Archivo:La_1_HD_TVE.png" tvg-id="La 1 HD",group-title="📺LISTA📺",La 1 UHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=23c952c5b375715db822f2783803c6e28fab0e34
 
 
 
@@ -10501,23 +10495,8 @@ http://127.0.0.1:6878/ace/getstream?id=23c952c5b375715db822f2783803c6e28fab0e34
 
 
 
-#EXTINF:-1📺tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png" tvg-id="La 2",group-title="📺LISTA📺",La 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 
 
-#EXTINF:-1📺tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png" tvg-id="La 2",group-title="📺LISTA📺",La 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=1acd38e6176c782f5184c8736e0cf7127b65798b
-
-#EXTINF:-1📺tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png" tvg-id="La 2",group-title="📺LISTA📺",La 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=b80cd193286a7df788c07649667c1e6f64fc9dc7
-
-
-#EXTINF:-1📺tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png" tvg-id="La 2",group-title="📺LISTA📺",La 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=15618
 
 
 
@@ -10555,199 +10534,6 @@ https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af54
 https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
 
 
-
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",FACTORÍA DE FICCIÓN
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/652.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",NOVA
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/653.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",ENERGY
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/654.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",TRECE
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/655.m3u8
-
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",MAX PPV
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/129979.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",UFC FIGHT PASS
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/129980.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",M+ ESTRENOS
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/132309.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",M+ HITS
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/134217.m3u8
-
-
-
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",M+ ACCIÓN
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/656.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",M+ COMEDIA
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/657.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",M+ CINE ESPAÑOL
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/658.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",M+ CLÁSICOS
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/659.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",M+ ESTRENOS
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/87110.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",M+ DRAMA
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/660.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",M+ HITS
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/663.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",M+ ORIGINALES
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/87107.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",M+ INDIE
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/87106.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",XTRM
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/767.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",BE MAD
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/737.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",HOLLYWOOD
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/665.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",PARAMOUNT CHANNEL
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/666.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",SOMOS
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/667.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",WARNER TV
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/668.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",TCM
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/669.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",AXN
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/735.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",AXN MOVIES
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/736.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",CALLE 13
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/740.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",DARK
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/782.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",ATRESERIES
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/800.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",M+ DOCUMENTALES
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/87108.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",MOVISTAR PLUS+
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/87109.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",CANAL DECASA
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/705.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",CAZA Y PESCA
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/706.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",AMC CRIME
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/707.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",DISCOVERY
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/708.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",DMAX
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/709.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",ODISEA
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/710.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",NATIONAL GEOGRAPHIC
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/711.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",NAT GEO WILD
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/712.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",HISTORIA
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/713.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",IBERALIA TV
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/714.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",MEZZO LIVE
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/716.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",MTV 00S
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/718.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",MTV
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/719.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",24 HORAS
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/730.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",AMC
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/732.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",ARAGÓN TV INT
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/734.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",CANAL COCINA
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/742.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",CANAL SUR ANDALUCÍA
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/744.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",COMEDY CENTRAL
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/745.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",COSMO
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/746.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",DIVINITY
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/747.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",DKISS
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/748.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",CANAL EXTREMADURA SAT
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/750.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",STAR CHANNEL
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/752.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",MEGA
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/753.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",NEOX
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/755.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",SUNDANCE
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/759.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",SYFY
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/760.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",TELEMADRID INT
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/761.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",TEN
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/762.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",TV3 CAT
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/764.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",ETB 2
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/768.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",ETB 1
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/769.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",CNN
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/775.m3u8
-
-
-
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",À PUNT
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/777.m3u8
-
-
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",AMC BREAK
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/778.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",EL TORO TV
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/783.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",ESPORT 3 CAT
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/784.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",EURONEWS
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/786.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",M+ TIERRA MEDIA
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/788.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",TELESUR
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/792.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",GARAGE TV
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/803.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",CAZAVISIÓN
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/827.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",MEZZO
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/34145.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",M+ BUEN VIAJE
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/60251.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",IBERALIA 100% CAZA
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/99473.m3u8
-#EXTINF:-1 tvg-id=""group-title="📺LISTA📺",IBERALIA 100% PESCA
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/99474.m3u8
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" group-title="📺LISTA📺",BABY TV
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/636.m3u8
-#EXTINF:-1 tvg-id="" group-title="📺LISTA📺",BOING
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/637.m3u8
-#EXTINF:-1 tvg-id="" group-title="📺LISTA📺",CLAN TVE
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/638.m3u8
-#EXTINF:-1 tvg-id="" group-title="📺LISTA📺",ENFAMILIA
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/639.m3u8
-#EXTINF:-1 tvg-id="" group-title="📺LISTA📺",DISNEY CHANNEL
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/640.m3u8
-#EXTINF:-1 tvg-id="" group-title="📺LISTA📺",DISNEY JUNIOR
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/641.m3u8
-#EXTINF:-1 tvg-id="" group-title="📺LISTA📺",DREAMWORKS
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/643.m3u8
-#EXTINF:-1 tvg-id="" group-title="📺LISTA📺",NICK JR
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/644.m3u8
-#EXTINF:-1 tvg-id="" group-title="📺LISTA📺",NICKELODEON
-http://voojtrvootp.top:8080/live/VIP011991730191869122/a5dfe2fbca17/645.m3u8
 
 
 #EXTINF:-1 tvg-id="TV3.TV" tvg-logo="https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png" group-title="📺LISTA📺" tvg-name="TV3",TV3                                                                                                                     

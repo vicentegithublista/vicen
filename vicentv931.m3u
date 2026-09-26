@@ -214,19 +214,6 @@ http://127.0.0.1:6878/ace/getstream?id=fc912a111ea5a88e02b858b5014d2358b11c84ac
 
 
 
-
-
-
-
-
-
-
-
-
-#EXTINF:-1📺tvg-logo="https://es.wikipedia.org/wiki/Archivo:La_1_HD_TVE.png" tvg-id="La 1 HD"group-title="✔️EVENTOS✔️",26.09⚽🇬🇧Inglaterra                                                                                    20:45⚽🇪🇸España
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=02622fa2fab63847d88dc14fd9fa5c2fc35de8a8
-
 #EXTINF:-1📺tvg-logo="https://es.wikipedia.org/wiki/Archivo:La_1_HD_TVE.png" tvg-id="La 1 HD"group-title="✔️EVENTOS✔️",26.09⚽🇬🇧Inglaterra                                                                                    20:45⚽🇪🇸España
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
@@ -1636,77 +1623,108 @@ http://127.0.0.1:6878/ace/getstream?id=4b7237f2e654d6c1e03ece1d2fffc249e0324ae6&
 
 
 #EXTINF:0,group-title="📺LISTA📺",LA 1 HD 1080p
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/988
 
-#EXTINF:0,group-title="📺LISTA📺",LA 1 HD 720p
-#EXTVLCOPT:network-caching=1000
-http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/989
-
-#EXTINF:0,group-title="📺LISTA📺",LA 1 SD
-#EXTVLCOPT:network-caching=1000
-http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/2435
-
 #EXTINF:0,group-title="📺LISTA📺",LA 2 HD 1080p
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/990
-#EXTINF:0,group-title="📺LISTA📺",LA 2 HD 720p
-#EXTVLCOPT:network-caching=1000
-http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/991
-#EXTINF:0,group-title="📺LISTA📺",LA 2 SD
-#EXTVLCOPT:network-caching=1000
-http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/2434
+
 #EXTINF:0,group-title="📺LISTA📺",ANTENA 3 HD 1080p
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/992
-#EXTINF:0,group-title="📺LISTA📺",ANTENA 3 HD 720p
-#EXTVLCOPT:network-caching=1000
-http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/993
-#EXTINF:0,group-title="📺LISTA📺",ANTENA 3 SD
-#EXTVLCOPT:network-caching=1000
-http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/2436
-#EXTINF:0,group-title="📺LISTA📺",ANTENA 3 INTERNACIONAL
-#EXTVLCOPT:network-caching=1000
-http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/2437
+
 #EXTINF:0,group-title="📺LISTA📺",CUATRO HD 1080p
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/994
-#EXTINF:0,group-title="📺LISTA📺",CUATRO HD 720p
-#EXTVLCOPT:network-caching=1000
-http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/995
-#EXTINF:0,group-title="📺LISTA📺",CUATRO SD
-#EXTVLCOPT:network-caching=1000
-http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/2438
+
 #EXTINF:0,group-title="📺LISTA📺",TELECINCO HD 1080p
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/996
-#EXTINF:0,group-title="📺LISTA📺",TELECINCO HD 720p
-#EXTVLCOPT:network-caching=1000
-http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/997
-#EXTINF:0,group-title="📺LISTA📺",TELECINCO SD
-#EXTVLCOPT:network-caching=1000
-http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/2439
+
 #EXTINF:0,group-title="📺LISTA📺",LA SEXTA HD 1080p
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/998
-#EXTINF:0,group-title="📺LISTA📺",LA SEXTA HD 720p
-#EXTVLCOPT:network-caching=1000
-http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/999
-#EXTINF:0,group-title="📺LISTA📺",LA SEXTA SD
-#EXTVLCOPT:network-caching=1000
-http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/2440
+
+#EXTINF:0,group-title="📺LISTA📺",VEO7 HD 1080p
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/5011
+
+
+#EXTINF:0,group-title="📺LISTA📺",ONETORO HD 1080p
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/863
+
+#EXTINF:0,group-title="📺LISTA📺",CMT HD 1080p
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/1516
+
+#EXTINF:0,group-title="📺LISTA📺",CANAL SUR HD 1080p
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/1497
+
+#EXTINF:0,group-title="📺LISTA📺",TELE MADRID HD 1080p
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/1504
+
+#EXTINF:0,group-title="📺LISTA📺",LA OTRA HD 1080p
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/1507
+
+#EXTINF:0,group-title="📺LISTA📺",A PUNT HD 1080p
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/4911
+
+#EXTINF:0,group-title="📺LISTA📺",TOROLE HD 1080p
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/866
+
+#EXTINF:0,group-title="📺LISTA📺",EL TORO TV HD 720p
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/1490
+
+#EXTINF:0,group-title="📺LISTA📺",CAZA Y PESCA HD 1080p
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/933
+
+#EXTINF:0,group-title="📺LISTA📺",IBERALIA TV HD 1080p
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/927
+
+#EXTINF:0,group-title="📺LISTA📺",IBERALIA 100% CAZA HD 1080p
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/929
+
+#EXTINF:0,group-title="📺LISTA📺",IBERALIA 100% PESCA HD 1080p
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/931
+
+#EXTINF:0,group-title="📺LISTA📺",CAZAVISION HD 1080p
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/2459
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:0,group-title="📺LISTA📺",MEGA HD 1080p
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/1000
-#EXTINF:0,group-title="📺LISTA📺",MEGA HD 720p
-#EXTVLCOPT:network-caching=1000
-http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/1001
-#EXTINF:0,group-title="📺LISTA📺",MEGA SD
-#EXTVLCOPT:network-caching=1000
-http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/2441
+
 #EXTINF:0,group-title="📺LISTA📺",DIVINITY HD 1080p
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/1002
+
 #EXTINF:0,group-title="📺LISTA📺",DIVINITY HD 720p
 #EXTVLCOPT:network-caching=1000
 http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/1003
@@ -1776,15 +1794,8 @@ http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/4545
 #EXTINF:0,group-title="📺LISTA📺",VIN TV SD
 #EXTVLCOPT:network-caching=1000
 http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/4543
-#EXTINF:0,group-title="📺LISTA📺",VEO7 HD 1080p
-#EXTVLCOPT:network-caching=1000
-http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/5011
-#EXTINF:0,group-title="📺LISTA📺",VEO7 HD 720p
-#EXTVLCOPT:network-caching=1000
-http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/5012
-#EXTINF:0,group-title="📺LISTA📺",VEO7 SD
-#EXTVLCOPT:network-caching=1000
-http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/5013
+
+
 #EXTINF:0,group-title="📺LISTA📺",MAX AVANCES HD 1080p
 #EXTVLCOPT:network-caching=1000
 http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/2294
@@ -2106,15 +2117,11 @@ http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/916
 #EXTINF:0,group-title="📺LISTA📺",NAT GEO WILD SD
 #EXTVLCOPT:network-caching=1000
 http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/2454
-#EXTINF:0,group-title="📺LISTA📺",CAZA Y PESCA HD 1080p
-#EXTVLCOPT:network-caching=1000
-http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/933
-#EXTINF:0,group-title="📺LISTA📺",CAZA Y PESCA HD 720p
-#EXTVLCOPT:network-caching=1000
-http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/934
-#EXTINF:0,group-title="📺LISTA📺",CAZA Y PESCA SD
-#EXTVLCOPT:network-caching=1000
-http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/2458
+
+
+
+
+
 #EXTINF:0,group-title="📺LISTA📺",ODISEA HD 1080p
 #EXTVLCOPT:network-caching=1000
 http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/923
@@ -2124,29 +2131,18 @@ http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/924
 #EXTINF:0,group-title="📺LISTA📺",ODISEA SD
 #EXTVLCOPT:network-caching=1000
 http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/2456
-#EXTINF:0,group-title="📺LISTA📺",IBERALIA TV HD 1080p
-#EXTVLCOPT:network-caching=1000
-http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/927
-#EXTINF:0,group-title="📺LISTA📺",IBERALIA TV HD 720p
-#EXTVLCOPT:network-caching=1000
-http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/928
-#EXTINF:0,group-title="📺LISTA📺",IBERALIA 100% CAZA HD 1080p
-#EXTVLCOPT:network-caching=1000
-http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/929
-#EXTINF:0,group-title="📺LISTA📺",IBERALIA 100% CAZA HD 720p
-#EXTVLCOPT:network-caching=1000
-http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/930
-#EXTINF:0,group-title="📺LISTA📺",IBERALIA 100% CAZA SD
-#EXTVLCOPT:network-caching=1000
-http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/2450
-#EXTINF:0,group-title="📺LISTA📺",IBERALIA 100% PESCA HD 1080p
-#EXTVLCOPT:network-caching=1000
-http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/931
-#EXTINF:0,group-title="📺LISTA📺",IBERALIA 100% PESCA HD 720p
-#EXTVLCOPT:network-caching=1000
-http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/932
-#EXTINF:0,group-title="📺LISTA📺",IBERALIA 100% PESCA SD
-#EXTVLCOPT:network-caching=1000
+
+
+
+
+
+
+
+
+
+
+
+
 http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/2451
 #EXTINF:0,group-title="📺LISTA📺",DISCOVERY CHANNEL HD 1080p
 #EXTVLCOPT:network-caching=1000
@@ -2202,14 +2198,7 @@ http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/914
 #EXTINF:0,group-title="📺LISTA📺",MOVISTAR DOCUMENTALES SD
 #EXTVLCOPT:network-caching=1000
 http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/2453
-#EXTINF:0,group-title="📺LISTA📺",CAZAVISION HD 1080p
-#EXTVLCOPT:network-caching=1000
-http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/2459
-#EXTINF:0,group-title="📺LISTA📺",CAZAVISION HD 720p
-#EXTVLCOPT:network-caching=1000
-http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/935
-#EXTINF:0,group-title="📺LISTA📺",CAZAVISION SD
-#EXTVLCOPT:network-caching=1000
+
 http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/2460
 #EXTINF:0,group-title="📺LISTA📺",HISTORIA HD 1080p
 #EXTVLCOPT:network-caching=1000
@@ -2225,27 +2214,7 @@ http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/2457
 
 
 
-#EXTINF:0,group-title="📺LISTA📺",ONETORO HD 1080p
-#EXTVLCOPT:network-caching=1000
-http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/863
-#EXTINF:0,group-title="📺LISTA📺",ONETORO HD 720p
-#EXTVLCOPT:network-caching=1000
-http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/864
-#EXTINF:0,group-title="📺LISTA📺",ONETORO SD
-#EXTVLCOPT:network-caching=1000
-http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/865
-#EXTINF:0,group-title="📺LISTA📺",TOROLE HD 1080p
-#EXTVLCOPT:network-caching=1000
-http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/866
-#EXTINF:0,group-title="📺LISTA📺",EL TORO TV HD 720p
-#EXTVLCOPT:network-caching=1000
-http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/1490
-#EXTINF:0,group-title="📺LISTA📺",TOROLE HD 720p
-#EXTVLCOPT:network-caching=1000
-http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/867
-#EXTINF:0,group-title="📺LISTA📺",TOROLE SD
-#EXTVLCOPT:network-caching=1000
-http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/868
+
 
 
 
@@ -2408,18 +2377,14 @@ http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/2293
 #EXTINF:0,group-title="📺LISTA📺",CANAL PARLAMENTO
 #EXTVLCOPT:network-caching=1000
 http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/2288
-#EXTINF:0,group-title="📺LISTA📺",TELE MADRID HD 1080p
-#EXTVLCOPT:network-caching=1000
-http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/1504
+
 #EXTINF:0,group-title="📺LISTA📺",TELE MADRID HD 720p
 #EXTVLCOPT:network-caching=1000
 http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/1505
 #EXTINF:0,group-title="📺LISTA📺",TELE MADRID SD
 #EXTVLCOPT:network-caching=1000
 http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/1506
-#EXTINF:0,group-title="📺LISTA📺",CMT HD 1080p
-#EXTVLCOPT:network-caching=1000
-http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/1516
+
 #EXTINF:0,group-title="📺LISTA📺",CMT HD 720p
 #EXTVLCOPT:network-caching=1000
 http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/1517
@@ -2435,9 +2400,7 @@ http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/4909
 #EXTINF:0,group-title="📺LISTA📺",7RM SD
 #EXTVLCOPT:network-caching=1000
 http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/4910
-#EXTINF:0,group-title="📺LISTA📺",A PUNT HD 1080p
-#EXTVLCOPT:network-caching=1000
-http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/4911
+
 #EXTINF:0,group-title="📺LISTA📺",A PUNT HD 720p
 #EXTVLCOPT:network-caching=1000
 http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/4912
@@ -2453,9 +2416,7 @@ http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/1514
 #EXTINF:0,group-title="📺LISTA📺",TV3 CATALU A SD
 #EXTVLCOPT:network-caching=1000
 http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/1515
-#EXTINF:0,group-title="📺LISTA📺",LA OTRA HD 1080p
-#EXTVLCOPT:network-caching=1000
-http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/1507
+
 #EXTINF:0,group-title="📺LISTA📺",LA OTRA HD 720p
 #EXTVLCOPT:network-caching=1000
 http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/1508
@@ -2516,9 +2477,8 @@ http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/4915
 #EXTINF:0,group-title="📺LISTA📺",EXTREMADURA SAT SD
 #EXTVLCOPT:network-caching=1000
 http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/4916
-#EXTINF:0,group-title="📺LISTA📺",CANAL SUR HD 1080p
-#EXTVLCOPT:network-caching=1000
-http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/1497
+
+
 #EXTINF:0,group-title="📺LISTA📺",CANAL SUR HD 720p
 #EXTVLCOPT:network-caching=1000
 http://mitv.netinc.org:8691/JUAMPIFEREEL/tJeCKZ4N/4920

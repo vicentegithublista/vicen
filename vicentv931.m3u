@@ -22,136 +22,129 @@ refresh="3600"
 #EXTGRP: group-title="TDT" group-logo="https://i.ibb.co/j9xn42jB/logo-tdt.png"
 
 
-🎾 Tenis - 11:00
-🏆 ATP TOKIO
-🆚 Alcaraz - Lehecka
-🖥 Movistar Plus
 
-#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus.png"tvg-id="MovistPlus HD"group-title="✔️EVENTOS✔️",06.10🎾Alcaraz                                                                                  11:00🎾Lehecka                                                                            
+
+
+
+
+
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" tvg-id="M+ Deportes 2 HD"group-title="✔️EVENTOS✔️",07.10🎾ATP 1000                                                                                  08:00🎾Shanghai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?infohash=b1ab6b68debdf5a4c3e6bbf726a421aba64ae240
+http://127.0.0.1:6878/ace/getstream?infohash=a0fd9380808627dc9dd061348caa6065e7b6037a
 
-#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus.png"tvg-id="MovistPlus HD"group-title="✔️EVENTOS✔️",06.10🎾Alcaraz                                                                                  11:00🎾Lehecka                                                                            
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%203.png" tvg-id="M+ Deportes 3 HD"group-title="✔️EVENTOS✔️",07.10🎾ATP 1000                                                                                  08:00🎾Shanghai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?infohash=1548a79a7fff262149dad057f7cf0046503984e2
+http://127.0.0.1:6878/ace/getstream?infohash=8bea71c9fea2605ee9f0e06b2d3795a10662f223
 
-#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus.png"tvg-id="MovistPlus HD"group-title="✔️EVENTOS✔️",06.10🎾Alcaraz                                                                                  11:00🎾Lehecka                                                                            
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%204.png" tvg-id="M+ Deportes 4 HD"group-title="✔️EVENTOS✔️",07.10🎾ATP 1000                                                                                  08:00🎾Shanghai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?infohash=318c12f5f40d7bd9c0ab0c130bf9b96668098279
+http://127.0.0.1:6878/ace/getstream?infohash=12bea597fc5075a07becfd34ba11dcad4f31a2c4
 
-#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus.png"tvg-id="MovistPlus HD"group-title="✔️EVENTOS✔️",06.10🎾Alcaraz                                                                                  11:00🎾Lehecka                                                                            
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%205.png" tvg-id="M+ Deportes 5 HD"group-title="✔️EVENTOS✔️",07.10🎾ATP 1000                                                                                  08:00🎾Shanghai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=fa931cbc87dc9d66fdd30a9644e054b403960056
+http://127.0.0.1:6878/ace/getstream?infohash=123271cdd9cbabf1d13b42541a2c73c196d96eb8
 
-🎾 Tenis - 13:00
-🏆 ATP PEKÍN
-🆚 Djokovic - De Miñaur
-🖥 M+ Vamos
-
-#EXTINF:0🏅tvg-logo="https://i.pinimg.com/1200x/f4/dd/36/f4dd366989ca7e19e431400bd9b0b766.jpg"tvg-id="M+ Vamos HD"group-title="✔️EVENTOS✔️",06.10🎾Djokovic                                                                                13:00🎾De Miñaur
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%206.png" tvg-id="M+ Deportes 6 HD"group-title="✔️EVENTOS✔️",07.10🎾ATP 1000                                                                                  08:00🎾Shanghai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=26159ba451167e962f4f9236ab4c7626f7eb4e49
+http://127.0.0.1:6878/ace/getstream?infohash=bc7dff93fc8c6eea22c4b12a453de265d63cd457
 
-🚴‍♂️ Ciclismo - 15:30
-🏆 TRES VALLES VARESINOS
-🆚 Busto Arsizio-Varese (196.1 km)
-🖥 Eurosport 2
-
-#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" tvg-id="Eurosport 2 HD"group-title="✔️EVENTOS✔️",06.10🚴‍♂️Ciclismo                                                                                15:30🚴‍♂️VARESINOS
+#EXTINF:-1🏅tvg-logo="https://e7.pngegg.com/pngimages/237/1008/png-clipart-logo-tennis-channel-hd-television-channel-tv-logos-angle-text.png" tvg-id="Tennis Channel"group-title="✔️EVENTOS✔️",07.10🎾WTA 1000                                                                                 08:00🎾Beijing                                                                                                                               
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=3ebcfc00921a4a9307dec97e078f8dc12eee27e7
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 
-⚽ Fútbol - 16:00
-🏆 AMISTOSO INTERNACIONAL
-🆚 India - Uruguay
-🖥 M+ Vamos
-
-#EXTINF:0🏅tvg-logo="https://i.pinimg.com/1200x/f4/dd/36/f4dd366989ca7e19e431400bd9b0b766.jpg"tvg-id="M+ Vamos HD"group-title="✔️EVENTOS✔️",06.10⚽🇮🇳India                                                                                16:00⚽🇺🇾Uruguay
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto%203.png"tvg-id="M+ Baloncesto 3"group-title="✔️EVENTOS✔️",07.10🏀Paris                                                                                 20:15🏀Villeurbanne
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=26159ba451167e962f4f9236ab4c7626f7eb4e49
+http://127.0.0.1:6878/ace/getstream?id=13d68ecb392251a81489ce75be90388498ecfb91
 
-⚽ Fútbol - 19:00
-🏆 CLASIFICACIÓN EUROPEO 
-🆚 España - Rumanía
-🖥 Teledeporte
 
-#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte"group-title="✔️EVENTOS✔️",06.10⚽️🇪🇸España SUB-21                                                                              19:00⚽️🇷🇴Rumanía SUB-21
+#EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/vicentegithublista/vicen/refs/heads/main/IMG_20230505_125507_351.ico"  tvg-id="Magenta Sport 4"group-title="✔️EVENTOS✔️",07.10🏀Paris                                                                                 20:15🏀Villeurbanne
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
+http://127.0.0.1:6878/ace/getstream?id=1fb794b1503c5955b75ea0106ee6360b80d78849
 
-#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte"group-title="✔️EVENTOS✔️",06.10⚽️🇪🇸España SUB-21                                                                              19:00⚽️🇷🇴Rumanía SUB-21
+
+⚽️ Fútbol - 20:30
+🏆 1ª RFEF
+🆚 Cartagena - Murcia
+🖥 Movistar Primera Federación
+
+#EXTINF:0🏅tvg-logo="https://rfef.es/themes/custom/rfef/img/rfef-share.png"tvg-id=""group-title="✔️EVENTOS✔️",07.10⚽🇪🇸Cartagena                                                                                 20:30⚽🇪🇸Murcia                              
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=4048be88f84250719e864868e537612f389df48e
+http://127.0.0.1:6878/ace/getstream?id=177796041773be99b489dd3ce86144f243e7355f
 
-#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte"group-title="✔️EVENTOS✔️",06.10⚽️🇪🇸España SUB-21                                                                              19:00⚽️🇷🇴Rumanía SUB-21
+
+
+#EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/vicentegithublista/vicen/refs/heads/main/IMG_20230505_125507_351.ico"  tvg-id="Magenta Sport 1",group-title="🌍GLOBAL🌍",🇩🇪Magenta Sport 1🇩🇪
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
+http://127.0.0.1:6878/ace/getstream?id=501141c649a2b78c4965cbf3257224181cc55072
 
-🏀 Baloncesto - 20:30
-🏆 EUROCUP
-🆚 London - La Laguna Tenerife
-🖥 M+ Vamos
-
-#EXTINF:0🏅tvg-logo="https://i.pinimg.com/1200x/f4/dd/36/f4dd366989ca7e19e431400bd9b0b766.jpg"tvg-id="M+ Vamos HD"group-title="✔️EVENTOS✔️",06.10🏀London                                                                                20:30🏀Tenerife
+#EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/vicentegithublista/vicen/refs/heads/main/IMG_20230505_125507_351.ico"  tvg-id="Magenta Sport 2",group-title="🌍GLOBAL🌍",🇩🇪Magenta Sport 2🇩🇪
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=26159ba451167e962f4f9236ab4c7626f7eb4e49
+http://127.0.0.1:6878/ace/getstream?id=ab0d54995bdcea2d8f9f588ef631ebbfb3f5a9ab
 
-
-
-
-
-🏀 Baloncesto - 21:00
-🏆 CHAMPIONS LEAGUE
-🆚 Asisa Joventut - Bnei Penlink Herzliya
-🖥 Teledeporte
-
-#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte"group-title="✔️EVENTOS✔️",06.10🏀Joventut                                                                               21:00🏀Herzliya 
+#EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/vicentegithublista/vicen/refs/heads/main/IMG_20230505_125507_351.ico" tvg-id="Magenta Sport 3",group-title="🌍GLOBAL🌍",🇩🇪Magenta Sport 3🇩🇪
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
+http://127.0.0.1:6878/ace/getstream?id=d0ca51f6145514ee605c2ef5d5a137e2a08c95b8
 
-#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte"group-title="✔️EVENTOS✔️",06.10🏀Joventut                                                                               21:00🏀Herzliya 
+
+
+EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/vicentegithublista/vicen/refs/heads/main/IMG_20230505_125507_351.ico"  tvg-id="Magenta Sport 5",group-title="🌍GLOBAL🌍",🇩🇪Magenta Sport 5🇩🇪
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=4048be88f84250719e864868e537612f389df48e
+http://127.0.0.1:6878/ace/getstream?id=428b92f3c71cd3cbf66ef6193808b39d16a52730
 
-#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte"group-title="✔️EVENTOS✔️",06.10🏀Joventut                                                                               21:00🏀Herzliya 
+EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/vicentegithublista/vicen/refs/heads/main/IMG_20230505_125507_351.ico" tvg-id="Magenta Sport 6",group-title="🌍GLOBAL🌍",🇩🇪Magenta Sport 6🇩🇪
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
+http://127.0.0.1:6878/ace/getstream?id=14317c55fadc80ef2b7fb42b3d53e8ccb3b52cd8
 
-
-
-
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/1200x/a7/71/0f/a7710f4615e8232e315c7a37933baeb4.jpg"tvg-id="La 1 HD"group-title="✔️EVENTOS✔️",06.10⚽🇭🇷Croacia                                                                               20:45⚽🇪🇸España                       
+EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/vicentegithublista/vicen/refs/heads/main/IMG_20230505_125507_351.ico"  tvg-id="Magenta Sport 7",group-title="🌍GLOBAL🌍",🇩🇪Magenta Sport 7🇩🇪
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?infohash=2f771a355d4f1e703fa83cb51e2b1b113bffec98
+http://127.0.0.1:6878/ace/getstream?id=ac839cda9709255c21a98af455731f037e77a9e4
 
-#EXTINF:0 tvg-logo="https://i.pinimg.com/1200x/a7/71/0f/a7710f4615e8232e315c7a37933baeb4.jpg"tvg-id="La 1 HD"group-title="✔️EVENTOS✔️",06.10⚽🇭🇷Croacia                                                                               20:45⚽🇪🇸España                       
+EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/vicentegithublista/vicen/refs/heads/main/IMG_20230505_125507_351.ico" tvg-id="Magenta Sport 8",group-title="🌍GLOBAL🌍",🇩🇪Magenta Sport 8🇩🇪
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?infohash=7f159635118fbb57240d842f27543a46ee41a621
+http://127.0.0.1:6878/ace/getstream?id=11c5823d4196a90b509f03df1fe78e13cfbbb175
 
-#EXTINF:0 tvg-logo="https://i.pinimg.com/1200x/a7/71/0f/a7710f4615e8232e315c7a37933baeb4.jpg"tvg-id="La 1 HD"group-title="✔️EVENTOS✔️",06.10⚽🇭🇷Croacia                                                                               20:45⚽🇪🇸España                       
+EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/vicentegithublista/vicen/refs/heads/main/IMG_20230505_125507_351.ico" tvg-id="Magenta Sport 9",group-title="🌍GLOBAL🌍",🇩🇪Magenta Sport 9🇩🇪
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=02622fa2fab63847d88dc14fd9fa5c2fc35de8a8
+http://127.0.0.1:6878/ace/getstream?id=86495fe134ff065d5217497babe6be33f81d37d1
 
-
-#EXTINF:-1🌍tvg-logo="https://i.pinimg.com/1200x/a7/71/0f/a7710f4615e8232e315c7a37933baeb4.jpg",tvg-id=""group-title="✔️EVENTOS✔️",05.10⚽Nations                                                                                     20:45⚽League 
+EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/vicentegithublista/vicen/refs/heads/main/IMG_20230505_125507_351.ico" tvg-id="Magenta Sport 10",group-title="🌍GLOBAL🌍",🇩🇪Magenta Sport 10🇩🇪
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
+http://127.0.0.1:6878/ace/getstream?id=6058a4c0f2569bd81c687aa7dfb48b8a9569fb29
 
-#EXTINF:-1🌍tvg-logo="https://i.pinimg.com/1200x/a7/71/0f/a7710f4615e8232e315c7a37933baeb4.jpg",tvg-id=""group-title="✔️EVENTOS✔️",05.10⚽Nations                                                                                     20:45⚽League 
+EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/vicentegithublista/vicen/refs/heads/main/IMG_20230505_125507_351.ico" tvg-id="Magenta Sport 11",group-title="🌍GLOBAL🌍",🇩🇪Magenta Sport 11🇩🇪
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
-
-#EXTINF:-1🌍tvg-logo="https://i.pinimg.com/1200x/a7/71/0f/a7710f4615e8232e315c7a37933baeb4.jpg",tvg-id=""group-title="✔️EVENTOS✔️",05.10⚽Nations                                                                                     20:45⚽League 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=4ce55db7e578ff52a6e526cf610e477464b8a99f 
+http://127.0.0.1:6878/ace/getstream?id=c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6
 
 
 
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png"tvg-id="M+ Liga de Campeones HD"group-title="✔️EVENTOS✔️",07.10⚽🇦🇷Argentina                                                                               00:50⚽🇧🇯Benin                                                                                                                                                   
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -676,15 +669,6 @@ http://127.0.0.1:6878/ace/getstream?infohash=8aba55f4f1f47def54447e845518109d797
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?infohash=a0fd9380808627dc9dd061348caa6065e7b6037a
 
-#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" tvg-id="M+ Deportes 2 HD"group-title="🏅DEPORTES🏅",M.DEPORTES 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=8cd8fd69c6755ec452e9e74b33a0d1a653452191
-
-
-
-
-
-
 
 #EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%203.png" tvg-id="M+ Deportes 3 HD"group-title="🏅DEPORTES🏅",M.DEPORTES 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -704,6 +688,7 @@ http://127.0.0.1:6878/ace/getstream?infohash=123271cdd9cbabf1d13b42541a2c73c196d
 #EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%206.png" tvg-id="M+ Deportes 6 HD"group-title="🏅DEPORTES🏅",M.DEPORTES 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?infohash=bc7dff93fc8c6eea22c4b12a453de265d63cd457
+
 
 
 
@@ -753,10 +738,17 @@ http://127.0.0.1:6878/ace/getstream?id=b7b1c1eeb4be09c63fbc2f319c9760851c274455
 
 
 
-
 #EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte",group-title="🏅DEPORTES🏅",Teledeporte
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
+
+#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte",group-title="🏅DEPORTES🏅",Teledeporte
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=4048be88f84250719e864868e537612f389df48e
+
+#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte",group-title="🏅DEPORTES🏅",Teledeporte
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
 
 #EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte",group-title="🏅DEPORTES🏅",Teledeporte
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -766,13 +758,7 @@ http://127.0.0.1:6878/ace/getstream?id=b0d1489c9f3239349665ad5ab423363f2b02e5ae
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=3b50a1dca0977e3761d016edd79314ab797f74f6
 
-#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte",group-title="🏅DEPORTES🏅",Teledeporte
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=4048be88f84250719e864868e537612f389df48e
 
-#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte",group-title="🏅DEPORTES🏅",Teledeporte
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
 
 
 
@@ -953,8 +939,6 @@ https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/
 https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8
 
 
-#EXTINF:-1🏅tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/ee7406e0-5a2a-49dc-9722-f3888314566c-surf-channel-1631785285.jpeg" tvg-name="surf-channel",group-title="🏅DEPORTES🏅",surf-channel
-https://daiconnect.com/live/hls/tvup/rk-surfchannel/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_channelstore_channel_id=931&ads_content_categories=IAB17&ads_content_genre=sports&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_market=es&ads_network_name=RakutenTV&ads_opt_out_flag=1&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_prodq=1&ads_rating=0&ads_rtv_content_id=3740&ads_rtv_content_language=es&ads_streaming_id=e30853f6-9083-4e1a-8e5a-a0fd7060effc&ads_tcs_channel_id=931&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
 
 
@@ -967,10 +951,6 @@ https://daiconnect.com/live/hls/tvup/rk-surfchannel/.m3u8?ads_amznbrmid=&ads_amz
 
 
 
-
-#EXTINF:-1🏅tvg-logo="https://e7.pngegg.com/pngimages/237/1008/png-clipart-logo-tennis-channel-hd-television-channel-tv-logos-angle-text.png" tvg-id="SUPER TENNIS",group-title="🏅DEPORTES🏅",SUPER TENNIS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
 
 
 
@@ -982,10 +962,6 @@ https://daiconnect.com/live/hls/tvup/rk-mypadeltv/.m3u8?ads_amznbrmid=&ads_amznr
 
 
 
-#EXTINF:-1🏅tvg-logo="https://e7.pngegg.com/pngimages/237/1008/png-clipart-logo-tennis-channel-hd-television-channel-tv-logos-angle-text.png" tvg-id="SUPER TENNIS"group-title="🏅DEPORTES🏅",SUPER TENNIS                                                                                                                           
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
-
 
 #EXTINF:-1🏅tvg-logo="https://e7.pngegg.com/pngimages/237/1008/png-clipart-logo-tennis-channel-hd-television-channel-tv-logos-angle-text.png" tvg-id="Tennis Channel"group-title="🏅DEPORTES🏅",TENNIS CHANEL                                                                                                                                 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -995,9 +971,7 @@ http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=a4cbadd19442b800727be713270fa9c917cc8582
 
-#EXTINF:-1🏅tvg-logo="https://e7.pngegg.com/pngimages/237/1008/png-clipart-logo-tennis-channel-hd-television-channel-tv-logos-angle-text.png" tvg-id="Tennis Channel"group-title="🏅DEPORTES🏅",TENNIS CHANEL                                                                                                                                
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=43c549e5781f5a923b76f8f29cde122b5be164eb
+
 
 #EXTINF:-1🏅tvg-logo="https://e7.pngegg.com/pngimages/237/1008/png-clipart-logo-tennis-channel-hd-television-channel-tv-logos-angle-text.png" tvg-id="Tennis Channel",group-title="🏅DEPORTES🏅",TENNIS CHANEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -10006,20 +9980,30 @@ https://cloud3-atres-st-ams.atresmedia.com/geo/assets6/2020/11/17/06B01D11-8608-
 
 
 
-
-
-
-EXTINF:0 tvg-logo="https://i.pinimg.com/1200x/a7/71/0f/a7710f4615e8232e315c7a37933baeb4.jpg"tvg-id="La 1 HD"group-title="✔️EVENTOS✔️",03.10⚽🇵🇹Portugal                                                                               20:45⚽🇳🇴Noruega                       
+EXTINF:0 tvg-logo="https://i.pinimg.com/1200x/a7/71/0f/a7710f4615e8232e315c7a37933baeb4.jpg"tvg-id="La 1 HD"group-title="✔️EVENTOS✔️",06.10⚽🇭🇷Croacia                                                                               20:45⚽🇪🇸España                       
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?infohash=2f771a355d4f1e703fa83cb51e2b1b113bffec98
 
-EXTINF:0 tvg-logo="https://i.pinimg.com/1200x/a7/71/0f/a7710f4615e8232e315c7a37933baeb4.jpg"tvg-id="La 1 HD"group-title="✔️EVENTOS✔️",03.10⚽🇵🇹Portugal                                                                               20:45⚽🇳🇴Noruega                       
+EXTINF:0 tvg-logo="https://i.pinimg.com/1200x/a7/71/0f/a7710f4615e8232e315c7a37933baeb4.jpg"tvg-id="La 1 HD"group-title="✔️EVENTOS✔️",06.10⚽🇭🇷Croacia                                                                               20:45⚽🇪🇸España                       
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?infohash=7f159635118fbb57240d842f27543a46ee41a621
 
-EXTINF:0 tvg-logo="https://i.pinimg.com/1200x/a7/71/0f/a7710f4615e8232e315c7a37933baeb4.jpg"tvg-id="La 1 HD"group-title="✔️EVENTOS✔️",03.10⚽🇵🇹Portugal                                                                               20:45⚽🇳🇴Noruega                       
+EXTINF:0 tvg-logo="https://i.pinimg.com/1200x/a7/71/0f/a7710f4615e8232e315c7a37933baeb4.jpg"tvg-id="La 1 HD"group-title="✔️EVENTOS✔️",06.10⚽🇭🇷Croacia                                                                               20:45⚽🇪🇸España                       
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=02622fa2fab63847d88dc14fd9fa5c2fc35de8a8
+
+
+EXTINF:-1🌍tvg-logo="https://i.pinimg.com/1200x/a7/71/0f/a7710f4615e8232e315c7a37933baeb4.jpg",tvg-id=""group-title="✔️EVENTOS✔️",05.10⚽Nations                                                                                     20:45⚽League 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
+
+EXTINF:-1🌍tvg-logo="https://i.pinimg.com/1200x/a7/71/0f/a7710f4615e8232e315c7a37933baeb4.jpg",tvg-id=""group-title="✔️EVENTOS✔️",05.10⚽Nations                                                                                     20:45⚽League 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
+
+EXTINF:-1🌍tvg-logo="https://i.pinimg.com/1200x/a7/71/0f/a7710f4615e8232e315c7a37933baeb4.jpg",tvg-id=""group-title="✔️EVENTOS✔️",05.10⚽Nations                                                                                     20:45⚽League 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=4ce55db7e578ff52a6e526cf610e477464b8a99f 
 
 
 

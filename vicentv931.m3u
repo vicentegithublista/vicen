@@ -149,19 +149,8 @@ refresh="3600"
 🎯 Mirandés - Zamora (1ª RFEF)
 📺 Movistar Primera Federación
 
-🟢━━━━━ ⛳️ Golf ━━━━━🟢
 
-📅 Sábado 10/10/2026
-⏰ 14:30
-🎯 Jornada 3 (OPEN DE ESPAÑA)
-📺 M+ Golf
 
-🔴━━━━━ 🏍️ Motos ━━━━━🔴
-
-📅 Sábado 10/10/2026
-⏰ 09:00
-🎯 MotoGP (Sprint) (G.P. INDONESIA)
-📺 DAZN MotoGP
 
 ⚪️━━━━━ 🏅 Padel ━━━━━⚪️
 
@@ -198,12 +187,21 @@ refresh="3600"
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 🟣━━━━━ 🎾 Tenis ━━━━━🟣
 
-📅 Viernes 09/10/2026
-⏰ 08:05
-🎯 Zverev - Wu (MASTERS SHANGHAI)
-📺 M+ Deportes 2
+
 
 #EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" tvg-id="M+ Deportes 2 HD"group-title="✔️EVENTOS✔️",10.10🥎ATP 1000                                                                                  06:00🥎Shanghai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -225,9 +223,7 @@ http://127.0.0.1:6878/ace/getstream?infohash=bc7dff93fc8c6eea22c4b12a453de265d63
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 
-⏰ 12:05
-🎯 Djokovic - Hurkacz (MASTERS SHANGHAI)
-📺 Movistar Plus
+
 
 #EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus.png"tvg-id="MovistPlus HD"group-title="✔️EVENTOS✔️",10.10🥎ATP 1000                                                                                  12:00🥎Shanghai                                                                       
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -242,8 +238,19 @@ http://127.0.0.1:6878/ace/getstream?infohash=1548a79a7fff262149dad057f7cf0046503
 http://127.0.0.1:6878/ace/getstream?id=ed74406ccdb3c21941b919db6bffca7f1de015bb
 
 
+🔴━━━━━ 🏍️ Motos ━━━━━🔴
 
+#EXTINF:0🏁tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2e554vbpw7g0ykhl0rziuabxl/fill/center/top/none/100/0/0/png/image/25/g" tvg-id="DAZN MotoGP"group-title="✔️EVENTOS✔️",10.10🏍️MotoGP                                                                                 09:00🏍️Shanghai                                                                                                                                                                                                                                
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=c53bdb3be55d12c5188d25085f1bb16911c15cea
 
+#EXTINF:0🏁tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2e554vbpw7g0ykhl0rziuabxl/fill/center/top/none/100/0/0/png/image/25/g" tvg-id="DAZN MotoGP"group-title="✔️EVENTOS✔️",10.10🏍️MotoGP                                                                                 09:00🏍️Shanghai                                                                                                                                                                                                                                
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=2a05a020dfe97aaa0665bb7551022868b2a88b36
+
+#EXTINF:0🏁tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2e554vbpw7g0ykhl0rziuabxl/fill/center/top/none/100/0/0/png/image/25/g" tvg-id="DAZN MotoGP"group-title="✔️EVENTOS✔️",10.10🏍️MotoGP                                                                                 09:00🏍️Shanghai                                                                                                                                                                                                                                
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=342ca6975a4884d81f9fec5c4085a47060bd2028
 
 
 

@@ -23,7 +23,16 @@ refresh="3600"
 #EXTGRP: group-title="TDT" group-logo="https://i.ibb.co/j9xn42jB/logo-tdt.png"
 
 
-
+Sestao - Espanyol 19:00 
+Liga
+acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38
+Pinatar - Elche  19:00
+Manacor - Villarreal 21:00
+Liga 2
+acestream://b8eb9c9868d487402569bba2d97a8af113d033fe
+Recreativo - Rayo 21:00
+Campeones
+acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
 
 
 🎾 Tenis - 14:00
@@ -182,6 +191,18 @@ http://127.0.0.1:6878/ace/getstream?id=c5323596ae77cdb49d3792281d541678f174da37
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=428b92f3c71cd3cbf66ef6193808b39d16a52730
 
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto.png"tvg-id="M+ Baloncesto"group-title="✔️EVENTOS✔️",27.10🏀🇪🇺Bayern                                                                          20:00🏀🇪🇺Barcelona
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=d22f026975a17af9a10e52935f50ea6d5c0de3f3
+
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto.png"tvg-id="M+ Baloncesto"group-title="✔️EVENTOS✔️",27.10🏀🇪🇺Bayern                                                                          20:00🏀🇪🇺Barcelona
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=4153dc48705b9293d82530f9d750c7917033e157
+
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto.png"tvg-id="M+ Baloncesto"group-title="✔️EVENTOS✔️",27.10🏀🇪🇺Bayern                                                                          20:00🏀🇪🇺Barcelona
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=988e8c04b595b40b86ad912ad8efccf78a413943
+
 🏀 Baloncesto - 20:30
 🏆 EUROLIGA
 🆚 Valencia Basket - Fenerbahce
@@ -269,6 +290,14 @@ http://127.0.0.1:6878/ace/getstream?id=448551642d9c7d0de53aa35d1ee41788909b6c0c
 🏆 COPA DEL REY
 🆚 Sporting Alcázar - Málaga
 🖥 M+ LALIGA 3
+
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga2.png"tvg-id="M+ LaLiga 3 HD"group-title="✔️EVENTOS✔️",27.10⚽️🇪🇸Alcázar                                                                         21:00⚽️🇪🇸Málaga                                                                                                                                                                                                                
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=0b9d1fcff22c26e249458a3fe83af70adc5477e0
+
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga2.png"tvg-id="M+ LaLiga 3 HD"group-title="✔️EVENTOS✔️",27.10⚽️🇪🇸Alcázar                                                                         21:00⚽️🇪🇸Málaga                                                                                                                                                                                                                
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=5d75fbc6900598e32cfe9a3dae5517d4d69d75ba
 
 #EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga2.png"tvg-id="M+ LaLiga 3 HD"group-title="✔️EVENTOS✔️",27.10⚽️🇪🇸Alcázar                                                                         21:00⚽️🇪🇸Málaga                                                                                                                                                                                                                
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160

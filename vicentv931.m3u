@@ -141,7 +141,7 @@ http://127.0.0.1:6878/ace/getstream?id=86495fe134ff065d5217497babe6be33f81d37d1
 
 
 
-#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto.png"tvg-id="M+ Baloncesto"group-title="✔️EVENTOS✔️",30.10🏀🇪🇺EfesPanathinaikos                                                                            18:30🏀🇪🇺sPanathinaikos
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto.png"tvg-id="M+ Baloncesto"group-title="✔️EVENTOS✔️",30.10🏀🇪🇺Efes                                                                           18:30🏀🇪🇺Panathinaikos
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=f42f90c0788a37c210740372e2314210d5aca4a1
 
@@ -241,11 +241,23 @@ http://127.0.0.1:6878/ace/getstream?id=930aee39cc8913ff8af80219e6489bfccd93f276
 
 
 20:00	Competición Euroliga | Liga Regular	ASVEL Lyon-Villeurbanne ASVEL Lyon-Villeurbanne Baskonia Baskonia
-acestream://8177df89a64fd79d9a542443d2ad5111e04ae321
-acestream://b15a9027c78c58d5502257990801130e480f4783
+
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto.png"tvg-id="M+ Baloncesto"group-title="✔️EVENTOS✔️",30.10🏀🇪🇺ASVEL                                                                           20:00🏀🇪🇺Baskonia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=8177df89a64fd79d9a542443d2ad5111e04ae321
+
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto.png"tvg-id="M+ Baloncesto"group-title="✔️EVENTOS✔️",30.10🏀🇪🇺ASVEL                                                                           20:00🏀🇪🇺Baskonia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=b15a9027c78c58d5502257990801130e480f4783
+
+
+
 
 20:15	Competición Euroliga | Liga Regular	Olympiacos Piraeus Olympiacos Piraeus AX Olimpia Milano AX Olimpia Milano	M+ Vamos 2 (51)
-acestream://ae62797916ae7f033e36acf1b1e0bc18d8b8265b
+
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto.png"tvg-id="M+ Baloncesto"group-title="✔️EVENTOS✔️",30.10🏀🇪🇺Olympiacos                                                                          20:15🏀🇪🇺Milano
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=ae62797916ae7f033e36acf1b1e0bc18d8b8265b
 
 
 

@@ -36,9 +36,7 @@ http://127.0.0.1:6878/ace/getstream?id=2a05a020dfe97aaa0665bb7551022868b2a88b36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=2a05a020dfe97aaa0665bb7551022868b2a88b36
 
-#EXTINF:0🏁tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2e554vbpw7g0ykhl0rziuabxl/fill/center/top/none/100/0/0/png/image/25/g" tvg-id="DAZN MotoGP"group-title="✔️EVENTOS✔️",01.11🎾🇲🇾PMotoGP                                                                           08:00🎾🇲🇾Malasia                                                                                                                                                                                                                                
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=2a05a020dfe97aaa0665bb7551022868b2a88b36&pid=4124
+
 
 #EXTINF:0🏁tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2e554vbpw7g0ykhl0rziuabxl/fill/center/top/none/100/0/0/png/image/25/g" tvg-id="DAZN MotoGP"group-title="✔️EVENTOS✔️",01.11🎾🇲🇾PMotoGP                                                                           08:00🎾🇲🇾Malasia                                                                                                                                                                                                                                
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -61,15 +59,11 @@ http://127.0.0.1:6878/ace/getstream?id=c9019838fb8723002f3f25974104e40e5d2cf75d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=a4b6e6d52e9ed09cbe4f19cd453e416060dc8d99
 
-
-🏀 Baloncesto - 12:30
-🏆 LIGA ENDESA
-🆚 Real Madrid - Recoletas Salud San Pablo Burgos
-🖥 DAZN Baloncesto 3
-
-#EXTINF:-1 tvg-id="DAZN Baloncesto" tvg-name="DAZN BALONCESTO" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZBA.png"group-title="✔️EVENTOS✔️",01.11🏀🇪🇸R.Madrid                                                                           12:30🏀🇪🇸Burgos
+#EXTINF:0🏁tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2e554vbpw7g0ykhl0rziuabxl/fill/center/top/none/100/0/0/png/image/25/g" tvg-id="DAZN MotoGP"group-title="✔️EVENTOS✔️",01.11🎾🇲🇾PMotoGP                                                                           08:00🎾🇲🇾Malasia                                                                                                                                                                                                                                
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=95125f755562c0ffcb44abd94e338bd65472afea
+http://127.0.0.1:6878/ace/getstream?id=2a05a020dfe97aaa0665bb7551022868b2a88b36&pid=4124
+
+
 
 ⚽️ Fútbol - 14:00
 🏆 LALIGA EA SPORTS
@@ -82,7 +76,7 @@ http://127.0.0.1:6878/ace/getstream?id=e8b742b2d33a53f7c3c190e0cdbdcc8904eb3607
 
 #EXTINF:0⚽️tvg-id="DAZN LaLiga 2 HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga2.png"group-title="✔️EVENTOS✔️",01.11⚽🇪🇸Getafe                                                                          14:00⚽🇪🇸Sevilla
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=147635d4205d3be55c67d10e9f25ad6d093e5264	DAZN LaLiga 2 (M58 O274)
+http://127.0.0.1:6878/ace/getstream?id=147635d4205d3be55c67d10e9f25ad6d093e5264
 
 🎾 Tenis - 14:00
 🏆 ATP VIENA
@@ -112,18 +106,6 @@ http://127.0.0.1:6878/ace/getstream?id=4048be88f84250719e864868e537612f389df48e
 
 #EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte"group-title="✔️EVENTOS✔️",01.11🏃‍♀️🇺🇸MARATÓN                                                                           14:00🏃‍♀️🇺🇸Nueva York
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=b0d1489c9f3239349665ad5ab423363f2b02e5ae
-
-#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte"group-title="✔️EVENTOS✔️",01.11🏃‍♀️🇺🇸MARATÓN                                                                           14:00🏃‍♀️🇺🇸Nueva York
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=77cf022557c56cdf8d8115f50e61f846ad72ee05
-
-#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte"group-title="✔️EVENTOS✔️",01.11🏃‍♀️🇺🇸MARATÓN                                                                           14:00🏃‍♀️🇺🇸Nueva York
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=3b50a1dca0977e3761d016edd79314ab797f74f6
-
-#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte"group-title="✔️EVENTOS✔️",01.11🏃‍♀️🇺🇸MARATÓN                                                                           14:00🏃‍♀️🇺🇸Nueva York
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
 
 ⚽️ Fútbol - 16:15
@@ -141,12 +123,11 @@ http://127.0.0.1:6878/ace/getstream?id=46949ff98c05dd3471da249f2c7121d6fa198294
 
 #EXTINF:0⚽️tvg-id="DAZN LaLiga HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png"group-title="✔️EVENTOS✔️",01.11⚽🇪🇸Racing                                                                          16:15⚽🇪🇸R.Madrid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=aa69e3db0b0d748c6427995098ff86c5900f6da7
+http://127.0.0.1:6878/ace/getstream?id=7996a06e4bc0826ecb923e5e84a7ad59274b34dd
 
 #EXTINF:0⚽️tvg-id="DAZN LaLiga HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png"group-title="✔️EVENTOS✔️",01.11⚽🇪🇸Racing                                                                          16:15⚽🇪🇸R.Madrid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=7996a06e4bc0826ecb923e5e84a7ad59274b34dd
-
+http://127.0.0.1:6878/ace/getstream?id=aa69e3db0b0d748c6427995098ff86c5900f6da7
 
 ⚽️ Fútbol - 17:30
 🏆 PREMIER LEAGUE
@@ -217,15 +198,6 @@ http://127.0.0.1:6878/ace/getstream?id=2816e0c7e4f6a19a0cc9d1c363936a186ab89771
 #EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",01.11⚽️🇪🇸Elche                                                                        18:30⚽️🇪🇸Valencia                                                                                                                                                                                                               
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=4e844ef8ef9f2f6dbdd3bd2c3b11a3f773a318a6
-
-🏀 Baloncesto - 19:00
-🏆 LIGA ENDESA
-🆚 Unicaja Málaga - Barça
-🖥 DAZN Baloncesto 3
-
-#EXTINF:-1 tvg-id="DAZN Baloncesto" tvg-name="DAZN BALONCESTO" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZBA.png"group-title="✔️EVENTOS✔️",01.11🏀🇪🇸Unicaja                                                                           19:30🏀🇪🇸Barça
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=95125f755562c0ffcb44abd94e338bd65472afea
 
 ⚽️ Fútbol - 21:00
 🏆 LALIGA EA SPORTS
@@ -747,15 +719,15 @@ http://127.0.0.1:6878/ace/getstream?id=0b5f802f2de6488b4023d0f05195486e19d81ed7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?infohash=30587e0179d2aabda03e0e5194593f875242256f
 
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",31.10⚽️🇪🇸Barcelona                                                                           21:00⚽️🇪🇸Alavés                                                                                                                                                                                                               
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="⚽FUTBOL⚽",⚽🇪🇸M+ LaLiga                                                                                                                                                                                                                
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=cdf251af580d44a71302fb5634b734981a77f8b7
 
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",31.10⚽️🇪🇸Barcelona                                                                           21:00⚽️🇪🇸Alavés                                                                                                                                                                                                               
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="⚽FUTBOL⚽",⚽🇪🇸M+ LaLiga                                                                                                                                                                                                                
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=4e844ef8ef9f2f6dbdd3bd2c3b11a3f773a318a6
 
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",31.10⚽️🇪🇸Barcelona                                                                           21:00⚽️🇪🇸Alavés                                                                                                                                                                                                               
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="⚽FUTBOL⚽",⚽🇪🇸M+ LaLiga                                                                                                                                                                                                                
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=7ef0de1c6dba381b6c504fb6f683d95e4ff60115
 

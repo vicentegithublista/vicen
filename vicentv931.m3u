@@ -162,14 +162,6 @@ http://127.0.0.1:6878/ace/getstream?id=cdf251af580d44a71302fb5634b734981a77f8b7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",02.11⚽️🇪🇸Deportivo                                                                        21:00⚽️🇪🇸Osasuna                                                                                                                                                                                                               
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=3097d7e7ff0fe414711ee067a841168b6f5671cb
-
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",02.11⚽️🇪🇸Deportivo                                                                        21:00⚽️🇪🇸Osasuna                                                                                                                                                                                                               
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=8c0fa8c0f1be146dcc64a94e37c64993df86c72a
-
 ⚽️ Fútbol - 21:00
 🏆 LALIGA HYPERMOTION
 🆚 RCD Mallorca - Cádiz CF
@@ -264,17 +256,6 @@ http://127.0.0.1:6878/ace/getstream?id=7ef0de1c6dba381b6c504fb6f683d95e4ff60115
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga2.png"tvg-id="M+ LaLiga 2 HD"group-title="⚽FUTBOL⚽",⚽🇪🇸M+ LaLiga2                                                                                                                                                                                                                
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=2c2de8ff47a9a6112aa1266c10cbd3388bee99be
@@ -348,9 +329,13 @@ http://127.0.0.1:6878/ace/getstream?id=46949ff98c05dd3471da249f2c7121d6fa198294
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=aa69e3db0b0d748c6427995098ff86c5900f6da7
 
+#EXTINF:0⚽️tvg-id="DAZN LaLiga HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png"group-title="⚽FUTBOL⚽",🇪🇸DAZN LaLiga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=8c0fa8c0f1be146dcc64a94e37c64993df86c72a
 
-
-
+#EXTINF:0⚽️tvg-id="DAZN LaLiga HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png"group-title="⚽FUTBOL⚽",🇪🇸DAZN LaLiga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=3097d7e7ff0fe414711ee067a841168b6f5671cb
 
 
 

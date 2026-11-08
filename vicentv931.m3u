@@ -21,296 +21,204 @@ refresh="3600"
 #EXTGRP: group-title="RFEF TV" group-logo="https://rfef.es/themes/custom/rfef/img/rfef-share.png"
 #EXTGRP: group-title="TDT" group-logo="https://i.ibb.co/j9xn42jB/logo-tdt.png"
 
+⚽️ Fútbol - 14:00
+🏆 LALIGA EA SPORTS
+🆚 Elche - Betis
+🖥 DAZN LALIGA
 
-
-#EXTINF:0🏁tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2e554vbpw7g0ykhl0rziuabxl/fill/center/top/none/100/0/0/png/image/25/g" tvg-id="DAZN MotoGP"group-title="✔️EVENTOS✔️",07.11🏁MotoGP                                                                       10:25🏁G.P.Catar                                                                                                                                                                                                                               
+#EXTINF:0⚽️tvg-id="DAZN LaLiga HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png"group-title="✔️EVENTOS✔️",08.11⚽Elche                                                                    14:00⚽Betis 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=2a05a020dfe97aaa0665bb7551022868b2a88b36
+http://127.0.0.1:6878/ace/getstream?id=3097d7e7ff0fe414711ee067a841168b6f5671cb
 
-#EXTINF:0🏁tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2e554vbpw7g0ykhl0rziuabxl/fill/center/top/none/100/0/0/png/image/25/g" tvg-id="DAZN MotoGP"group-title="✔️EVENTOS✔️",07.11🏁MotoGP                                                                       10:25🏁G.P.Catar                                                                                                                                                                                                                               
+#EXTINF:0⚽️tvg-id="DAZN LaLiga HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png"group-title="✔️EVENTOS✔️",08.11⚽Elche                                                                    14:00⚽Betis 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=3097d7e7ff0fe414711ee067a841168b6f5671cb
+
+#EXTINF:0⚽️tvg-id="DAZN LaLiga HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png"group-title="✔️EVENTOS✔️",08.11⚽Elche                                                                    14:00⚽Betis 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=599fb52eba4bd937b2029210bdeca9f1a34a32da
+
+🏆 Motos - 14:00
+🏆 G.P. QATAR
+🆚 Moto3 (Losail)
+🖥 DAZN MotoGP
+
+#EXTINF:0🏁tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2e554vbpw7g0ykhl0rziuabxl/fill/center/top/none/100/0/0/png/image/25/g" tvg-id="DAZN MotoGP"group-title="✔️EVENTOS✔️",08.11🏁Moto 3                                                                       14:00🏁G.P.Catar                                                                                                                                                                                                                               
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=2a05a020dfe97aaa0665bb7551022868b2a88b36&pid=4124
 
-#EXTINF:0🏁tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2e554vbpw7g0ykhl0rziuabxl/fill/center/top/none/100/0/0/png/image/25/g" tvg-id="DAZN MotoGP"group-title="✔️EVENTOS✔️",07.11🏁MotoGP                                                                       10:25🏁G.P.Catar                                                                                                                                                                                                                               
+#EXTINF:0🏁tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2e554vbpw7g0ykhl0rziuabxl/fill/center/top/none/100/0/0/png/image/25/g" tvg-id="DAZN MotoGP"group-title="✔️EVENTOS✔️",08.11🏁Moto 3                                                                       14:00🏁G.P.Catar                                                                                                                                                                                                                               
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=2a05a020dfe97aaa0665bb7551022868b2a88b36
 
-#EXTINF:0🏁tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2e554vbpw7g0ykhl0rziuabxl/fill/center/top/none/100/0/0/png/image/25/g" tvg-id="DAZN MotoGP"group-title="✔️EVENTOS✔️",07.11🏁MotoGP                                                                       10:25🏁G.P.Catar                                                                                                                                                                                                                               
+🎾 Tenis - 15:00
+🏆 MASTERS PARÍS
+🆚 Shelton - Alcaraz
+🖥 Movistar Plus
+
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" tvg-id="M+ Deportes 2 HD"group-title="✔️EVENTOS✔️",08.11🎾Shelton                                                                     15:00🎾Alcaraz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=aaf8f939186264a31449c5e31ebf424965b0369f
+http://127.0.0.1:6878/ace/getstream?id=f62f06bb905564bf718467658947e24c2b21735f
 
-#EXTINF:0🏁tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2e554vbpw7g0ykhl0rziuabxl/fill/center/top/none/100/0/0/png/image/25/g" tvg-id="DAZN MotoGP"group-title="✔️EVENTOS✔️",07.11🏁MotoGP                                                                       10:25🏁G.P.Catar                                                                                                                                                                                                                               
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" tvg-id="M+ Deportes 2 HD"group-title="✔️EVENTOS✔️",08.11🎾Shelton                                                                     15:00🎾Alcaraz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=002ebb242685b729fd1235fc24c93110593343a6
+http://127.0.0.1:6878/ace/getstream?infohash=a0fd9380808627dc9dd061348caa6065e7b6037a
 
+🏆 Motos - 15:15
+🏆 G.P. QATAR
+🆚 Moto2 (Losail)
+🖥 DAZN MotoGP
 
-
-
-
-
-#EXTINF:0🏁tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="✔️EVENTOS✔️",07.11🏁DAZN F1                                                                       15:00🏁G.P.Brasil                                                                                     
+#EXTINF:0🏁tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2e554vbpw7g0ykhl0rziuabxl/fill/center/top/none/100/0/0/png/image/25/g" tvg-id="DAZN MotoGP"group-title="✔️EVENTOS✔️",08.11🏁Moto 2                                                                       15:15🏁G.P.Catar                                                                                                                                                                                                                               
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=ee4646aae30d862e0d9d453998a344a60aaa7cde
+http://127.0.0.1:6878/ace/getstream?id=2a05a020dfe97aaa0665bb7551022868b2a88b36&pid=4124
 
-#EXTINF:0🏁tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="✔️EVENTOS✔️",07.11🏁DAZN F1                                                                       15:00🏁G.P.Brasil                                                                                     
+#EXTINF:0🏁tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2e554vbpw7g0ykhl0rziuabxl/fill/center/top/none/100/0/0/png/image/25/g" tvg-id="DAZN MotoGP"group-title="✔️EVENTOS✔️",08.11🏁Moto 2                                                                       15:15🏁G.P.Catar                                                                                                                                                                                                                               
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=dc149729d6b4be6ae8199eae450611d1d06e5149
+http://127.0.0.1:6878/ace/getstream?id=2a05a020dfe97aaa0665bb7551022868b2a88b36
 
-#EXTINF:0🏁tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="✔️EVENTOS✔️",07.11🏁DAZN F1                                                                       15:00🏁G.P.Brasil                                                                                     
+⚽️ Fútbol - 16:15
+🏆 LALIGA EA SPORTS
+🆚 Real Sociedad - Rayo Vallecano
+🖥 M+ LALIGA
+
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",08.11⚽R.Sociedad                                                             16:15⚽Rayo                                                                                                                                                                                                              
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2
+http://127.0.0.1:6878/ace/getstream?id=c3178c94391e98b2117f21f1dd810271c7d5e955
 
-#EXTINF:0🏁tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="✔️EVENTOS✔️",07.11🏁DAZN F1                                                                       15:00🏁G.P.Brasil                                                                                     
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",08.11⚽R.Sociedad                                                             16:15⚽Rayo                                                                                                                                                                                                              
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=4236714aa65e854f90bb6b710369bfb6e862cb23
+http://127.0.0.1:6878/ace/getstream?id=3d4c3b9d44af0658a9ec6b29c92033f732b65422
 
-#EXTINF:0🏁tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="✔️EVENTOS✔️",07.11🏁SKY SPORT F1                                                                       15:00🏁G.P.Brasil                                                                                     
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",08.11⚽R.Sociedad                                                             16:15⚽Rayo                                                                                                                                                                                                              
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
+http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 
-#EXTINF:0🏁tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="✔️EVENTOS✔️",07.11🏁DAZN5 F1                                                                       15:00🏁G.P.Brasil                                                                                     
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",08.11⚽R.Sociedad                                                             16:15⚽Rayo                                                                                                                                                                                                              
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+http://127.0.0.1:6878/ace/getstream?infohash=c1959a27edb0b94c5005a2dea93b7a70d4312f1c
 
-🏆 Padel - 12:00
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",08.11⚽R.Sociedad                                                             16:15⚽Rayo                                                                                                                                                                                                              
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=0b5f802f2de6488b4023d0f05195486e19d81ed7
+
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",08.11⚽R.Sociedad                                                             16:15⚽Rayo                                                                                                                                                                                                              
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?infohash=30587e0179d2aabda03e0e5194593f875242256f
+
+🏆 Padel - 16:25
 🏆 WORLD CUP
 🆚 Qatar (Finales)
 🖥 M+ Vamos 2
 
-#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%202.png"tvg-id="M+ Vamos 2"group-title="✔️EVENTOS✔️",07.11🎾Padel Mundial                                                              12:00🎾Qatar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=973094e625613b693cffb05a3f98fabe2d59dafa
-
-#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%202.png"tvg-id="M+ Vamos 2"group-title="✔️EVENTOS✔️",07.11🎾Padel Mundial                                                              12:00🎾Qatar
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%202.png"tvg-id="M+ Vamos 2"group-title="✔️EVENTOS✔️",08.11🎾Padel Mundial                                                              16:25🎾Qatar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=eadc069bbd45d77cb33ca3bac6f6d86281597122
 
-#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%202.png"tvg-id="M+ Vamos 2"group-title="✔️EVENTOS✔️",07.11🎾Padel Mundial                                                              12:00🎾Qatar
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%202.png"tvg-id="M+ Vamos 2"group-title="✔️EVENTOS✔️",08.11🎾Padel Mundial                                                              16:25🎾Qatar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=8fd3ab88c95744e502aca1cdb369e07941914344
 
-⚽️ Fútbol - 14:00
-🏆 LALIGA EA SPORTS
-🆚 Málaga - Racing
-🖥 M+ LALIGA
+🏆 Motos - 17:00
+🏆 G.P. QATAR
+🆚 MotoGP (Losail)
+🖥 DAZN MotoGP
 
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",07.11⚽Málaga                                                             14:00⚽Racing                                                                                                                                                                                                               
+#EXTINF:0🏁tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2e554vbpw7g0ykhl0rziuabxl/fill/center/top/none/100/0/0/png/image/25/g" tvg-id="DAZN MotoGP"group-title="✔️EVENTOS✔️",08.11🏁MotoGP                                                                       17:00🏁G.P.Catar                                                                                                                                                                                                                               
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=c3178c94391e98b2117f21f1dd810271c7d5e955
+http://127.0.0.1:6878/ace/getstream?id=2a05a020dfe97aaa0665bb7551022868b2a88b36&pid=4124
 
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",07.11⚽Málaga                                                             14:00⚽Racing                                                                                                                                                                                                               
+#EXTINF:0🏁tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2e554vbpw7g0ykhl0rziuabxl/fill/center/top/none/100/0/0/png/image/25/g" tvg-id="DAZN MotoGP"group-title="✔️EVENTOS✔️",08.11🏁MotoGP                                                                       17:00🏁G.P.Catar                                                                                                                                                                                                                               
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=2772b75c3bc7cfe214514a7745f63024620f3a29
+http://127.0.0.1:6878/ace/getstream?id=2a05a020dfe97aaa0665bb7551022868b2a88b36
 
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",07.11⚽Málaga                                                             14:00⚽Racing                                                                                                                                                                                                               
+🏎️ Fórmula 1 - 18:00
+🏆 G.P. BRASIL
+🆚 Autodromo Jose Carlos Pace
+🖥 DAZN F1
+
+#EXTINF:0🏁tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="✔️EVENTOS✔️",08.11🏁DAZN F1                                                                       18:00🏁G.P.Brasil                                                                                     
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=e1825dc2deae9f24ef55e6ff11fe780201ae758d
+http://127.0.0.1:6878/ace/getstream?id=ee4646aae30d862e0d9d453998a344a60aaa7cde
 
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",07.11⚽Málaga                                                             14:00⚽Racing                                                                                                                                                                                                               
+#EXTINF:0🏁tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="✔️EVENTOS✔️",08.11🏁DAZN F1                                                                       18:00🏁G.P.Brasil                                                                                     
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=1c00e6a5404f84e9bd22aa9d8f09e96ffa4ab319
+http://127.0.0.1:6878/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2
 
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",07.11⚽Málaga                                                             14:00⚽Racing                                                                                                                                                                                                               
+#EXTINF:0🏁tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="✔️EVENTOS✔️",08.11🏁SKY F1                                                                       18:00🏁G.P.Brasil                                                                                     
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=aae8bcb9b00c4505ccfa5981b860da012e8cf23e
+http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",07.11⚽Málaga                                                             14:00⚽Racing                                                                                                                                                                                                               
+#EXTINF:0🏁tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="✔️EVENTOS✔️",08.11🏁DAZN5 F1                                                                       18:00🏁G.P.Brasil                                                                                     
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=3d4c3b9d44af0658a9ec6b29c92033f732b65422
-
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",07.11⚽Málaga                                                             14:00⚽Racing                                                                                                                                                                                                               
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
-
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",07.11⚽Málaga                                                             14:00⚽Racing                                                                                                                                                                                                               
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=f0caa9805cc64698dde2df1d96ed7ca46be5ea2c
-
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",07.11⚽Málaga                                                             14:00⚽Racing                                                                                                                                                                                                               
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?infohash=c1959a27edb0b94c5005a2dea93b7a70d4312f1c
-
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",07.11⚽Málaga                                                             14:00⚽Racing                                                                                                                                                                                                               
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=0b5f802f2de6488b4023d0f05195486e19d81ed7
-
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",07.11⚽Málaga                                                             14:00⚽Racing                                                                                                                                                                                                               
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?infohash=30587e0179d2aabda03e0e5194593f875242256f
-
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",07.11⚽Málaga                                                             14:00⚽Racing                                                                                                                                                                                                               
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=cdf251af580d44a71302fb5634b734981a77f8b7
-
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",07.11⚽Málaga                                                             14:00⚽Racing                                                                                                                                                                                                               
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=6ffbcc23e7f48bd5a910edf84b98e1c253a018c0
-
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",07.11⚽Málaga                                                             14:00⚽Racing                                                                                                                                                                                                               
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=351ef7f5b6a16a5377b0a0459456c8bf67e56d12
-
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",07.11⚽Málaga                                                             14:00⚽Racing                                                                                                                                                                                                               
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=c3178c94391e98b2117f21f1dd810271c7d5e955
-
-🎾 Tenis - 14:30
-🏆 MASTERS PARÍS
-🆚 Shelton - Van Assche
-🖥 Movistar Plus
-
-#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" tvg-id="M+ Deportes 2 HD"group-title="✔️EVENTOS✔️",07.11🎾Shelton                                                                     14:30🎾Van Assche
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=f62f06bb905564bf718467658947e24c2b21735f
-
-#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" tvg-id="M+ Deportes 2 HD"group-title="✔️EVENTOS✔️",07.11🎾Shelton                                                                     14:30🎾Van Assche
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?infohash=a0fd9380808627dc9dd061348caa6065e7b6037a
-
-⚽️ Fútbol - 16:15
-🏆 LALIGA EA SPORTS
-🆚 Espanyol - Deportivo
-🖥 DAZN LALIGA
-
-#EXTINF:0⚽️tvg-id="DAZN LaLiga HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png"group-title="✔️EVENTOS✔️",07.11⚽Espanyol                                                                    16:15⚽Deportivo 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=5bf898b0ffc2ca662b898a424a988a922ab88abd
-
-#EXTINF:0⚽️tvg-id="DAZN LaLiga HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png"group-title="✔️EVENTOS✔️",07.11⚽Espanyol                                                                    16:15⚽Deportivo 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=3097d7e7ff0fe414711ee067a841168b6f5671cb
-
-#EXTINF:0⚽️tvg-id="DAZN LaLiga HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png"group-title="✔️EVENTOS✔️",07.11⚽Espanyol                                                                    16:15⚽Deportivo 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=599fb52eba4bd937b2029210bdeca9f1a34a32da
-
-🎾 Tenis - 17:00
-🏆 MASTERS PARÍS
-🆚 Ruud - Alcaraz
-🖥 M+ Deportes 2
-
-#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" tvg-id="M+ Deportes 2 HD"group-title="✔️EVENTOS✔️",07.11🎾Ruud                                                                     17:00🎾Alcaraz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=f62f06bb905564bf718467658947e24c2b21735f
-
-#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" tvg-id="M+ Deportes 2 HD"group-title="✔️EVENTOS✔️",07.11🎾Ruud                                                                     17:00🎾Alcaraz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?infohash=a0fd9380808627dc9dd061348caa6065e7b6037a
+http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 
 ⚽️ Fútbol - 18:30
 🏆 LALIGA EA SPORTS
-🆚 CA Osasuna - Athletic Club
-🖥 Movistar Plus
+🆚 Celta - Levante
+🖥 M+ LALIGA 2
 
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",07.11⚽Osasuna                                                             18:30⚽Athletic                                                                                                                                                                                                               
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga2.png"tvg-id="M+ LaLiga 2 HD"group-title="✔️EVENTOS✔️",08.11⚽Celta                                                             18:30⚽Levante                                                                                                                                                                                                              
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=c3178c94391e98b2117f21f1dd810271c7d5e955
+http://127.0.0.1:6878/ace/getstream?id=b8eb9c9868d487402569bba2d97a8af113d033fe
 
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",07.11⚽Osasuna                                                             18:30⚽Athletic                                                                                                                                                                                                               
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga2.png"tvg-id="M+ LaLiga 2 HD"group-title="✔️EVENTOS✔️",08.11⚽Celta                                                             18:30⚽Levante                                                                                                                                                                                                              
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=2772b75c3bc7cfe214514a7745f63024620f3a29
+http://127.0.0.1:6878/ace/getstream?id=e26e32779e026f1c51353b8fca92860765cf8e3c
 
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",07.11⚽Osasuna                                                             18:30⚽Athletic                                                                                                                                                                                                               
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga2.png"tvg-id="M+ LaLiga 2 HD"group-title="✔️EVENTOS✔️",08.11⚽Celta                                                             18:30⚽Levante                                                                                                                                                                                                              
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=e1825dc2deae9f24ef55e6ff11fe780201ae758d
+http://127.0.0.1:6878/ace/getstream?id=93e21c01e9a7bc7418ac04f220ee87c3c2fddd2d
 
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",07.11⚽Osasuna                                                             18:30⚽Athletic                                                                                                                                                                                                               
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga2.png"tvg-id="M+ LaLiga 2 HD"group-title="✔️EVENTOS✔️",08.11⚽Celta                                                             18:30⚽Levante                                                                                                                                                                                                              
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=1c00e6a5404f84e9bd22aa9d8f09e96ffa4ab319
+http://127.0.0.1:6878/ace/getstream?id=4c8107cd9165bafd80ad21a71e8285a9a4c990df
 
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",07.11⚽Osasuna                                                             18:30⚽Athletic                                                                                                                                                                                                               
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=aae8bcb9b00c4505ccfa5981b860da012e8cf23e
-
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",07.11⚽Osasuna                                                             18:30⚽Athletic                                                                                                                                                                                                               
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=3d4c3b9d44af0658a9ec6b29c92033f732b65422
-
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",07.11⚽Osasuna                                                             18:30⚽Athletic                                                                                                                                                                                                               
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
-
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",07.11⚽Osasuna                                                             18:30⚽Athletic                                                                                                                                                                                                               
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=f0caa9805cc64698dde2df1d96ed7ca46be5ea2c
-
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",07.11⚽Osasuna                                                             18:30⚽Athletic                                                                                                                                                                                                               
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?infohash=c1959a27edb0b94c5005a2dea93b7a70d4312f1c
-
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",07.11⚽Osasuna                                                             18:30⚽Athletic                                                                                                                                                                                                               
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=0b5f802f2de6488b4023d0f05195486e19d81ed7
-
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",07.11⚽Osasuna                                                             18:30⚽Athletic                                                                                                                                                                                                               
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?infohash=30587e0179d2aabda03e0e5194593f875242256f
-
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",07.11⚽Osasuna                                                             18:30⚽Athletic                                                                                                                                                                                                               
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=cdf251af580d44a71302fb5634b734981a77f8b7
-
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",07.11⚽Osasuna                                                             18:30⚽Athletic                                                                                                                                                                                                               
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=6ffbcc23e7f48bd5a910edf84b98e1c253a018c0
-
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",07.11⚽Osasuna                                                             18:30⚽Athletic                                                                                                                                                                                                               
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=351ef7f5b6a16a5377b0a0459456c8bf67e56d12
-
-
-
-
-#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus.png"tvg-id="MovistPlus HD"group-title="✔️EVENTOS✔️",07.11⚽Osasuna                                                             18:30⚽Athletic                                                                                                                                                                                                               
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=d2b5299ed45cbaf35482bb0869b2c2f75fbed64a
-
-#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus.png"tvg-id="MovistPlus HD"group-title="✔️EVENTOS✔️",07.11⚽Osasuna                                                             18:30⚽Athletic                                                                                                                                                                                                               
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=a2d33536b7d55727c8f6bea010624d6478c3ba2d
-
-#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus.png"tvg-id="MovistPlus HD"group-title="✔️EVENTOS✔️",07.11⚽Osasuna                                                             18:30⚽Athletic                                                                                                                                                                                                               
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=67121cbb722b88ce4489717e9a87a26f60184ec9
-
-
-⚽️ Fútbol - 21:00
+⚽️ Fútbol - 18:30
 🏆 LALIGA EA SPORTS
-🆚 Valencia - Real Madrid
+🆚 Villarreal - Getafe
 🖥 DAZN LALIGA
 
-#EXTINF:0⚽️tvg-id="DAZN LaLiga HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png"group-title="✔️EVENTOS✔️",07.11⚽Valencia                                                                    21:00⚽R.Madrid 
+#EXTINF:0⚽️tvg-id="DAZN LaLiga HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png"group-title="✔️EVENTOS✔️",08.11⚽Villarreal                                                                    18:30⚽Getafe 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=3097d7e7ff0fe414711ee067a841168b6f5671cb
 
-#EXTINF:0⚽️tvg-id="DAZN LaLiga HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png"group-title="✔️EVENTOS✔️",07.11⚽Valencia                                                                    21:00⚽R.Madrid 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=529f5abd2c87209f69c0727ade740ff6f160be88
-
-#EXTINF:0⚽️tvg-id="DAZN LaLiga HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png"group-title="✔️EVENTOS✔️",07.11⚽Valencia                                                                    21:00⚽R.Madrid 
+#EXTINF:0⚽️tvg-id="DAZN LaLiga HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png"group-title="✔️EVENTOS✔️",08.11⚽Villarreal                                                                    18:30⚽Getafe 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=3097d7e7ff0fe414711ee067a841168b6f5671cb
 
-#EXTINF:0⚽️tvg-id="DAZN LaLiga HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png"group-title="✔️EVENTOS✔️",07.11⚽Valencia                                                                    21:00⚽R.Madrid 
+#EXTINF:0⚽️tvg-id="DAZN LaLiga HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png"group-title="✔️EVENTOS✔️",08.11⚽Villarreal                                                                    18:30⚽Getafe 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=599fb52eba4bd937b2029210bdeca9f1a34a32da
 
+⚽️ Fútbol - 21:00
+🏆 LALIGA EA SPORTS
+🆚 Atlético Madrid - Barcelona
+🖥 M+ LALIGA
 
-
-
-
-
-
-
-#EXTINF:0⚽️tvg-id="DAZN LaLiga HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png"group-title="✔️EVENTOS✔️",07.11⚽Valencia                                                                    21:00⚽R.Madrid 
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",08.11⚽Atlético                                                             21:00⚽Barcelona                                                                                                                                                                                                            
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
+http://127.0.0.1:6878/ace/getstream?id=c3178c94391e98b2117f21f1dd810271c7d5e955
 
-#EXTINF:0⚽️tvg-id="DAZN LaLiga HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png"group-title="✔️EVENTOS✔️",07.11⚽Valencia                                                                    21:00⚽R.Madrid 
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",08.11⚽Atlético                                                             21:00⚽Barcelona                                                                                                                                                                                                            
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
+http://127.0.0.1:6878/ace/getstream?id=3d4c3b9d44af0658a9ec6b29c92033f732b65422
 
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",08.11⚽Atlético                                                             21:00⚽Barcelona                                                                                                                                                                                                            
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",08.11⚽Atlético                                                             21:00⚽Barcelona                                                                                                                                                                                                            
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?infohash=c1959a27edb0b94c5005a2dea93b7a70d4312f1c
+
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",08.11⚽Atlético                                                             21:00⚽Barcelona                                                                                                                                                                                                            
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=0b5f802f2de6488b4023d0f05195486e19d81ed7
+
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png"tvg-id="M+ LaLiga HD"group-title="✔️EVENTOS✔️",08.11⚽Atlético                                                             21:00⚽Barcelona                                                                                                                                                                                                            
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?infohash=30587e0179d2aabda03e0e5194593f875242256f
 
 
 
@@ -352,9 +260,6 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1⚽tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204.png" tvg-id="DAZN 4",group-title="✔️EVENTOS✔️",07.11⚽PREMIER DAZN 4 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
-
-
-
 
 
 
@@ -2185,9 +2090,7 @@ http://127.0.0.1:6878/ace/getstream?id=89affda5ac7471f1a1e0b8e8cfdb3fa166af4a33
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=2a05a020dfe97aaa0665bb7551022868b2a88b36
 
-#EXTINF:0🏁tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2e554vbpw7g0ykhl0rziuabxl/fill/center/top/none/100/0/0/png/image/25/g" tvg-id="DAZN MotoGP"group-title="🏁MOTOR🏁",DAZN MotoGP                                                                                                                                                                                                                                
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=2a05a020dfe97aaa0665bb7551022868b2a88b36
+
 
 
 #EXTINF:0🏁tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2e554vbpw7g0ykhl0rziuabxl/fill/center/top/none/100/0/0/png/image/25/g" tvg-id="DAZN MotoGP"group-title="🏁MOTOR🏁",DAZN MotoGP                                                                                                                                                                                                                                

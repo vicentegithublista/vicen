@@ -1925,13 +1925,11 @@ http://127.0.0.1:6878/ace/getstream?id=536c879d8a914e43141d778b3567fa017c9f5eeb
 
 
 
-#EXTINF:0 tvg-logo="https://i.pinimg.com/1200x/a7/71/0f/a7710f4615e8232e315c7a37933baeb4.jpg"tvg-id="La 1 HD"group-title="🌍GLOBAL🌍",🇪🇸La 1🇪🇸                       
+EXTINF:0 tvg-logo="https://i.pinimg.com/1200x/a7/71/0f/a7710f4615e8232e315c7a37933baeb4.jpg"tvg-id="La 1 HD"group-title="🌍GLOBAL🌍",🇪🇸La 1🇪🇸                       
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=4ce1d784cf9b1fda3f73a5a1eedcd342b952bc29
 
-#EXTINF:0 tvg-logo="https://i.pinimg.com/1200x/a7/71/0f/a7710f4615e8232e315c7a37933baeb4.jpg"tvg-id="La 1 HD"group-title="🌍GLOBAL🌍",🇪🇸La 1🇪🇸                       
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=fff8654ad6ef3ddb4ce3998bda9056ab28a66a1a
+
 
 #EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202%20Canarias.png"tvg-id="La 2 Canarias"group-title="🌍GLOBAL🌍",🇪🇸La 2🇪🇸                                                                       
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -1941,7 +1939,7 @@ http://127.0.0.1:6878/ace/getstream?infohash=cd76570ab73f9b7b52cdb82c607e253076b
 
 
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cuatro.png"tvg-id="Cuatro HD"group-title="🌍GLOBAL🌍",🇪🇸Cuatro🇪🇸                       
+EXTINF:0 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cuatro.png"tvg-id="Cuatro HD"group-title="🌍GLOBAL🌍",🇪🇸Cuatro🇪🇸                       
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=98ca3466e722d21487635e3b73b791edd348e67f
 
@@ -1952,21 +1950,18 @@ http://127.0.0.1:6878/ace/getstream?infohash=1d349b65c0ef3a85533f22ec9d792f41520
 
 
 
-#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus.png"tvg-id="MovistPlus HD"group-title="🌍GLOBAL🌍",🇪🇸M+ Plus🇪🇸                                                                       
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=d2b5299ed45cbaf35482bb0869b2c2f75fbed64a
 
-#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus.png"tvg-id="MovistPlus HD"group-title="🌍GLOBAL🌍",🇪🇸M+ Plus🇪🇸                                                                       
+EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus.png"tvg-id="MovistPlus HD"group-title="🌍GLOBAL🌍",🇪🇸M+ Plus🇪🇸                                                                       
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=a2d33536b7d55727c8f6bea010624d6478c3ba2d
 
 
-#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus.png"tvg-id="MovistPlus HD"group-title="🌍GLOBAL🌍",🇪🇸M+ Plus🇪🇸                                                                       
+EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus.png"tvg-id="MovistPlus HD"group-title="🌍GLOBAL🌍",🇪🇸M+ Plus🇪🇸                                                                       
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?infohash=318c12f5f40d7bd9c0ab0c130bf9b96668098279
 
 
-#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales.png"tvg-id="M+ Originales HD"group-title="🌍GLOBAL🌍",🇪🇸M+ Originales🇪🇸                                                                       
+EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales.png"tvg-id="M+ Originales HD"group-title="🌍GLOBAL🌍",🇪🇸M+ Originales🇪🇸                                                                       
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=fa931cbc87dc9d66fdd30a9644e054b403960056
 

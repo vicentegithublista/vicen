@@ -37,24 +37,13 @@ refresh="3600"
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=0d8baa9c49a73dc9310adeec38d2c2df03271180
 
-#EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" tvg-id="ESPN"group-title="✔️EVENTOS✔️",11.11🏀Celtics                                                         02:00🏀76ers
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=2eedcbcc7173d3622804609460687d3e5a19e1ff
-
 #EXTINF:-1 tvg-id="DAZN Baloncesto" tvg-name="DAZN BALONCESTO" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZBA.png"group-title="✔️EVENTOS✔️",11.11🏀Celtics                                                         02:00🏀76ers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=788891525283f541893b809c54d1b9cbe2344dc5
 
 #EXTINF:-1 tvg-id="DAZN Baloncesto" tvg-name="DAZN BALONCESTO" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZBA.png"group-title="✔️EVENTOS✔️",11.11🏀Celtics                                                         02:00🏀76ers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=e5b57c3919b1714f01cb6e5f1812d22aa87bae2b
-
-#EXTINF:-1 tvg-id="DAZN Baloncesto" tvg-name="DAZN BALONCESTO" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZBA.png"group-title="✔️EVENTOS✔️",11.11🏀Celtics                                                         02:00🏀76ers
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=f460b9c1b77222ac21b0e148f2b2c07791ce2d5d
-
-
-
 
 13:35	Competición Superprestige Ciclocross | Superprestige Ciclocross	Niel (Bélgica)
 Carrera femenina	Eurosport 1
@@ -63,30 +52,12 @@ Carrera femenina	Eurosport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=818735480ae40a4207ece5153ef9a3e798cef7aa
 
-#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" tvg-id="Eurosport 1 HD"group-title="✔️EVENTOS✔️",11.11🚴Ciclocross F                                                        13:35🚴Bélgica
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=3b2bd7daedec3ef9fb72de78ea05b58a26fd452b
-
-#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" tvg-id="Eurosport 1 HD"group-title="✔️EVENTOS✔️",11.11🚴Ciclocross F                                                        13:35🚴Bélgica
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=6930c3a2dc706c96cd0a2cd2475f4615e845f191
-
-
-
 15:05	Competición Superprestige Ciclocross	Niel (Bélgica)
 Carrera masculina	Eurosport 1
 
 #EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" tvg-id="Eurosport 1 HD"group-title="✔️EVENTOS✔️",11.11🚴Ciclocross M                                                        15:05🚴Bélgica
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=818735480ae40a4207ece5153ef9a3e798cef7aa
-
-#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" tvg-id="Eurosport 1 HD"group-title="✔️EVENTOS✔️",11.11🚴Ciclocross M                                                        15:05🚴Bélgica
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=3b2bd7daedec3ef9fb72de78ea05b58a26fd452b
-
-#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" tvg-id="Eurosport 1 HD"group-title="✔️EVENTOS✔️",11.11🚴Ciclocross M                                                        15:05🚴Bélgica
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=6930c3a2dc706c96cd0a2cd2475f4615e845f191
 
 🏀 Baloncesto - 17:30
 🏆 EUROCUP
@@ -145,10 +116,6 @@ http://127.0.0.1:6878/ace/getstream?id=c7d8405bdef3650b9bac58042c3708440ef286a8
 
 #EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte"group-title="✔️EVENTOS✔️",11.11⚽SELECCIÓN                                                            18:15⚽R.Prensa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=f80b9184bdd16a335d523ea3ea15b8e9a1c3bbcc
-
-#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte"group-title="✔️EVENTOS✔️",11.11⚽SELECCIÓN                                                            18:15⚽R.Prensa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
 
 🏀 Baloncesto - 20:00
@@ -172,10 +139,6 @@ http://127.0.0.1:6878/ace/getstream?id=f608f9cb7099d94172739494e8864e8b5b6a4360
 #EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte"group-title="✔️EVENTOS✔️",11.11🏀Murcia                                                            20:30🏀BMA365
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=c7d8405bdef3650b9bac58042c3708440ef286a8
-
-#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte"group-title="✔️EVENTOS✔️",11.11🏀Murcia                                                            20:30🏀BMA365
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=f80b9184bdd16a335d523ea3ea15b8e9a1c3bbcc
 
 #EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte"group-title="✔️EVENTOS✔️",11.11🏀Murcia                                                            20:30🏀BMA365
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160

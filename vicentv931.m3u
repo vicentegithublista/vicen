@@ -22,16 +22,262 @@ refresh="3600"
 #EXTGRP: group-title="RFEF TV" group-logo="https://rfef.es/themes/custom/rfef/img/rfef-share.png"
 #EXTGRP: group-title="TDT" group-logo="https://i.ibb.co/j9xn42jB/logo-tdt.png"
 
-📆 Sábado 14 de Noviembre de 2026 📆
-
 🏆 Esquí - 09:45
 🏆 COPA DEL MUNDO
-🆚 Eslalon Femenino (Levi)
+🆚 Eslalon Masculino (Levi)
 🖥 Eurosport 1
 
-#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" tvg-id="Eurosport 1 HD"group-title="✔️EVENTOS✔️",14.11🏔Esquí                                               09:45🏔COPA DEL MUNDO
+#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" tvg-id="Eurosport 1 HD"group-title="✔️EVENTOS✔️",15.11🏔Esquí                                               09:45🏔COPA DEL MUNDO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=818735480ae40a4207ece5153ef9a3e798cef7aa
+
+🏀 Baloncesto - 12:00
+🏆 LIGA ENDESA
+🆚 Valencia Basket - Leyma Coruña
+🖥 DAZN Baloncesto 2
+
+#EXTINF:-1 tvg-id="DAZN Baloncesto" tvg-name="DAZN BALONCESTO" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZBA.png"group-title="✔️EVENTOS✔️",15.11🏀Valencia                                              12:00🏀Leyma
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=09ee8afc1d9b468d3b470c682cfcacd58a95e273
+
+
+
+
+
+
+
+
+⚽️ Fútbol - 14:00
+🏆 LALIGA HYPERMOTION
+🆚 CD Tenerife - Ceuta FC
+🖥 LALIGA TV HYPERMOTION
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+🎾 Tenis - 14:00
+🏆 ATP FINALS
+🆚 Zverev - Jodar
+🖥 Movistar Plus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+🏆 Padel - 15:00
+🏆 PREMIER PADEL
+🆚 Dubai (Finales)
+🖥 M+ Vamos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+🏀 Baloncesto - 17:00
+🏆 LIGA ENDESA
+🆚 Barça - Monbus Obradoiro
+🖥 DAZN Baloncesto 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+⚽️ Fútbol - 18:30
+🏆 LALIGA HYPERMOTION
+🆚 SD Eibar - Cádiz CF
+🖥 LALIGA TV HYPERMOTION
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+⚽️ Fútbol - 18:30
+🏆 LALIGA HYPERMOTION
+🆚 CD Eldense - CE Sabadell
+🖥 LALIGA TV HYPERMOTION 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+🏀 Baloncesto - 19:00
+🏆 LIGA ENDESA
+🆚 Baskonia - Real Madrid
+🖥 Movistar Plus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+🎾 Tenis - 20:30
+🏆 ATP FINALS
+🆚 Shelton - Fils
+🖥 M+ Deportes 2
+
+
+
+
+
+
+
+
+
+
+
+⚽️ Fútbol - 20:45
+🏆 NATIONS LEAGUE
+🆚 España - Inglaterra
+🖥 LA 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+🏀 NBA - 22:00
+🏆 LIGA REGULAR
+🆚 Los Angeles Lakers @ Phoenix Suns
+🖥 DAZN Baloncesto 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+🏀 NBA - 23:00
+🏆 LIGA REGULAR
+🆚 San Antonio Spurs @ Utah Jazz
+🖥 DAZN Baloncesto 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ⚽️ Fútbol - 11:15
 🏆 AMISTOSO
@@ -2179,8 +2425,7 @@ https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist
 
 
 
-
-EXTINF:0🐂tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png"tvg-id="Onetoro"group-title="🌍GLOBAL🌍",🇪🇸Onetoro🇪🇸                                                                                   
+#EXTINF:0🐂tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png"tvg-id="Onetoro"group-title="🌍GLOBAL🌍",🇪🇸Onetoro🇪🇸                                                                                   
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=8b6daf481a4c2eed0c1b6a473a841aea980d188c
 

@@ -25,10 +25,6 @@ refresh="3600"
 
 
 
-M+ Golf 2 1080p *
-acestream://ed56c29a9e2d373d6adb0d71456d8bd72506c143
-M+ Golf 2 1080p **
-acestream://00962019be1f34c24f29c9d1a7ec5c8241d2c4bd
 
 
 
@@ -37,38 +33,13 @@ acestream://00962019be1f34c24f29c9d1a7ec5c8241d2c4bd
 
 
 
-M+ VAMOS 3 720p **
-acestream://042acc23562903fa562caa5c632ca9af9b462862
-M+ VAMOS 3 1080p *
-acestream://0e3f0f3e36f1164487381fa64a1cff505dc83a77
-RFEF TV
-RFEF TV 1080p *
-acestream://bf95e600e8f546948eb4f170079533b2a38954ac
-RFEF TV 1080p *
-acestream://2ffc32c0b0d343479df339abca92908bc33c0a09
-RFEF TV 1080p **
-acestream://36820e768af871a66048cd702f8f3988683f6242
-TDT
-CUATRO 1080p **
-acestream://53f5cae6541b7c548b7ed408dee2f5a7e0d0b976
-La 1 TVE 720p *
-acestream://607f7b787f71fcf95a28797f3894c749b34b6446
-La 1 TVE 1080p **
-acestream://7d48c95f887b612c403b402ee12d271c8e4daf61
-La 1 TVE 1080p **
-acestream://63f58d5591124574898aee8c78758195714f6490
-La 1 TVE 4K *
-acestream://d12801b4106313b1ca79bd9b4182a12f949fc7b9
-La 1 TVE 4K **
-acestream://547b6e97a0886beac574f44c0ddde2fe86a9d447
-La 2 TVE 1080p *
-acestream://d0d58c42b15fbcb1241aa2806531c8a092430cb1
-La 2 TVE 1080p **
-acestream://36a3ec381718b97e03aeb5512ee51c646ad5f7ce
-M+ 0 1080p **
-acestream://f10b032953cfa1da70dc5d6edf23a83ba5904ba8
-Telecinco 1080p **
-acestream://42d47a6acf224edeef29f89409ecc5e4cc1f52b1
+
+
+
+
+
+
+
 DEPORTES
 A Punt 1080p *
 acestream://5f09f7cae7b7d3fb9b7e492dbab3edfe1e70067c
@@ -108,12 +79,10 @@ Sport TV+ 1080p *
 acestream://add32bf660e6ebf7cfda710f20621097800990e7
 Sport TV+ 1080p *
 acestream://d04d68af86e33ddc4a5d83a6dffd14a473b30a6c
-Teledeporte 720p **
-acestream://d889729516a30bb2ac9e0355a1fbda0d10281e9a
-Teledeporte 1080p *
-acestream://1d9e4ec1c78ae31da88a5f8582eb95d29d329d8d
-Teledeporte 1080p **
-acestream://1a4360fe8dd0d2467cca45c6bc13ff43ca21ac55
+
+
+
+
 
 
 
@@ -144,20 +113,8 @@ Tennis Channel 1080p *
 acestream://f96f1d150f2005c5040c2c08a31d8d2483c96ebc
 Tennis Channel 1080p **
 acestream://1e6f2808b5604164736b8cf597744e8ddd4c4faf
-TOROS
-Onetoro TV 1080p *
-acestream://4077be033f5adcd1786ea37aeae7ad77b4697f7f
-UFC
-UFC *
-acestream://b2d795e711ec6960bbc3c1f7e82c893db9fee09a
-UFC *
-acestream://b6b1e18fd680e0525bbbb46a4eeab2da41d7a967
-UFC *
-acestream://5b845a7b10177aaca45f36eac5ef9c46b7b35537
-UFC *
-acestream://62a1dc7f52ad0e6fd520be0cc27ede436ecbc41c
-UFC **
-acestream://fd4804b73a229bf8a7ddf045307e9353ddb98dac
+
+
 
 
 
@@ -1358,9 +1315,17 @@ http://127.0.0.1:6878/ace/getstream?id=11ede21d726b3ac051a366960c6e89eec3c807b6
 
 
 
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Primera%20Federaci%C3%B3n.png"tvg-id="Primera Federación"group-title="⚽FUTBOL⚽",🇪🇸1ª RFEF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=bf95e600e8f546948eb4f170079533b2a38954ac
 
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Primera%20Federaci%C3%B3n.png"tvg-id="Primera Federación"group-title="⚽FUTBOL⚽",🇪🇸1ª RFEF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=2ffc32c0b0d343479df339abca92908bc33c0a09
 
-
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Primera%20Federaci%C3%B3n.png"tvg-id="Primera Federación"group-title="⚽FUTBOL⚽",🇪🇸1ª RFEF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=36820e768af871a66048cd702f8f3988683f6242
 
 #EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Primera%20Federaci%C3%B3n.png"tvg-id="Primera Federación"group-title="⚽FUTBOL⚽",🇪🇸1ª RFEF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -2223,13 +2188,17 @@ http://127.0.0.1:6878/ace/getstream?id=8fd3ab88c95744e502aca1cdb369e07941914344
 
 
 
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos3.png"tvg-id="M+ Vamos 3 HD"group-title="🏅DEPORTES🏅",M+ Vamos 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=042acc23562903fa562caa5c632ca9af9b462862
 
-
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos3.png"tvg-id="M+ Vamos 3 HD"group-title="🏅DEPORTES🏅",M+ Vamos 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=0e3f0f3e36f1164487381fa64a1cff505dc83a77
 
 #EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos3.png"tvg-id="M+ Vamos 3 HD"group-title="🏅DEPORTES🏅",M+ Vamos 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=b7b1c1eeb4be09c63fbc2f319c9760851c274455
-
 
 #EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos3.png"tvg-id="M+ Vamos 3 HD"group-title="🏅DEPORTES🏅",M+ Vamos 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -2247,8 +2216,17 @@ http://127.0.0.1:6878/ace/getstream?id=acc2d46eaf6a0b4c3dbd299ffcd67c2b946c2c3e
 
 
 
+#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte",group-title="🏅DEPORTES🏅",Teledeporte
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=d889729516a30bb2ac9e0355a1fbda0d10281e9a
 
+#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte",group-title="🏅DEPORTES🏅",Teledeporte
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=1d9e4ec1c78ae31da88a5f8582eb95d29d329d8d
 
+#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte",group-title="🏅DEPORTES🏅",Teledeporte
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=1a4360fe8dd0d2467cca45c6bc13ff43ca21ac55
 
 #EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte",group-title="🏅DEPORTES🏅",Teledeporte
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -2757,9 +2735,25 @@ http://127.0.0.1:6878/ace/getstream?id=1aacd162a6e6fcd06216da5a39ebe335ad2a97b4
 
 
 
+#EXTINF:-1🏅tvg-logo="" tvg-id="Fight Box"group-title="🏅DEPORTES🏅",🥊Paramount+ UFC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=b2d795e711ec6960bbc3c1f7e82c893db9fee09a
 
+#EXTINF:-1🏅tvg-logo="" tvg-id="Fight Box"group-title="🏅DEPORTES🏅",🥊Paramount+ UFC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=b6b1e18fd680e0525bbbb46a4eeab2da41d7a967
 
+#EXTINF:-1🏅tvg-logo="" tvg-id="Fight Box"group-title="🏅DEPORTES🏅",🥊Paramount+ UFC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=5b845a7b10177aaca45f36eac5ef9c46b7b35537
 
+#EXTINF:-1🏅tvg-logo="" tvg-id="Fight Box"group-title="🏅DEPORTES🏅",🥊Paramount+ UFC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=62a1dc7f52ad0e6fd520be0cc27ede436ecbc41c
+
+#EXTINF:-1🏅tvg-logo="" tvg-id="Fight Box"group-title="🏅DEPORTES🏅",🥊Paramount+ UFC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=fd4804b73a229bf8a7ddf045307e9353ddb98dac
 
 #EXTINF:-1🏅tvg-logo="" tvg-id="Fight Box"group-title="🏅DEPORTES🏅",🥊Paramount+ UFC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -3060,29 +3054,29 @@ https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=4077be033f5adcd1786ea37aeae7ad77b4697f7f
 
-
-EXTINF:0🐂tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png"tvg-id="Onetoro"group-title="🌍GLOBAL🌍",🇪🇸Onetoro🇪🇸                                                                                   
+#EXTINF:-1🌍tvg-logo="" tvg-id=""group-title="🌍GLOBAL🌍",🇪🇸M+ 0🇪🇸 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=8b6daf481a4c2eed0c1b6a473a841aea980d188c
+http://127.0.0.1:6878/ace/getstream?id=f10b032953cfa1da70dc5d6edf23a83ba5904ba8
 
-EXTINF:0🐂tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png"tvg-id="Onetoro"group-title="🌍GLOBAL🌍",🇪🇸Onetoro🇪🇸                                                                                   
+#EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" tvg-id="La 1 HD"group-title="🌍GLOBAL🌍",🇪🇸La 1🇪🇸 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=761db2c22f9becefb18b8d9c9028a1e7c0167651
+http://127.0.0.1:6878/ace/getstream?id=607f7b787f71fcf95a28797f3894c749b34b6446
 
-
-EXTINF:0🐂tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png"tvg-id="Onetoro"group-title="🌍GLOBAL🌍",🇪🇸Onetoro🇪🇸                                                                                   
+#EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" tvg-id="La 1 HD"group-title="🌍GLOBAL🌍",🇪🇸La 1🇪🇸 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=536c879d8a914e43141d778b3567fa017c9f5eeb
+http://127.0.0.1:6878/ace/getstream?id=7d48c95f887b612c403b402ee12d271c8e4daf61
 
+#EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" tvg-id="La 1 HD"group-title="🌍GLOBAL🌍",🇪🇸La 1🇪🇸 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=63f58d5591124574898aee8c78758195714f6490
 
+#EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" tvg-id="La 1 HD"group-title="🌍GLOBAL🌍",🇪🇸La 1🇪🇸 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=d12801b4106313b1ca79bd9b4182a12f949fc7b9
 
-
-
-
-
-
-
-
+#EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" tvg-id="La 1 HD"group-title="🌍GLOBAL🌍",🇪🇸La 1🇪🇸 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=547b6e97a0886beac574f44c0ddde2fe86a9d447
 
 #EXTINF:-1🌍tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" tvg-id="La 1 HD"group-title="🌍GLOBAL🌍",🇪🇸La 1🇪🇸 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -3104,6 +3098,13 @@ http://127.0.0.1:6878/ace/getstream?id=5e04167606d69c896ba5919d2560eeef18342ff8
 
 
 
+#EXTINF:0🌍tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202%20Canarias.png"tvg-id="La 2 Canarias"group-title="🌍GLOBAL🌍",🇪🇸La 2🇪🇸                                                                       
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=d0d58c42b15fbcb1241aa2806531c8a092430cb1
+
+#EXTINF:0🌍tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202%20Canarias.png"tvg-id="La 2 Canarias"group-title="🌍GLOBAL🌍",🇪🇸La 2🇪🇸                                                                       
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=36a3ec381718b97e03aeb5512ee51c646ad5f7ce
 
 #EXTINF:0🌍tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202%20Canarias.png"tvg-id="La 2 Canarias"group-title="🌍GLOBAL🌍",🇪🇸La 2🇪🇸                                                                       
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -3112,10 +3113,16 @@ http://127.0.0.1:6878/ace/getstream?infohash=cd76570ab73f9b7b52cdb82c607e253076b
 
 
 
-
-EXTINF:0🌍tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cuatro.png"tvg-id="Cuatro HD"group-title="🌍GLOBAL🌍",🇪🇸Cuatro🇪🇸                       
+#EXTINF:0🌍tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cuatro.png"tvg-id="Cuatro HD"group-title="🌍GLOBAL🌍",🇪🇸Cuatro🇪🇸                       
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=98ca3466e722d21487635e3b73b791edd348e67f
+http://127.0.0.1:6878/ace/getstream?id=53f5cae6541b7c548b7ed408dee2f5a7e0d0b976
+
+
+
+#EXTINF:0🌍tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cuatro.png"tvg-id="Cuatro HD"group-title="🌍GLOBAL🌍",🇪🇸Telecinco🇪🇸                       
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=42d47a6acf224edeef29f89409ecc5e4cc1f52b1
+
 
 
 #EXTINF:0🌍tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Sexta.png"tvg-id="La Sexta HD"group-title="🌍GLOBAL🌍",🇪🇸La Sexta🇪🇸                                                                       

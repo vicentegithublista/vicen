@@ -23,65 +23,13 @@ refresh="3600"
 
 
 
-Eurosport 2 720p **
-acestream://d112480e15f19b3c93120402f70792c5e12fa712
-Eurosport 2 1080p *
-acestream://196a1dd0363a0883d9d1b1c0f703f2cfe0df99b7
-Eurosport 2 1080p **
-acestream://ac004f316e3f76c5ec924d0c873bedea2280cc5c
-
-
-
-FORMULA 1
-DAZN F1 720p **
-acestream://6f02acfff801293b7b64b377533dc8676294c479
-DAZN F1 1080p *
-acestream://79587e4c7a6ae12905a6fc8b61147fc59aa38480
-DAZN F1 1080p *
-acestream://9944d8bef913ec380e11bec0ea7d565f449604c6
-DAZN F1 1080p **
-acestream://70ebe42b14d792f74acf931da7d4eb649bb2df0e
-DAZN F1 1080p **
-acestream://8ddb70f5fe3c221d71803481368d4f0a2bbf3667
-DAZN F1 1080p **
-acestream://9b1fa0be70ab0bcc78182631d2bff80ade31e940
-
-
-HYPERMOTION
-LaLiga TV Hypermotion 720p *
-acestream://0ac326b3cc8701f1155ea68c07ebf6090f684e80
-LaLiga TV Hypermotion 1080p *
-acestream://17a4e20b6c852bac39bb9d6cbffa9177a54717cf
-
-LaLiga TV Hypermotion 2 720p *
-acestream://08d86e516b881ef67fc8a92cbb8b4d7da37a5651
-LaLiga TV Hypermotion 2 1080p *
-acestream://829f45b540b58fce31ccfdde1fbfff723b1715ed
-
-LaLiga TV Hypermotion 2 1080p **
-acestream://93927c37f60221f66e7421c7ae96aead7b353bab
-LaLiga TV Hypermotion 3 1080p **
-acestream://f18ad0066d5b194782d383bdd5abd830b2e7c168
-
-DAZN LaLiga 2 720p **
-acestream://b279805491dfd16c5a25580f913efa094b3f123d
-DAZN LaLiga 2 1080p *
-acestream://0e8da42adea7a2372ff06648474a2e3b5f858312
-DAZN LaLiga 2 1080p **
-acestream://43b4cb905704b93dcbf2ae255aadbde9b1ee91f0
 
 
 
 
 
-M+ LaLiga 2 1080p **
-acestream://10f8b302cc3b2eb96ee53130286988f07845467a
-M+ LaLiga 2 *
-acestream://2edbaced018a9b39fd66c695a0bdca5d9d54f667
-M+ LaLiga 3 720p **
-acestream://0f7f38b18839697ff23a3a50b692a37c7b20527a
-M+ LaLiga 3 1080p **
-acestream://ee143cc1cc38fc76a9a3ee3842d1d8ec0960eda9
+
+
 
 
 
@@ -554,7 +502,29 @@ http://127.0.0.1:6878/ace/getstream?id=49ceb0e5d2c2c41fcbe6ed56d78eb78559aa1dca
 
 
 
+#EXTINF:0🏁tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="✔️EVENTOS✔️",22.11🏎F1                                           14:45🏎Las Vegas                                                                                    
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=6f02acfff801293b7b64b377533dc8676294c479
 
+#EXTINF:0🏁tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="✔️EVENTOS✔️",22.11🏎F1                                           14:45🏎Las Vegas                                                                                    
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=79587e4c7a6ae12905a6fc8b61147fc59aa38480
+
+#EXTINF:0🏁tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="✔️EVENTOS✔️",22.11🏎F1                                           14:45🏎Las Vegas                                                                                    
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=9944d8bef913ec380e11bec0ea7d565f449604c6
+
+#EXTINF:0🏁tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="✔️EVENTOS✔️",22.11🏎F1                                           14:45🏎Las Vegas                                                                                    
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=70ebe42b14d792f74acf931da7d4eb649bb2df0e
+
+#EXTINF:0🏁tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="✔️EVENTOS✔️",22.11🏎F1                                           14:45🏎Las Vegas                                                                                    
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=8ddb70f5fe3c221d71803481368d4f0a2bbf3667
+
+#EXTINF:0🏁tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="✔️EVENTOS✔️",22.11🏎F1                                           14:45🏎Las Vegas                                                                                    
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=9b1fa0be70ab0bcc78182631d2bff80ade31e940
 
 #EXTINF:0🏁tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="✔️EVENTOS✔️",22.11🏎F1                                           14:45🏎Las Vegas                                                                                    
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -1238,8 +1208,13 @@ http://127.0.0.1:6878/ace/getstream?id=7108ad98920a87cc7dc857748e69a5d725890b98
 
 
 
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga2.png"tvg-id="M+ LaLiga 2 HD"group-title="⚽FUTBOL⚽",⚽🇪🇸M+ LaLiga2                                                                                                                                                                                                                
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=10f8b302cc3b2eb96ee53130286988f07845467a
 
-
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga2.png"tvg-id="M+ LaLiga 2 HD"group-title="⚽FUTBOL⚽",⚽🇪🇸M+ LaLiga2                                                                                                                                                                                                                
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=2edbaced018a9b39fd66c695a0bdca5d9d54f667
 
 #EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga2.png"tvg-id="M+ LaLiga 2 HD"group-title="⚽FUTBOL⚽",⚽🇪🇸M+ LaLiga2                                                                                                                                                                                                                
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -1271,7 +1246,13 @@ http://127.0.0.1:6878/ace/getstream?id=448551642d9c7d0de53aa35d1ee41788909b6c0c
 
 
 
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga2.png"tvg-id="M+ LaLiga 3 HD"group-title="⚽FUTBOL⚽",⚽🇪🇸M+ LaLiga3                                                                                                                                                                                                                
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=0f7f38b18839697ff23a3a50b692a37c7b20527a
 
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga2.png"tvg-id="M+ LaLiga 3 HD"group-title="⚽FUTBOL⚽",⚽🇪🇸M+ LaLiga3                                                                                                                                                                                                                
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=ee143cc1cc38fc76a9a3ee3842d1d8ec0960eda9
 
 #EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga2.png"tvg-id="M+ LaLiga 3 HD"group-title="⚽FUTBOL⚽",⚽🇪🇸M+ LaLiga3                                                                                                                                                                                                                
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -1329,6 +1310,19 @@ http://127.0.0.1:6878/ace/getstream?id=cc108ae39f92c48f6c946763047bd1c9b7b7d889&
 
 
 
+
+#EXTINF:0⚽️tvg-id="DAZN LaLiga 2 HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga2.png"group-title="⚽FUTBOL⚽",🇪🇸DAZN LaLiga 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=b279805491dfd16c5a25580f913efa094b3f123d
+
+#EXTINF:0⚽️tvg-id="DAZN LaLiga 2 HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga2.png"group-title="⚽FUTBOL⚽",🇪🇸DAZN LaLiga 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=0e8da42adea7a2372ff06648474a2e3b5f858312
+
+#EXTINF:0⚽️tvg-id="DAZN LaLiga 2 HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga2.png"group-title="⚽FUTBOL⚽",🇪🇸DAZN LaLiga 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=43b4cb905704b93dcbf2ae255aadbde9b1ee91f0
+
 #EXTINF:0⚽️tvg-id="DAZN LaLiga 2 HD"tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga2.png"group-title="⚽FUTBOL⚽",🇪🇸DAZN LaLiga 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=a70a1605f69c8379e04094df96922a42adfbb431
@@ -1336,6 +1330,15 @@ http://127.0.0.1:6878/ace/getstream?id=a70a1605f69c8379e04094df96922a42adfbb431
 
 
 
+
+
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion2.png"tvg-id="LaLiga TV Hypermotion HD"group-title="⚽FUTBOL⚽",🇪🇸LaLiga TV Hypermotion                                                                                                          
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=0ac326b3cc8701f1155ea68c07ebf6090f684e80
+
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion2.png"tvg-id="LaLiga TV Hypermotion HD"group-title="⚽FUTBOL⚽",🇪🇸LaLiga TV Hypermotion                                                                                                          
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=17a4e20b6c852bac39bb9d6cbffa9177a54717cf
 
 #EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion2.png"tvg-id="LaLiga TV Hypermotion HD"group-title="⚽FUTBOL⚽",🇪🇸LaLiga TV Hypermotion                                                                                                          
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -1380,11 +1383,21 @@ http://127.0.0.1:6878/ace/getstream?id=f62faacfd787b5eef5aedcb4964d452c21db0ef9
 
 
 
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png"tvg-id="LaLiga TV Hypermotion 2"group-title="⚽FUTBOL⚽",🇪🇸LaLiga TV Hypermotion 2                                                                                                   
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=08d86e516b881ef67fc8a92cbb8b4d7da37a5651
+
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png"tvg-id="LaLiga TV Hypermotion 2"group-title="⚽FUTBOL⚽",🇪🇸LaLiga TV Hypermotion 2                                                                                                   
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=829f45b540b58fce31ccfdde1fbfff723b1715ed
+
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png"tvg-id="LaLiga TV Hypermotion 2"group-title="⚽FUTBOL⚽",🇪🇸LaLiga TV Hypermotion 2                                                                                                   
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=93927c37f60221f66e7421c7ae96aead7b353bab
 
 #EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png"tvg-id="LaLiga TV Hypermotion 2"group-title="⚽FUTBOL⚽",🇪🇸LaLiga TV Hypermotion 2                                                                                                   
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=a794108ea5f110aa307ccf3cbb95140098153fef
-
 
 #EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png"tvg-id="LaLiga TV Hypermotion 2"group-title="⚽FUTBOL⚽",🇪🇸LaLiga TV Hypermotion 2                                                                                                   
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -1400,6 +1413,9 @@ http://127.0.0.1:6878/ace/getstream?id=e63fbcafbfc9bcb7e1cffa1d2eea97cc77f7a198
 
 
 
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%203.png"tvg-id="LaLiga TV Hypermotion 3"group-title="⚽FUTBOL⚽",🇪🇸LaLiga TV Hypermotion3                                                                                                         
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=f18ad0066d5b194782d383bdd5abd830b2e7c168
 
 #EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%203.png"tvg-id="LaLiga TV Hypermotion 3"group-title="⚽FUTBOL⚽",🇪🇸LaLiga TV Hypermotion3                                                                                                         
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -2576,8 +2592,17 @@ http://127.0.0.1:6878/ace/getstream?id=314eb626864faf52e01624361bd6906b5406127f
 
 
 
+#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" tvg-id="Eurosport 2 HD",group-title="🏅DEPORTES🏅",🄴🅄🅁🄾🅂🄿🄾🅁🅃 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=d112480e15f19b3c93120402f70792c5e12fa712
 
+#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" tvg-id="Eurosport 2 HD",group-title="🏅DEPORTES🏅",🄴🅄🅁🄾🅂🄿🄾🅁🅃 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=196a1dd0363a0883d9d1b1c0f703f2cfe0df99b7
 
+#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" tvg-id="Eurosport 2 HD",group-title="🏅DEPORTES🏅",🄴🅄🅁🄾🅂🄿🄾🅁🅃 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=ac004f316e3f76c5ec924d0c873bedea2280cc5c
 
 #EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" tvg-id="Eurosport 2 HD",group-title="🏅DEPORTES🏅",🄴🅄🅁🄾🅂🄿🄾🅁🅃 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -2832,7 +2857,29 @@ http://127.0.0.1:6878/ace/getstream?id=9c7dfd9f9a01e8d97c108b7454d48ae7caca1dd1
 
 
 
+#EXTINF:0🏁tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="🏁MOTOR🏁",DAZN F1                                                                                     
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=6f02acfff801293b7b64b377533dc8676294c479
 
+#EXTINF:0🏁tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="🏁MOTOR🏁",DAZN F1                                                                                     
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=79587e4c7a6ae12905a6fc8b61147fc59aa38480
+
+#EXTINF:0🏁tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="🏁MOTOR🏁",DAZN F1                                                                                     
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=9944d8bef913ec380e11bec0ea7d565f449604c6
+
+#EXTINF:0🏁tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="🏁MOTOR🏁",DAZN F1                                                                                     
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=70ebe42b14d792f74acf931da7d4eb649bb2df0e
+
+#EXTINF:0🏁tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="🏁MOTOR🏁",DAZN F1                                                                                     
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=8ddb70f5fe3c221d71803481368d4f0a2bbf3667
+
+#EXTINF:0🏁tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="🏁MOTOR🏁",DAZN F1                                                                                     
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=9b1fa0be70ab0bcc78182631d2bff80ade31e940
 
 #EXTINF:0🏁tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png"tvg-id="DAZN F1 HD"group-title="🏁MOTOR🏁",DAZN F1                                                                                     
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160

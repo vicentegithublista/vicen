@@ -25,86 +25,6 @@ refresh="3600"
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-M+ Liga de Campeones 2 1080p *
-acestream://935afe310d3d04e88eafbb279cc6e2739140107c
-M+ Liga de Campeones 2 1080p **
-acestream://e4dc9305ef1933314ef31c9aa476e7eba38de6e8
-M+ Liga de Campeones 3 720p **
-acestream://6b4bbb1d4b8b8687330a1954b3692274517748f7
-M+ Liga de Campeones 3 1080p **
-acestream://08c3670fbbee3ee7a06642b72d45e9eb3408da4f
-M+ Liga de Campeones 4 720p **
-acestream://bac56b455d0c18c27cc3c09fb64bcfebea274e62
-M+ Liga de Campeones 4 1080p *
-acestream://c6e038aa3938b4f6a58a212a08b324851a361048
-M+ Liga de Campeones 5 1080p **
-acestream://82247d8df244252a2ba9152ab946fb17533905b9
-M+ Liga de Campeones 5 1080p **
-acestream://860392c455d7cd2b1664ed6c95a8aa22ee869023
-M+ Liga de Campeones 6 1080p **
-acestream://397c68de2443c08089a7a699d3f0707b96299d4c
-M+ Liga de Campeones 6 1080p **
-acestream://95d4e79a6e558c14cae4c3fe1dd4c3ad8804fd3d
-M+ Liga de Campeones 7 1080p *
-acestream://93402a76024868654e2c7ba5e7d2b376721767f4
-M+ Liga de Campeones 7 1080p **
-acestream://d3d4b18229abe086af08097a250615458a04e95e
-M+ Liga de Campeones 8 1080p **
-acestream://21bf0bdb3e477e50f763824c40dae8cc4208867d
-M+ Liga de Campeones 9 1080p **
-acestream://1f528ed789f615ceccb4f878634ea2b767ec7442
-
-
-
-
-MOVISTAR DEPORTES
-M+ Deportes 720p *
-acestream://41446170bcb67823481f395a55ac89eab981660a
-M+ Deportes 720p **
-acestream://3ba3863c20e3b14a379ed7812cbc52c606bfbe9b
-M+ Deportes 1080p *
-acestream://64e015e8aed9abcad5c7dd960b6a1d07e6deb039
-M+ Deportes 1080p **
-acestream://e1cbf42f80ce35e6ec7c69d8c5307245aebfd1d0
-
-
-
-
-
-
-
-
-
-
-
-
-M+ Deportes 3 720p **
-acestream://a754a937e8aefd1babcb2768a4eba769df998a48
-M+ Deportes 3 1080p **
-acestream://84668cf0948056328d6be06ac27c6d4491cbed26
-M+ Deportes 4 720p *
-acestream://addf06cedd47feeb1833de3593311479ec14a457
-M+ Deportes 5 1080p **
-acestream://770c89e46a912758cfcc80ecd5a97c4dd0dfe734
-M+ Deportes 6 1080p *
-acestream://9b82a0bff26742b2d207dba0d200be5de5e3b43f
-M+ Deportes 7 720p *
-acestream://cba0a0e912830656b12ca19d5a988d00d05ae493
-M+ Deportes 7 1080p **
-acestream://718323ef5595bf0e6c4f71f4354fcdcaeb018c82
-M+ Deportes 8 1080p **
-acestream://31845c2f3fa5b9a5101b2d482b5adafc1b71367b
 M+ Golf 2 1080p *
 acestream://ed56c29a9e2d373d6adb0d71456d8bd72506c143
 M+ Golf 2 1080p **
@@ -1514,7 +1434,17 @@ http://127.0.0.1:6878/ace/getstream?id=36820e768af871a66048cd702f8f3988683f6242
 
 
 
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png"tvg-id="M+ Liga de Campeones HD"group-title="⚽FUTBOL⚽",M+ Liga de Campeones                                                                                                                                                     
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=7d7a40296ff7ee8d842ba36ff3bfd50a0aec9ddf
 
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png"tvg-id="M+ Liga de Campeones HD"group-title="⚽FUTBOL⚽",M+ Liga de Campeones                                                                                                                                                     
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=463c956dd6bf90bf91583752e0c633511e45a9e9
+
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png"tvg-id="M+ Liga de Campeones HD"group-title="⚽FUTBOL⚽",M+ Liga de Campeones                                                                                                                                                     
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=68d1621b35cbabb84633b9fb82e81b03056ffe02
 
 #EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png"tvg-id="M+ Liga de Campeones HD"group-title="⚽FUTBOL⚽",M+ Liga de Campeones                                                                                                                                                     
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -1534,18 +1464,13 @@ http://127.0.0.1:6878/ace/getstream?infohash=8c1c3eae077f3a786ed2f0a426197ea93fd
 
 
 
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png"tvg-id="M+ Liga de Campeones 2 HD"group-title="⚽FUTBOL⚽",M+ Liga de Campeones 2                                                                                                                                                 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=935afe310d3d04e88eafbb279cc6e2739140107c
 
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png"tvg-id="M+ Liga de Campeones 2 HD"group-title="⚽FUTBOL⚽",M+ Liga de Campeones 2                                                                                                                                                 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=e4dc9305ef1933314ef31c9aa476e7eba38de6e8
 
 #EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png"tvg-id="M+ Liga de Campeones 2 HD"group-title="⚽FUTBOL⚽",M+ Liga de Campeones 2                                                                                                                                                 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -1557,9 +1482,13 @@ http://127.0.0.1:6878/ace/getstream?id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
 
 
 
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png"tvg-id="M+ Liga de Campeones 3 HD"group-title="⚽FUTBOL⚽",M+ Liga de Campeones 3        
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=6b4bbb1d4b8b8687330a1954b3692274517748f7
 
-
-
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png"tvg-id="M+ Liga de Campeones 3 HD"group-title="⚽FUTBOL⚽",M+ Liga de Campeones 3        
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=08c3670fbbee3ee7a06642b72d45e9eb3408da4f
 
 #EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png"tvg-id="M+ Liga de Campeones 3 HD"group-title="⚽FUTBOL⚽",M+ Liga de Campeones 3        
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -1595,10 +1524,13 @@ http://127.0.0.1:6878/ace/getstream?id=0a0b5378b86ba925ee783e21060939f37d1acd12
 
 
 
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png"tvg-id="M+ Liga de Campeones 4 HD"group-title="⚽FUTBOL⚽",M+ Liga de Campeones 4       
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=bac56b455d0c18c27cc3c09fb64bcfebea274e62
 
-
-
-
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png"tvg-id="M+ Liga de Campeones 4 HD"group-title="⚽FUTBOL⚽",M+ Liga de Campeones 4       
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=c6e038aa3938b4f6a58a212a08b324851a361048
 
 #EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png"tvg-id="M+ Liga de Campeones 4 HD"group-title="⚽FUTBOL⚽",M+ Liga de Campeones 4       
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -1622,6 +1554,14 @@ http://127.0.0.1:6878/ace/getstream?id=5bda0cd15ed353abfdc5561a945f2f3903c9fa9e
 
 
 
+
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png"tvg-id="M+ Liga de Campeones 5 HD"group-title="⚽FUTBOL⚽",M+ Liga de Campeones 5       
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=82247d8df244252a2ba9152ab946fb17533905b9
+
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png"tvg-id="M+ Liga de Campeones 5 HD"group-title="⚽FUTBOL⚽",M+ Liga de Campeones 5       
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=860392c455d7cd2b1664ed6c95a8aa22ee869023
 
 #EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png"tvg-id="M+ Liga de Campeones 5 HD"group-title="⚽FUTBOL⚽",M+ Liga de Campeones 5       
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -1650,6 +1590,15 @@ http://127.0.0.1:6878/ace/getstream?id=3e430d14ef1cf1c147c7b06332081291e05a1431
 
 
 
+
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png"tvg-id="M+ Liga de Campeones 6 HD"group-title="⚽FUTBOL⚽",M+ Liga de Campeones 6     
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=397c68de2443c08089a7a699d3f0707b96299d4c
+
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png"tvg-id="M+ Liga de Campeones 6 HD"group-title="⚽FUTBOL⚽",M+ Liga de Campeones 6     
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=95d4e79a6e558c14cae4c3fe1dd4c3ad8804fd3d
+
 #EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png"tvg-id="M+ Liga de Campeones 6 HD"group-title="⚽FUTBOL⚽",M+ Liga de Campeones 6     
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=fd5828ff39dbb3e879ec90191ed2c8ca6d60eb20
@@ -1661,7 +1610,6 @@ http://127.0.0.1:6878/ace/getstream?id=461eb000d199b3122fa63e53cca9c17a92456477
 #EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png"tvg-id="M+ Liga de Campeones 6 HD"group-title="⚽FUTBOL⚽",M+ Liga de Campeones 6     
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=d4103186fd1e5621da852a4e0f1429bf059091b2
-
 
 #EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png"tvg-id="M+ Liga de Campeones 6 HD"group-title="⚽FUTBOL⚽",M+ Liga de Campeones 6     
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -1679,6 +1627,15 @@ http://127.0.0.1:6878/ace/getstream?id=14bedc2ff054ae16c0fae99cfeb9dcda21ac68a0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=497e2d0301fc289ccbd43080a580f63b718770e2
 
+
+
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%207.png"tvg-id="M+ Liga de Campeones 7 HD"group-title="⚽FUTBOL⚽",M+ Liga de Campeones 7    
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=93402a76024868654e2c7ba5e7d2b376721767f4
+
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%207.png"tvg-id="M+ Liga de Campeones 7 HD"group-title="⚽FUTBOL⚽",M+ Liga de Campeones 7    
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=d3d4b18229abe086af08097a250615458a04e95e
 
 #EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%207.png"tvg-id="M+ Liga de Campeones 7 HD"group-title="⚽FUTBOL⚽",M+ Liga de Campeones 7    
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -1699,8 +1656,9 @@ http://127.0.0.1:6/ace/getstream?id=95ced66c1268717c19c1e3e020e3b23b0f02e504878
 
 
 
-
-
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%208.png"tvg-id="M+ Liga de Campeones 8 HD"group-title="⚽FUTBOL⚽",M+ Liga de Campeones 7    
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=21bf0bdb3e477e50f763824c40dae8cc4208867d
 
 #EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%208.png"tvg-id="M+ Liga de Campeones 8 HD"group-title="⚽FUTBOL⚽",M+ Liga de Campeones 7    
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -1708,7 +1666,9 @@ http://127.0.0.1:6878/ace/getstream?id=97f8a84212fe6b3d2ab15aadc83c7b5e6af656c9
 
 
 
-
+#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%209.png"tvg-id="M+ Liga de Campeones 9 HD"group-title="⚽FUTBOL⚽",M+ Liga de Campeones 9    
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=1f528ed789f615ceccb4f878634ea2b767ec7442
 
 
 
@@ -2012,9 +1972,23 @@ http://127.0.0.1:6878/ace/getstream?id=42b45039548159e5e9900672a488e73a94838bc8
 
 #EXTINF:0🏅tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"group-title="🏅DEPORTES🏅",M.DEPORTES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=41446170bcb67823481f395a55ac89eab981660a
+
+#EXTINF:0🏅tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"group-title="🏅DEPORTES🏅",M.DEPORTES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=3ba3863c20e3b14a379ed7812cbc52c606bfbe9b
+
+#EXTINF:0🏅tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"group-title="🏅DEPORTES🏅",M.DEPORTES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=64e015e8aed9abcad5c7dd960b6a1d07e6deb039
+
+#EXTINF:0🏅tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"group-title="🏅DEPORTES🏅",M.DEPORTES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=e1cbf42f80ce35e6ec7c69d8c5307245aebfd1d0
+
+#EXTINF:0🏅tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"group-title="🏅DEPORTES🏅",M.DEPORTES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=42305
-
-
 
 #EXTINF:0🏅tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"group-title="🏅DEPORTES🏅",M.DEPORTES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -2023,7 +1997,6 @@ http://127.0.0.1:6878/ace/getstream?id=b7f8d2c56969cec129a275308c3750dffffee3a8
 #EXTINF:0🏅tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"group-title="🏅DEPORTES🏅",M.DEPORTES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=dbb418eeb96d891ae3aa7ef84feb58eed5b8b722
-
 
 #EXTINF:0🏅tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD"group-title="🏅DEPORTES🏅",M.DEPORTES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -2098,14 +2071,13 @@ http://127.0.0.1:6878/ace/getstream?id=71e56f0315a20d87c3c472dcfbe4cc2c875db090
 
 
 
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%203.png" tvg-id="M+ Deportes 3 HD"group-title="🏅DEPORTES🏅",M.DEPORTES 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=a754a937e8aefd1babcb2768a4eba769df998a48
 
-
-
-
-
-
-
-
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%203.png" tvg-id="M+ Deportes 3 HD"group-title="🏅DEPORTES🏅",M.DEPORTES 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=84668cf0948056328d6be06ac27c6d4491cbed26
 
 #EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%203.png" tvg-id="M+ Deportes 3 HD"group-title="🏅DEPORTES🏅",M.DEPORTES 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -2126,6 +2098,11 @@ http://127.0.0.1:6878/ace/getstream?id=84aed52c5deb78f58595d88250e7a2bd04dfd810
 
 
 
+
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%204.png" tvg-id="M+ Deportes 4 HD"group-title="🏅DEPORTES🏅",M.DEPORTES 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=addf06cedd47feeb1833de3593311479ec14a457
+
 #EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%204.png" tvg-id="M+ Deportes 4 HD"group-title="🏅DEPORTES🏅",M.DEPORTES 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?infohash=12bea597fc5075a07becfd34ba11dcad4f31a2c4
@@ -2143,6 +2120,10 @@ http://127.0.0.1:6878/ace/getstream?id=7bede102385c65a545db531af476ef18c31f6258
 
 #EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%205.png" tvg-id="M+ Deportes 5 HD"group-title="🏅DEPORTES🏅",M.DEPORTES 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=770c89e46a912758cfcc80ecd5a97c4dd0dfe734
+
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%205.png" tvg-id="M+ Deportes 5 HD"group-title="🏅DEPORTES🏅",M.DEPORTES 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?infohash=123271cdd9cbabf1d13b42541a2c73c196d96eb8
 
 #EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%205.png" tvg-id="M+ Deportes 5 HD"group-title="🏅DEPORTES🏅",M.DEPORTES 5
@@ -2150,6 +2131,11 @@ http://127.0.0.1:6878/ace/getstream?infohash=123271cdd9cbabf1d13b42541a2c73c196d
 http://127.0.0.1:6878/ace/getstream?id=15ec214bb10925dadd16a1716bb2042af6008a93
 
 
+
+
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%206.png" tvg-id="M+ Deportes 6 HD"group-title="🏅DEPORTES🏅",M.DEPORTES 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=9b82a0bff26742b2d207dba0d200be5de5e3b43f
 
 #EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%206.png" tvg-id="M+ Deportes 6 HD"group-title="🏅DEPORTES🏅",M.DEPORTES 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -2162,6 +2148,23 @@ http://127.0.0.1:6878/ace/getstream?id=e6cd9205e26b3b6680f607030c702e911272524a
 #EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%206.png" tvg-id="M+ Deportes 6 HD"group-title="🏅DEPORTES🏅",M.DEPORTES 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=765f6a743bcfde948418aaf0de6e66de6a9fbaa6
+
+
+
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%207.png" tvg-id="M+ Deportes 7 HD"group-title="🏅DEPORTES🏅",M.DEPORTES 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=cba0a0e912830656b12ca19d5a988d00d05ae493
+
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%207.png" tvg-id="M+ Deportes 7 HD"group-title="🏅DEPORTES🏅",M.DEPORTES 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=718323ef5595bf0e6c4f71f4354fcdcaeb018c82
+
+
+
+
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%208.png" tvg-id="M+ Deportes 8 HD"group-title="🏅DEPORTES🏅",M.DEPORTES 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=31845c2f3fa5b9a5101b2d482b5adafc1b71367b
 
 
 

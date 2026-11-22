@@ -23,76 +23,6 @@ refresh="3600"
 
 
 
-
-
-
-
-DAZN Baloncesto 2 720p *
-acestream://0ddecad49d6b1d9546dd599514e9ccf9deb95bf7
-DAZN Baloncesto 3 720p *
-acestream://9a55697bb16e7b5352e7a82456e4e67a5690965e
-DAZN Baloncesto 3 1080p **
-acestream://e4cc41e787e3f44bb766520a3b4b64e2baa5977c
-M+ Baloncesto 1080p **
-acestream://31f2a257cd226d80339342c449d76339b4a1e6fa
-M+ Baloncesto 3 1080p *
-acestream://54e1205da682d519fcc8ddeccff1626b8af86a6a
-M+ Baloncesto 3 1080p **
-acestream://6d493da11517de648f00646c3040d1c8fce91f4a
-M+ Baloncesto 4 1080p *
-acestream://d2b46901e81e835371df1e07c1cc15699b46ed52
-M+ Baloncesto 4 1080p **
-acestream://a480728284f91ea3dc2a0b710f40b0e42a44dc43
-M+ Baloncesto 5 1080p *
-acestream://28360e214f0cae450e9aaa8753c5be455109188f
-M+ Baloncesto 5 1080p **
-acestream://51a3f692514fb9ef9541700da54fb8d8cc1d546d
-
-
-
-
-
-
-
-
-
-
-
-DAZN 2 720p **
-acestream://9b02402621c83b8b68f1d83a7bbb1b972b4abe5e
-DAZN 2 1080p *
-acestream://b649d084ca326e77a26ce78d172a003e320bc4d7
-DAZN 2 1080p **
-acestream://55616eb11715c5ce83659f28e3aa191f95ff7cef
-DAZN 3 1080p **
-acestream://21613b7686a0f8db244638039aa019ccac877005
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Eurosport 2 720p **
 acestream://d112480e15f19b3c93120402f70792c5e12fa712
 Eurosport 2 1080p *
@@ -1795,6 +1725,17 @@ http://127.0.0.1:6878/ace/getstream?id=2a05a020dfe97aaa0665bb7551022868b2a88b36&
 
 
 
+#EXTINF:0⚽tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png"tvg-id="DAZN 2"group-title="⚽FUTBOL⚽",DAZN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=9b02402621c83b8b68f1d83a7bbb1b972b4abe5e
+
+#EXTINF:0⚽tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png"tvg-id="DAZN 2"group-title="⚽FUTBOL⚽",DAZN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=b649d084ca326e77a26ce78d172a003e320bc4d7
+
+#EXTINF:0⚽tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png"tvg-id="DAZN 2"group-title="⚽FUTBOL⚽",DAZN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=55616eb11715c5ce83659f28e3aa191f95ff7cef
 
 #EXTINF:0⚽tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png"tvg-id="DAZN 2"group-title="⚽FUTBOL⚽",DAZN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -1804,13 +1745,16 @@ http://127.0.0.1:6878/ace/getstream?id=27ed8f532a68301bff62becf01769bb524904814
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=e748e196d4f26edd7e743cd0d901bfc23d807794
 
-
 #EXTINF:0⚽tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png"tvg-id="DAZN 2"group-title="⚽FUTBOL⚽",DAZN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 
 
 
+
+#EXTINF:-1⚽tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203.png" tvg-id="DAZN 3",group-title="⚽FUTBOL⚽",DAZN 3 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=21613b7686a0f8db244638039aa019ccac877005
 
 #EXTINF:-1⚽tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203.png" tvg-id="DAZN 3",group-title="⚽FUTBOL⚽",DAZN 3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -2332,16 +2276,15 @@ https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 
 
 
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto.png"tvg-id="M+ Baloncesto"group-title="🏅DEPORTES🏅",🏀M+ Baloncesto🏀
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=31f2a257cd226d80339342c449d76339b4a1e6fa
 
-
-
-#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto.png"tvg-id="M+ Baloncesto"group-title="🏅DEPORTES🏅",🏀🇪🇸M+ Baloncesto🏀
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto.png"tvg-id="M+ Baloncesto"group-title="🏅DEPORTES🏅",🏀M+ Baloncesto🏀
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=5ba57eae303be35f8b551d2ba27b27ef0dd649b0
 
-
-
-#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto.png"tvg-id="M+ Baloncesto"group-title="🏅DEPORTES🏅",🏀🇪🇸M+ Baloncesto🏀
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto.png"tvg-id="M+ Baloncesto"group-title="🏅DEPORTES🏅",🏀M+ Baloncesto🏀
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=be93edb36056187656714f66c84026662f483e2f
 
@@ -2378,9 +2321,13 @@ http://127.0.0.1:6878/ace/getstream?id=c8c33b2673efe7f386790c5966643820578f3535
 
 
 
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto%203.png"tvg-id="M+ Baloncesto 3"group-title="🏅DEPORTES🏅",🏀🇪🇸M+ Baloncesto 3🏀
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=54e1205da682d519fcc8ddeccff1626b8af86a6a
 
-
-
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto%203.png"tvg-id="M+ Baloncesto 3"group-title="🏅DEPORTES🏅",🏀🇪🇸M+ Baloncesto 3🏀
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=6d493da11517de648f00646c3040d1c8fce91f4a
 
 #EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto%203.png"tvg-id="M+ Baloncesto 3"group-title="🏅DEPORTES🏅",🏀🇪🇸M+ Baloncesto 3🏀
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -2413,34 +2360,62 @@ http://127.0.0.1:6878/ace/getstream?id=13d68ecb392251a81489ce75be90388498ecfb91
 
 
 
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto%204.png"tvg-id="M+ Baloncesto 4"group-title="🏅DEPORTES🏅",🏀🇪🇸M+ Baloncesto 4🏀
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=d2b46901e81e835371df1e07c1cc15699b46ed52
+
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto%204.png"tvg-id="M+ Baloncesto 4"group-title="🏅DEPORTES🏅",🏀🇪🇸M+ Baloncesto 4🏀
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=a480728284f91ea3dc2a0b710f40b0e42a44dc43
 
 
 
 
-#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto.png"tvg-id="M+ Baloncesto"group-title="🏅DEPORTES🏅",🏀🇪🇸M+ Baloncesto 5🏀
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto%205.png"tvg-id="M+ Baloncesto 5"group-title="🏅DEPORTES🏅",🏀🇪🇸M+ Baloncesto 5🏀
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=28360e214f0cae450e9aaa8753c5be455109188f
+
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto%205.png"tvg-id="M+ Baloncesto 5"group-title="🏅DEPORTES🏅",🏀🇪🇸M+ Baloncesto 5🏀
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=51a3f692514fb9ef9541700da54fb8d8cc1d546d
+
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto%205.png"tvg-id="M+ Baloncesto 5"group-title="🏅DEPORTES🏅",🏀🇪🇸M+ Baloncesto 5🏀
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6
 
-#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto.png"tvg-id="M+ Baloncesto"group-title="🏅DEPORTES🏅",🏀🇪🇸M+ Baloncesto 5🏀
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto%205.png"tvg-id="M+ Baloncesto 5"group-title="🏅DEPORTES🏅",🏀🇪🇸M+ Baloncesto 5🏀
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=88113ee23295b8930ae328a88a8c1b861b8f21f1
 
-#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto.png"tvg-id="M+ Baloncesto"group-title="🏅DEPORTES🏅",🏀🇪🇸M+ Baloncesto 5🏀
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto%205.png"tvg-id="M+ Baloncesto 5"group-title="🏅DEPORTES🏅",🏀🇪🇸M+ Baloncesto 5🏀
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=c8c33b2673efe7f386790c5966643820578f3535
 
-
-#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto.png"tvg-id="M+ Baloncesto"group-title="🏅DEPORTES🏅",🏀🇪🇸M+ Baloncesto 5🏀
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto%205.png"tvg-id="M+ Baloncesto 5"group-title="🏅DEPORTES🏅",🏀🇪🇸M+ Baloncesto 5🏀
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=dce8628942410de57606a6849ab6be46de3f9458
 
-#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto.png"tvg-id="M+ Baloncesto"group-title="🏅DEPORTES🏅",🏀🇪🇸M+ Baloncesto 5🏀
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto%205.png"tvg-id="M+ Baloncesto 5"group-title="🏅DEPORTES🏅",🏀🇪🇸M+ Baloncesto 5🏀
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=d43d6e5e0a6c9ec24f85bbab92d5c8a2771a1572
 
-#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto.png"tvg-id="M+ Baloncesto"group-title="🏅DEPORTES🏅",🏀🇪🇸M+ Baloncesto 5🏀
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto%205.png"tvg-id="M+ Baloncesto 5"group-title="🏅DEPORTES🏅",🏀🇪🇸M+ Baloncesto 5🏀
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=be93edb36056187656714f66c84026662f483e2f
+
+
+
 
 
 
@@ -2448,7 +2423,6 @@ http://127.0.0.1:6878/ace/getstream?id=be93edb36056187656714f66c84026662f483e2f
 #EXTINF:-1 tvg-id="DAZN Baloncesto" tvg-name="DAZN BALONCESTO" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZBA.png"group-title="🏅DEPORTES🏅",🏀🇪🇸DAZN Baloncesto🏀
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=f460b9c1b77222ac21b0e148f2b2c07791ce2d5d
-
 
 #EXTINF:-1 tvg-id="DAZN Baloncesto" tvg-name="DAZN BALONCESTO" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZBA.png"group-title="🏅DEPORTES🏅",🏀🇪🇸DAZN Baloncesto🏀
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -2461,8 +2435,6 @@ http://127.0.0.1:6878/ace/getstream?id=788891525283f541893b809c54d1b9cbe2344dc5
 #EXTINF:-1 tvg-id="DAZN Baloncesto" tvg-name="DAZN BALONCESTO" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZBA.png"group-title="🏅DEPORTES🏅",🏀🇪🇸DAZN Baloncesto🏀
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=e5b57c3919b1714f01cb6e5f1812d22aa87bae2b
-
-
 
 #EXTINF:-1 tvg-id="DAZN Baloncesto" tvg-name="DAZN BALONCESTO" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZBA.png"group-title="🏅DEPORTES🏅",🏀🇪🇸DAZN Baloncesto NBA🏀
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -2485,7 +2457,9 @@ http://127.0.0.1:6878/ace/getstream?id=2cfbb2cb8923b15b0ef74aba69e8137b0fbbba2e
 
 
 
-
+#EXTINF:-1 tvg-id="DAZN Baloncesto" tvg-name="DAZN BALONCESTO" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZBA.png"group-title="🏅DEPORTES🏅",🏀🇪🇸DAZN Baloncesto 2🏀
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=0ddecad49d6b1d9546dd599514e9ccf9deb95bf7
 
 #EXTINF:-1 tvg-id="DAZN Baloncesto" tvg-name="DAZN BALONCESTO" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZBA.png"group-title="🏅DEPORTES🏅",🏀🇪🇸DAZN Baloncesto 2🏀
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -2509,7 +2483,13 @@ http://127.0.0.1:6878/ace/getstream?id=853129258a5cb51f27829eddb934e58b45978344
 
 
 
+#EXTINF:-1 tvg-id="DAZN Baloncesto" tvg-name="DAZN BALONCESTO" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZBA.png"group-title="🏅DEPORTES🏅",🏀🇪🇸DAZN Baloncesto 3🏀
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=9a55697bb16e7b5352e7a82456e4e67a5690965e
 
+#EXTINF:-1 tvg-id="DAZN Baloncesto" tvg-name="DAZN BALONCESTO" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZBA.png"group-title="🏅DEPORTES🏅",🏀🇪🇸DAZN Baloncesto 3🏀
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=e4cc41e787e3f44bb766520a3b4b64e2baa5977c
 
 #EXTINF:-1 tvg-id="DAZN Baloncesto" tvg-name="DAZN BALONCESTO" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZBA.png"group-title="🏅DEPORTES🏅",🏀🇪🇸DAZN Baloncesto 3🏀
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160

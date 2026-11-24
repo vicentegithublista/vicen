@@ -21,63 +21,6 @@ refresh="3600"
 #EXTGRP: group-title="RFEF TV" group-logo="https://rfef.es/themes/custom/rfef/img/rfef-share.png"
 #EXTGRP: group-title="TDT" group-logo="https://i.ibb.co/j9xn42jB/logo-tdt.png"
 
-
-
-
-
-
-
-M+ Liga de Campeones 4
-New Loop: 6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
-Ziggo Sport 3
-SPORTV: 7f50e06f715720e944cce35fa90b6b7a8db04b2e
-DAZN 3 PT
-SPORTV: dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-👉 21:00 Manchester City vs Napoli
-Ziggo Sport 5
-M+ Liga de Campeones 4
-New Loop: 6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
-M+ Liga de Campeones 5
-New Loop: 42464375d3070ef1cbba2e7b2106bf8c80037076
-TNT Sports 1
-New Loop: efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-DAZN 2 PT
-SPORTV: d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-
-
-
-
-
-
-
-
-
-
-M+ Liga de Campeones 6
-New Loop: 062d160d570b01bcb2b3fb033a0ae5977bbb9beb
-👉 21:00 RB Leipzig vs Lens
-M+ Liga de Campeones 4
-New Loop: 6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
-M+ Liga de Campeones 8
-New Loop: 9732997a3f8e243f8a4b2bb780892909b32f9990
-DAZN 1 DE
-SPORTV: 897e73c9d578848f596585314ecb9ae067c0e229
-👉 21:00 Slovan Bratislava vs Real Betis
-
-M+ Liga de Campeones 4
-New Loop: 6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
-👉 21:00 Como 1907 vs AEK FC
-DAZN 4 PT
-M+ Liga de Campeones 4
-New Loop: 6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
-M+ Liga de Campeones 7
-New Loop: 57c6c8afe4ec1f7bd652c0ed0e6170c18826aa8a
-TNT Sports 4
-New Loop: fc5089d8e1519872fdf951779ccbca913acc9bce
-Sky Sport Arena
-New Loop: d317a003e8047da2c36a2a2bb2289578c9a3b79c
-
-
 🎾 Tenis - 16:00
 🏆 COPA DAVIS
 🆚 Chequia - Canadá
@@ -115,18 +58,6 @@ http://127.0.0.1:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=1c15bb40e6b2d153e3b30ed28eaa057ea44c3f41
 
-#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" tvg-id="M+ Deportes 2 HD"group-title="✔️EVENTOS✔️",24.11🎾Chequia                                           16:00🎾Canadá
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=f62f06bb905564bf718467658947e24c2b21735f
-
-#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" tvg-id="M+ Deportes 2 HD"group-title="✔️EVENTOS✔️",24.11🎾Chequia                                           16:00🎾Canadá
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=592c427008038847d6486daa7c3afd7a72f447da
-
-#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" tvg-id="M+ Deportes 2 HD"group-title="✔️EVENTOS✔️",24.11🎾Chequia                                           16:00🎾Canadá
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=ac66efa6cf24464dcc7f94049775ae580d7ba569
-
 ⚽️ Fútbol - 16:30
 🏆 MUNDIAL SUB-17
 🆚 Honduras - Colombia
@@ -139,10 +70,6 @@ http://127.0.0.1:6878/ace/getstream?id=d889729516a30bb2ac9e0355a1fbda0d10281e9a
 #EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte"group-title="✔️EVENTOS✔️",24.11⚽️Honduras                                          16:30⚽️Colombia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=4048be88f84250719e864868e537612f389df48e&pid=40624
-
-#EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte"group-title="✔️EVENTOS✔️",24.11⚽️Honduras                                          16:30⚽️Colombia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=c7d8405bdef3650b9bac58042c3708440ef286a8
 
 #EXTINF:-1🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" tvg-id="Teledeporte"group-title="✔️EVENTOS✔️",24.11⚽️Honduras                                          16:30⚽️Colombia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -380,47 +307,6 @@ http://127.0.0.1:6878/ace/getstream?infohash=2550ea6d32d3384dcc8ac149c711bceb70d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=c6e038aa3938b4f6a58a212a08b324851a361048
 
-Fútbol - 21:00
-🏆 CHAMPIONS LEAGUE
-🆚 Manchester City - Nápoles
-🖥 M+ Liga de Campeones 5
-
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png"tvg-id="M+ Liga de Campeones 5 HD"group-title="✔️EVENTOS✔️",24.11⚽️M.City                                       21:00⚽️Nápoles      
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=860392c455d7cd2b1664ed6c95a8aa22ee869023
-
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png"tvg-id="M+ Liga de Campeones 5 HD"group-title="✔️EVENTOS✔️",24.11⚽️M.City                                       21:00⚽️Nápoles      
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=f64445071c56c7acd893919f9098dfc74f518aec
-
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png"tvg-id="M+ Liga de Campeones 5 HD"group-title="✔️EVENTOS✔️",24.11⚽️M.City                                       21:00⚽️Nápoles      
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=ca5dc251a58084fb9b9b4b1cc41cbf9768d28c1a
-
-⚽️ Fútbol - 21:00
-🏆 CHAMPIONS LEAGUE
-🆚 Feyenoord - Oporto
-🖥 M+ Liga de Campeones 6
-
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png"tvg-id="M+ Liga de Campeones 6 HD"group-title="✔️EVENTOS✔️",24.11⚽️Feyenoord                                       21:00⚽️Oporto     
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=95d4e79a6e558c14cae4c3fe1dd4c3ad8804fd3d
-
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png"tvg-id="M+ Liga de Campeones 6 HD"group-title="✔️EVENTOS✔️",24.11⚽️Feyenoord                                       21:00⚽️Oporto     
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=461eb000d199b3122fa63e53cca9c17a92456477
-
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png"tvg-id="M+ Liga de Campeones 6 HD"group-title="✔️EVENTOS✔️",24.11⚽️Feyenoord                                       21:00⚽️Oporto     
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=e6449eaf0b1e3d22e2cf8967a24a76eca4386e80
-
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png"tvg-id="M+ Liga de Campeones 6 HD"group-title="✔️EVENTOS✔️",24.11⚽️Feyenoord                                       21:00⚽️Oporto     
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=2d2bd9bef1ddf8443c414cda886cc7a282d8fd15
-
-#EXTINF:0⚽️tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png"tvg-id="M+ Liga de Campeones 6 HD"group-title="✔️EVENTOS✔️",24.11⚽️Feyenoord                                       21:00⚽️Oporto     
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-http://127.0.0.1:6878/ace/getstream?id=95d4e79a6e558c14cae4c3fe1dd4c3ad8804fd3d
 
 🏀 Baloncesto - 21:00
 🏆 EUROLIGA

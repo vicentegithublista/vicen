@@ -176,6 +176,14 @@ http://127.0.0.1:6878/ace/getstream?id=ad50a4fcd5fc51b2fdfaba02216e3e1ee7c310d8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=428b92f3c71cd3cbf66ef6193808b39d16a52730
 
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto%202.png"tvg-id="M+ Baloncesto 2"group-title="✔️EVENTOS✔️",25.11🏀Baskonia                                          20:30🏀EfesF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=8177df89a64fd79d9a542443d2ad5111e04ae321
+
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto%202.png"tvg-id="M+ Baloncesto 2"group-title="✔️EVENTOS✔️",25.11🏀Baskonia                                          20:30🏀EfesF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=b15a9027c78c58d5502257990801130e480f4783
+
 🏀 Baloncesto - 20:45
 🏆 EUROLIGA
 🆚 Real Madrid - Zalgiris
@@ -192,6 +200,16 @@ http://127.0.0.1:6878/ace/getstream?id=68b53041272592f4fbf00bf38cd91e54a4e16abf
 #EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus.png"tvg-id="MovistPlus HD"group-title="✔️EVENTOS✔️",25.11🏀R.Madrid                                           20:25🏀Zalgiris                                                                        
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 http://127.0.0.1:6878/ace/getstream?id=7ef0de1c6dba381b6c504fb6f683d95e4ff60115
+
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus.png"tvg-id="MovistPlus HD"group-title="✔️EVENTOS✔️",25.11🏀R.Madrid                                           20:25🏀Zalgiris                                                                        
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=82a8244471541804da7c9a3121bef174474356d0
+
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus.png"tvg-id="MovistPlus HD"group-title="✔️EVENTOS✔️",25.11🏀R.Madrid                                           20:25🏀Zalgiris                                                                        
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=930aee39cc8913ff8af80219e6489bfccd93f276
+
+
 
 ⚽️ Fútbol - 21:00
 🏆 CHAMPIONS LEAGUE
@@ -503,17 +521,7 @@ acestream://de784cd63b28ec9aea4bb606925fcd37115ce8fa
 # M_Baloncesto  (5 canales)
 ############################################################
 
-tvg-name="M+ Baloncesto 1080p *"
-acestream://82a8244471541804da7c9a3121bef174474356d0
 
-tvg-name="M+ Baloncesto 1080p "
-acestream://930aee39cc8913ff8af80219e6489bfccd93f276
-
-tvg-name="M+ Baloncesto 2 1080p *"
-acestream://8177df89a64fd79d9a542443d2ad5111e04ae321
-
-tvg-name="M+ Baloncesto 2 1080p "
-acestream://b15a9027c78c58d5502257990801130e480f4783
 
 tvg-name="M+ Baloncesto 3 1080p "
 acestream://f42f90c0788a37c210740372e2314210d5aca4a1

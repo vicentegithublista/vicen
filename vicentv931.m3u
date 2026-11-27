@@ -165,6 +165,15 @@ http://127.0.0.1:6878/ace/getstream?id=1d9e4ec1c78ae31da88a5f8582eb95d29d329d8d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
 
+
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto%203.png"tvg-id="M+ Baloncesto 3"group-title="✔️EVENTOS✔️",27.11🏀CLASIFICACIÓN                                      18:00🏀MUNDIAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=7b0193004089d4d29821a5cdf17f407d0d192314
+
+#EXTINF:0🏅tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto.png"tvg-id="M+ Baloncesto"group-title="✔️EVENTOS✔️",27.11🏀CLASIFICACIÓN                                      18:30🏀MUNDIAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+http://127.0.0.1:6878/ace/getstream?id=5ba57eae303be35f8b551d2ba27b27ef0dd649b0
+
 🤾 Balonmano - 20:45
 🏆 TORNEO INTERNACIONAL DE ESPAÑA FEMENINO
 🆚 España - Portugal
@@ -329,14 +338,11 @@ http://127.0.0.1:6878/ace/getstream?id=2a05a020dfe97aaa0665bb7551022868b2a88b36
 
 
 
-CLASIFICACIÓN MUNDIAL
-Estonia - Francia 18:00
-Polonia - Croacia 20:30
-Baloncesto 3
-acestream://7b0193004089d4d29821a5cdf17f407d0d192314
-Letonia - Alemania 18:30
-Baloncesto 
-acestream://5ba57eae303be35f8b551d2ba27b27ef0dd649b0
+
+
+
+
+
 
 
 
@@ -1470,8 +1476,6 @@ https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
 
 #EXTINF:-1 tvg-id="beIN SPORTS XTRA ñ" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%20XTRA%20%C3%B1.png"group-title="🏅DEPORTES🏅",beIN SPORTS XTRA ñ
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
-
-
 
 
 
